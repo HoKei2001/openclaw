@@ -152,7 +152,8 @@ async function processMessageWithPipeline(params: {
     return;
   }
   const spaceType = (space.type ?? "").toUpperCase();
-  const isGroup = spaceType !== "DM";
+  // ROOM and SPACE are threaded group spaces; GROUP_CHAT and DIRECT_MESSAGE are flat
+  const isGroup = spaceType === "ROOM" || spaceType === "SPACE";
   const sender = message.sender ?? event.user;
   const senderId = sender?.name ?? "";
   const senderName = sender?.displayName ?? "";
@@ -295,7 +296,7 @@ async function processMessageWithPipeline(params: {
         account,
         space: spaceId,
         text: `_${botName} is typing..._`,
-        thread: message.thread?.name,
+        thread: isGroup ? message.thread?.name : undefined,
       });
       typingMessageName = result?.messageName;
     } catch (err) {
@@ -320,6 +321,7 @@ async function processMessageWithPipeline(params: {
           payload,
           account,
           spaceId,
+          isGroup,
           runtime,
           core,
           config,
@@ -363,18 +365,42 @@ async function downloadAttachment(
   return { path: saved.path, contentType: saved.contentType };
 }
 
+/**
+ * Convert a Google Chat message name to its thread name.
+ * OpenClaw's dispatch system passes message names (spaces/{space}/messages/{thread}.{msg})
+ * as replyToId, but Google Chat API requires the thread name (spaces/{space}/threads/{thread}).
+ */
+function resolveGoogleChatThreadName(replyToId: string | undefined): string | undefined {
+  if (!replyToId) return undefined;
+  if (replyToId.includes("/threads/")) return replyToId;
+  // spaces/{space}/messages/{threadId}.{msgId} → spaces/{space}/threads/{threadId}
+  const match = replyToId.match(/^(spaces\/[^/]+)\/messages\/([^.]+)\./);
+  if (match) return `${match[1]}/threads/${match[2]}`;
+  return undefined;
+}
+
 async function deliverGoogleChatReply(params: {
   payload: { text?: string; mediaUrls?: string[]; mediaUrl?: string; replyToId?: string };
   account: ResolvedGoogleChatAccount;
   spaceId: string;
+  isGroup: boolean;
   runtime: GoogleChatRuntimeEnv;
   core: GoogleChatCoreRuntime;
   config: OpenClawConfig;
   statusSink?: (patch: { lastInboundAt?: number; lastOutboundAt?: number }) => void;
   typingMessageName?: string;
 }): Promise<void> {
-  const { payload, account, spaceId, runtime, core, config, statusSink, typingMessageName } =
-    params;
+  const {
+    payload,
+    account,
+    spaceId,
+    isGroup,
+    runtime,
+    core,
+    config,
+    statusSink,
+    typingMessageName,
+  } = params;
   const mediaList = payload.mediaUrls?.length
     ? payload.mediaUrls
     : payload.mediaUrl
@@ -431,7 +457,7 @@ async function deliverGoogleChatReply(params: {
           account,
           space: spaceId,
           text: caption,
-          thread: payload.replyToId,
+          thread: isGroup ? resolveGoogleChatThreadName(payload.replyToId) : undefined,
           attachments: [
             { attachmentUploadToken: upload.attachmentUploadToken, contentName: loaded.fileName },
           ],
@@ -463,7 +489,7 @@ async function deliverGoogleChatReply(params: {
             account,
             space: spaceId,
             text: chunk,
-            thread: payload.replyToId,
+            thread: isGroup ? resolveGoogleChatThreadName(payload.replyToId) : undefined,
           });
         }
         statusSink?.({ lastOutboundAt: Date.now() });

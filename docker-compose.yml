@@ -72,5 +72,6 @@ services:
     tty: true
     init: true
     entrypoint: ["node", "dist/index.js"]
+    command: ["tui"]
     depends_on:
       - openclaw-gateway

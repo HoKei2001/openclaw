@@ -11,6 +11,14 @@ const CHAT_CERTS_URL =
 // Size-capped to prevent unbounded growth in long-running deployments (#4948)
 const MAX_AUTH_CACHE_SIZE = 32;
 const authCache = new Map<string, { key: string; auth: GoogleAuth }>();
+
+// gaxios@7 (used by google-auth-library@10) tries to `import('node-fetch')` in non-browser
+// environments, which fails in CJS due to node-fetch@3 being ESM-only. Setting window.fetch
+// causes gaxios to use the native fetch API instead of attempting the dynamic import.
+if (typeof globalThis.window === "undefined" && typeof globalThis.fetch === "function") {
+  (globalThis as Record<string, unknown>).window = { fetch: globalThis.fetch };
+}
+
 const verifyClient = new OAuth2Client();
 
 let cachedCerts: { fetchedAt: number; certs: Record<string, string> } | null = null;

@@ -127,6 +127,11 @@ export function createGoogleChatWebhookRequestHandler(params: {
               audienceType: target.audienceType,
               audience: target.audience,
             });
+            if (!verification.ok) {
+              console.error(
+                `[googlechat][auth-debug] header token verify failed: reason=${verification.reason ?? "unknown"} audienceType=${target.audienceType} audience=${target.audience}`,
+              );
+            }
             return verification.ok;
           },
         });
@@ -183,6 +188,11 @@ export function createGoogleChatWebhookRequestHandler(params: {
               audienceType: target.audienceType,
               audience: target.audience,
             });
+            if (!verification.ok) {
+              console.error(
+                `[googlechat][auth-debug] addOn token verify failed: reason=${verification.reason ?? "unknown"} audienceType=${target.audienceType} audience=${target.audience}`,
+              );
+            }
             return verification.ok;
           },
         });
