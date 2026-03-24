@@ -877,5 +877,6 @@
         }
       }
     }
-  }
+  },
+  "onlyBuiltDependencies": []
 }
