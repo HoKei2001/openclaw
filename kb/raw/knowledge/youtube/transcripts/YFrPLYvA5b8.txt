@@ -1,0 +1,151 @@
+in this video we're going to take a
+closer look at another threshold
+standard for obtaining United States Pat
+that is the concept of non
+obviousness now obviousness is one of
+the more complicated Concepts in Pat law
+when we're talking about obviousness
+we're talking about even if your
+invention is new in other words even if
+there's no single piece of prior art
+that teaches each and every element of
+your eventual CL claims for your
+invention is the difference between your
+invention and the prior art in its
+entirety enough that you should be
+awarded patent rights now there's two
+important aspects to obviousness to keep
+in mind the first is that when we're
+judging whether an invention is
+nonobvious and therefore deserving of
+patent protection we judge that
+invention from the vantage point of a
+person of ordinary skill in the art at
+the time the invention was made this
+means who is a person that's generally
+familiar with this technology and would
+understand the basic concepts in the
+field and from the vantage point of that
+person at the time the potential
+patentee came with the invention is that
+invention nonobvious
+the second aspect of obviousness to keep
+in mind is that unlike novelty or
+anticipation where we're looking for
+just one piece of prior art that teaches
+each and every element of your eventual
+claim with obvious
+you're looking at the prior art as a
+whole so you're able to combine the
+teachings of various prior art
+references and order to determine
+whether this potential invention is in
+fact nonobvious and therefore deserving
+of patent rights now the Patent
+Trademark Office has given us a number
+of examples of situations where an
+examiner should find that a particular
+technological innovation is obvious one
+example is where you're just piecing
+together known elements from the prior
+art using known methods in order to
+achieve a result that's predictable
+another example of an obvious Innovation
+is where you're simply substituting one
+element for another to achieve a
+predictable result and just another
+example of this list of criteria for
+finding Innovation to be obvious from
+the pan trork office is where it would
+be obvious to try
+your contemplated invention in other
+words there's a finite number of ways to
+do something and you have chosen one of
+this finite number of ways to solve a
+problem and it would be predictable or
+generally known in the field that that
+solution would work now it used to be
+the case that if you're going to combine
+two prior art references like the safety
+razor blade with just two blades and The
+Cutting technology from The Woodworking
+field that there had to be some teaching
+suggestion or motivation to combine
+those references so the examiner or
+someone challenging your pen would have
+to point to some evidence probably
+within those two references why it would
+be obvious for someone in the field to
+take those two teachings combine them to
+solve the problem you were trying to
+solve but the law changed in 2007 and
+you no longer have to have that
+expressed teaching suggestion or
+motivation to combin the test for
+obviousness is more one of Common Sense
+and generally speaking we're looking at
+predictability would it have been
+predictable to a person in this field
+that your solution would work now as you
+can hopefully appreciate obviousness is
+almost always a relevant question when
+you're trying to determine whether your
+invention is in fact pable it's very
+easy for one to find pieces of prior art
+and piece them together to show
+something close to your Innovation that
+you're trying to p
+so if you're trying to demonstrate that
+your invention is in fact patentable and
+therefore is in fact non obvious it's
+helpful to be able to point to pieces of
+evidence that show that it' be
+unpredictable to those familiar with
+your field that this solution to the
+problem would actually work in fact
+courts have pointed to certain pieces of
+evidence that they cause secondary
+considerations that someone trying to
+get a patent can point to to try to
+rebut an argument from someone else that
+their invention is obvious these
+secondary considerations include the
+commercial success of your product if
+you have products or services on the
+market that actually embody your
+invention then you can point to that
+commercial success to say if my
+invention was so obvious why would
+people be buying it the way they are
+another piece of evidence that can be
+used to show The Invention is not
+obvious is the long-felt need so if this
+problem has existed for a long time but
+no one has solved it it would also tend
+to show show that your solution to that
+problem is non obvious and therefore
+pable the failure of others is also
+relevant to the question of obviousness
+if other smart people have been trying
+to solve this problem would have failed
+to do so and then you came along and
+solve the problem that would tend to
+show that your invention is not obvious
+anything else that would tend to show
+that it would be unpredictable to those
+in the field that this combination of
+elements would actually work to solve
+the problem you're trying to solve is
+helpful and it's also helpful you can
+point to concrete evidence you're not
+just arguing anecdotes to the patent
+examiner or to a court but you can point
+to other pieces of evidence other
+Publications in the field that support
+these arguments that's going to help to
+show that your invention was
+unpredictable and therefore non obvious
+this is a very general overview of the
+law of obviousness as it relates to
+patents in the United
+States

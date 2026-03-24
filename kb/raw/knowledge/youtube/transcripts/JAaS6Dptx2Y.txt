@@ -1,0 +1,259 @@
+Hello.
+Welcome to the USPTO's Quick
+Clinic Series.
+My name is Sudhanshu Pathak
+and today we are going to outline the
+process of filing a patent application
+electronically through the USPTO's EFS-
+Web System and reviewing the status of
+an already filed application through the
+USPTO's PAIR System.
+The following agenda
+items will be covered, we will provide an
+overview of the EFS-Web system which is
+the USPTO's web-based Patent Electronic
+Filing system.
+Using EFS-Web anyone with
+a web-enabled computer can file patent
+applications and documents.
+We will also
+overview the USPTO's PAIR system which
+is the USPTO's retrieval system and
+stands for Patent Application
+Information Retrieval, it provides USPTO
+customers with a safe simple and secure way
+to retrieve and download information
+regarding patent application status.
+We will
+also give an overview of how to
+get started using the EFS and PAIR
+systems including information regarding
+the authentication method and lastly
+providing information on additional
+resources.
+For more detailed information
+on using the USPTO's EFS-web and PAIR
+systems please contact the USPTO's
+Electronic Business Center (EBC) at:
+866-217-9197 or
+via email at ebc@uspto.gov
+Here is an overview of EFS-Web.
+EFS-Web allows
+applicants to submit patent applications
+electronically, the benefit of filing
+electronically is that it
+immediately routes documents to USPTO
+internal systems.
+After applicants submit
+the system will generate an
+acknowledgement to show that the USPTO
+has received the submission.
+Additional
+benefits include reducing manual
+processing and minimizing paper waste
+and processing faster by avoiding wait
+times associated with conventional
+mailing.
+It also allows for applicants to
+save submissions on the USPTO server so
+that they can complete, review or submit
+at a later time.
+In pair there are two
+components to the system public PAIR
+allows applicants to view published
+applications and issue patents anyone
+from the public will be able to access
+public pair.
+In private PAIR applicants
+can view the status of their own pending
+applications.
+In order for an applicant
+to view their own application a Customer
+Number (CN) needs to be associated with it.
+The next couple of slides we'll go over
+how to begin this process.
+The first (1) step
+to getting started to file an
+application is to obtain a customer
+number (CN).
+A customer number is a five (5) or
+six (6) digit number that represents the
+applicant's address, it allows for easy
+correlation of filings and
+correspondence with a single mailing
+address.
+One of the benefits of using a
+customer number is that it eliminates
+typographical errors with an address.
+To
+obtain a unique customer number
+applicants should complete form SB-125.
+The form can be obtained from the
+following link, the form can be
+downloaded from the web link present
+here.
+The form may be faxed to:
+571-273-0177
+or may be mailed to the EBC by using the
+address listed at the top of the form
+the address is Mail stop CN
+Commissioner for Patents; P.O.
+Box
+1450, Alexandria Virginia two
+two three one three.
+The second (2) step is
+to obtain a uspto.gov account.
+Verified
+USPTO accounts uniquely identify
+applicants and allow secure access to
+their patent data.
+Here is an overview of
+the process: create a uspto.gov account;
+complete the patent electronic system
+verification form PTO-2042a the
+form can be downloaded from the link
+provided here please note the form must
+be notarized mailed the notarized form
+to the address listed below again please
+note the address is also listed on the
+form itself once the notarized form is
+filed submitted and processed by the
+office the applicant is considered a
+registered filer upon successful
+approval the uspto.gov account will be
+verified through an email notification.
+A
+registed filer is now able to use the
+PAIR system to continuously monitor
+their application status as it advances
+through the examination process.
+It will
+take approximately five to seven
+business days for the USPTO to process.
+For more information regarding uspto.gov
+accounts or customer numbers please
+visit www.uspto.gov/patents-application-process/applying-online/getting-started-new-users.
+The following is the overview of the electronic filing process
+once you have obtained the customer
+number and created your uspto.gov
+account as mentioned earlier in steps one and two. Once you have obtained your costumer number and created your uspto.gov
+account you are now considered a
+registered filer as an unregistered or
+registered filer applicants may choose
+the application filing type and EFS-Web.
+The next screen will allow the applicant
+information to be entered; next attach
+and index patent application documents
+the documents can then be reviewed; the
+next step is to calculate any fees; next
+the patent application can be submitted
+before the acknowledgement receipt is
+generated the option to pay fees is
+provided after the fees are paid or
+skipped the receipt is generated which
+contains the application number finally
+the ability to review the filed
+application in private pair is available
+in order to access registered EFS web
+and private pair applicants will need to
+first sign into your obtained uspto.gov
+account on using their uspto.gov
+credentials the second step is to choose
+the method for two-step authentication
+in this example email is selected as the
+method of receiving the authentication
+code once the authentication code is
+received it may be entered please note
+the Box this is a computer that I trust
+and use regularly may be checked so that
+the second step authentication can be
+valid for 24 hours after the initial
+sign-in this means an authentication
+code does not have to be entered if the
+same computer is used for example if
+logged out after 30 minutes of
+inactivity simply using the USPTO gov
+email and password will allow applicants
+back into the EFS web and private PAIR
+systems after successfully logging into
+EFS web
+applicants need to certify their
+identity by selecting the appropriate
+radio button they can then proceed by
+selecting the application type followed
+by the continue button
+the next tab of EFS web is the
+application data screen on this screen
+applicants will be able to select the ad
+s submission type in addition applicants
+will be able to enter the title of
+invention inventor name and the
+correspondents address for the
+correspondence address applicants may
+select from the drop-down any customer
+number that is associated to their
+account or applicants may enter a
+physical address an advantage of using
+the customer number is that the
+application can be associated with the
+number thus allowing the applications
+that is to be viewed in private pair on
+the attach documents tab a summary of
+application data information can be
+viewed at the bottom of the screen
+applicants will be able to browse for
+files that they have already prepared
+selecting a category narrows down to the
+document descriptions available for the
+selected application type once the
+application has been submitted an
+acknowledgement receipt will be
+displayed with application number and
+confirmation number those two numbers
+will allow applicants to file follow-on
+documents to the application now we're
+going to discuss viewing the status of
+your filed application in pair after the
+application has been submitted it should
+soon be available in private pair so
+that the status may be checked this is
+the first screen of private pair
+applications can be searched by
+application control patent PCT
+publication international design and by
+attorney
+docket number when an application is
+retrieved the application data tab is
+the default data display there
+various tabs to review other data
+associated with the application for
+additional information regarding filing
+online through f as well please visit
+www.uspto.gov/patents-applications-process/file-online
+For additional information regarding private pair, please visit www.uspto.gov/patents-application-process/check-filing-status-your-patent-application
+A great resource to help
+with electronic filing in viewing
+systems is the patent electronic
+business center they are open monday
+through friday 6 a.m. to midnight
+Eastern Time except for federal holidays
+they can be reached toll-free at eight
+six six two one seven nine one nine
+seven or by email at
+EBC at uspto.gov Thank you for watching
+this video
+in the USPTO's Quick Clinic Series.
+Now
+you should have a much better
+understanding of the USPTO's EFS-Web
+electronic filing system and PAIR the
+retrieval and viewing system.
+If you have
+any questions regarding this video or
+any other patent related questions
+please contact the Pro se Assistance
+program at the number eight six six
+seven six seven three eight four eight
+or by email at innovation development at
+uspto.gov thank you
+you

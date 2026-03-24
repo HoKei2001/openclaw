@@ -1,0 +1,106 @@
+What are the best prior art search tools
+for patents?
+Imagine trying to build a puzzle without
+knowing what pieces are already out
+there. That's what performing a prior
+art search is like in patent law. It's
+all about finding existing patents or
+publications that could affect whether
+your invention is new or not. If you
+skip this step, your patent application
+might face rejection or invalidation
+later on. So, what tools can help you
+find the right pieces quickly and
+accurately?
+Let's start with the basics. There are
+free public databases and advanced
+commercial platforms, some with
+artificial intelligence features. Google
+Patents is a popular starting point.
+It's free and easy to use, indexing
+millions of patent documents worldwide.
+You can search by keywords,
+classifications, or inventors. It's
+great for initial searches, but doesn't
+have the most sophisticated AI tools.
+Espinet run by the European Patent
+Office offers access to over 120 million
+patent documents globally. It provides
+advanced search options including
+classification codes and legal status.
+If you want detailed technical searches
+or to explore patent families, ESPASET
+is a solid choice.
+The United States Patent and Trademark
+Office database is essential for
+searching US patents and published
+applications. It offers full text search
+capabilities and includes classification
+and citation data. If your focus is on
+US inventions, this database is a
+must-have.
+Wipo patent scope is another free tool
+hosted by the world intellectual
+property organization. It covers
+international patent applications under
+the patent cooperation treaty and
+national collections. It supports
+multiple languages and offers filters to
+narrow down your search.
+Now let's talk about the newer smarter
+tools that use artificial intelligence.
+These platforms analyze patent data in
+ways traditional databases cannot.
+IP Rally, for example, uses graph AI to
+analyze relationships within patent
+data. It allows free text and image
+based searches, highlights relevant
+sections, and updates frequently.
+Ambersite is another AI powered tool
+that ranks patents based on citations,
+and visualizes competitive landscapes,
+making it easier to spot relevant prior
+art.
+Novelty is a tool that converts text
+descriptions into graphical
+representations of related patents,
+helping to find hidden prior art faster.
+Patitics offers semantic search and
+claim analysis with generative AI,
+making complex searches more manageable.
+Derwin innovation from Claraveate
+combines AI with extensive patent data
+for semantic searches and patent
+landscaping.
+Dialogue is a commercial platform that
+offers precise searches across patent
+and non-patent literature. It's flexible
+with options for alerts and advanced
+search strategies.
+Choosing the best tool depends on your
+needs. For quick initial searches, free
+options like Google patents or spacet
+work well for in-depth investigations,
+especially when dealing with complex
+inventions or international patents. AI
+powered platforms like IP rally,
+ambersite or patity can save time and
+improve accuracy.
+Most patent professionals use a
+combination of these tools. They start
+with free databases to get a broad view
+and then switch to AI tools for dit
+hailed analysis. This layered approach
+helps ensure you find all relevant prior
+art strengthening your patent
+application or invalidity case.
+In short, the best prior art search
+tools range from accessible free
+databases to sophisticated AI platforms.
+Each has its role in helping you locate
+relevant prior art efficiently. Using
+the right mix can make a big difference
+in your patent journey, whether you're
+applying for a new patent or defending
+one.
+2.4s · 4m 26s YouTube · 560 words · text via transcript/captionTracks

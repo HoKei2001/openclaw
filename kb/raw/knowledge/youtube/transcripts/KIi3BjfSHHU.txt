@@ -1,0 +1,2099 @@
+good morning everyone and welcome to
+the webinar on software patents for
+artificial intelligence and machine
+learning technologies
+just wait a few seconds until more
+people enter the room and we'll get
+started
+um in the meantime i'll just let you
+know that the session is being
+recorded and that the powerpoint will be
+sent to you
+at the end of the session we also will
+have
+a question period at the end of the
+session so we ask that you hold your
+questions
+till the end and you can enter your
+questions in the q a box
+located just at the bottom of your
+screen
+now a few words about our speaker
+natalie raful thank you not only for
+being here today and presenting on this
+very interesting and important topic
+natalie is a world-renowned ip expert in
+patenting
+patenting and licensing software she is
+a lawyer in ontario and a registered us
+and canadian patent agent
+with a background in electrical
+engineering she is managing
+a managing partner of the ottawa-based
+brianne rafal
+a boutique firm specialized in ip and
+she is also the co-chair for the
+intellectual property courses that we
+run at mcgill university
+so now without further ado natalie i
+pass on the microphone too
+thank you thanks lucy it's a pleasure to
+be here today and and
+i'm excited that you know we've got
+fairly good attendance
+to talk about something that is sort of
+near and dear to my practice which is
+great so we're going to talk
+about patenting uh in the ai and machine
+learning space
+but really we're gonna talk more broadly
+to start about patenting
+and then also get into uh some of the
+some of the rules and regulations around
+patenting software
+and get into some examples too to color
+that for you
+so i'm just giving you here so just
+lucy gave me a great introduction there
+i just wanted to mention also that i you
+know i started the firm with art breon
+about 12 years ago so i consider myself
+to be a bit of an entrepreneur as well
+and
+i'm an advisor to a number of uh startup
+companies and invested in a few myself
+so
+uh for you entrepreneurs out there uh
+i'm i'm with you and i and i understand
+the challenges
+and i just wanted to also throw out
+there that i'm a mother of three
+children and i'm very proud of that as
+well too
+a little personal tidbit there as well
+so just just so you know uh
+i just wanted to provide a bit of a
+disclaimer before we get started
+just so that we're clear that you know
+what i'm what we're going to be
+discussing today is sort of general
+advice around patenting of course every
+company or every inventor's particular
+situation is going to be very different
+and so this is this doesn't constitute
+legal advice for you or
+patent agent advice this is uh
+general information about the basic
+principles around ip law
+and for specific questions i invite you
+to reach out to me or reach
+out to an ip lawyer or patent agent with
+your specific
+situation all right so let's start from
+the beginning
+just so we're kind of situating
+ourselves what is intellectual property
+so
+intellectual property is this whole
+bucket of rights
+that includes and and covers the
+creations of the mind so when we're
+talking about ip
+we're talking about inventions we're
+talking about literary artistic words
+uh we could be talking about source
+codes symbols names images designs
+things that are not tangible goods but
+intangible goods
+and what ip law provides owners with is
+this exclusive right
+to exclude others from a variety of
+intangible assets so in the context
+of a patent it enables the owner of that
+patent to exclude someone
+else from practicing that same invention
+that's been patented
+or in the case of a trademark
+registration you're able to exclude
+someone from using a trademark that's
+confusingly similar with you so
+they're exclusionary rights but they
+don't necessarily give you the right to
+do anything so if you think about the
+example
+of a drug you know you may have a patent
+to a particular compound that
+cures x disease but that doesn't give
+you the right to actually go out and
+sell that compound there's a whole
+regulatory framework out there that
+enables you to go and sell your compound
+so just to get and i think it's really
+important to situate the nomenclature
+because when i get
+you know highly intelligent people they
+might be data scientists or
+uh you know phd in rocket science uh but
+they still don't necessarily know the
+nomenclature
+around ip so i think it's helpful to
+just sort of situate what we're talking
+about
+and use a very helpful example here just
+take a look at the guinness bottle
+uh so back probably a hundred years ago
+there would have been patents
+to bottle caps uh lots of pads actually
+wrap bottle caps in order to maintain
+the
+the gas within a carbonated drink
+and so this would have been this this
+isn't these would have been inventions
+that would have been the subject of
+patent protection
+when you look at the bottle you also see
+that guinness
+word mark very famous uh brand in the
+beer business
+and you also see the harp so if you were
+to see a bottle
+with with you know a beer bottle with a
+harp on it
+you would probably think of the guinness
+brand because that harp is so
+such a powerful trademark of the
+guinness brand the the bottle itself
+also has a copyright uh
+if you look at the label the the way the
+label has been put together
+the signatures uh the design of the
+label the back of it all the written
+work all the expressive work all the
+artistic design of that
+would be the subject of copyright
+protection this bottle isn't
+very unique in its shape but if you
+think about for example the evion bottle
+that has those glacier uh
+glacier cut outs within the within the
+plastic
+that could have been the subject of
+design protection and long ago the
+bottle when it was originally designed
+would have been
+potentially the subject of a design
+registration
+trade secrets uh would be sort of any of
+the
+confidential uh business information
+customer information that guinness holds
+it would also potentially be the formula
+to making
+a good uh a good batch of guinness and
+so those would be trade secrets that the
+company might be able to maintain to the
+state
+i mean the formula for coca-cola is one
+of the most world famous trade secrets
+and then of course the domain name of
+guinness.com
+and having a registered trademark
+actually can can assist you with
+maintaining
+uh your domain name especially nowadays
+with with so many
+uh top level domains such as dot biz dot
+ca dot
+uh having a trademark registration can
+really assist in maintaining
+good domain name rights particularly in
+the face of cybersquatters
+integrated circuit topography protecting
+the 3d configurations of electric
+circuits
+plant breeders rights actually has made
+a bit of a resurgence now another form
+of ip protection
+given the whole cannabis space so there
+are a lot of different forms i haven't
+even covered all of them
+uh but there are a lot of different uh
+forms of intellectual property
+and and here's an example i'm taking
+sort of an example from
+from instagram held by now facebook as
+you probably know
+but just to kind of break down you look
+at a software company what kinds of
+intellectual property might they hold
+and do they hold
+so of course a software company uh
+like facebook out of a particular
+instagram
+uh example would have copyright
+protection in its source code
+now the source code protection that it
+derives from copyright would not protect
+the ideas in the source code so that
+would just be protecting the actual
+uh language that was chosen how the
+coding
+uh was put together and as you know
+particularly if you are someone that has
+a coding background there are many ways
+to code something many languages that
+you can use
+and so it's very particular to the
+particular coding
+trade secrets so of course there would
+be certain algorithms certain things
+that reside in kind of a black box at
+facebook
+that would not be visible to the public
+and would not be known to the public
+a lot of particular company information
+patents this is actually an image here
+i've got a flow chart showing an image
+actually taken from a facebook patent
+uh showing that you know some of the
+methodologies that they use
+uh that are all software enabled uh
+would be
+would be patentable and then industrial
+designs of course
+uh some of the some of the industrial
+designs
+uh would cover their graphical user
+interfaces so for example this
+is taken uh from an instagram screenshot
+this was in
+actually a what we call a design pattern
+in the us or in canada industrial design
+so it gives you a sentence and of course
+the trademark of instagram
+uh word mark is very powerful but so are
+the logos
+and and i i'm not going to touch too
+much on design paths but i think it's
+worth noting particularly in the
+software context that
+we're seeing a significant rise in
+industrial designs and design patents in
+the software space
+to protect uh what we what are you know
+very unique
+and very powerful uh graphical user
+interfaces and so if you look at this ui
+uh this was actually one of this is an
+image taken from one of the patents
+one of the apple patents design patents
+i should say that was asserted against
+samsung
+and so what you see here is uh the
+sliding to unlock a device very powerful
+feature
+that was protected to it through a
+design patent and
+uh ended up obviously if you're
+following any sort of patent litigation
+was the subject of worldwide disputes
+between those two companies for many
+years
+google uh this this design pad is about
+to expire but
+this landing page uh the i'm feeling
+lucky button
+was actually protected by google so just
+giving you some examples here
+of the types of things outside of
+patents if we think about patents we may
+be also thinking about design patents
+for software as well and one of the
+things i wanted to just
+you know i'm going to talk uh we'll get
+into patenting software specifically but
+but why is it important is something i
+wanted to touch on and i wanted to go
+back to an example of some ip theft that
+dates back
+uh about 15 years now and you've
+probably heard of microsoft but you
+might not have heard of a toronto based
+company
+called eye for eye that uh about
+15 to 20 years ago approached microsoft
+about an xml editor that they were
+developing
+and had some great meetings with
+microsoft about whether that product was
+suitable for microsoft's suite of
+products and in the end microsoft came
+back and said well
+one of their teams of developers said
+you know actually i think we're going to
+pass
+thanks for thanks for sharing but we're
+not going to
+incorporate this technology into our
+products
+and uh a few years later i for i
+discovered that in fact they had
+incorporated their xml html editor into
+uh the word uh suite of products
+and luckily ifri had before
+they had approached microsoft and
+actually filed for patent protection
+and this eye for i mean of course small
+software company out of toronto was
+able to through some vc funding was able
+to go after microsoft and this went all
+the way up to the us supreme court
+uh 10 15 years ago and and they ended up
+getting a
+450 million you can search this on the
+internet i think about a 450 million u.s
+judgment against microsoft uh an
+injunction as well
+in order to um require microsoft to
+strip out
+its the infringing product of the
+microsoft suite of products and this was
+a real headache for microsoft so just
+goes to show the importance
+had ifry not had patents let's say they
+had
+uh an nda with microsoft they would have
+had to prove out a breach of
+a breach of contract uh corporate theft
+and would have had to show that they
+suffered a lot of economic damage from
+microsoft
+utilizing their product that's a much
+tougher thing to show
+so just to situate you in terms of why
+this is important and why
+ip assets are becoming important because
+they're actually the most important
+assets today
+uh i've been part of this expert panel
+for the government of ontario and if
+you're
+if you're interested in understanding
+you know why this is
+more important and more important than
+ever i invite you to take a look at the
+report that we just published in
+february
+on um the importance of intellectual
+property within our ecosystem
+and how we really need to be moving
+towards
+uh you know better rights acquisition
+within
+within canada in order to to compete
+really and i'll get into why
+in a minute here so just i wanted to
+give you a sense of how the world has
+shifted
+so if you look here uh in 1975 and you
+look at the s
+the value of the s p 500 this is the u.s
+uh
+s p uh 500 about 17
+of the value was in the intangibles what
+we call the intellectual property as i
+was saying earlier
+and about 83 was in the tangibles
+nowadays the value of the intangible
+assets in companies is valued at over 90
+percent
+and so what is that that is really we're
+talking about the data that companies
+hold and we're talking about the
+intellectual property assets that they
+hold the brands
+the patents the software patents
+the trade secrets uh the uh
+know-how so all of those sort of
+intangibles that the company
+holds are what's really comprising the
+wealth of these major companies today
+and so that is a really important thing
+to understand how that how the world has
+shifted in that way
+and i wanted to get into some trends now
+if you look
+the the world intellectual property
+office uh issued a report last year and
+i invite you to take a look at it by
+just doing an easy internet search
+on on trends in ai patenting and it's
+it's
+it's staggering really to see and this
+is actually last year's data now so i'm
+interested to see if they do come up
+with another report this year to show
+the trends
+uh that would be helpful but in any
+event to look at some of the largest
+patent portfolio holders in this space
+so we've got ibm
+we have uh microsoft as the second
+largest
+and of those portfolios they're mostly
+owned by corporations except we'll see
+that
+uh the chinese uh some of the chinese
+state organizations are really moving
+quickly
+uh in in filing patent applications in
+the ai space and that's
+moving rapidly so for example you can
+see this chart have a look alphabet
+which is the holding company as you know
+for
+for google uh they have a whole suite of
+companies
+certainly active in that space but you
+know ibm microsoft the front runners we
+have
+uh so you know the top applicants are
+really active in consumer electronics
+telecom and software
+12 of the top 20 companies interestingly
+enough for japanese
+and of the seven of the top 20
+are have been very active in acquiring
+uh
+ai focused companies so there's a lot of
+m
+a activity happening in the space and
+why because
+uh certainly the technology and
+certainly the patent assets are clearly
+important to these companies
+and and there's some notes at the bottom
+to indicate you know who owns what so
+so alphabet owns deepmind waymo
+toyota would include denso nokia would
+include alcatel so that's
+uh probably helpful to see that and then
+what i wanted to just color again so if
+you think if we go back here and you
+look okay ibm
+has filed for about over 8 000
+applications last year
+last year they were granted about nine
+thousand you should be trying to do the
+math there and say to yourself wow
+of the nine thousand granted last year
+uh the
+you know there a good majority of the
+patent filings now
+by companies like ibm and some of these
+other players are in the ai space
+so there's a lot of activity and there's
+really what i think in this industry and
+what many experts do is they're really
+an arms race for patents
+in ai and ml and the growth rate is
+interesting and if you look at who's
+growing rapidly we're seeing
+a lot of movement from the chinese in
+the space so for example the state grid
+corporation of china grew on average by
+70
+annually so this is this is just sort of
+a wake-up call
+and then and and and it's important i
+think to to present this information to
+canadians because if we look at
+canadians
+uh and canadian performance uh within
+the patenting activity it's very low
+and yet canada considers itself to be a
+real leader in ai and yet
+when we look at our numbers in terms of
+patent counts
+were were low we're very low
+and uh interestingly enough in this
+wiper report if you do a little internet
+search and you search canada there was a
+commentary saying you know canada is
+very great
+in terms of research in this space but
+is challenged when it comes to
+commercialization
+and whether that's commercialization of
+technologies and ai
+into products and services or
+commercialization from the point of view
+of patenting that technology and then
+licensing it
+either way we're falling behind so
+just a little bit of um kind of
+background before we launch into it
+so again i just uh so moving away from
+kind of context here why this is
+important
+to coming back now to to how you get
+patents in this space
+and and so i just want to make it clear
+that that patents and i talked about
+this earlier in the presentation
+that it's a it's a monopoly it's it's a
+grant of a monopoly by the government
+and it enables you what not to do
+anything
+but to prevent others from doing
+something this is about
+you being able to carve out your market
+share so that
+you can prevent others from infringing
+on on your inventions on your claimed
+inventions either by making it
+so for example if you have a canadian
+patent someone cannot
+uh you know import a product that
+incorporates your
+your uh invention cannot sell a product
+that incorporates your invention cannot
+make use of your
+of your invention so it's really it's a
+it's an exclusionary monopoly
+so what what what is an invention what
+qualifies as an invention
+and i get this a lot of times because i
+find a lot of uh
+you know researchers are are very humble
+and think you know this isn't that
+inventive what am i really doing here
+this is uh you know this is just some
+theory i'm not really even sure how i
+would apply this
+um to anything commercial but in fact
+there are some great commercial
+applications so
+what is an invention invention is
+something that is
+new and useful and useful what we mean
+by that
+is useful in the commercial context so
+something that could be used
+and sold in commerce uh of an art
+a process a machine manufacturer
+composition matter
+and this definition is taken from the
+canadian patent act but interestingly
+enough the canadian patent act is
+modeled after the u.s patent act
+so when you look at this definition it's
+a very broad definition
+and really it's meant to be broad it's
+meant to incorporate uh
+concepts such as uh you know software
+it's meant to incorporate
+um a whole variety of technologies and
+i've listed some examples here but it's
+it's meant to be expansive and when that
+when
+when the in when the section two of the
+patent was written
+and when section 101 was written of the
+u.s patent act
+it was meant to evolve over time our
+understanding of what is an
+art or a process or machine i mean a
+machine could be an ai model um
+our our understanding of that could
+evolve over time
+one of the important things though when
+we're talking about whether it's new or
+not means
+that it's not just new in the sense that
+no one else has created it
+but it's new in the sense that you
+haven't disclosed it either and so one
+of the important things and why
+patenting has to be considered early on
+in the development of a product
+is because once it's out the door once
+it's in the public domain you actually
+can't seek patent protection
+so you know one of the things i wanted
+to highlight is you know for example
+discussions with investors
+those decks that you put together on
+your products
+getting grants research grants those
+kinds of disclosures
+may be considered a public disclosure
+which would then prevent you from
+seeking a patent
+having discussions with consultants
+putting together some marketing material
+even though you're not necessarily
+disclosing the invention but you're
+offering it for sale
+chit chats with friends i mean the
+facebook movie i can't remember what it
+was called now but
+was about you know friends a friendship
+that went
+uh you know that went south and uh
+you know skirmish over who who were the
+inventors there
+so those you know and whether it was a
+public disclosure ndas i mean
+do you have a non-disclosure agreement
+or confidentiality agreement in place
+that ensures that it's not a public
+disclosure
+and if you do have a confidentiality
+agreement in place what does it cover
+who are the parties to that agreement
+because you might be thinking
+oh i've signed an agreement with uh
+you know the ceo of this company but
+it's just with him personally rather
+than with the whole company doesn't
+necessarily find the whole company
+and maybe you have an nda in place but
+it requires you to mark
+everything confidential well that's a
+pretty onerous requirement you might be
+sending documents back and forth you
+might be having discussions that
+disclose aspects of your invention
+how are you going to mark your
+discussions as confidential so
+be very careful of that because a lot of
+times i'd say half the time in practice
+when i'm meeting uh with folks they said
+oh yeah we've you know we've been
+maintaining this in our black box
+and yet there's all this public
+disclosure out there
+and and you know the inventors haven't
+realized that
+the other thing is that uh issues around
+who owns the invention
+so one of the things that's a big
+wake-up call is by default
+uh in north america it's the inventor
+that owns the invention
+so just because you're working uh in an
+in an ai based company
+it doesn't necessarily mean that company
+owns the
+invention unless you have an employment
+agreement for example that states that
+you do
+uh and so in a lot of times in startups
+there are no agreements in place you've
+got a whole bunch of founders you know a
+few people getting together
+coming up with working on some really
+great ideas
+or you have researchers collaborating
+with ai companies and there
+maybe are not agreements in place from
+the start
+well by default without agreements or
+contracts in place
+by default the invention is owned by the
+inventor
+so that's something to be very careful
+about in the software context
+we talked about copyright and one the
+subsidiary right of copyright when
+you're developing source code
+programmers will also have what we call
+moral rights
+embedded within the copyright and what
+that means is
+that you actually have uh if you've if
+you've created if you've coded something
+you actually have the right to make to
+ensure that
+that that code maintains a certain
+integrity if you're putting your name to
+it
+and so unless you ensure that your
+developers waive their mobile rights to
+that code
+you have exposure there because uh they
+could come back and say look you you
+know you took i
+i coded this and then you fired me and
+and now you're altering it and i have
+more rights in that code and i never
+waived my moral rights
+and so you are going to owe me some
+compensation for that
+so there's some things that you know
+lady in the software context to really
+be mindful of
+and and i think there's a lot of uh
+misconceptions about who owns what and
+we see that across the board so some
+things i just wanted to kind of
+highlight particularly in the software
+context
+uh and then and then trade secrets
+versus uh
+residual knowledge so if you're you know
+are how are you maintaining those safe
+trade secrets within your within your
+company
+uh residual knowledge i mean when people
+work within a company they're going to
+develop
+a certain uh certain knowledge and that
+knowledge
+typically will stay with them as they
+move from company to company so how are
+you going to differentiate between what
+is a trade secret that they might take
+with them
+and what is residual knowledge that they
+would take with them so lots there's a
+whole minefield in this area but just
+sort of highlighting some issues
+the other thing that i wanted to
+highlight because we're talking about
+getting patents in this area
+is that you don't have to file for
+patents
+everywhere that you want them right away
+so there is what we call a priority
+system internationally
+most countries worldwide are signatory
+to the paris convention treaty that
+dates
+over a hundred years ago there's
+probably some islands that are not part
+of that but every major country that you
+would probably be interested in in this
+space
+is a signatory to the paris convention
+and so what that means is typically
+if you're going after a patent in this
+space you would probably
+file in the u.s potentially in canada to
+start and then a year later you would
+you would consider which countries you
+want to file in
+and still get the benefit of that
+earlier filing date there's also
+something called the pct system
+uh which is an international patent
+application there's actually no such
+thing as a world patent
+patents need to be sought in the
+particular jurisdictions where you want
+them
+so there's no world patent there are
+regional patents such as the european
+patent
+but there's a priority system and
+there's also this pct system which
+enables you to defer
+filing in countries and that can be very
+helpful because when you're
+uh let's say you're an early stage
+software company
+you're not really sure potentially who
+are going to be your commercial partners
+so you may want to look at deferring
+costs
+uh for a few years potentially at least
+deferring the
+significant costs until you figure out
+you know where they'll get where are the
+significant markets going to be
+uh who are your partners going to be who
+your customers going to be and at that
+point really make a decision on where
+you want to file
+so most of our clients will file what we
+call us
+provisional application to start 12
+months later they'll finally call that
+pct
+international pan application and pct
+stands for
+patent cooperation treaties big tree 160
+countries are signatory to that treaty
+in that case some notables are not for
+example taiwan is not because
+china does not recognize taiwan as an
+independent state
+so for example taiwan if that was an
+important jurisdiction for you
+from a customer point of view then we
+want to look at that but for the most
+part
+most of the major countries are our
+signatory now to the pct
+as i said about 160 so that gives you
+the opportunity to defer costs for quite
+some time
+so let's get into what i wanted to do is
+just kind of quickly give you a sense of
+what is the landscape can you even
+can you patent software i still get that
+question oh i can think of the pattern
+software
+well you can uh what we typically call
+it in the art
+is patenting uh computer implemented
+inventions and that would include
+uh sorry there's a typo there ai uh and
+uh ml inventions would be included in
+that bucket of computer implemented
+inventions
+and so what i wanted to do quickly here
+is just to walk you through
+uh the state of the law i guess around
+patenting software in both canada and
+the u.s
+and we're going to go from amazon which
+was a leading decision in canada to
+alice which is the leading decision in
+the u.s
+so we talked a little bit about
+section 2 definition already and and
+really the the issue in this area is
+around patentable subject matter because
+uh there's been and this is maybe where
+if you're familiar with this area you
+know well it's not so simple to get a
+patent
+uh for software you're right there's
+there's been some complexity
+added into into the system you know
+thanks to some changes in the case law
+uh but that said you certainly can get
+patents uh
+for computer implemented inventions and
+thankfully there's been
+further clarity in the last decade
+around how you do that but a lot of the
+discussion
+has been around well is is the software
+is the patent to try to cover just an
+abstract idea or just a theory
+or is this something more than just an
+abstract theory and it's actually
+got commercial utility and it's actually
+patentable subject matter it falls
+within one of those buckets a lot of the
+controversy is not over whether it's new
+it's whether it's a patentable subject
+matter whether it falls again when i
+when i at the beginning i talked about
+that section two definition of dimension
+it's really does it is it considered a
+machine or is it considered
+an art or a process does it fall within
+those subject matter
+categories and so we'll so that's really
+where the where the nuance in the law
+lies and where a lot of the
+um the the tension and the discourse
+lies
+is it actually a it does it fall within
+an invention or not
+so we only actually have two software
+cases in canada
+uh that treat sorry software uh
+federal court cases we have cases at the
+pad appeal board level but there's only
+ever been two court decisions that
+adjudicated on whether a patent that
+incorporates software is actually
+patentable or not
+the slumber j decision dates back to
+1982
+uh and and essentially here you had um
+a method a software method for
+collecting recording and analyzing
+seismic data using a computer programmed
+according to a math
+mathematical formula and you know a lot
+of us argue today that probably had that
+claim been drafted in a different way
+and and had taken the output from that
+formula to actually do
+something uh with the data then probably
+might have been considered patentable
+but in the end the court concluded that
+look just because
+it's a computer program does not mean
+does not make it
+patentable uh and boiled it down to
+saying look all we've got here really is
+a mathematical formula that's being
+claimed that's being processed through a
+computer so that's not necessarily going
+to give us uh patentable subject matter
+so that decision was interesting and
+then and then that fast forwards us to
+the amazon decision which is from
+the early 2010s uh culminating a
+decision in 2014.
+so here and you're probably more
+familiar with this this is the amazon
+uh one click online shopping patent
+so with the single action for example
+with the click of your mouse
+you're able to purchase a good over the
+internet and this was really a
+significant
+a significant advancement for amazon at
+the time they were able to
+through these patents able to shut out
+their competitors
+and really make a push uh in the
+e-commerce space so it was a significant
+significant pattern they've got a number
+of patents on the one-click online
+shopping that are still valid today
+and held in in some of the major
+jurisdictions so
+initially uh when the case went to the
+commissioner the commissioner said
+the commissioner of patents in canada
+said look this isn't uh patentable
+subject matter all your
+you know this is just an abstract theory
+here and uh
+you know we don't think there's anything
+more here the federal court disagreed
+and said no that there
+this is patent subject matter this does
+constitute
+a machine or a process and so fell
+within one of those larger
+larger buckets and so it was the federal
+court of appeal in canada that really
+provided some guidance
+on how you determine whether something
+is a patent subject or
+or not and so what they did say to the
+commissioner is we're not
+taking sort of a a form and substance
+approach we're not going to look at a
+claim and say well
+what is it what does it really mean what
+is and this dates back to some of the
+british courts saying you know what is
+the pith and marrow of a claim what is
+what is um you know what is it really
+telling you
+we we we don't we don't look at patent
+claims in that way we really take what
+we call a propulsive construction
+approach
+and uh and analyze them based on
+determining whether in a patent claim
+the elements are essential or not
+essential and i won't get into this test
+too much because this is the framework
+by which we look at a patent claim in
+canada to determine whether it's
+it's got patentable subject matter or
+not but one of the things that we do
+through this free world trust framework
+which is a supreme court decision out of
+canada
+is we take a look at uh
+what is the intent of the patentee and
+that's sort of the third prong of this
+test i have
+up here so for example if you go through
+the patent claim
+and you get to a point where the
+patentee has intended that this method
+be implemented by a computer
+and it would be essential for this
+complex methodology to be implemented by
+a computer
+then putting a pen and paper as a
+variant is just not going to work
+and so a lot of times we will be arguing
+such things as the computer
+is essential to implement this method
+and therefore you have a hardware
+requirement in this patent because you
+wouldn't be able to perform this complex
+methodology without a computer
+and a pen and paper just won't do and
+and so you you have patentable subject
+matter and then we would move on in
+our analysis and determining whether
+that methodology that performs a useful
+function is actually new
+and not obvious so this is uh so what
+the courts really said was look we're
+not looking at whether something is
+is is focusing on or protects something
+scientific or technological so even
+uh even for example uh software
+methodologies
+for financial modeling for example like
+in the base in the banking industry so
+fintech for example
+you know that may not qualify as
+scientific or technological well that
+doesn't matter we don't we don't care
+about that there are no restrictions
+around around whether something has to
+be scientific in nature or technological
+which is actually something that the
+europeans
+uh have a restriction around and the
+europeans actually have an exclusion for
+business methods they don't allow you to
+patent business methods
+it has to have some kind of
+technological element to it but in north
+america
+you know we've particularly canada we've
+said no i mean the federal court of
+appeals been very clear that's not part
+of
+our our law here and really what we're
+looking for is physicality
+or some kind of discernible effect or
+change that's happening
+so we're looking to an invention that
+has physical elements to it
+uh and that the physical elements are
+essential elements of that claimed
+invention
+so the bottom line that came out of the
+federal court of appeal decision was
+that business methods and computer
+relation related inventions are
+considered patent subject matter here in
+canada
+and uh some quotes just taken right out
+of the case
+uh no canadian durst prudence determines
+conclusively that a business method
+cannot be patentable subject matter so
+unless the legislature for example
+unless our canadian parliament wants to
+take this
+on and figure out that you know what
+what are the outskirts of this area
+it's not for us to to put limitations in
+this way
+so in terms of canadian practice
+uh it has become a little bit more
+complex to get pads in this area in the
+sense that we're
+frequently arguing the case law like
+when i'm putting together arguments for
+clients
+uh covering software patents i'm often
+arguing
+free world trust which is a supreme
+court decision and an amazon just to
+make sure that
+the the patent office is using the
+appropriate law uh
+and and panama study matter does include
+such areas as
+gaming uh financial methods uh
+online auctions social media uh
+methodologies
+uh so it includes a really broad
+spectrum so just
+going to clarify that and then what's
+important because of the way our law is
+structured is that you do have physical
+elements and of course
+one even when you're talking about uh
+you know algorithms and implementing
+algorithms they're going to be
+implemented
+you know using some kind of processor
+using some kind of you know
+super computer or uh you know you're
+going to need memory you're going to
+need
+data storage so there are physical
+elements here and just making sure that
+when you're describing
+your methodologies that you're actually
+including those physical elements within
+the patent application itself
+so let's let's now move into the us so
+we're going from amazon now to alice
+and there are a series of cases that i
+wanted to walk you through
+uh quickly because i know case law can
+be a little heavy for some
+uh but let's go back again we went back
+to the 80s in canada let's go back to
+the 80s
+in in the us and talk about the diamond
+versus deer case
+and then talk about a series of cases
+that took us to the alice decision which
+is still the
+uh seminal decision in the area of
+patenting computer implemented
+inventions so diamond versus deer
+so here what you had was uh it was a
+situation was impossible to measure the
+mold temperature without
+opening up the press and the solution
+was
+uh the solution in this particular
+pattern was embedding thermocouples
+to constantly check the temperature in a
+mold and feed
+the measured values into a computer and
+determine whether you open or don't open
+the mold so this was held to be a
+patentable subject matter because you
+had uh you know you had
+uh you know of course you had a formula
+that you were following
+but based on uh the activities
+uh the computations of the computer you
+were actually getting a result that was
+providing you
+with some kind of outcome that was
+providing some kind of commercial
+advantage it was solving some kind of
+real world problem here
+so this was deemed to be patentable
+subject matter and this sort of really
+opened up uh the field to being able to
+protect
+software that you know
+basically takes an input provides an
+output and that output actually is is
+useful to provide some kind of
+important commercial uh application
+then you have the bilskey decision and
+and the bilski decision
+uh put a little bit of brakes on deer
+and sort of clarified that
+and this was this was related to a
+method for hedging risk in the
+commodities market so again this is in
+the financial space
+and and here the court said look this is
+this is not patentable subject matter
+and and while we do think that business
+methods are still patentable and we're
+not going to come down and say that
+they're not
+what we want to see is we want to see
+either that
+you've you're you've got some kind of
+machine here that's being claimed
+or uh and in the case of the bilske uh
+claims uh it was really a method there
+was no machine harnessing that
+that that hedging risk methodology so
+they said you know look we need to see a
+machine
+or we need to see a method that
+results in some kind of measurable
+transformation
+and so that that case sort of came up
+with this test in the u.s called known
+as the machinery transformation test
+and they said look it's it's not going
+to be the soil test
+it'll be a factor uh that we'll look at
+so is there a machine here
+or is does a transformation happen from
+one state to another for that machine
+and if it does
+then that will be something that we will
+consider in determining whether there's
+patentable subject matter or not
+and then we get to alice alice uh the
+big decision created a lot of confusion
+amongst patent agents and lawyers
+in the us and and everywhere else
+because of course the u.s patent tends
+to be within a global portfolio
+your most important patent and and the
+the supreme court here because this is a
+u.s supreme court decision
+uh came up with this new two-step
+process in order to determine whether
+something
+is uh falls within patentable subject
+matter or not
+and so here what you had again you had a
+computer implement scheme for mitigating
+settlement risk and this is sort of in
+the insurance
+financial context again and so
+uh here we need to figure out okay
+whether there's
+a patentable application here because we
+know we're dealing with sort of abstract
+ideas
+concepts but is there some kind of
+application of these concepts
+that would make this panel subject
+matter so what the court said was look
+this is a two
+two step process if you have a patent
+claim that includes
+uh abstract theory calculations just
+equations
+what would really be just pure science
+uh
+then what we need to do is move to a
+second part of the test
+and determine whether there's an
+inventive concept here
+that is when you look at the claim
+overall is there an inventive concept
+here
+enough to transform that abstract idea
+into a pat eligible application and so
+this
+created a bit of head scratching because
+uh they they use this notion of
+inventiveness which is really
+this is the the subsidiary parts of the
+test so the first thing you determine
+when you're trying to
+figure out whether something's
+patentable is whether it go whether it
+falls within that big
+uh definition i showed you earlier of
+invention is it is it a process
+is it a machine is an article of
+manufacture and then the next step would
+be is it
+new and then the next step would be is
+it obvious or inventive
+and so newness means is it has it been
+disclosed anywhere else
+and all disclosed within a single
+document anywhere else or within a
+single disclosure anywhere else
+and if not even if it hasn't been
+disclosed and let's say a single
+source has it been disclosed enough that
+somebody of skill in the art in that
+particular area
+would easily be led to that invention so
+that's that concept of obviousness which
+is kind of the third prong
+but what happened here is that the us
+supreme court put the notion of
+obviousness or inventive into the test
+around patentable subject matter so they
+said look is the inventive concept
+is it inventive and is it sufficient to
+transform the claimed abstract idea into
+patent eligible applications so this
+because they use the words inventive
+within the subject matter test part of
+this this is getting a little complex i
+know but it really created a lot of
+confusion
+uh with how does this test get applied
+and so people were sort of wondering
+which way do we go here this is a little
+uh this is a little
+challenging in this space and so it
+really took
+us seeing how the alice test
+was applied later on uh in other cases
+to get a sense of okay how's this test
+going to work
+and so in the ddr holdings case what you
+had was
+a system of serving web pages so this
+was
+this was dealing with uh the issue
+of when you're on the inter when you're
+in when you're searching for a product
+on the internet
+uh a particular platform will want you
+to stay within their platform even
+though you might be going to someone
+else's website to get certain
+information
+and so the way they do that or the way
+that this uh
+particular uh application worked was
+that
+it enabled you to stay within their
+website but create a new web page
+for the content of that particular of
+that different website
+so enabling that consumer to stay within
+that platform
+but still go to various different web
+pages and still come back to that same
+platform or stay within that platform
+so it was a novel um it was a novel
+solution
+and uh but the issue was it it included
+sort of abstract ideas
+uh you know business ideas that uh
+it wasn't clear whether this was a
+patentable subject or not matter or not
+because abstract ideas cannot in and of
+themselves be patented
+and so what the court said here is yes
+there's something more because what you
+have here
+is a solution that uh actually solves a
+computer network problem because
+and this is the something more that
+they're looking for because by solving a
+computer network problem
+uh by maintaining someone within your
+own platform
+you're actually reducing the network
+load
+and you're reducing you're creating more
+efficiency in terms of
+uh bandwidth usage so they kind of
+likened it back to
+um creating efficiency within the
+internet and
+and creating you know increasing speeds
+for users because you were staying
+within that same platform within that
+same website uh to get all of your
+content rather than moving out to
+another website
+and and slowing down the network so this
+was uh considered a valid argument and
+this is how they then move to the next
+steps of the test which are
+well is this system of serving up web
+pages within a website is that actually
+new and it was new and and is it obvious
+and it was deemed not to be obvious but
+it got through that first hurdle
+it's not just protecting an abstract
+idea there is a solution here that
+really solves
+a computer network problem and then
+there was also the end fish decision
+that was helpful too so this
+this was a this was a method here for a
+self-referential table for computer
+database that was the invention
+and and here again the the federal court
+in the us said look this is
+what we're doing here is although we're
+including
+um some abstract theories here and and
+formulas and
+lots of calculations happening uh it's
+really an improvement to an existing
+uh technology in the computer database
+space
+and what we see through this uh
+methodology
+the something more is that there's
+increased speed and flexibility
+uh and uh reducing the memory
+requirements which is
+very helpful so uh and they also the
+the federal court in the us also said
+look there there isn't a technological
+art requirement in the u.s so
+even though we know that this concept
+exists in europe
+we're again not going to not going to
+subscribe to that
+so um that was helpful to understand
+that it's not necessarily i mean summer
+would argue that in the u.s the
+technological
+it should be technological in nature of
+the invention but
+uh that's not written into into the law
+at this point
+and so the uspto the us patent and
+trademark office has provided some
+guidelines
+to help us sort of understand whether
+your
+computer implemented invention would be
+considered a subject
+matter subject matter
+sort of patentable subject matter if you
+will so the first thing you would ask is
+is the claim to a process or a machine
+or manufacturer composition
+matter and if if it doesn't actually if
+it's not a method of doing something
+it's not a machine
+uh or it's not a system let's say then
+it's just not gonna be eligible subject
+matter but if it is
+and you're you're not just claiming just
+an abstract idea then you would go to
+uh step two of the of the part of the
+of the question for alice and the first
+part of the step two would be is the
+claim directed to a law of nature or
+natural idea
+or an abstract idea and if you do have
+uh abstract ideas within that claim so
+it's a method of doing something that
+incorporates an abstract idea
+then the uh then what you would do the
+patent examiner would analyze this next
+step and say does the claim recite
+additional elements
+that amount to something significantly
+more than the judicial exception
+and if so there's something more here
+for solving for example a computer
+a computer efficiency problem or
+computer network problem that's going to
+qualify as eligible subject matter
+so what we do a lot of in this area
+particularly in the us is we we tend to
+take our software patent cases and we
+liken them to some of these court
+decisions that have come out to say look
+we're a lot like end fish we're a lot
+like
+deer uh to help us get through these
+hurdles
+so there is a there is more
+sophistication when it comes to
+patenting software in the space but it
+certainly
+doable and uh as i showed you with a lot
+of those patent filings and those patent
+numbers you can see that
+many companies have have figured out the
+art of getting software patents
+uh and and there's been even more good
+news recently coming out of the u.s
+patent office as well because
+uh the the guidance for patent examiners
+for u.s patent
+examiners is becoming more stringent
+like we were going through a period
+where patent examiners in the us were
+giving us a very difficult time
+uh around patenting uh computer
+implemented inventions and it's getting
+easier
+even in particular in areas uh that
+include
+organizing human activity and business
+methods and areas such as this
+and the key um sorry is that
+uh one of the guidances one of the
+guidance one of the guides that came out
+of these guidelines was look if you do
+have a judicial exception
+and you do have some kind of abstract
+idea that's trying that they're trying
+to patent
+is it integrated into a patent into a
+practical application
+and if it is then you have patentable
+subject matter and that has been
+hugely significant since 2019 so when
+we've been looking
+at patenting various uh various
+inventions including in the ai space
+we're saying look yes there's some
+abstract theory here
+but what we're doing here is applying it
+to a practical application
+of uh you know being able to process
+images faster uh for you know image
+recognition you know we're
+we're using it for um
+for it for improving the speed by which
+users can access this
+application and so by showing that
+there's a practical application
+you're really able to make a lot of
+headway uh in your arguments with the us
+patent office
+so in in patent in patent claim drafting
+and patent drafting in particular what
+we what we aim to do
+even though business methods for example
+in north america are not
+uh are not considered not patentable
+you still would be best to still
+emphasize that what you're trying to do
+is solve a computer problem even if you
+are trying to solve a business
+problem as well so we do spend a lot of
+time when we're drafting patent
+applications
+providing uh you know sort of hardware
+requirements
+we do detail uh processor servers
+database
+uh we you know interaction inputs
+outputs like we spent a lot of time
+talking about some physical elements
+because of course nothing sort of lives
+uh without having access to some
+hardware
+uh and then we do state some of those
+physical elements in the body of the
+claim
+and so you'll see that i'm actually
+going to just pop up a few examples here
+of cases that our firm is drafted
+uh and then try to show that there's
+been a discernible effect or change
+coming back to some of that us case law
+and have your methodology interact with
+the hardware in some way so you're going
+to have
+um if you're if you're using large sums
+of data you're going to have that data
+stored in a database of some sorts well
+you're going to mention that in your
+patent claims
+and then avoid what we do is we avoid
+instead monopolizing you know
+a theory or an abstract um
+just an abstract theory or a
+principle and and try to focus on okay
+we're taking that particular theory
+and we're we're using it to solve some
+kind of practical application and if you
+focus on the practical application
+and you can have many practical
+applications and the practical
+application can be quite broad
+but by focusing on the practical
+application you're able to get
+patents in this space so one of the
+things i wanted to do and i'm hoping
+this is going to work is
+um
+is open up some of these uh
+patents here so this is one that's
+already been patented and that's
+actually a local company
+uh and i'm wondering if
+lucy can you just pop in and tell me if
+you can see the pdf or if i failed in
+that regard in terms of sharing my
+screen
+no i don't see the pdf um okay
+um let me just stop the share and try to
+share this again right here
+um okay
+sorry bear with me a moment here okay so
+can you see lucy can you see the uh u.s
+patent here okay great yeah perfect okay
+so this is an example this is actually a
+local company
+uh and i wanted to just show you a
+couple of examples
+just to kind of color this a little bit
+and you're going to have we'll have a
+few minutes now for questions but i'll
+just kind of flip through these quickly
+but
+you know this is for example this is a
+patent um
+that is focused on a method of image
+manipulation to create
+training data sets for ai systems so
+this is something that
+you know you could kind of flip through
+and you can see what's going on here
+we're using different training sets
+and what i wanted to do is kind of flip
+through the patent
+uh and give you a sense of you know the
+flow charts maybe the simplicity of
+patent applications to what they cover
+but give you a sense of kind of a flow
+charting on what we
+how we take sort of some you know we
+take the theory and we sort of abstract
+it enough so that it's um
+it covers things in more in broader
+terms let's say
+and uh and i'll just kind of flip right
+now to the
+uh to the patent claim so you can
+and the claims as i said so this is a
+description of the application i'm
+flipping through a little quickly and
+then at the end of a patent this is what
+sets out the monopoly of a patent so in
+this case what we have is
+a method for image manipulation
+comprising you receive the image
+you obtain a clean image you extract a
+feature image
+you determine specific characteristics
+you generate new features of interest
+based on those special specific
+characteristics
+you generate new feature images you
+combine said new feature images
+and then you use that uh new image data
+set
+for training an ai system so just this
+is an example
+um of one methodology and this is now
+the subject of a us
+patent uh i'm just going to
+flip through to the
+next one here
+[Music]
+and i'm going to go to another one
+that's kind of interesting too
+bear with me a second here
+oh sorry just to give me a one second
+i'm just gonna share my screen here
+and show you um
+okay sorry so lucy can you see this now
+yes okay perfect okay so
+so this one is kind of a more sort of um
+i'm not going to flip through this too
+this is a little bit more kind of i
+would say math intensive
+um but kind of just gives you a sense
+we've got systems and
+methods related to machine learning by
+using a sample data set to learn a
+specific task
+and using that learn task on a query
+data set
+um i'm just going to show you here the
+abstract and i wanted to flip
+quickly to the claims
+just to give you a sense of that and
+sort of how we abstract something that
+is
+um obviously includes a lot of theory
+and how that would be claimed in a
+patent
+so i'm just going to come to claim one
+so claim one here and you have the links
+to these is a system for performing a
+task the system comprising
+a task representation stage for
+representing said task and
+for encoding a representation of said
+task using a
+set of generated parameters a task
+execution stage
+for executing said task on a query set
+using said parameters and for executing
+said task
+on a simple on a sample set outputs of
+said tasks being compared to
+determine a similarity metric at an
+output definition stage for scaling said
+similarity metric using a learnable
+value so just
+kind of shows how we abstract and this
+would be this i mean if this patent
+issues this will be the outskirts
+of the um the claim
+and then final one which is kind of a
+fun one is
+um this one i think you can see this now
+it says
+counting objects yes yes okay
+so this one is about counting blobs uh
+literally we
+we claimed counting blobs and you'll see
+here what we're doing is we're uh
+counting penguins and uh
+counting people and uh what it'll do
+and you have these you can i mean i
+invite you sometimes to work these over
+but this is
+it's kind of interesting counting object
+blobs and and
+and why i wanted to end on this note is
+and i'm just going to come to the claim
+here just so we can read the claim
+together
+and and uh this is one of our favorite
+ones within the office so it's a method
+for counting objects in an image said
+method comprising the steps of receiving
+said image
+segmenting set image into at least one
+object bob
+each object blob being an indication of
+a single object
+and counting set at least one object log
+to thereby result
+in a count of said number objects uh
+wherein the segmenting of step b is
+performed using a neural network and
+where
+the neural network has been trained to
+perform said segmenting according to
+following steps but the claim
+if we get the if we get the patent as it
+is
+uh it will have this particular this
+particular scope here
+so just to kind of give you a sense of
+the types of things that can be patented
+this is in the public domain now
+uh and readily searchable so just to
+give you give you a sense but also what
+i wanted to point out here too
+is this is this is a challenging area
+because what
+skilled patent attorneys are doing in
+the space is they are developing
+uh they are becoming their own
+lexicographers and they are developing
+their own vocabulary in these things so
+if you were to do a patent search
+and you were coming up with a
+methodology of counting objects and you
+want to see what patents out there
+you might not find uh patents that you
+were looking for because you're not
+losing the terminology
+that the patentee is using and you can
+be your own lexicographer patents you
+can define terms and say
+this new term means this and draft a
+whole patent application that covers
+something
+that perhaps you know others wouldn't
+recognize in the field because they're
+not referencing it in that
+way so there are ways to really
+obfuscate
+uh you know inventions covered in
+patents so that you don't necessarily
+find them unless you're a trained eye
+and you know what you're looking for
+so this was just hopefully to give you a
+sense of
+of um you know what we're
+what we're you know what we're what
+we're doing and and
+uh what kinds of things may be protected
+here it's just a small sample and
+hopefully by seeing the numbers that
+gave you a little bit
+to think about as well so do we have at
+least you have any questions
+yes we do thank you not only for that
+presentation i'm just going to start my
+video here
+um so we have um
+it's quite a long uh question here vc
+firms
+that support patent disputes are often
+referred to as patent trolls the naming
+has a negative flavor
+but the costs and ipmarket actually
+calls for these entities to become
+important players and support costly
+cases for small entities
+such as universities particularly
+against
+large corporations could you elaborate
+on the pros and cons particularly from
+a canadian university point of view
+it's funny because if you do a little uh
+if you do an internet search and you
+look for natalie or full globe and mail
+i've actually spoken to this point
+um i think i think that what we lovingly
+call patent trolls are patent licensing
+firms and we have some very famous
+canadian examples such as
+wylan and now conversations formerly
+mossad
+these are companies that acquire patents
+and
+i mean universities to some extent are
+patent trolls as well right because they
+don't they're not operating companies
+sorry so i should clarify for folks
+when we say patent troll uh we're
+talking about companies that are not
+operating companies they don't sell
+products
+and services they derive their income
+from
+licensing patents and so there are many
+examples of that but if you look a lot
+of operating companies now are spinning
+out
+arms of their companies subsidiaries
+that hold the patents
+that are out there uh trying to um
+you know actively monetize their
+portfolios
+and i think that this is this is i mean
+i think this is part of
+of keeping the ecosystem honest uh i
+think
+over the last decade we've seen actually
+a lot of what i would call uh
+crappy patents getting validated which
+is not a bad thing so you know
+patent quality is not always there but i
+think they serve an important function
+because when you look at some of the
+patent
+uh licensing firms a lot of times
+many of the portfolios have been
+acquired from smes and
+uh you know sometimes you know investors
+when they see that a small company has
+a patent or patent portfolio it that can
+be very enticing because
+they know that let's say the startup
+doesn't make a go of it at least at the
+end of it there's a patent portfolio
+there that they might be able to
+monetize and might be able to get
+some money back from their investment so
+it provides a certain level of insurance
+so i know vc
+firms want to see that so to answer your
+question i think
+patent licensing firms are a healthy
+element to the patent ecosystem i think
+they're necessary
+because they serve an important function
+also for i mean
+universities to some extent are are
+trolls uh although
+you know many of them don't assert their
+patents but some do particularly if you
+look at the us now you're seeing a
+number of universities
+uh that have been embroiled in cases and
+you're seeing more and more of that
+activity but i think it's an important
+function
+to sort of keep the ecosystem honest uh
+so that would be my comment on that and
+then limiting patent filings to some
+jurisdictions is often a necessity and
+you're quite right and so i say to a lot
+of companies if you can only file in one
+country at this point
+you would file in the u.s because
+i would say that north america certainly
+has the sort of more
+most robust um provisions around
+patenting and software
+uh lots of case law there i mean europe
+would be kind of the next jurisdiction
+but if it's
+if your application is a little bit more
+business method oriented you're solving
+more of a business problem if you're
+working in the insurance space or
+financial tech or
+whatever kind of area you're solving you
+know the case law is perhaps more in
+your favor in north america than it
+would be in europe but
+um and and also there's a large at this
+point the us is the largest market so if
+you have to retreat
+uh i would say focus on the u.s as an
+important market
+for as a cost deferral strategy pct is
+great that buys you as a company
+particularly if you're a startup or
+early stage it buys you two and a half
+years
+before you have to decide which
+countries you want to file in so there
+are lots of great
+um deferral strategies and i would say
+at a minimum
+you know focus on folks on the u.s and
+then branching out from that i would say
+europe and
+and probably china at this point and
+there are things that you can obtain
+such as utility models
+which are cheaper patents so in the in
+china
+of the millions of patent applications
+that are being filed in china annually
+now
+half of those are what we call utility
+models they're patents that are not
+examined so they're cheaper to obtain
+and a lot of folks now
+are are implementing a strategy where
+we're filing
+full patent examined patent applications
+maybe in the u.s and then just filing a
+utility model in china just so you have
+some coverage
+and then if you do have a skirmish with
+a chinese
+uh competitor then you would take your
+utility model
+and you would have it examined quickly
+and efficiently and then and then
+and then try to enforce it hopefully
+that was good
+we have another question regarding the
+timeline so what is the timeline for
+patent process how long does it usually
+take
+in the average box i i tell folks to
+think about three to five years
+typically
+uh particularly if you take the pct
+route right because
+you're to be pending basically uh not
+incurring too much cost like to get to
+that two and a half year point let's say
+you follow what
+what typically my clients will do which
+is provisional us provisional filing to
+pct
+you're probably looking at about a you
+know two and a half years their
+dependency
+about 20 000 maybe of investment at that
+point uh over those two and a half years
+and then at that point you're gonna go
+national phase and usually you're
+looking at six months to another
+two years two and a half years to get
+your patents
+okay thank you we have another question
+don't you think that the change in
+vocabulary in patent application will
+only
+make prior art searches more difficult
+and lead to more patent
+infringement cases because if two
+different patents are linked
+to the same application or function but
+they only differ in language you might
+increase the number
+of assignees losing their patent
+yeah so just because you're your own
+lexicographer as i showed you with the
+counting blobs
+doesn't mean that uh the patent examiner
+is not going to be
+attuned to that right so i think i mean
+you still go through patent examination
+because you get put into a particular
+every time you file a patent application
+it gets assigned a particular
+uh art unit like a classification area
+and your examiner
+is going to be skilled in that art so
+your examiner is going to be seeing
+applications
+and he's going to be seeing all of that
+lexicography that's going on
+and so he's going to be well aware of
+that so from a from an examination point
+of view it's not
+as much of a problem but it's a problem
+for the lay person who's not really
+entrenched so for smaller companies
+that are not as patent savvy you need to
+understand that
+uh patent searching is is it can be
+complex and it can require you
+uh not just searching keywords which is
+what everyone tells me oh i went into
+google patents and i searched by keyword
+well that's great but did you search by
+classification
+because patents are classified and if
+you're not doing a classification search
+you're going to miss that lexicography
+you're going to miss those
+those terms that patent savvy pad
+attorneys for ibm
+and other big companies are using and
+you're going to
+uh maybe find yourself exposed
+okay we have another question here is
+there any fair use
+rule for universities or non-profit
+organizations for using
+computer implemented inventions in
+canada or in the us
+so fairies is a great question because
+that's a concept uh
+fair dealing exception it's a copyright
+concept
+no patent infringement is is patent
+infringement
+uh there's not like a research exemption
+uh so i would just you know you gotta
+tread carefully now that said
+a u.s patent cannot be enforced in
+canada so if you're a canadian
+university
+i always say you're showing me a u.s
+patent right now is there a canadian
+counterpart to this
+is it an application is it patented
+because canada's a secondary
+jurisdiction so the company has to take
+the time to not just get the us patent
+but they have to get the canadian patent
+so
+that may be an area where you know when
+you're looking at all these patent
+filings globally
+you know are these big entities taking
+the time or what's including their
+patent portfolio i can tell you that
+ai filings at the canadian patent office
+are certainly
+up uh but you know you may want to look
+uh whether whether there's a whether
+there's a counterpart patent in canada
+uh when you're when you're doing your
+research but you do need to be attuned
+to this certainly
+okay thank you so i think that concludes
+all the questions
+and uh thank you again natalie for this
+uh very interesting webinar
+we really enjoyed it i'm sure that our
+participants enjoyed it as well
+great i popped in my email in case
+anyone has any further questions
+and and you know where to reach me
+perfect thank you very much
+no problem take care everyone bye
+everyone thank you

@@ -1,0 +1,295 @@
+[Music]
+hello and welcome to another edition of
+inventor's quick tips
+today we are discussing the topic of
+provisional
+applications and more particularly an
+example of writing a quick provisional
+patent application
+so let's imagine a hypothetical scenario
+we invented an improved
+serving spoon which you see here now in
+reality this is a melon baller used to
+scoop out
+chunks of cantaloupe or honeydew and no
+i did not
+invent this it's been around for some
+time but for the sake of example
+we are going to pretend that we invented
+this and as you can see when we squeeze
+the handles together
+a gear spins a rod that spins a blade
+within the spoon section
+to help sticky contents like melon
+chunks or cookie dough
+pop out of the spoon so this is an
+improvement over the prior art scoop
+which does not have this feature and
+hence food gets stuck in there
+so we got notice that there's a big
+trade show tomorrow and we are invited
+show up at 11 a.m to demonstrate our
+invention
+meet with industry leaders and so on
+it's a great opportunity
+and we don't want to miss out on it but
+we currently don't have a patent
+application filed or even started for
+this invention
+and the time now is a little after 10 am
+the day before
+so we would have a hard time reaching a
+professional on such a short notice
+to complete an application so we need to
+balance the risk versus reward
+we could certainly skip this trade show
+and wait until we have a full patent
+application written
+and then pursue promotion of the
+invention but by then this opportunity
+may be lost a compromise might be to
+write a quick provisional
+and get that file today the day before
+this trade show so we can attend the
+trade show
+and present the invention knowing that a
+provisional patent application is
+already on file
+prior to the show so the main purpose of
+a quick provisional patent application
+is to establish proof that we had the
+invention in our possession before
+disclosing it to others
+so while there is no single correct way
+to do this
+i'm going to show you an example
+technique on how to get started
+if you only have a day or some short
+time
+to get something written
+since our invention exists we can start
+with photos
+if it didn't exist we would start with
+drawing sketches or any cad
+illustrations we may have
+so i'll start with the front view i put
+the spoon on a piece of white paper
+to get a cleaner background it's a good
+idea to
+include multiple views here's a back
+view and here is a perspective view that
+shows the
+spoon at an angle now let's number the
+figures
+for this situation i will use the
+perspective view on the right as
+fig 1 and the front view is figure 2 and
+the back view as figure 3.
+so now let's identify some parts we'll
+call the whole
+thing the apparatus and now we have two
+handles
+the spoon section we'll call that a
+basin
+the metal piece that moves to free the
+contents we'll call that the blade
+now we have the rod that moves the blade
+the gear is attached to the rod
+then we have the toothed rail that
+engages with the gear
+and the spring in between the two
+handles
+we have a shaft portion extending from
+the handles
+and the basin is attached to the shaft
+portion
+another important piece is the pivot
+point at which the two handles are
+flexibly joined
+so now let's add some numbers there is
+no strict rule here
+but i usually start with the main thing
+in this case the apparatus
+with the number 100 then i go by twos to
+number the other parts
+again we don't have a lot of time so we
+don't want to waste
+time thinking about the best numbers or
+order of numbers
+as long as the unique parts have unique
+numbers
+it will work for our purposes
+so now let's start writing the quick
+provisional application
+we will start with a title spoon with
+ejection mechanism
+to describe our spoon that can eject the
+food contents
+then a sentence or two for the
+background and with the background i
+want to take care not to talk
+about the invention itself in this part
+we don't need to say too much here just
+a sentence or two will suffice
+i have another video that discusses the
+background section in more details
+and i will put a link to that video in
+the description
+now let's start with a detailed
+description we'll start talking about
+the parts of the device
+and use the numbers that we previously
+defined
+in our figure the spoon 100 of disclosed
+embodiments has a first handle
+102 coupled to a second handle 108
+via pivot point 116 handle 102 has a
+shaft portion 118
+at the end of the shaft portion 118 is a
+basin 112
+that is convex to contain food
+and we continue with more details ablate
+120
+is connected to rod 114 rod 114 is
+connected to gear 104
+which engages with tooth rail 106
+to two three l106 is connected to handle
+108
+when a user squeezes handles 102 and 108
+to bring them closer together
+the tooth rail 106 causes the gear 104
+to spin
+causing the blade 120 to move within the
+base of 112
+helping to free the food contents from
+the basin
+spring 110 disposed between the handles
+causes the handles
+102 and 108 to separate when the user
+releases the handles
+and we of course could say more here but
+we're just trying to give the general
+idea
+so you wouldn't necessarily be finished
+here but we would write a little bit
+more about each component
+and how they're connected then
+we want to write one claim and since
+this is a provisional patent application
+this claim will never get examined and
+does not need to be perfect
+but it is generally considered to be a
+good practice
+to include at least one claim in a
+provisional patent application
+and if you look at this claim i'm pretty
+much going from left to right
+reciting the things i see handles rods
+gears etc and how they relate to each
+other notice that in most cases
+a given element is recited in relation
+to another element
+as an example the rod connects to the
+blade
+the gear connects to the rod and so on
+so we don't just say there is a gear
+floating out in space but rather what
+within the invention the gear interacts
+with
+and then we have the rail engaging with
+the gear and so on
+now let's list and number our figures so
+we have our figures and we've numbered
+them
+here's figure one which we already have
+numbered
+and we'll do the same thing for figure
+two and
+figure three now in this particular
+example because the invention is quite
+simple most of the parts are shown in
+all three views
+it's always good to have a few views as
+appropriate
+top bottom left right and perspective
+view just to make sure that the
+important parts of the invention are
+shown in at least one figure
+for many inventions some parts are only
+visible in certain views
+so you want to make sure you have all
+the views you need to show
+each part that contributes to the
+invention
+so let's go over our application we have
+the background
+we have a listing of the drawings we
+have a detailed description section
+and at least one claim of course if we
+have time we can add more stuff such as
+listing possible materials metals
+aluminum steel copper plastics polymers
+and so forth for making our spoon
+different sizes for different amounts of
+food different types of food
+versions for kids and adults and so
+forth
+how to build a device are parts welded
+glued
+riveted etc any other variations come to
+mind
+a different blade shape a different
+basin shape etc
+those are things we can talk about if we
+have time
+so let's summarize about the quick
+provisional
+a quick provisional is usually better
+than no application at all when imminent
+disclosure is going to happen
+if you find yourself in a situation
+where there is suddenly a good
+opportunity
+to present or discuss an invention
+having a quick provisional patent
+application on file is usually better
+than disclosing it without any patent
+application at all
+start by coming up with your figures
+labeling the parts and numbering the
+parts
+once you've done that describe the
+components
+and i recommend including at least one
+claim this book which you can get at
+amazon barnes noble or other booksellers
+is a well-known book
+if you want to dig more into what would
+go into writing a patent application
+and again if there was more time then
+there would be more details going into
+this application
+but in this situation which i have
+encountered numerous times
+having the quick provisional that
+describes the workings of the invention
+is better than having nothing at all
+ideally you want to plan so that a
+thorough patent application is on file
+prior to any disclosure of your
+invention but sometimes things come up
+and inventors find themselves in a
+position
+where important opportunities present
+themselves on short notice
+and then it becomes necessary to make a
+best effort with a quick provisional
+patent application in order to take
+advantage of those opportunities
+so hopefully you found this video
+helpful if so please share
+like and subscribe and thanks for
+watching
+[Music]
+you
+2.3s · 10m 26s YouTube · 1.6k words · text via transcript/captionTracks

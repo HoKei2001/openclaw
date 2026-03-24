@@ -1,0 +1,146 @@
+this video is a five tip quick start
+guide to find relevant patents at the
+uspto
+i'm going to show you a basic search
+structure that you can use over and over
+again
+as a template for your searches first
+where am i going to do the search
+it is at the uspto advanced search page
+why do a basic search tutorial on the
+advanced search page
+you should never use tools that aren't
+up to the job uspto quick search is a
+tool that rarely works for the job of
+patent searching
+in short that tool is not worth your
+time
+i'm putting a link to the advanced
+search in the video description here we
+go
+tip 1 the or operator this is how you
+build the basic unit of a patent search
+what is that basic unit the concept
+why people use all sorts of words to
+describe the same thing
+as a patent searcher your goal is not to
+find a particular word
+your goal is to find the thing that
+you're looking for
+if you want to find the thing you're
+looking for search for the concept
+not the word this is how you do it
+separate each word of a concept with the
+or
+operator you don't need parentheses for
+this search
+but you will understand why i like to
+use them in the next tip
+don't just start searching just with the
+or operator
+it is essential to quality search but it
+is not
+enough for quality search tip number two
+joining concepts with and here we're
+just joining two words
+what are we asking for when we use the
+and operator
+first get rid of every document that
+doesn't have the word folder
+second get rid of every document that
+doesn't have the word label
+and finally give us all the documents
+that remain
+every time you join another search
+concept with the and
+operator the document list gets shorter
+be sure to click subscribe for more
+patent startup information
+just like the or operator the and
+operator is essential but it's not
+enough for a quality search
+next is the third and final piece you
+need for a quality search
+what is the bigger challenge for you
+coming up with distinct concepts or
+coming up with synonyms and equivalents
+let me know in the comments tip number
+three
+put it all together with parentheses
+parentheses give the structure to take
+full advantage of the and operator and
+the or
+operator this is the first of the search
+strings that you can begin to use as a
+template
+you don't have to write these down i'll
+include the most useful ones in the
+video description
+together the synonyms create a broad
+folder concept
+and a broad label concept the query then
+uses the and
+operator to ask for only the documents
+that contain both concepts
+searching with these broad concepts
+internally joined by the or
+operator gets you the right group of
+documents
+the and operator make sure you only get
+documents that contain
+both concepts the parentheses keep
+everything organized
+the truth is the document you are
+looking for
+lies at the intersection of a few
+concepts
+if you're new to searching you're going
+to get frustrated
+when you do get frustrated ask yourself
+three questions
+one am i searching for the most
+important concepts
+two have i chosen the right sets of
+words to represent those concepts
+three have i joined the right concepts
+together
+with the and operator if you're getting
+some value click the like button
+this is the basic structure for your
+bread and butter
+search you can run variations of this
+structure over and over again
+and be a pretty reasonable patent
+searcher
+the next two tips are about searching
+speed
+tip number four search niche phrases
+niche phrases have an almost magical way
+of narrowing down a document set
+when you search a niche phrase at the
+uspto you need to use quotes around the
+phrase
+why so many parentheses the search
+engine
+really likes parentheses if something
+isn't working for you
+try some more parentheses tip number
+five
+check the abstracts if something is at
+the core of an invention
+there's a good chance it's in the
+abstract you can combine
+your abstract searching with the same
+type of searching i described earlier in
+the video
+as a way of narrowing your document set
+be
+careful you can narrow so quickly with
+an abstract search that you can lose
+important documents
+if you're here for patent searching
+you're probably interested in the basic
+types of patent applications
+check out my next video for that it'll
+help you understand
+what your options are

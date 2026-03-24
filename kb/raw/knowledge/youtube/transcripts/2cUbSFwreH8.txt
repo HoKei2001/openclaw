@@ -1,0 +1,258 @@
+[Music]
+hello and welcome to another episode of
+inventor's quick tips in this episode we
+are going to cover four tips for writing
+claims now I have to start with the
+warning of don't try this at home uh you
+know that each video I have has a
+disclaimer but for this I feel it's
+necessary to also further point out that
+I don't recommend people write their own
+patent claims and file their own patent
+application uh just to give an analogy
+let's say you needed hard surgery you
+probably wouldn't want to do your own
+heart surgery but if you or someone you
+love is getting heart surgery you
+probably still want to understand the
+basics of what the procedure entails and
+that's my goal goal here to give you
+some understanding I believe that uh
+your time is probably better spent
+working on your business and your
+technology but I recognize that some
+inventors want to do it themselves or
+they don't have the financial resources
+and just because you don't have a lot of
+Financial Resources doesn't mean that
+you should give up on your idea good
+ideas come from everywhere so if it was
+a choice between no patent at all or one
+that you write yourself one that you
+write yourself may be better but again
+that's not what I recommend and yes that
+is Michael Jackson in the lower right on
+this uh inventor collage Michael Jackson
+is an inventor I did a video on his
+patent and I'll put a link to that in
+the
+description now if you try to file your
+own patent application and uh the claims
+uh are not in good order you'll get a
+letter something like this which
+basically says this patent application
+is a mess you really should think about
+hiring someone um if you write a patent
+application yourself and you don't get a
+letter from the patent office like this
+then you probably wrote a decent patent
+application at least from a format
+standpoint okay so again I don't
+recommend you do this but we're just
+going to uh show for informational
+purposes some of the important tips in
+writing a claim and I have an acronym
+for it Dasa daa each letter stands for
+one of the four tips so let's go through
+it the first one is Define The Invention
+claims are supposed to define the
+invention so we need to understand what
+it is next will be an adjective check
+we'll check for adjectives in the claim
+and we'll get into what to do about
+adjectives say what you mean it can be
+harder than a sounds and we'll give an
+example and finally antecedent basis
+refers to how term terms are introduced
+in a claim it's really more of a syntax
+or stylistic thing but if you do a good
+job with this it might help you avoid
+one of those you don't seem to know what
+you're doing letters from the patent
+office so if we are going to Define an
+invention we need to have an invention
+to talk about let's start with our good
+friend the pencil here is the pencil we
+all know and love with its little eraser
+on top but there's a problem with the
+conventional eraser it makes a mess look
+at all those crumbs to solve it I have
+invented a new eraser it doesn't make a
+mess it's an improved uh eraser over the
+uh existing eraser and here's how it
+works it has a special resin based
+eraser that's abrasive enough and so
+sticky so it keeps the material stuck on
+the Eraser but abrasive enough to you
+know uh peel away enough layers of paper
+to erase a mark so so where does the
+invention start it's a metaphorical line
+between what is old and what we came up
+with what's new here's the existing uh
+pencil you know this is before our
+invention and here is the invention it's
+basically the new eraser on top of the
+pencil and again these aren't real
+claims we're taking some simplifications
+and some shortcuts for the purposes of
+learning so you know we're skipping some
+details from what might be in a real uh
+patent claim but this is just to
+illustrate so hopefully you understand
+that the claim should focus on the
+invention so when I write a claim it
+really needs to focus on the Eraser part
+of
+it so I might start with um the pencil
+part right the pencil elongated a body
+and where in the Eraser is fixed to the
+first end of the pencil so this just
+describes what already exists now I have
+to add my inventive concept to it
+when the Eraser is comprised of an
+abrasive and somewhat sticky material
+and that leads us to tip two which is
+our adjective check right we've got some
+adjectives in here and we should
+scrutinize them it's not that we can't
+have an adjective and a claim but when
+they're there we should take a look at
+them and make sure we understand their
+purpose so I highlighted some here
+abrasive and also yet soft it's a little
+bit of a weird way to describe something
+in a claim but again this is just for
+illustration right so when we have these
+adjectives abrasive soft compared to
+what really what we're trying to do here
+is answer the question how will I know
+how will I know if somebody's infringing
+my patent how will I know if the other
+thing is abrasive as I've defined it or
+soft as I've defined it so we want to
+make sure when there's adjectives like
+this that we have some way to quantify
+it either in the claims or at least in
+the written description uh early on in
+my career I remember having a discussion
+with a patent examiner where we were
+talking about the word flexible that was
+in one of the claims and the examiner uh
+reminded me that everything was flexible
+and went on to say that the Empire State
+Building was flexible and if it wasn't
+it would have surely toppled over in a
+strong storm so he reminded me that uh
+anything can be anything pretty much if
+we don't put some definition behind it
+so we can rely on some quantitative
+measures for many properties so for
+example uh for abrasiveness there is a
+scci a couple scientific measures such
+as the mo scale or the Taber abrasion
+test similar for softness or almost any
+physical property there is some way to
+measure it or quantify it and so uh if
+we're going to use adjectives we should
+really at least try to understand the
+limits and even if those limits aren't
+necessarily in the claims they're at
+least in the written description which
+is used to support or help interpret
+claim terms during uh the examination
+process and Beyond another thing about
+this claim is um that we are describing
+properties of the Eraser that it's
+abrasive and soft but we're not really
+saying what it is and while claims like
+this that describe
+properties exist and do get allowed
+sometimes it's often good to have at
+least one claim that focuses on what the
+invention actually is so here we are
+describing what the Eraser is what it is
+made out of and especially with a
+mechanical invention it can be good to
+have some claims focusing on what the
+structure is rather than claiming
+Properties or benefits now maybe we
+straight a little bit from the check
+your adjectives but as you can see there
+is a lot of thought that can go into
+even a very simple invention which is
+why I put up the don't try this at home
+warning at the beginning of this video
+tip number three is say what you mean
+and uh this little skit will help you to
+visualize it so it's the last day of
+school and Billy is trying to get out of
+the third grade he has one more chance
+if he gets this next question right he
+moves on to fourth grade otherwise he's
+got to repeat third grade so the teacher
+asks which numbers from 1 to 10 are
+divisible by three all right come on
+Billy don't mess this up let's see
+Billy's answer all of them teacher says
+sorry Billy that is incorrect the
+correct answer is 3 6 and N looks like
+he'll be repeating third grade have a
+nice summer I will see you in September
+but the story doesn't end there it turns
+out Billy had a good lawyer and Billy's
+lawyer proved that in fact all the
+numbers are divisible by three here we
+see what happens when 7 is divided three
+and it certainly is divisible by three
+there's no question but that's not what
+the teacher meant here's what the
+teacher meant which numbers from 1 to 10
+result in an integer quotient with a
+divisor of three basically she was
+looking for which numbers uh result in a
+quotient that doesn't have any decimals
+after it it's just an
+integer now uh there have been numerous
+examples of real life patents that ran
+into trouble due to a flaw like this and
+one of my favorites is an example about
+a bread process where it talks about
+oven temperature versus air temperature
+and I have a video on that I'll put a
+link to that in the description
+basically it's a bread patent fail and
+uh it's a short video but uh you may
+find it
+interesting the last tip is uh
+antecedent basis so let's say we have a
+claim we're sticking with the pencil
+theme again and we introduce some things
+some different terms a wooden sleeve a
+metal
+bracket um and the graphite Rod
+different stuff and uh the problem is
+that some of these terms we've
+introduced for the first time using the
+word the' which is incorrect as far as
+the US patent office is concerned so how
+do we fix this we can rewrite the claim
+to introduce the term uh in the way that
+the US patent office expects which is
+with a uh or an rather than a the and if
+we do that if we rewrite it like this
+then we've corrected those issues cuz
+now we introduce everything for the
+first time with an uh or an an it's a
+pretty straightforward concept but uh it
+will make your claims look a lot more
+professional likee if you are writing
+your own patent application if you
+uh do your best to avoid these
+antecedent basis issues I have a video
+that goes into a little more detail and
+I will put a link to that in the
+description so hopefully you found this
+video helpful if so please like share
+and subscribe and once again thanks for
+[Music]
+watching

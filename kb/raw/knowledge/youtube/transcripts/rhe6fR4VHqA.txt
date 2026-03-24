@@ -1,0 +1,257 @@
+Not long ago, one of our viewers by the
+name of Novel Magic left me a comment
+and said, "John, why don't you do a
+video on the portal?" And so, I'm going
+to do that. Novel Magic, thanks so much
+for the comment. I appreciate that. In
+today's video, I'm going to demonstrate
+step by step how to use the patent
+center at the USPTO website to file your
+own provisional patent application
+electronically. Now, just a warning, it
+takes about 20 minutes to file a
+provisional patent application using the
+USPTO website. I'm going to go through
+that step by step. And so, if you're
+just watching this for the first time,
+you may want to speed the video up to
+double speed or to 2x to make this go
+more smoothly. Otherwise, let me suggest
+you play this video on your smartphone
+or on a tablet sitting next to the
+computer that you're using to file your
+application. That way you can file your
+application as I file mine and just
+follow along step by step doing what I
+do. Now if you get stuck or have a
+question, leave your question in the
+comment section below and from time to
+time I'll go through and answer the
+questions and we'll try and create a
+frequently asked question database
+there. Now, the second thing you'll need
+to file your provisional patent
+application on the PTO patent center
+portal is a credit card to pay the
+official filing fees. Now, for an
+individual filer earning roughly
+$185,000
+or less, you can file as a micro entity
+and the filing fee for this is $60. For
+a small entity, for a business or a
+higher earner, the filing fee for a
+provisional patent application is
+currently $120 and it's $240 for a large
+entity. There's more information on the
+USPTO website, and there'll be
+information when you get to the part
+about paying. And just be aware that the
+fees do change frequently, so don't be
+surprised if the fees are a little bit
+different from what I've quoted. Okay,
+let's jump into it. I'm going to go
+through it fairly slowly. you'll
+probably be able to get through it more
+quickly, especially if you're following
+along. Okay, let's start at the Google
+search page. I'm going to type in USPTO.
+And once we arrive at the USPTO
+homepage, we're going to select the
+patents tab. And then under application
+process, we're going to select filing
+online. Now, we'll scroll down. This is
+this is fun reading, but we're going to
+select open patent center.
+And that will take us to the patent
+center homepage and we'll scroll down
+past search for a patent application
+down to new submissions.
+We'll select new submissions and
+there'll be several choices for regular
+submissions.
+There'll be utility non-provisional,
+utility provisional, design
+non-provisional, and we're going to
+select utility provisional.
+Now, there's a warning box that opens
+that warns that if you sign in as a
+guest user, you'll have access to new
+applications and to view public
+applications, but you'll want to sign in
+as a registered user if you want full
+the full benefit of the web the website.
+And we're going to sign in as a guest
+for purposes of this application. Okay,
+we will press continue here. And this
+will take us to the application data
+sheet filing options page for
+provisional applications. Now we're
+going to choose web ads web application
+data sheet
+and we'll select that.
+And along the left hand column are the
+steps that we'll need to go through in
+completing this ads.
+And the first thing that we'll need to
+do is add the inventor's name. And I'll
+be the inventor for purposes of this
+application. So I'll enter my name.
+It includes my
+street address, city, zip code,
+and I'll be the only inventor here. So
+there'll just be one inventor.
+And then the next piece of information
+is correspondence information. Now,
+there's no customer number here unless
+you're a practitioner. So, we'll provide
+instead a an address, correspondence
+address in order for the patent office
+to be able to contact us. And so, we'll
+enter United States of America and then
+my address again.
+And this will be my correspondence
+address. And in the emails entered three
+times, so I'm going to eliminate two of
+these.
+It's going to ask for the title of my
+invention. And I'm going to enter just
+make up a title. It's probably not the
+best title. We'll call this uh system
+and method for eliminating jitter in
+video content. No attorney docket
+numbers required. Uh this is if you have
+multiple clients you can enter the
+client's name but there's no it's not
+required. Now for the entity status I'm
+going to be a small entity for purposes
+of this application. It's a provisional
+application. It's a utility application.
+Total number of drawing sheets is five
+and I'll go down to representative. I'm
+representing myself so I won't need to
+fill in this page.
+There will be no separate representative
+here. Now the next choice is domestic
+benefit, national stage, foreign
+priority, first to invent a file. You
+can skip those.
+Uh those are not going to be applicable
+for purposes of filing a an a
+provisional patent application. And then
+authorization to permit access. There
+should be no authorization for foreign
+organizations to access a provisional
+application. But I am going to select
+applicant does not authorize in both
+cases. And then under applicant,
+I am the applicant. So there's uh I can
+skip that. There's no assenee here.
+Asseneigne uh pertains to a transfer of
+your invention to a company. So if I was
+working for a company, I might be
+required to transfer my ownership of my
+invention to the company. But since this
+is on my own account, it's my invention,
+no assigne.
+And then the summary page gives me a
+chance to check over, make sure I've got
+everything entered correctly.
+And look for look for any blue
+highlights on information that wasn't
+entered.
+And then finally, I'm going to need to
+enter my signature.
+And the signature is easy to miss. I'm
+not quite sure why they have it hidden,
+but if you get to the end and haven't
+added your signature, they make you go
+back and do that.
+So, the signature is added using
+backslash. So, it's backslash your name
+and another backslash
+and then entering your first and last
+name. And there are no more signatures
+because there there are no more
+inventors on this application. This was
+my application alone.
+All right. Now, we upload the documents
+and this is really easy to do. Um, you
+can upload PDF or DOCX documents. In
+this case, my my specification is a PDF.
+So, I'm going to browse files. I could
+drag and drop, but I'm going to browse
+files and select my PDF
+and drop this into
+the upload box.
+Importantly, I need to enter a
+description here. And this this is again
+easy to miss, but under the file name,
+there's a drop-own box for entering a
+description of the document. In this
+case, it's part of an application, and
+I'm going to just say it's my
+specification.
+So, I'll select specification
+and then I'll continue here.
+Now, in calculating fees,
+which is the next section, I'm a small
+entity.
+I have 10 pages. Again, this is another
+box that's easy to miss. So, my
+specification is 10 pages long. There
+are no special petitions with this
+application. So, I can skip that. And
+then I will continue here. And then I
+select the fees. And as a small entity
+for a provisional patent application, my
+fee is $120.
+Now, there are no uh I don't have any
+submission of sequence
+fees. This would this would apply if I
+was submitting a DNA sequence, for
+example, and there are additional fees
+for DNA sequence submissions, which
+don't apply to my simple application.
+Mine's a software application relating
+to eliminating jitter or shake in
+handheld video. Okay. Total fees are
+$120. So I can continue here.
+And again the summary page I can type in
+my e filer information. It'll request my
+name and email address.
+And I'll then submit this.
+And I get a filing receipt. And so this
+gives me an application number.
+I'll have the receipt date. It'll
+include my the title of my application,
+information about me,
+and I'll want to print this or save this
+to a file folder somewhere. This is a re
+this is a very important document
+obviously.
+And um it the application number is
+super important for me to access this
+later. Now I can pay fees now, but I'm
+going going to save myself $120 since
+this isn't a real application. So this
+paying the fees now is recommended to
+save a late payment penalty. Pay fees
+now will take me to a credit card page
+which would allow me to enter a credit
+card number and make make payment of my
+fees. Okay, that's all there is to
+filing your own provisional patent
+application. If you have questions,
+leave them in the comments section below
+and I'll try to get to them and answer
+them if there are questions that haven't
+been asked before in the comment
+section. Also, let me again suggest my
+book available on Amazon called
+Provisional Patents. I think it'll be
+super helpful in helping you prepare and
+file your own provisional patent
+application. Okay, that's it. I'll see
+you on the next video.
+[Music]
+3.8s · 11m 41s YouTube · 1.6k words · text via transcript/captionTracks

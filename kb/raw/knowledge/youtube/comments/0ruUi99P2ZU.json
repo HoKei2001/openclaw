@@ -1,0 +1,82 @@
+{
+  "video_id": "0ruUi99P2ZU",
+  "total": 5,
+  "fetched_at": "2026-03-12T08:29:32.266732+00:00",
+  "comments": [
+    {
+      "id": "UgyHeKWYp2uSi1ooejR4AaABAg",
+      "author": "@umanggupta7097",
+      "author_id": "UCjFGhivnRS3YzSxosP0lASw",
+      "author_url": "https://www.youtube.com/@umanggupta7097",
+      "author_verified": false,
+      "text": "Hi. That was actually an interesting concept of frustration of purpose. Do you have a practical example of the same? As in what was the problem and how you handled it using frustration of purpose argument?",
+      "likes": 2,
+      "published_at": "11 months ago",
+      "timestamp": 1744416000,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    },
+    {
+      "id": "UgwQgSdVDWZAGYMWt7R4AaABAg",
+      "author": "@VDVREquipment",
+      "author_id": "UClTG89trcQICzbHUTZWzQNg",
+      "author_url": "https://www.youtube.com/@VDVREquipment",
+      "author_verified": false,
+      "text": "The thing about the obviousness part of patents that gets me. If your the first person to come up with it by combining multiple other elements, how is it obviousness if no one else before you every combined it all? If it was obvious wouldn't the exact invention already exist? Also if do it differently than how abc and d goes together, then how can it be obvious. \n\nThe way it seems to me, the way this is, an examiner could say unless you invented every part that never existed before. They could find prior art on everything you used to make said invention. Screws, bearing, springs, steel,  plastics, seems like it could be a lil out of control.",
+      "likes": 1,
+      "published_at": "9 months ago",
+      "timestamp": 1749686400,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    },
+    {
+      "id": "UgxGaWqJPZAY_myPGkN4AaABAg",
+      "author": "@msdukaaa",
+      "author_id": "UCqe9LNlKTskQgCzlpRGXcpw",
+      "author_url": "https://www.youtube.com/@msdukaaa",
+      "author_verified": false,
+      "text": "Great!",
+      "likes": 1,
+      "published_at": "1 year ago",
+      "timestamp": 1741737600,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    },
+    {
+      "id": "UgxIv-_BKk0xrPws2Vx4AaABAg",
+      "author": "@loganclements4332",
+      "author_id": "UCeYu3asvO35quLO4tzioYlA",
+      "author_url": "https://www.youtube.com/@loganclements4332",
+      "author_verified": false,
+      "text": "Very interesting strategy. Thanks for the video.",
+      "likes": 1,
+      "published_at": "3 years ago",
+      "timestamp": 1678579200,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    },
+    {
+      "id": "UgwT23HcGZi9QiGtzAd4AaABAg",
+      "author": "@chinesir",
+      "author_id": "UC9STTi8I1RIGMBmtVlhEkKA",
+      "author_url": "https://www.youtube.com/@chinesir",
+      "author_verified": false,
+      "text": "Hi, how to interpret inherently anticipation from prior art, could the examiner just enlarge a portion to make the prior art with elements I claimed? The inventor didn’t mention any element in his application except portion of drawing, that has to be enlarged so that looks like my drawing",
+      "likes": 0,
+      "published_at": "1 year ago",
+      "timestamp": 1741737600,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    }
+  ]
+}

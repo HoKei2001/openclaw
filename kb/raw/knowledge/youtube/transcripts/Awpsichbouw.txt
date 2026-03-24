@@ -1,0 +1,133 @@
+hi everyone today i'm going to show you
+how to search for patents in case you
+need technical specifications of a past
+invention or if you're looking to see if
+your idea has already been done or if
+you want to check to see if your
+invention isn't too similar to a past
+invention today we'll only be focusing
+on patents not trademarks that's another
+story for a different day so we'll click
+here on search patents now don't be
+overwhelmed with this tremendous amount
+of information much of this will be
+useful later on when you begin to pursue
+the actual securing of the patent this
+link called how do i know if my
+invention is patentable will take you to
+lots and lots of information about what
+a patent is what it can and what can and
+cannot be patented how to get your
+invention patented etc
+also notice the these links patent forms
+and view schedule fee to get pointed in
+the right direction to and so you can be
+aware of how pricey it is to patent
+something
+continuing on we're only going to
+concentrate on the patent full text
+database in the patent application full
+text database this is where you'll be
+able to find information on patents as
+well as things that are currently in the
+patent process
+when we click on the patent full text it
+takes us down to the down the page and
+you'll have options for quick search and
+advanced search in a patent number
+search if you already have the patent
+number this is fairly easy however most
+likely you do not have the patent number
+so let's look at quick search
+as you can see we can enter two words
+and select a boolean operator i'm sure
+you've worked with them before but if
+not they're very logical
+if you want to know about speedometers
+but ones that are specifically on
+bicycles you would use bicycle and
+speedometer
+if you want to learn about speedometers
+in general but for example not
+automobile speedometers you'd use
+speedometers and not automobile or not
+car
+whichever term you want to use
+if you're curious about something but
+you're not quite sure which term is used
+or if you want to return articles about
+two different subjects you would use
+subjects you would use or so if you're
+feeling lackadaisical and you just want
+to see patents about speedometers or
+odometers whichever you'd use obviously
+speedometers or odometers so searching
+for bicycle and speedometer has returned
+a lot of results and i'm sure there's a
+useful one in there somewhere these
+fields are
+to the right of the search box can
+narrow the search even further for
+example i'm going to search for all
+records that contain bicycle and
+speedometer in the title only you can
+search for patents that have the keyword
+in a number of specific places including
+the patent examiner inventor's name
+invention description etc so if you know
+that there was something invented by a
+guy named for example elvis presley
+you could find the invention by
+searching for elvis presley and
+selecting the inventor name option
+note the select selected years drop down
+the database is full text from 1976 on
+you can find some information for
+inventions from 1790 on
+now let's look briefly at the advanced
+search this is pretty difficult to use
+so unless you're looking for something
+that's fairly generic and would return
+lots of results you can probably do a
+quick
+search with the quick search a perfectly
+good one
+but for the sake of thoroughness if you
+want to search for several different
+keywords in several different fields you
+would type the field code listed in the
+table below
+then a slash then your keywords note
+that you can build more complicated
+queries here as well if you want a
+patent about bicycles and you want
+anything on either odometers or
+speedometers you could type t ttl slash
+open parentheses bicycle open
+parentheses odometer or speedometer
+close parentheses close parenthesis note
+the examples on the left
+let's briefly look at the patents really
+quick to see what information is given
+as you can see patent number issue date
+inventor related patents description etc
+are included if there are images related
+to the patent you'll have to click the
+link called images to go to the files
+you can actually buy the patents by
+adding to the cart adding them to the
+cart and checking out note that you can
+click previous or next if you're
+browsing through a long list of results
+if you want to search for applications
+for patents that have not yet been
+granted you can use the application
+patent search this has the same options
+quick search advanced search and patent
+number search
+it looks and operates just the same as
+the patent search so you should have no
+problem with that
+and that's how to use the united states
+patent and trademark office's patent
+search

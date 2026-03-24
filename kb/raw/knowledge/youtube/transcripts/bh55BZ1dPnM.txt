@@ -1,0 +1,90 @@
+Hello my name is Jubin and in this video we're
+going to talk specifically about how to draft
+claims for a patent application now this
+is specifically for a non-provisional
+patent application because provisional
+patent applications do not require claims
+at dana legal services we really work
+with our clients to help them understand
+what their invention is to help them understand
+the revenue stream and based on that we draft
+the claims now what goes into a claim and
+how to draft a claim it's not that simple
+it takes years it's kind of more art combined
+with science than it is pure science so it's a
+lot of understanding what goes on but here is some
+basic ground rules for drafting claims number one
+your claim is either going to be a physical
+thing or a step for doing something so either
+it's an apparatus a device a system claim
+or it is basically steps for doing something
+so first do this then do this then do
+this so either your claims are system
+device modules things like that or they
+are methods so accordingly you will start
+your claim with that way so you'll say
+a system for or you'll say a method for
+having identified whether you have a system claim
+or method claim you then need to go and start
+to put the novel or the most important features
+of your invention in the claim so if you have a
+system claim and let's say there are four things
+that are important for your system let's say a
+memory a processor a display and a keyboard by the
+way all of these things are already out there i'm
+just making this up for you however if you have
+those four things you must list them in your claim
+so you say a display a memory a processor a
+keyboard you must also connect all of these
+elements together so you say a display you say a
+keyboard you say a memory you say a processor and
+then you can say comma wherein the processor is
+in communication with the memory and the display
+and the keyboard that's right so you just connect
+all of those elements but however you just keep
+in mind that you have to list the most novel
+features and you have to somehow connect them
+are they communicating with one another are
+they physically connected to one another
+are they um you know receiving information and
+then passing it on whatever it is they're doing
+you have to be able to describe so it is the
+thing itself plus the function it performs
+and what it's connected to so that all the
+elements of your claim are connected you
+can't just say a keyboard a display a processor
+and a memory and not connect any of these things
+the other thing you need to keep in mind
+is that if you're writing a method claim
+then you have to identify each step of the
+method so sending transmitting receiving
+all of those things are steps and you have
+to also say what it's doing so you're sending
+data so that's what it's doing and then you
+have to also say where or where it's sending
+it to so you have sending data to a receiving
+unit and then you can say a receiving unit
+that receives but again remember a receiving
+unit is for the system claim receiving is for
+the method claim so one more time if you have a
+system claim you have to identify all the features
+or the elements that are in your system and
+connect them if you have a method claim you
+have to identify the steps you have to identify
+what the steps are doing and then they have to all
+somehow be related to one another so again all
+of those receiving sending transmitting steps
+have to be connected so one way for example would
+be receiving at a receiver sending from a receiver
+uh but the receiver send okay so now we have to
+find a different word maybe we say a transceiver
+that's something that transmits and receives so
+you can say receiving add a transceiver you can
+say sending from the transceiver and things like
+that so again all the steps have to be identified
+and somehow the steps have to
+be related and you have to tell
+what each step is doing my name is
+jubin dana with dana legal services
+help us out like and subscribe that will help us
+greatly here's our contact information take care.

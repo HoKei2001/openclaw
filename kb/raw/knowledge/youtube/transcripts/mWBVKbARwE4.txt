@@ -1,0 +1,302 @@
+hey Pat and Friends welcome back to
+another video so what is an obviousness
+projection and where do obvious
+rejections occur and how do you respond
+to obviousness rejections so you may be
+thinking about filing a patent
+application and want to know about
+patentability and whether your invention
+may be rejected for being obvious or
+maybe you're in the examination process
+right now and you've received an obvious
+rejection in this video I'm going to lay
+out everything you need to know about
+what obviousness rejections are and how
+to respond and give you some Insider
+tips on how to work with your patent
+attorney to effectively fight
+obviousness rejections so stick around
+when you're starting right now
+so for those of you who are new here my
+name is Dylan Adams I'm a patent
+attorney and author of the best-selling
+book patents demystified which is an
+Insider guide to protecting ideas and
+inventions used by inventors
+entrepreneurs and startups worldwide
+including at top universities like
+Harvard Stanford and MIT you might also
+recognize me from my parents on cnbc's
+hit show The Profit with Marcus Lemonis
+so this channel is all about giving you
+the Insider tips and tricks about
+patents and the patent process startups
+entrepreneurship so if you're looking
+for more content like that be sure to
+hit the Subscribe button and click that
+little bell icon so you don't miss any
+great new videos that come out all right
+let's go ahead and get right into it
+alright so obviousness rejections
+codified under 35 USC 103 which you know
+sometimes you may hear them called 103
+rejections as a result so obvious
+introductions to understand them we need
+to step back and sort of understand the
+patent process and where obviousness
+rejections are going to come up okay so
+when you file a non-provisional patent
+application it waits in line at the
+USPTO for one to three years before
+examination begins so when examination
+Begins the examiner is going to do a
+prior art search and is going to
+determine a couple things one is what
+you have is it novel compared to the
+prior out prior art now I have a video
+about novelty and I'll have that pop up
+here and have that in the link below so
+novelty is is there one single piece of
+prior art that that has all of the
+elements of what you have claimed in
+your patent application that sort of
+begs the question what is prior R so
+prior R can be really any sort of
+Technology disclosure a lot of times
+that could be the publication of an
+issued patent it could be the
+publication of a pending application
+whether or not that pending application
+ever issues or not or it could be an old
+pending application that never issue so
+it could be patent Publications but it
+could really be any sort of Technology
+disclosure could be scientific papers it
+could be blog posts it could be actual
+products say in a catalog it could be
+YouTube videos like this one um so
+really any sort of Technology disclosure
+could be used as prior art okay so with
+novelty it's just is it does a single
+piece of priority describe everything
+that you have in your claims of your
+patent application so obviousness
+rejections are more tricky and that's
+where uh the negotiation of examination
+is the most difficult a lot of times
+getting over the novelty rejections
+that's 35 USC 102 called 102 rejections
+typically as a result those novelty
+projections usually aren't that
+difficult there's just going to be
+something different between some piece
+of priority and and what the claimed
+invention is and honestly if we get
+novelty rejections to use it's like yeah
+okay we're going to be able to get over
+that usually that's pretty easy okay so
+what are obviousness rejections so with
+obviousness the question is would it be
+obvious to one of ordinary skill in the
+art that being your average person who
+works in the field of the invention to
+come to your claimed invention based on
+all prior art that is known
+okay so this is examiners can combine
+many types of different prior art and
+come to your invention so the way it
+works practically though is let's say
+for instance that you have an invention
+that has elements a b c and d okay so
+the examiner would then do a priority
+search and maybe would be able to only
+find a piece of product that only has
+um you know elements A and B in this one
+piece of priority but then we keep on
+doing a prior search and they would find
+another piece of priority that has
+elements C and D so what the examiner
+would do then is combine those
+references in an obviousness rejection
+and say well so if I were to combine
+these two references a and b c and d
+then you have a b c and d as in your
+invention okay and then that's what the
+obviousness rejection would be is the
+exam say well it would be obvious to
+come to your invention because even
+though not a single piece of priority
+has all the elements that you have
+claimed these two pieces of prior art if
+you combine them they would have all
+that and sometimes the examiner can
+combine many pieces of prior I mean it's
+not uncommon to have three four five
+maybe even six pieces of Prior that are
+combined pull out all the elements to
+come to your invention that's why it can
+be really difficult to fight against in
+a lot of ways so how do you respond to
+obviously obviousness rejections so you
+have a couple of options so you can
+amend the claims of the patent
+application and or you can argue against
+the rejection so let me kind of break
+those down as far as what the options
+are so you have to understand that in a
+patent application the the meets and
+Bounds of what is actually owned is
+defined by the claims and so there's
+this claims section at the end it's
+these individual single sentences that
+are awkwardly written there's typically
+about 20 of them or so that's what all
+the negotiation of examination is going
+to be it's not about the description
+it's all called the specifications not
+about the drawings it's about this crazy
+claim section that's where all the
+negotiation is and it's important to
+understand that patents are not a binary
+thing it's not just having a patent or
+it's not you can have really broadcast
+patents that cover a lot of different
+variations of things where you can have
+patents that are so narrow and so
+specific that they are effectively
+worthless because nobody would ever be
+able to infringe on them because they
+have so many elements and they're so
+specific so that's something to keep in
+mind during examination that that's
+that's what this negotiation is with the
+examiner so thinking about it like like
+Pawn Stars or American Pickers where
+you're haggling what you're trying to do
+is you're trying to get the broadest
+claim scope possible you're trying to
+get claims that cover the most
+variations as possible whereas The
+Examiner has to make sure that what you
+have claimed is new and non-obvious okay
+so you can amend the claims you can add
+or change the language of these claims
+to try to differentiate over the prior
+art but you can only do so within the
+scope of the original description and
+drawings as filed that's sort of the big
+limitation when it comes to amending the
+claims and that's really common is doing
+claim amendments to differentiate over
+the over the priority and that's why
+it's really important to have a patent
+attorney do your your non-provisional
+application because you have to have
+very detailed description if you don't
+have all those details in there you
+can't amend your claims to differentiate
+around the priority and that's what
+really patent attorneys bring to the
+table is understanding hey what are the
+details that we need to have about the
+invention which a lot of times is very
+counterintuitive things you would think
+was like oh this is obvious this is
+really simple but those end up being the
+elements that get you around prior art
+so that's one option is to amend the
+claims to differentiate over the price
+or you can argue against the rejections
+maybe the examiner is misinterpreting
+your claims you know of your of your
+application The Examiner is interpreting
+something incorrectly and and is reading
+something on elements of the priority
+incorrectly these things are not
+analogous or the examiner is looking to
+piece of pieces of prior art and you
+know the stuff that you have in your
+application the prior does not teach
+that absolutely not the examiner is
+wrong and sometimes examiner is just
+kind of lazy you know they they don't
+have a lot of time and maybe they'll
+just kind of fudge some fudge some
+rejections or just throw something out
+there and make you argue things and
+sometimes that that's that's necessary
+The Examiner is wrong and you have to
+say look examiner you know here are all
+the elements of our claims the prior
+does not teach these you you know in in
+any of the prior that you cited even if
+you combined two or three prior
+references none of them teach these two
+elements in there and so you know you
+should withdraw those rejections okay so
+that's how you respond to obvious
+rejections now how can you help your
+patent attorney do this okay
+so what I typically recommend is you
+know break the break the claims down
+into their constituent elements and go
+through the prior art and say hey is
+this is this element present in any of
+the pieces of prior art and if there are
+things that the product doesn't teach
+let your patent attorney know of things
+that are different okay that's one thing
+that you can do to sort of frame
+arguments as far as uh differentiating
+over the priority
+um as far as like specific claim
+amendments usually it's best to have the
+patent attorney frame those because
+that's the whole negotiation sure you
+could add a bunch of elements and you
+could you know you know get cases loud
+probably pretty quickly but again that
+may result in a patent patent being so
+narrow and so specific that it's
+effectively worthless so it's important
+to negotiate and to make sure you're
+getting the broadest claims scope
+possible because that's what results in
+a patent that is going to be really
+valuable okay so you you respond you
+have really good arguments
+um or you're able to differentiate over
+the over the priority with claim amounts
+then what happens okay so then the
+examiner goes back and we'll do a new
+prior art search and then may assert new
+PR new prior rejections you may get over
+the original obvious rejection but the
+examiner may form new prior rejection so
+for instance if if you say hey you
+didn't you didn't show the private shows
+these two elements
+um or hey we added these two elements
+and the product doesn't show that The
+Examiner could do a new priority search
+and try to find those elements so that's
+where this back and forth goes is you
+amend the claims or you argue and the
+examiner tries to you know go and find
+prior that has these elements and if
+they can't uh find those things in there
+the exam will then allow the case you
+pay an issue fee and the application
+will be allowed so that's kind of the
+negotiation
+um and how obviousness fits into that so
+if you got some value out of this video
+give it a thumbs up and if you're
+looking for more great content about
+patents startups and the patent process
+be sure to subscribe hit the little bell
+icon so you don't miss any videos and
+check out these two videos as well and
+thanks so much for watching really
+appreciate it and we will see you again
+in the next video thanks

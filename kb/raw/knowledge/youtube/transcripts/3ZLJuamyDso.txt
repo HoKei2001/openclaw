@@ -1,0 +1,286 @@
+[Music]
+hello and welcome to another edition of
+inventors quick tips today we are
+discussing the office action response
+and particularly how claims are amended
+note in general i don't recommend
+inventors prepare their own responses
+but rather hire a professional to handle
+it why because there are a good amount
+of rules and procedures for filing an
+office action response and for most
+inventors their time is better spent
+working on their invention and their
+business plans however it is good for
+inventors to have an understanding of
+what the response contains because your
+patent attorney or agent is likely going
+to show you the response to get your
+feedback so understanding how it is
+prepared can be helpful
+so after you file your patent
+application
+within a certain amount of time usually
+within six to twenty months you'll get a
+response from the patent office most of
+the time
+that response is an office action which
+means that one or more of your claims
+are currently not allowable
+the office action can list rejections to
+the claims the rejections can be based
+on prior art meaning other existing
+patents and other stuff that existed
+before you filed your patent application
+are too similar or
+the rejections can be based on
+ambiguities or vagueness
+i have a video that explains rejections
+in more detail and i will put a link to
+that video in the description
+the office action can also include
+objections objections can be for minor
+things such as misspellings missing
+punctuation for example
+other parts of the application besides
+claims can receive objections such as
+the specification or written description
+the abstract and the drawings
+we need to provide a response to the
+office action if we want to get our
+patent application to produce an issued
+patent so what might go into the
+response
+it can have claim amendments it can have
+drawing amendments
+it can have specification amendments
+and it contains remarks remarks can be
+thought of as written arguments as to
+why the claims
+either as they were amended or as they
+were previously presented
+should be allowable we almost always
+have remarks even if we don't make any
+claim amendments we'll still make
+arguments as to why something should be
+allowable
+here is an example of an office action
+cover page
+the date of the office action is
+important you have up to three months to
+respond to the office action without any
+fees and up to another three months of
+time can be had for additional fees
+so after a total of six months from the
+date of the response the patent
+application is abandoned so you don't
+want to let that happen unless you've
+changed your mind and decided you don't
+want to try to get the patent allowed
+anymore in which case you can let it go
+abandoned
+on the next page is a summary page
+it tells you if the action is final or
+non-final usually more changes can be
+made in response to a non-final action a
+response to a final action is typically
+only accepted for very minor changes
+if you have received a final
+action but need to make significant
+changes
+you can file an rce
+request for continued examination
+essentially it can be thought of as a
+fee you pay to convert the final action
+into
+a non-final action so you can respond
+with your changes that you want to make
+i'm oversimplifying that a little but i
+don't want to bog you down with too much
+procedural stuff here the important
+thing is don't panic if you have a final
+action there is almost always still a
+way forward even though it shows the
+ominous word final
+the other thing it shows here is the
+status of the claims in this example all
+the claims are rejected which is a
+pretty common occurrence so again don't
+panic if you see that
+here is an example of a cover page for a
+response
+there is not any hard rules on the
+formatting but it usually contains
+something like this most of the
+information here including the
+application number group art number and
+other things can be found on the office
+action cover page i showed you earlier
+the one thing that isn't shown in the
+office action cover page that is shown
+here is the invention title but that is
+usually included in the response cover
+page
+there is typically a statement
+indicating that this is filed in
+response to an office action with the
+date that was indicated on the office
+action cover page
+now let's look at some of the rules for
+amending claims the number one rule is
+that we can't add new matter to a patent
+application so we can't just say
+whatever we want here any changes we
+make here in the claims must be
+supported by what we said in the patent
+application that was originally filed
+so we can't just pull stuff out of the
+air to put here however if the
+information was shown in the application
+as it was originally filed then it can
+be added to the claims
+each claim has a state if we are making
+changes to a claim in this particular
+response then the claim state is
+currently amended
+[Music]
+additions to a claim are shown in
+underlying
+if we are leaving a claim the way we
+originally filed it its state is
+original
+if we are getting rid of a claim
+altogether its state is cancelled and
+the text of the claim is deleted
+if we are removing text from a claim we
+use strikethrough
+if we are removing just a small amount
+of text like just one number or one
+letter for example we can use double
+brackets to indicate the removal since
+strikethrough can be hard to see if you
+are only striking one character so in
+this example we are getting rid of the
+number one and adding a number two as is
+shown in underline next to it
+if we changed or added a claim in a
+previous response but we aren't changing
+it this time
+its state is previously presented and
+note that there are no strikethrough or
+underlined text any previous
+strikethrough text is removed and the
+underlining of any added text is also
+removed so now it just looks like in a
+clean state
+if we are adding a new claim in this
+response
+then the state is new and note there is
+no underlined text it is shown in clean
+form
+after the claim listing on a new page is
+a remark section and it typically
+contains a date
+a status of the claims as rejected
+objected to or allowed a listing of
+rejections in this example we're just
+showing two rejections first
+section 112 rejection and we state in
+the remarks how do we respond to this
+rejection in this case as we showed
+earlier
+we cancel claim three sometimes claims
+are canceled and the subject matter of
+those cancel claims is included in a
+different claim or they can be cancelled
+altogether it really all depends on the
+specifics of the situation
+here we are showing an example of
+another rejection a section 102
+rejection due to a reference in this
+case the reference is referred to as
+colton
+and here are some sample remarks
+as to why the currently amended claims
+should be considered allowable over
+colton
+we can include a picture from our
+application and or the cited references
+that is optional but if it helps drive
+home the point then i like to include
+one
+it seems that this tail wing
+number 112 was used by the examiner in
+the rejection
+and so in the written remarks
+we say how the fact that in the current
+invention the airfoil is mounted to the
+underside of the aircraft fuselage
+should now make it considered as
+allowable over this colton and this
+would go on responding to every
+rejection and every reference cited in
+the application
+the patent office expects a fully
+responsive amendment so even if
+everything is not responded to with an
+equal amount of response it should still
+be at least acknowledged and responded
+to even if only briefly
+now one mistake i frequently see when
+people try this themselves is that they
+will have a lot of remarks about why
+their invention is different than what
+was cited but those differences are not
+in the amended claims the remarks are
+most effective and strongest when the
+differences that you are arguing are in
+the claims because it is the claims that
+tell the examiner and the world what you
+are trying to protect with a patent
+finally there is typically a conclusion
+that basically just says hey patent
+office in light of all the changes we've
+made and the arguments we've pointed out
+this patent application should now be
+allowed as an issued patent
+and again just to recap i don't
+recommend laypersons do this kind of
+stuff but sometimes perhaps due to
+limited financial resources lay people
+have done it and sometimes they are
+successful but the main point of this
+video is to help you understand how the
+response works so when your patent
+professional makes a response on your
+behalf you'll have a better
+understanding of it also in addition to
+claims there are techniques for amending
+the specification and drawings and so
+maybe if there's enough likes on this
+video i might make some other videos
+along this line to highlight how the
+drawing and specification amendments are
+made
+finally this information comes from the
+manual of patent examination procedure
+often referred to as the mpep or mpep it
+is basically a guidebook on how to
+interpret the patent rules laws and
+results of important court decisions it
+is relied upon by both patent examiners
+and patent professionals and it is
+available to the public at the link
+shown here and i will also put this link
+in the video description
+in particular this section of the mpep
+714 discusses this topic in further
+detail and this is a fairly complex
+topic with many corner cases rules and
+exceptions which were not covered here
+so if you want to learn more about this
+topic you can check out this section so
+i hope you found this to be interesting
+and helpful if so please share like and
+subscribe and thanks for watching
+[Music]

@@ -1,0 +1,37 @@
+{
+  "video_id": "fZr_zILh8Ho",
+  "total": 2,
+  "fetched_at": "2026-03-12T08:26:28.475270+00:00",
+  "comments": [
+    {
+      "id": "UgwL0XRtYfZhentBtrR4AaABAg",
+      "author": "@dguitroman",
+      "author_id": "UCRQKy9Bz_9Fe8Vhk8i90wUQ",
+      "author_url": "https://www.youtube.com/@dguitroman",
+      "author_verified": false,
+      "text": "❤",
+      "likes": 1,
+      "published_at": "1 month ago",
+      "timestamp": 1770854400,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    },
+    {
+      "id": "UgxJ7WFyDz-nKnv7O8Z4AaABAg",
+      "author": "@prentismyree798",
+      "author_id": "UCylEVFz9wVNhSvX354mfD_Q",
+      "author_url": "https://www.youtube.com/@prentismyree798",
+      "author_verified": false,
+      "text": "I have several ideas that I have been working on. and i'm very happy you put my mind back on them",
+      "likes": 1,
+      "published_at": "3 years ago",
+      "timestamp": 1678579200,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    }
+  ]
+}

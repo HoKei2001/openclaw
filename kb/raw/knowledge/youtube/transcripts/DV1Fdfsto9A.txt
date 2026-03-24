@@ -1,0 +1,1669 @@
+hello
+and welcome everyone to another invent
+right webinar master the art of
+licensing
+over there on the left is myself um and
+my business partner stephen keys the guy
+with the glasses i'm the guy
+next to him and we have been
+coaching and mentoring inventors to
+license their products for royalties
+for the last 21 years we've had students
+in over 65 countries
+and since the pandemic started we've
+been doing these free webinars for the
+inventing community
+and you guys have really really liked it
+and
+we've appreciated your great questions
+that you guys asked
+during these webinars um so oh i noticed
+steven just joined there he is i thought
+he was gonna be a few minutes late but
+he just got in hey stephen how you doing
+i'm doing great how are you good good we
+just got started so you didn't miss
+anything man
+hey patrick how you doing hey pretty
+good how are you guys
+fantastic thank you for coming on
+tonight no problem
+so patrick patrick is a
+patent searching expert and he's going
+to teach you guys how to do patent
+search
+stephen do you do you think the average
+inventor is really good at patent
+searching or do you think most of them
+can learn a thing or two what are your
+thoughts
+well i think it's really important to
+learn how to
+do it i think it's also important that
+if you hire somebody
+which i highly recommend if you're
+serious going forward i'm going to talk
+about that in a minute
+that you've done some of the work
+yourself and you understand it and you
+can communicate a little bit better for
+whoever is going to do that search for
+you
+so it's important to learn how to do it
+andrew and
+and i don't think you're ever going to
+be i don't think anybody
+can find everything but before we start
+with this and let me tell you why i
+think this is so important and patrick
+i'm so happy you're on thank you very
+much
+no problem yeah um
+knowing your point of difference
+is extremely helpful
+and it helps in so many different ways
+knowing your point of difference of your
+invention compared to
+other inventions that that have patents
+is going to help you tremendously
+not only in getting your patent
+because if you know some of the prior
+patents and you know what some of the
+obstacles are that when you do
+file a non-provisional patent
+application and you know what's ahead of
+you and that's
+a patent examiner is going to find then
+you can redesign rework
+and make it sure that when they find it
+you can actually
+well first of all you're not surprised
+and scrambling and think that you wasted
+all this money but you're prepared for
+it
+that's why this this searching is so
+important but more than that
+when you understand your point of
+difference when a potential licensee
+asks you hey do you have a intellectual
+property
+and i know there's a lot of prior art of
+course there's prior art on
+everything and when someone asks you
+that that that question you can come
+back with a great answer
+you can say of course there's a lot of
+prior art yes
+but let me tell you why mine is
+different
+let me tell you my point of difference
+now you've turned that question into a
+selling point and that's why
+to know the landscape of the prior art
+is really important not only to help any
+obstacles at the uspto with the patent
+examiner but also to
+sell to license your
+invention knowing that gives you
+strength and knowledge
+and it gives you confidence and gives
+that company confidence to go forward
+to say yes let's do this so that's why
+this
+this class tonight is so important
+so definitely thank you for that stephen
+uh so yeah so yes you can do a patent
+search on your own
+and it's amazing all the stuff that you
+can find and and the more you do it the
+better you're going to get at it
+but if you're going to hire somebody i
+think with steven and i
+we always say to folks is you should
+always if
+if you have these skills and you're
+going to learn some of those skills
+tonight with patrick
+you should always do a patent search on
+your own so you can provide the patent
+searcher with more information they're
+just going to do a much
+better job that way and that's not very
+intuitive i don't think most
+people are like well either i'm either
+going to do it on my own or i'm gonna
+pay somebody to do it
+but um you know the patent searcher just
+like a patent attorney is only as good
+as the information you give them
+so the if you've done some searching and
+you can make some comments about stuff
+you found
+wow i i think they're gonna do a better
+job what do you think patrick
+uh absolutely i was gonna jump in on
+steven there and emphasize that the best
+the best searches always start with uh
+an inventor coming in or an attorney
+coming in and saying we're aware
+of this one or two or three patents
+we've looked them over and we
+have we have some differences with what
+we're doing and we want you to focus on
+those differences and it's
+kind of like what kevin stephen was
+calling your your key uh
+or your key point uh
+that is where you're that's how you're
+gonna get the most uh
+the most bang for your buck especially
+when you're when you're doing the patent
+search but that's how you're gonna get
+your best results
+and it matters so much because
+you if you submit a patent application
+today depending on the art field you
+could be sitting here waiting
+for two or three years i mean in some
+areas it's one year some areas it's five
+years
+uh and all that time you know you're not
+gonna
+you're you're not gonna sit and wait
+with your business you're gonna be out
+there
+uh doing this and you don't wanna have a
+surprise in three years so yeah this is
+this is an important first step
+well patrick i turn i'm turning the
+screen over to you so you can share your
+screen you can show us some stuff
+um he's a pro guys so pay close
+attention you're going to learn a lot
+tonight
+okay all right yeah so like like they
+were saying my name is pat walsh
+and i've been doing patent searching for
+about 15 years
+most of my customers are attorneys but i
+you know maybe a quarter of them
+are inventors or companies
+and um i you know i have resources here
+uh that most most people would not have
+including you know some paid resources
+some homemade i've got contractors at
+the pto so there are all these different
+ways to get this done but there's also
+fortunately these days
+there are a lot of good free resources
+so we're gonna
+we're gonna get a look at some of those
+tonight um
+let's see first i want to talk a little
+bit about the different kinds of patent
+searching
+so inventors are most interested in
+patentability and
+freedom to operate but there's a lot of
+other types of searches that you might
+hear people talk about but the ones that
+we're going to talk the one we're going
+to talk about is patentability
+but i also i just want to mention
+freedom to operate because
+that is something that inventors often
+get confused with patentability
+freedom to operate is where you're
+trying to figure out
+if you're going to infringe on somebody
+else's patent
+whereas patentability is where you're
+trying to figure out if you can get a
+patent
+and i always i usually tell people that
+the freedom to operate
+search and opinion that's a ten thousand
+dollar question
+and the uh patent ability as far as just
+getting a certain opinion by an attorney
+that's more like a thousand dollars and
+it's really it's where inventors
+most often start is with the patent
+abilities
+so let's see
+so now we're going to talk a little bit
+about prior art
+prior art is anything
+that published before the date of your
+patent application so that can include
+that can include magazine articles that
+can include websites that can include uh
+kickstarter campaigns
+and obviously it can include u.s and
+non-us
+patent and patent publications
+so i usually for patentability i rely
+on the the customer to be
+aware of their uh aware of their market
+so generally you know they're they
+should they should already know
+what what competitors are out there
+selling we focus on the patents and in
+particular
+we start off with a u.s patent search
+and then expand out to the foreign
+or to the non-us patents so we're going
+to take a look at
+how to do a u.s patent search to get
+things
+started but patrick are you saying that
+most patent searchers
+want the inventor to have study the
+marketplace and know what else is out
+there because
+anything that's selling in the market is
+priority as well
+and do you find inventors do that or do
+they sometimes
+not do that sometimes yeah they
+sometimes
+uh are unaware and in some cases they
+they put themselves out of the patent
+market
+by uh by by publishing their own
+information too early such as
+in a kickstarter campaign or you know
+just by offering their
+their uh their product for sale prior to
+uh
+well okay it gets a little tricky it's
+worth talking to an attorney but just
+the general rule is that it's
+uh it's wise to get yourself
+filed before you make a public
+disclosure or a public offer for sale of
+your own
+invention because because the patent
+office can come in
+and uh if they find a website that
+existed and you put it up
+and it existed more than a year before
+you uh more more than a year before you
+filed
+they will use that against you uh in the
+proceedings
+and that's you know that can be a
+disaster because
+uh because there's nothing that's going
+to look more like your invention than
+your invention so they have they have a
+perfect case against you
+uh so basically just prior art is
+anything that's out there no matter who
+puts it out there
+got it okay so let's take a look at
+some let's take a look at some patents
+so
+these are u.s patents and u.s patent
+publications
+patents like i say for a patentability
+search we are concerned about
+everything so you go back to the 1700s
+1800s
+you know a couple hundred years of
+patents publications have been around
+for about 20 years
+so between the two of them you've got
+about 20 million u.s documents you know
+maybe
+11 million patents and 8 million
+publications roughly
+so you know it's a huge data set um
+fortunately we are we use computers to
+do it believe it or not
+like 25 years ago the guys down at the
+patent office
+used to look at all this on paper which
+is it's hard to
+it's hard to even fathom today but yeah
+so about
+20 million u.s documents and then well
+over 100 million
+u.s and non-u.s documents
+so if we take a look at these uh take a
+look at these documents
+i wish i wish you could see it a little
+bit better but you can see that there's
+a title an abstract
+and there's usually a figure right on
+the cover so
+those are the primary things that we're
+going to be interested in
+uh when we when we get going with a
+patent search
+uh things like the claims we're just not
+going to worry about those because
+the claims are a subset of the
+the description of the patents so
+all the the information contained in the
+claim should be in the description and
+it should be
+more in plain english so we'll just we
+won't worry much about the uh
+about the claim
+these are some of the throughout three
+resources that i'm going to show
+tonight and i can get these over to um
+andrew to
+send out the most important are the top
+three
+one is google patent which i as far as
+free resources goes
+i think that's about the best one out
+there
+and the reason is obviously it's fast um
+it it's google you know so you they
+they don't rely on you having too much
+knowledge just the same way that you
+google for anything uh and they also
+they show images right on the
+uh the cover which is
+like the uspco website they make it a
+little bit more difficult to see
+images so it's just kind of nice to have
+everything right there
+another another resource here that i'll
+show you is thesaurus.com so when we get
+into
+naming out the elements of the invention
+we're gonna need to develop a few
+keywords
+and having a resource like i don't like
+that is helpful
+these other ones here are just uh some
+more free search engines
+two of them are for the uspto one is for
+the uh the
+uh the patents and one is for the the
+applications
+this search engine is um i can tell you
+that they haven't
+made an upgrade to that in the whole
+time that i've been looking at it so
+it's
+it's very you'll feel like you're in the
+early 2000s when you look at that one
+just the fact that you have to go to two
+different websites to look at patents
+and publications kind of tells you
+something
+the uh the next two are for doing a
+little bit of international searching
+but like i say with google you can
+just click a few buttons and you can get
+a lot of international
+art so next let's take a look
+at a sample invention because this is
+what we're going to do a quick little
+search on
+this is one that i've been using for
+years uh
+and it relates to um quitting quitting
+smoking this is a
+box that contains cigarettes
+it's got a timer and every
+you know at a given interval it'll
+release
+uh one cigarette and then it'll keep on
+making that that interval
+a little longer until you're i guess
+until you quit
+so that's that's the invention and if
+you
+get over to uh if you can open up a
+spreadsheet
+or just jot it down on paper
+this this is it's helpful it's very
+helpful to be organized when you're
+doing a patent search because this is an
+activity that you're going to be engaged
+in
+you know for multiple hours um
+so it's organization is really the the
+key to make sure that you don't
+you know start repeating steps and so on
+so here i listed out what i call the
+elements on the left side
+and you can just take a look one relates
+to quitting one relates to a container
+one relates to a lock this is the timer
+and then progressive is just
+you know indicating this uh this
+increasing amount of time
+over time and then
+so next we need to develop some keywords
+that relate to those elements and like i
+say you see that
+uh uh the elements are just listed very
+simple
+um as one um
+as one uh one word
+so let's see here where is space water
+so if you just come up to i mean there's
+a lot of web resources like this but if
+you just
+plug in uh one word like
+uh container
+you'll see that it gives you a bunch of
+words and you can just go and go through
+and pick
+pick out pick out words that you think
+will be uh
+used in describing the invention
+and you'll see that i came up with a
+this is my standard list of container
+related words right here
+i'm sorry i'm looking at the wrong thing
+this is my standard list of container
+related words right here
+and then here is a standard list of
+timing related words all relate to time
+obviously
+progressive you can see and i just you
+know i just developed these words
+by doing a little bit of searching
+around wikipedia is also useful for just
+about everything i do
+but thesaurus.com is where i came up
+with
+with these lists of keywords
+so next we would go over to
+[Music]
+google patent
+and you can see that the url is right
+here patents.google.com
+and here is the uh search field that
+accepts both
+text and subclass here are some other
+fields
+that you know are less important like
+the date related
+fields are not as important for
+patentability because like i say we're
+just
+we're interested in everything
+regardless of uh when it published
+so back to the 1700s up to today
+inventor sometimes but you know for for
+patentability i
+i almost never know the name of an
+adventure that i'm interested in
+inventor you may know some people
+because you're
+you're out in the field you know you
+know like who's who what companies are
+making things what people are prolific
+in an area
+um aston a refers to companies
+that uh that are the owners of patents
+so it's the same thing it's more that's
+more like market knowledge
+for me it's it's rare that i would use
+that kind of stuff
+uh when i'm when i'm doing a
+patentability search
+and then down here there's just one
+selection that i've made you'll see that
+i put it on
+us and
+like i was saying before everything is
+in play
+all of the you know chinese and european
+and wipo every everything is in play
+if it's been published uh but just to
+make things easy on ourselves to get
+going
+uh i always just start with u.s because
+u.s patents obviously they're
+they're published in english they're
+very well uh
+written uh they're well classified
+classified meaning um the uh the
+classification schedule that's used i'll
+get into that in a little bit
+so it's just like it's a way of making
+things a little bit easier on yourself
+to get started
+so here we are let's just um
+we can start putting in some of these uh
+some of these
+uh some of these words and we won't even
+worry about synonyms right now
+we're going to get so much of this stuff
+uh
+and you can see that everything is these
+these lists are coming up very
+quickly over here and uh
+i've already got one i'm going to like
+fast forward about a half an hour
+because you know patent searching is
+like that it just
+it goes it's it's not it's unfortunately
+it's not quick to find
+uh the stuff that we're most interested
+in so here i've got
+everything all of my keywords are
+entered
+one in each box and i haven't even
+worried about synonyms just yet
+and i just kind of want to take over or
+take a look over the list
+you'll see that they give us a figure
+from each one of these
+patents and
+here is one that turned up earlier
+and i just you know set it aside this is
+a dispenser
+container for meter dispensing of a
+product so you can see that this is
+probably
+this is probably something that we might
+be interested in
+you can page through all of the
+the images right here
+or right here and
+read the abstract the title
+and for now like i say for the first you
+know hour or two of a patent search i
+my opinion is that you shouldn't even
+look at anything else because you've got
+a lot of ground to cover
+so don't even bother with all this uh
+all this other text
+you can see how how much of it there can
+be patents
+for mechanical inventions are 10 pages
+for
+software they can be 50 pages for stuff
+in the biomed field they can be
+over 100 pages so you don't want to get
+in and read too much just
+focus on figures in the abstract copy
+down
+when you see something that's of
+interest just grab the number or you
+know you can just grab this link right
+here
+and set it aside in a little
+in a little note field um the thing that
+i want to
+that i want to point out though the
+thing to keep track of
+right now are these classifications
+sorry these classifications so this
+is how you're going to uh narrow your
+field
+of search down very quickly so like i
+was saying before in the u.s
+there could be 20 million documents but
+if you
+figure out how to get a good
+classification
+uh entered into that uh that google
+search window
+you could get that 20 million down
+to you know 100 000 and then down to 10
+000 and then down to a thousand you know
+if you if you if you can limit it
+limit your search with one of these
+classifications so what i
+what i would do is take a hold of all
+these
+copy them and then just start a little
+list
+like i have done right here so this
+little list
+represents the uh the classifications
+from
+several of the patents that i have that
+i've already found
+and we'll just tabulate it and just move
+on
+so here is here's another a different
+pattern that i
+have found and like
+you know just based upon the title and
+the abstract
+i already know that it's going to be
+relevant
+and so i just grab a hold of that
+classification
+add it to my list
+and then just move on and
+here is here's another one that came off
+of one of those search lists
+time cigarette dispenser as you can see
+patent um uh
+patent field or i mean um the patent
+search is almost always gonna show you
+that things are much more crowded
+than what you uh than what you would
+have guessed before you started the
+patent search
+it is true of every single search that
+i've ever done
+more stuff turns up and seemingly right
+next to each other and seemingly similar
+to each other
+uh more of that stuff always turns up
+than you think is going to
+so the key is i mean you just have to
+you've got to get a bunch of these and
+then
+take a look at them and then figure out
+how you are different from those
+so again okay here are more
+classifications so i'm going to just
+copy those over to my list
+and then i'm going to show you i'm going
+to show you the list
+uh after i've got um after i've got a
+few
+uh after i've got a few entries so
+after i've looked at five or six patents
+that seem to be kind of similar
+i'm going to just take a look at this
+list of these codes
+these are called cpc classification
+codes
+there's a few different classification
+systems out there but cpc
+is the common one now it's the only one
+that you will see
+in google and it's the way that the us
+patent office
+is classifying everything now so their
+old classification system is basically
+gone
+the only the only remnants of it you
+will see are on the
+um the old pdf documents which will show
+the old u.s classification
+but cpc is um is something that came
+over from
+europe uh you know 10 years ago
+i'm not sure exactly when but that's all
+we use now this is what they look like
+so they have uh four
+characters to start and then there's
+another you know four or five characters
+with a slash but if we just look
+at these first four this is called the
+main
+classification and if you just
+put your if you just scan over this list
+really quickly you can
+see that there's a lot of repeating so
+what i want to do is show you
+what each one of these repeats so b65d
+shows up a lot a24f
+shows up a lot so what we can do is just
+take
+those and go over to
+this uh the classification website which
+is also it'll be in that
+um it was on one of those slides and i
+can get it to andrew to send out
+if anyone wants to see it but this is
+the class schedule
+at the uspco and you'll see that the cpc
+selector is on so if i just stick
+one of these classifications in there
+b65d
+i can see that everything
+in b65d relates to containers
+so that means that i could
+use b65d to narrow
+this whole search down because we we
+want something that is a container
+so i could just search for b65d
+and smoking and quitting and
+right uh what i've done there uh is
+i've turned this search from a search of
+20 million documents into a search
+of you know 100 to 200 000 documents
+so it's a it was a big jump uh the other
+let's see the other important
+classifications
+one the one that seemed to be showing up
+this one a24s
+so if you go back to this website
+we'll just go right back to that home
+page put this in
+a24f and you see that this one
+everything in a24f relates to smokers
+requisites matchboxes simulated smoking
+devices so basically
+anything related to smoking should show
+up here and again
+if you then if you then do a patent
+search
+you using this as a limitation you'll
+see that
+everything should relate to a smoker's
+device so that means that instead of
+searching 20 million
+you're searching you know 50 000 100
+000 i'm not even sure how big these
+things are all different
+you'll see also below which i'll get
+into this a little bit more in a second
+but below this main classification there
+are a bunch of sub classifications
+or organized in a tree and
+the real the real goal
+for us is if we find a really good
+sounding
+sub classification because that means
+that we'll get ourselves to a spot
+where we're looking at maybe four or 500
+documents or 300 i mean
+some of them are very small but for
+right now we'll just be very happy that
+we have found
+um that we found this one so that we can
+uh
+that we can cut the size of the field
+down to a hundred thousand
+so if i take a24s
+and go back to
+[Music]
+go back to google i'll just start over
+here
+and i stick in a24f
+you'll you'll see that right off the bat
+everything relates to smoking
+so if i just take some of my keywords
+and and put them in and i don't even
+need to worry about the word smoking
+you'll see because
+everything already ever already relates
+to it
+so and
+let's just see this
+is there's all this vaping stuff that
+shows up now this this search used to be
+really really good to demonstrate
+uh and now they've changed it up on you
+patrick
+yeah yeah yeah but but basically so
+i'm in a much much smaller um a much
+smaller
+uh field so the next thing i want to
+show is that as you keep on
+as you keep on adding to this list of
+classification
+you can continue to narrow yourself down
+by finding the sub classifications which
+are
+you know really really uh good for your
+invention
+so in this case i can see that this one
+this one f 15
+0 0 5 shows up here it shows up here
+it's here so it was listed on several of
+the documents that i've already looked
+at so i'm going to want to look to see
+what that classification is because it's
+probably a very good one
+so if we go back to um
+to the pto website put that one
+in and then uh bring it up
+so here is a24f1505
+this like i say it's organized in a tree
+so the way you read it is
+you you start at the top of the tree
+which is here
+and this one says receptacles and then
+you move
+out one indent to this so this
+this is a narrow this is a narrowing of
+this one
+just as another example let's say that
+you were more interested in this one
+right here
+it would be this one is inside of
+this one i don't know if that's easy for
+you to see or not but this
+this one has two dots right here you go
+down you find the first one dot
+so this one is inside of this one
+and then this one is inside of this one
+so
+it continues to narrow down the scope of
+um
+of what's contained in that sub
+classification
+but anyways this one you can see
+we have a receptacle or box
+with means for limiting the street the
+frequency of of smoking like a time
+control mean
+so this one is basically right on the
+money
+so we take this one this this sub
+classification
+back here and
+you can put it in and you can even get
+rid of all of your
+um get rid of all of your keywords yeah
+they don't like
+the spaces and you can see
+that even google says right here that
+there's only 183 results so it's like it
+gets to the point where you can almost
+look at all of these
+patents and everything in here is going
+to be relevant
+and the reason the reason is is that we
+found a subclass
+that has you know that that really read
+on the invention
+so i guess the i guess the real lesson
+here is
+don't don't think of yourself in the in
+the first phases
+um as searching for patents so much as
+you're searching for subclasses
+as soon as you find good subclasses the
+whole thing becomes
+really um much much easier
+so okay
+and here's the yeah here's east er
+espace we can go back here and turn um
+turn all these other authorities on
+to see what's in there you can see that
+google makes it these are all
+representative of country code so
+[Music]
+and they put the most common ones up on
+top so wo
+is wipo uh us is obviously
+us ep jp ep is european union
+um jp is japan kr korea cn is
+china um back to uh wipo
+wipo is um it's an international
+authority that
+allows you to file an application and
+then
+have it examined and then have it moved
+efficiently into other
+countries but it doesn't there's no such
+thing as a wi-fi patent
+but there are still lots of wipo
+publications and like we said everything
+is um uh
+everything that's published is in play
+uh so okay so i turned all these other
+countries back on and i can see
+let's see did any non-u there's a
+european patent
+right there
+and of course it's in german it looks
+like
+um so that's that's not super that's not
+super convenient but
+uh fortunately if you click yeah
+so google will um google will
+yeah they they have uh they've
+translated it for us so
+google again is pretty awesome uh
+let's see
+these like i say again these other
+selections are not as important for
+patentability
+uh let's see
+espace is i i guess we don't really need
+to go there because i i think that um i
+think that google does a pretty good job
+but i'm okay so i right now i have
+i've shown you what i wanted to show and
+i just want to see what kind of
+questions there are at this point
+we got we got a good question from
+george um
+have the sub and he's very experienced
+with patents have the sub classes
+been honored sufficiently so once it has
+been whittled down
+to a subclass or two can the others be
+dispensed with as you go forward
+i think it's a good question yeah that
+yeah that is so
+um okay so when i deliver a patent
+search
+uh i usually deliver
+10 sub classes you know so i can tell
+but you know i mean people are paying me
+to do this
+so when i get to you know five to ten
+i'm pretty comfortable that uh
+that i've that i've got enough stuff in
+front of me
+um you know to you know to
+be able to deliver i think that for what
+you're doing if you see something that
+if you see a subclass that really reads
+nicely on the invention
+i think that you can dispense with the
+others the only the only
+the only caveat i guess is uh back to
+this list here a24 related to
+um tobacco and b65 related to containers
+it's probably a good idea to keep the
+b65
+around just because it's it's possible
+that a patented
+a good reference could be classified
+just as a container
+even though it has these other functions
+i think you've seen that these can have
+that a patent can have multiple
+classifications but i would
+you know i wouldn't throw away that that
+entire
+all of b65 but i get okay so generally
+if you have two or three that look
+pretty good i think that you are
+okay uh to um you know to dispense with
+the others
+let's see uh joni says can you
+trust google with the search engine with
+google and alexa
+and privacy issues would you be
+concerned at all
+so i think what you get these questions
+from inventors too but i think
+yeah yeah might as well ask it i mean
+investors are thinking like oh they're
+going to look at what i'm searching for
+and then come to some conclusion or sell
+that search data i mean
+is that could that really be a problem
+for most inventors people ask that
+though
+yeah i know it's um but so i'll tell you
+there's
+there are some stories from years ago
+about um
+and i i hope i don't get in trouble for
+even for uh
+you know for kicking dirt on these
+companies but
+there were supposedly um there was an
+old search engine which we all used to
+use
+called delteon and supposedly
+uh they did
+it was it was a private company that was
+offering um the search engine out
+to for free but they were supposedly
+looking at things
+but i just cannot believe that google
+would use
+the information for anything other than
+advertising to you
+um there's just so much there's so much
+stuff going through there
+but at the same time and okay and also
+google is in a partnership
+with the government related to
+dissemination of patent data
+i haven't read that exactly but i'm
+sure i i'm sure that part of that
+agreement would be that
+uh that you're that we're not going to
+um steal inventors ideas
+because that's you know it's not
+something that's it's not something that
+would be the interest of uh
+even if even if they wanted to they're
+seeing what you search
+they're not seeing your actual invention
+they have to make they have to put a lot
+of
+brain yeah not just data mining into
+that can i talk about
+yeah let me talk a little bit about this
+it's hard enough to knock on their doors
+with potential licensees follow up
+because you know you know presented
+correctly with great marketing material
+to get them
+even look at it let alone think that
+someone from google is looking at what
+you're searching
+for to steal it it's a stretch
+yeah yeah maybe
+maybe what you're searching for they
+could sell you on something maybe
+later yeah right oh yeah yeah i i do see
+i do see advertising that like i wonder
+how did they
+how did they know that i was interested
+in that and it's
+they are they are they are snooping on
+you a little bit but it's
+it's more about advertising and now
+that's why you're smoking lots of
+cigarettes patrick
+yeah i just i just don't see
+them looking at and go wow that's a
+great idea i don't see it
+i just no no ugh
+so where are we going from here patrick
+uh you know something that was that was
+what i wanted to show
+i but i mean we could we could start up
+a new search if you want
+no no i we got some questions we can
+jump in with questions here
+yeah let's do that let's see
+your good friend and our friend kevin
+prince
+uh patent agent uh said
+any way to search unpublished
+applications are are those still
+secret thank you those are secret yeah
+kevin that kevin
+was put a softball on the tee for me
+those are those are those are secrets so
+the the what he's getting at is that the
+um
+uh the applications that you submit
+uh they publish 18 months after
+you after your priority date unless you
+make a special request that not have
+them published which is
+uncommon so it's just something for
+inventors to be aware of though
+uh if you if you try to have a search
+done and one of your competitors
+filed an application a month ago and
+you're worried about what
+they're up to it's unfortunate for you
+but you will not be able to see
+anything that they filed for 18 months
+and there's just nothing it's just kind
+of a it's just kind of an
+unfortunate position for inventors
+there's nothing you can really do about
+it you just gotta
+proceed and know that you're taking a
+little bit of risk there
+on that note people find um patents that
+are published
+but not issued and then they freak out
+because they're like oh my god they got
+all this
+so if you want to show something can you
+show or search for a patent that
+has been published but not issued so we
+can show them what to look for there
+that would be really helpful
+yeah people realize oh they didn't get
+all these claims this is what they're
+trying to get
+right yeah so don't freak out so
+so um what you're talking about what are
+you talking about is a
+published patent application
+and here's an example right here
+so the way that you can tell the
+difference real quick
+on a u.s document is that an application
+will have
+a long number like this where the year
+is on the front
+so this one published in 2018 and then
+it's got a longer number out here
+so basically this is not a patent
+uh this is for right now it's just
+a public disclosure you can get a look
+at what they're trying to claim
+but uh you know it's all it's all in
+process
+at the patent office and then another
+thing to be aware of
+is that you know if you're worried about
+their about their patent stopping your
+product and not your patents i know that
+that's something you should always try
+to make sure you have straighten your
+head
+the difference between stopping a
+paddock stopping a patent and stopping a
+product
+this stuff can these public disclosures
+will stop a patent
+but most of these do not become patents
+so about half of applications just go
+abandon for one reason or another and
+then they just sit out here and
+they sit out here as prior art but they
+don't become
+patents so there are ways i mean if you
+wanted if you wanted to
+take a look there are ways to uh there
+are ways to find out what the status of
+an application is to see if
+uh to see if it is abandoned or to see
+if it's pending in front of the office
+and also since we're on that note of
+abandoned versus
+non-abandoned every
+everything from before to you know the
+year 2000
+is uh expired but i said well most
+everything looks
+there are some clever clever guys out
+there that figure this to figure out how
+to
+extend life but as a general rule
+everything 20 years old
+is expired so you only have to worry
+about that
+as prior art and then i found in looking
+at
+patents over the past 20 years you know
+starting
+in 2000 up to now that
+i i would say less than half of those
+are
+up to date on their maintenance fees so
+the number of things that can affect
+your product
+is um is a much much smaller subset of
+the whole
+you know 20 million that i talked about
+uh earlier
+does that uh what what else what else do
+we have
+that was good yeah we got a whole bunch
+of questions here um
+this is a really good general question
+from tyler what is the overall
+goal by doing this search not
+duplicating the product question mark
+gathering info for submitting an
+official utility patent question mark
+all the above
+question mark or more so yeah let's i
+think that's good i mean it's a pretty
+basic question but i mean i think it's a
+good question to ask
+um yeah why do we do a patent search why
+and i think steven and
+um patrick would probably want to talk
+about that sure yeah yeah so
+uh to start uh
+you you might find something that is
+sitting right on top of you
+you know like a single reference that
+will completely change what you're
+doing so that there's one there's one
+reason to do it
+you know prior to trying to file an
+application for example
+you would want to know about those
+really bad references
+first and then next
+once you get a look at the uh the
+patents that are close
+that's when you can go back to the
+drawing board
+and either add features or figure out
+how you are distinguished and make sure
+that what
+distinguishes you is work worthwhile
+you know uh pursuing a patent
+but basically yeah so you would use that
+to uh to strengthen your
+uh to strengthen your position and when
+you're when your attorney or agent get a
+hold of
+the uh the patent search they will
+they'll submit it in an ids for one
+thing so that the patent office already
+knows about this stuff
+but they'll also write about the
+references that are close
+in the application and they will say
+look this one has a b and c
+and this one has c d and e but they none
+of these guys show
+uh uh what you know the entire picture
+of what i'm trying to do
+and what it does then is it provides a
+much stronger
+case for you at the patent office
+because if you didn't provide if you
+didn't do this background research and
+something
+really difficult turned up two to three
+years later
+after you've submitted your patent
+application then you could just be dead
+in the water
+so there i mean those that's a few
+reasons i know stephen has some other
+uh reasons for doing this yeah let me
+tell you how dangerous this is
+because it happened to me i
+filed two patents um thinking that
+you know there wasn't any prior art
+and sure enough uh there was and
+my application didn't
+work around those those prior arts so
+basically the two patents i filed
+were worthless i mean imagine that
+imagine
+spending all that time and energy filing
+something just to be notified by
+a patent examiner that hey here's some
+prior art and there you found your
+your your invention
+you wasted time you wasted money you
+wasted everything
+because you didn't know that something
+existed
+out there that could possibly stop you
+from getting a patent so
+it's really critical especially if
+you're going to file a non-provisional
+patent application
+you you have to do you
+or i recommend that you do it yourself
+you learn how to do it and then you hire
+someone
+to do a worldwide search if you're
+serious about
+filing a non-provisional patent
+application you don't want to be
+surprised
+later to see if you have to overcome
+those those prior arts because there's a
+very good chance you will not be able to
+overcome them
+and you've just wasted time and money
+we got a bunch of good questions in here
+this is one we get all the time
+uh russ says is there any way to search
+provisional patent applications um
+patrick no yeah those are those are
+those do not ever publish um
+well except for in well
+they don't publish in the databases that
+we're searching
+it's similar to the uh the secret
+applications
+they sit on file for a year and if
+an inventor claims the original date
+of the provisional when they file a
+non-provisional within that year
+then they get that first date but
+if nothing happens no one files anything
+uh before that year is up then the
+application just goes away and no one
+ever sees it
+so no it does not it doesn't publish in
+the way that
+um uh that the non-provisionals publish
+they just they they provide dates though
+for the non-provisional
+earlier dates earlier priority days so
+if you
+defile the provisional today and then
+one year down the road
+filed the non-provisional that linked
+to the provisional then rather than 18
+months later
+uh the publishing it would publish just
+six months later so that you have that
+again you you're back to that total
+window of secrecy of 18 months
+so yeah so that's the long answer but
+the short one is no they don't they
+don't publish
+uh keith says have you ever heard of a
+dishonest patent searcher you know some
+people were worried about it you
+spent all this time on this product and
+you're like no they this
+password you're gonna steal my idea so
+what's your take on that patrick oh oh
+yeah i mean it gets back to the um to
+like the uh the google question
+i i see stuff come in all day long
+and um i know first of all i know how
+much it takes
+uh to get something off the ground and
+then also
+uh uh
+you know you you would you you'd be
+committing a crime you you
+you know you signed some sort of
+agreement i i send out a uh
+uh i send out a non-disclosure to all my
+customers so i'd be violating that
+um i i just i've never heard of i've
+never heard of
+a patent searcher uh stealing an idea
+and that's not to say it's never
+happened but i i just
+i've never heard of it and then the
+other like the really cynical part of me
+says
+um that you know most most ideas are not
+they're not worth stealing anyways so
+it's like
+there's so many and then also like
+you're you would be sending something
+into a patent searcher
+you're the one that knows the field the
+market the competitors you have all this
+advantage over them they have nothing so
+yeah no i've
+i just i've never heard of it happening
+i'm not saying it doesn't but i
+just haven't heard of it yeah
+i agree um this was from katherine it's
+interesting
+what if there is a very vague general
+comparable prior art that was discovered
+during the patent search
+question mark and we know that it was
+abandoned before the patent was issued
+what is the risk to me so i think what
+she's saying is
+um you
+somebody's filed a patent but then they
+abandon it so it's all
+being publicly disclosed right after 18
+months but then they abandoned it
+how's that become prior art how does
+that work
+it's i mean just the fact that it's
+published
+uh makes it prior art and that's that
+there's a date on it
+and it's accessible to the public you
+know a patent searcher or
+anyone with a computer can go out and
+bring it up on their computer
+uh prior to uh prior to your
+um your filing so it just means
+that you're that you cannot get a
+that it's a roadblock you getting a
+patent it's the same kind of roadblock
+as
+an issued patent there's no difference
+but you can always get a patent on an
+improvement to that
+that's public domain now and then you
+can get a patent on an improvement
+to it yeah an improvement but that gets
+you know that
+becomes a question for an attorney and
+for the patent office because
+the improvement has to be um
+well it has to be new and non-obvious
+that's that's what they will that's what
+they'll say is non-obvious
+um so there has to be some kind of like
+wow
+improvement not just you know like
+adding adding
+uh adding a third condiment to a
+hamburger at mcdonald's
+would not wow anyone because everyone
+knows what it's going to taste like when
+you put
+i don't know i can't even think of what
+i would put on there to make it
+different but you know
+there has to be some wow factor to the
+improvement that
+that nobody else saw coming
+so we'll end with this one let me see if
+i can pull it over here
+okay um stephen what did you do after
+the two prior patent applications so
+what did you do after that stephen
+uh that's what joni is asking well the
+the two applications were abandoned
+um luckily my patent attorney
+saw that and they felt
+responsible for that
+so they gave me a discount on those so
+it didn't cost very much
+and then i looked at the two prior arts
+that were exactly my invention
+and i didn't walk away
+um because when i read them very clearly
+i noticed a couple things that were
+missing and the the major things that
+were missing in those two old
+prior arts were where there there was no
+method of how to manufacture
+of this particular invention so that
+prior art now helped me
+um learn from
+that prior art so i started filing
+patents on how to manufacture my
+invention and eventually ended up with
+20 patents
+so the prior art was my best friend
+and i wish i had had that information a
+little earlier of course
+but it gave me the road map to really
+understand what i need to file to get my
+the ownership of those
+of those patents i did ultimately
+receive
+would it be safe to say you believe in
+patent searching stephen
+i'm you know that's what i'm saying i'm
+really a big
+big believer in it um it's so
+important that um
+you just have to to realize that if
+you're serious about going to a
+non-provisional
+um you have to do it right or it's going
+to be
+it could be extremely painful and you
+don't want to know later that you spent
+all that money and time
+so it's it's really important
+right yeah hey
+uh andrew i i want to show one more
+thing that yeah yeah
+i'll change it back to you no problem
+man um
+okay so people were asking about
+abandoned versus unabandoned like i was
+saying
+it's um it doesn't matter for
+uh
+it doesn't matter for patentability
+searching because prior art
+it's just it's everything so but but
+but sometimes you do want to know if
+something is abandoned or not
+um because you just want to know what
+they're up to are they is this company
+trying to
+make this thing or not um or are they
+trying to get this patent or not i
+should say
+uh so if you came over and i'll add this
+to that little sheet
+um and send it to you and you can you
+can distribute it
+if you think it's useful uh these free
+resources
+this is one more free resource for
+looking at um u.s
+applications you'll see up here it's um
+it's called public pair and public pair
+is where you can get the
+full file history on an application so
+basically
+starting from its filing point all the
+way through all the correspondences
+between the attorney and the patent
+office so it's like
+it's a it's a giant document but it has
+there's some good biblio information
+that you can get out of there and so i
+came back to this list
+and i'm curious about this one here's a
+here's a published application from
+2014 and i'll just put it in here
+get rid of get rid of the kind the kind
+code is at the end those things are
+um a hassle because they're not worth
+anything just take the kind code off
+take the us off so that you just have
+this 11 digit number sitting here
+and then turn on publication number
+because that's what this is the 11
+digits
+like most people would know that right
+it's like that's very intuitive
+yeah yeah but then you can just take a
+look here
+and here is the information
+so this one was filed
+uh on 310 of 2014
+and then it abandoned in 2018
+right here you can see that it's
+abandoned so this is one that you don't
+i'm not going to say you shouldn't worry
+about it because these things can be
+resurrected but
+it is telling to see that to see that
+word abandoned right there
+and then if you look at the full history
+you can see all of these correspondences
+all these documents and this is like
+this this is confusing stuff but um
+i just want to show a couple of key ones
+uh like right there so the patent office
+sent out what they call a non-final
+rejection in 2017
+and they didn't hear back from the
+applicant
+for six months and so then
+uh the application went abandoned and
+that was the end of it
+and that's um like i was saying before
+half of uh of patent applications
+don't go anywhere 90 of them get that
+first rejection and then
+your attorney or agent will um on your
+behalf
+argue with the patent office and
+sometimes you'll get multiple rejections
+sometimes you'll get a patent
+sometimes you won't um but
+in about 50 of the cases um
+it might even be less than that now but
+in about 50 of the cases
+uh these applications just don't go
+anywhere and this is the way that you
+can
+verify the status is just by going into
+uh to a public pair and
+taking a look so i'll add that for your
+um uh to that to that sheet and send it
+over to you and then you can provide
+these resources
+yeah that would be great and so how you
+guys can get that when we put this up on
+youtube
+um next week um right down in the
+description and the youtube video and if
+you're watching the recording of the
+video right now this isn't recording
+it's live but
+if you're watching the recording just go
+down in the youtube description
+and we'll have a link there to that info
+that patrick wants to share with you
+so um yeah patrick that was great man
+that was really great all right all
+right i'm glad
+stephen did you have anything to say in
+closing before we
+no i just want to thank patrick for his
+time i think it's really important that
+we all
+understand this is it's important
+and we need to take the time to
+understand the landscape
+that our invention kind of falls into
+and
+not be afraid of it but learn from it
+and keep on
+playing with it and if you need
+extra help doing it reach out to someone
+i know patrick does a great job he's
+done work for me
+but it's important to do so just like i
+said
+just realize if you're going to file a
+non
+non-provisional patent application and
+you're going to be spending
+big dollars make sure you do a very
+thorough patent search and make it
+worldwide
+thank you patrick okay hey thank you
+yeah and i don't think it's tremendously
+complicated but i think the first time
+you do anything in life it's always
+harder
+so i think you'll follow the techniques
+that patrick is
+is using and probably the second time
+you do a search is going to be a lot
+easier so
+i think it's a worthwhile skill for
+every inventor to have
+so i encourage you guys all to do it and
+use the great information that patrick
+has shared with you thank you
+yep yep and don't don't put a week into
+it
+uh you get to get out past a couple of
+days you should
+uh you're probably gonna run into you're
+gonna run to the end of your uh ropes
+with it but
+yeah yeah i would just do um uh get be
+ready to hire someone
+um if you don't find anything but if you
+do find stuff that's great because you
+didn't have to pay
+you'd have to pay for it
+tons of nice comments for you patrick
+everybody thanking you and you guys did
+a great job with your questions really
+great questions
+we can never get to them all but we got
+to a few of them
+and i just want to remind everybody to
+take care and keep inventing good night
+good night everybody

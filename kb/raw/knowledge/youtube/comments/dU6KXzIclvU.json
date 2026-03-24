@@ -1,0 +1,52 @@
+{
+  "video_id": "dU6KXzIclvU",
+  "total": 3,
+  "fetched_at": "2026-03-12T08:34:37.482604+00:00",
+  "comments": [
+    {
+      "id": "Ugy__CmIO2yKBYHcSbx4AaABAg",
+      "author": "@abdelali4373",
+      "author_id": "UCnllHJX_kVc8OWT8TKJpreg",
+      "author_url": "https://www.youtube.com/@abdelali4373",
+      "author_verified": false,
+      "text": "Explain the registration process and explain how to fill out document 1001",
+      "likes": 1,
+      "published_at": "4 years ago",
+      "timestamp": 1647043200,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    },
+    {
+      "id": "UgyFq7g8EoxdGrliil54AaABAg",
+      "author": "@abdelali4373",
+      "author_id": "UCnllHJX_kVc8OWT8TKJpreg",
+      "author_url": "https://www.youtube.com/@abdelali4373",
+      "author_verified": false,
+      "text": "Can I find evidence with pictures and references for registering a patent application in epo knowing that I am registered with pct",
+      "likes": 0,
+      "published_at": "3 years ago",
+      "timestamp": 1678579200,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    },
+    {
+      "id": "Ugx0taZxtc5wR5tLYtB4AaABAg",
+      "author": "@khaledbmw99",
+      "author_id": "UC3N5TlJ7MLUG06QNQ7lKyWA",
+      "author_url": "https://www.youtube.com/@khaledbmw99",
+      "author_verified": false,
+      "text": "Modifying the structure, making modifications in the shape of batteries bank distributing them, and making modifications to the air conditioner and power  systems. Is this considered a patent or a normal development",
+      "likes": 0,
+      "published_at": "4 years ago",
+      "timestamp": 1647043200,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    }
+  ]
+}

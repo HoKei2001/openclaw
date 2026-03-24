@@ -1,0 +1,231 @@
+patents are useless if you're building a
+software stter think of some of the
+biggest innovations that software
+starters have given Tik tok's infinite
+scrolling no patent Netflix
+recommendation algorithm not patented
+Snapchat stories no patent Snapchat was
+pretty much built on this stories idea
+and a few years later Instagram
+essentially stole this feature and
+called it Stories 2 so why didn't they
+file a patent could a patent have
+stopped Facebook from copying this the
+answer is no but I'll get to that I
+learned about this the hard way too so
+let me explain why patents are not what
+you think so when we started SL back in
+2014 we had this radical or so we
+thought idea for a presentation Builder
+we would let people write a presentation
+without the distraction of the design
+and then we would generate the design
+automatically presentations that
+designed themselves we called it and the
+first thing that we did is file our
+patent woohoo well not really we filed a
+provisional application for a patent or
+a patent pending which is the biggest
+fallacy in this IP world I see this in
+pitch a lot oh we have a patent pending
+unless that's an actually granted and
+filed patent it's not really worth
+anything a provisional literally costs
+like $200 to file online with the idea
+that you have 12 months to convert that
+temporary filing into a real patent but
+reality check came a few weeks later
+when we spoke to a legal team so they
+brought their $800 an hour IP expert to
+tell us that there was nothing that we
+could really patent there's nothing you
+could really patent this content and
+design separation idea was just too
+abstract to patent okay so what about
+the algorithm well if someone built a
+platform that did the exact same thing
+but just use a different code different
+algorithm to solve it as someone
+probably would then the patent would
+just be unenforceable okay so what about
+the interface well the only way a UI
+patent would be enforceable is if
+someone built an exact visual replica of
+our solution moreover converting my $199
+provisional patent to a real patent
+would cost starting at $10,000 assuming
+there are no conflicts issues or
+refiling needed also it would take
+months maybe years and as part of the
+process we would also have to search
+through thousands tens of thousands of
+other patents to ensure that we're not
+infringing on any one of them and
+finally if we ever found someone
+infringing our patent we could sue them
+only on the damages meaning the money
+that we lost because of their
+infringement and of course we would have
+to prove this in court through a process
+that starts at $1 million and usually
+costs closer to $4 million in legal fees
+and I remember sitting down with my
+co-founders first wiping over the $800
+that we had just wasted and then just
+giving up on this whole patent idea
+deleting the patent pending stuff from
+the pitch deck too there's no arguing
+that patents are crucial for Hardware
+companies for bioscience for medicine so
+I'm not even going to touch on that
+we're talking about software companies
+here but for example Microsoft that's a
+mostly software company has 107,000
+patents so there must be some reason to
+file them right and what kind of
+startups should use one in essence
+beyond the legal requirements of format
+and jurisdiction a patent needs to meet
+three main criteria novelty inventive
+and utility in other words no you can't
+patent an idea you can't patent a
+software platform it's more about a
+specifical technical solution to a
+specific technical problem but let me
+give you some real world examples of
+patentable and not patentable inventions
+for example a patent was given to these
+guys in Germany for inventing MP3
+compression but jpeg compression on the
+other hand was not patentable this is
+mainly because jpeg didn't tick the
+inventive requirement MP3's whole deal
+is separating the audio in frequencies
+and pressing each of these separately
+based on what we can hear jpeg on the
+other hand just used existing well-known
+algorithms for the compression another
+good example is Google's original page
+rank algorithm which sorted pages on a
+search engine based on the links that
+point to that page rather than the
+content of the page and this patent is
+the backbone of how Google works even to
+this day and it takes all the checks and
+so the patent was granted for Google but
+in the 20- year protection that the
+patent provided Google never sued anyone
+for patent infringement even though
+other search engines that appeared and
+were started during that time also use
+backlinks as one of the methods to rank
+Pages other companies built engines that
+used obviously different code but also
+different algorithms different weights
+different mathematical models to achieve
+somewhat the same thing just with a
+different approach and filing and
+Publishing the patent revealed Google's
+approach and you could argue that it's
+what gave other companies inspiration to
+use links as a method for ranking pages
+and to develop algorithms on their own
+but not close enough that Google even
+bothered to prove infringement last
+example here is Amazon's oneclick buying
+Amazon was actually granted a patent for
+oneclick buying in 1997 and it worked
+the idea was to have a single buy now
+button that would use store credit card
+and shipping information and this was
+100% novelty and useful and non obvious
+in 1997 and the patent touches on how
+cookies are used to maintain the session
+State and collecting data and on sending
+email confirmations and apple actually
+paid Amazon to license their Tech and
+use it on the iTunes Store Barnes &
+Noble launched the express lane feature
+in '99 and they got slapped with a
+lawsuit by Amazon that was eventually
+settled out of court this is a great
+example of a software patent that did
+Force companies like PayPal and eBay and
+Google to add two or more steps to their
+checkout experiences to avoiding Fringe
+In Apple's oneclick by Patent at least
+until 2017 when it expired and now
+everyone can do it it's one of very few
+successful software patents that have
+actually worked to protect something and
+that gets us back to the Snapchat and to
+the Instagram story and why they didn't
+patent stories cuz to me this feature
+may look a little bit like the oneclick
+Amazon patent which was granted so why
+not this one well reportedly Snapchat
+tried to file a patent for it but they
+couldn't fulfill the requirements
+probably because it wasn't novel enough
+or because it didn't fit the non obvious
+the inventive requirement and that's
+such a crucial aspect of this whole mess
+because it's not just about inventing
+it's about building a case for novelty
+for the inventiveness having a legal
+team that that's good enough to actually
+get the patent through which means
+having the money for it and this is what
+allowed Facebook to eventually steal the
+feature using their own code and their
+own implementation and these are the
+kinds of stories that would make you
+think that a patent is necessary before
+launching anything before running a
+company but the bar is really really
+high on software inventions and even if
+you get one you would need millions of
+dollars and years of litigation in order
+to maybe be able to enforce it before it
+expires and investors of course know
+this there are types of software
+startups whose value really depends on
+the patents or on the potential
+acquisition value of all this patent
+portfolio rather than the assumption
+that they're going to litigate and win
+the trial and if that's the case then
+ideally the founders should have the
+experience navigating IP law and the
+legal team in charge should become a
+crucial part of the pitch but for the
+rest of us and that is the majority of
+us patents can end up just being a
+distraction or honestly a rook mistake
+the pitch so in a nutshell here are some
+things that you probably will not be
+able to patent on the software side
+abstract ideas basic algorithms or basic
+data processing methods business methods
+or business models basic user interfaces
+or experiences or navigation methods
+data organization methods for databases
+at least if they're very basic software
+implementation for known processes or
+standard mobile app functionality and
+standard encryption methods none of that
+stuff is probably patentable software
+starters that might be patentable are
+very unique algorithms for example for
+compression or encrypting or managing
+data at scale or on the user interface
+side gesture recognition or augmented
+reality many of Microsoft and made us
+patents revolve around this stuff and
+this was not obvious for 2014 me and
+nobody had told me about it but if you
+want to learn more about that stuff and
+not make the same mistakes you know what
+to do about that subscribe button see
+you on the next one
+[Music]

@@ -1,0 +1,617 @@
+hello and welcome to patent agent exam
+preparation lectures and today first
+we'll try to understand what is a patent
+and what are the pit what is the
+patentability criteria and after that in
+next com coming lectures we'll study the
+whole process in detail
+select let me share my screen so yeah to
+begin with I think because we are giving
+the patent agent examination and the
+most important element of this exam to
+understand what is a patent that's why I
+will be able to discuss patents with our
+clients so because this examine exam is
+focused on the patents act we'll study
+the sections we'll also study
+application of these sections but
+learning about these sections is
+absolutely necessary for the purpose of
+exam that's why instead of going into
+logical definitions and application
+based definitions we'll study the
+definitions which are mentioned in the
+act
+so let's begin with what is a patent so
+under the patent act section 2 1 M
+defines patent and according to it
+patent means a patent for any invention
+granted under this app
+so I think this is my own way of
+learning the about patents from the act
+like if you want to start reading patent
+act you should know the term patent so
+in the term in the term patent
+which is defined under Section 2 1 M
+which is the most important keyword it
+is invention then you can press Ctrl F
+and search for what is an invention and
+you will find a definition invention
+means a new product or a process
+involving an inventive step and capable
+of industrial application so what are
+most important parts of this definition
+the first important part is the word new
+second important part is the word
+product or a process the third important
+part is the word inventive step and the
+fourth important part is the word
+capable of industrial application and
+from here we get to know about the
+patentability criteria what can be
+patented and invention what is the what
+is an invention an invention is a new
+product or a process involving an
+inventive step and capable of industrial
+application
+so let's see how do we learn about these
+terms so the word new implies novelty
+product or a process implies subject
+matter eligibility
+inventive step implies inventive step
+and in many other jurisdiction it is
+called non-obviousness because we are
+giving the patent agent exam we need to
+stick to the term inventive step we
+don't have to go into the term
+non-obviousness and the fourth term is
+capable of industrial application which
+is which indicates the term utility so
+what are four elements novelty subject
+matter eligibility inventive step and
+utility now let's see where the word
+novelty is defined in that act and where
+are other terms defined
+so the term nobility is defined in the
+section 2 1 L which discloses the word
+or the definition of the word new
+invention so from the this definition of
+invention means a new we come to the
+definition of new invention and that's
+how we read about novelty from the
+product from the word product or a
+process we come to the exception where
+in Section 3 and 4 it it is mentioned
+what cannot be patentable so a product
+or a process is pretendable that is from
+this definition and what cannot be
+patentable is defined in Section 3 and
+4.
+then comes the term inventive step which
+is defined in section 2 1 J A so simply
+if you try to search for these terms in
+the act itself you will find it just
+that you'll have for the purpose of exam
+you'll have to remember in which section
+what is defined and how it is defined
+how it is defined will come to it in
+next slides and then we have the term
+capable of industrial application which
+indicates utility and where is capable
+of industrial application defined it is
+just find in section 21ac
+of the patent act now
+apart from this I have used the word
+anticipation and the and important
+sections related to the word
+anticipation is section 13. and section
+29 to 33 you can include section 34 also
+in this only because until it is also
+included in section of anticipation but
+yeah more or less it is from section
+section 13 and 29 to 33 where the word
+actually anticipation is used or the
+term actually anticipation is used so
+what is the difference between novelty
+and anticipation because our act itself
+it uses the term new and it uses the
+word
+anticipation so you need to remember
+that something which is new is not
+anticipated and something which is
+anticipated cannot be new anticipated
+means we are able to foresee that thing
+or that thing already exist so something
+which is anticipated cannot be new
+something which is new cannot be
+anticipated so these two words are
+opposite of each other's and our patent
+Act use both of these words the word new
+and the word
+anticipation so let's come to novelty so
+according to the ACT novelty is
+indicated in section 2 1 L which defines
+new inventions so what are the important
+elements of these inventions first we
+use this definition first we'll read the
+definition and then we'll understand the
+important parts any invention or
+technology which has not been
+anticipated by publication in any
+document or has not been used in any
+country or elsewhere in the world before
+the date of filing of the patent
+application with complete specification
+that is subject matter has not fallen in
+public domain or that it does not form
+part of the state of the art so what
+does this mean
+this simply means if you are filing
+something today it should not be
+disclosed in any document anticipated by
+publication means it should not be
+published anywhere not even in previous
+patent applications or journals or
+textbooks or articles or blogs anywhere
+it should not be disclosed anywhere
+or has not been used in in the country
+or has not been used in the country
+means your product should not be used
+anywhere so when when will your product
+be considered as you new it will only be
+considered as new if it is not disclosed
+in any uh publication which includes
+articles blogs previous patent
+application journals Etc or it has not
+been used that is nobody knows how to
+use that product
+and you should emphasis on the world
+elsewhere in the world so if you are
+filing a patent application in India you
+cannot do a novelty search in India only
+like you cannot if I want to file a
+patent on this pen I will do a novelty
+search where I'll see whether the same
+pen exists anywhere in the world or it
+does not exist anywhere in the world it
+should not be limited to a particular
+country because this section
+particularly includes the term in the
+country or elsewhere in the world so it
+is a global search that we need to do
+and why when it should not be published
+till I file my patent application so if
+I file my patent application on 1st
+April 2023 all the things which have
+been disclosed or used prior to this
+date I need to check that and according
+to that only I can take a decision and
+file my patent application so so it is
+an important definition and an important
+concept for the purpose of answering
+your written questions as well that what
+is novelty novelty means your product
+should be new and how will your product
+be new it simply means it should not be
+disclosed anywhere in the world or it
+should not be used anywhere in the world
+so if it is not being disclosed and not
+been used that means the subject matter
+has not Fallen yet in the public domain
+and it does not form part of the state
+of the art so this is just the
+explanation part that is the subject
+matter has not fallen in the public
+domain or that it does not form part of
+the state of the art so this is about
+novelty in the light of our patents act
+and Accord uh apart from the section 13
+and 29 to 34 which are related to
+anticipation are also important that
+we'll probably discussed in in our next
+lecture the second term which is
+important and which is one of the
+requirement to get a patent is the word
+inventive step so what is the what is
+inventive step for that we need to study
+section 2 1 J A which means
+inventive step in the patent Act is
+defined as feature of an invention
+which involves technical Advance as
+compared to existing knowledge or having
+economic significance or both and that
+makes the invention not obvious to
+persons killed in the art so whenever
+you are filing for a patent you should
+know that in your in your patent
+application or in your claim or in your
+invention there should be technical
+advancement or economic significance or
+both so more emphasis is given on
+technical advancement so if the level of
+technical advancement is low the
+economic significance should be very
+high to get a patent so or if the value
+of technical advancement could be very
+high and then economic significance
+would not matter but in order to tell
+whether I can get a patent on this
+technology or not I will check inventive
+step so if my patent application
+involves a technical advancement and has
+economic significant or both
+my invention would not be obvious to the
+person skilled in the art and then only
+I am satisfying the requirement of
+inventive step now you you a question
+may come to your mind that how is my
+invention not obvious to the person
+skilled in the art so whenever we go to
+the examination phase most of the time
+examiner will cite a few uh prior arts
+and tell us your invention is obvious in
+the light of these these documents and
+to that reply we'll form our arguments
+and with those arguments we'll say
+because our invention has a technical
+advancement over the prior Arts which
+you have cited or Oracle our invention
+as economic significance over the
+inventions what you have cited or there
+is technical advancement and economic
+significance both in our invention in
+the light of whatever inventions you
+have cited then only my invention is not
+obvious to the person skilled in the art
+and I am qualifying the inventive step
+so whenever I need to get a patent I
+need to qualify for novelty inventive
+steps subject matter eligibility and
+utility so let let's now come to utility
+utility simply means capable of
+industrial application so if my
+invention is capable of being made or
+used in an industry it is capable of
+industrial application which is defined
+in the section 21ac so in this section
+the definition of utility is there how I
+can say whether I can get a patent on
+this or not or my invention is useful or
+not I need to establish that my
+invention is capable of being made or
+use General Industry and if it is
+capable utility satisfied till now I
+haven't seen any patent application
+where the utility was not satisfied
+obviously if any article is of no use
+you will not file a pattern for it so
+this is also but this is a requirement
+that we need to fulfill
+now what we read the term product or a
+process in the definition of patent uh
+in the definition of invention so
+invention means a new product or a
+process involving an inventive step and
+capable of industrial application
+so what all things are included in the
+word product or a process is what
+is defined
+oh sorry what all things can be patented
+either a product or a process so what
+all things fall into this domain
+e any process or a method for example
+new way of manufacturing a concrete or
+any machine which has some moving parts
+or a manufactured article like
+microphone pen
+glass candle anything which is a
+manufactured article or composition
+composition means which has some
+chemical composition example
+pharmaceutical drugs or adhesives
+so these are some examples of
+compositions so these are the things
+which can be patented but are patent
+acts specifically defines what cannot be
+patented so it is defined in the section
+3 and section 4 what are the things
+which cannot be patented and it is very
+very important to understand these and
+to learn like you you for for the
+purpose of examination you should know
+what is mentioned in three a three B
+three c three D3 E3 f3j 3K 3l3 M3 and 3
+l o and 3p so because in objectives
+questions may come like why this is not
+patentable under which a section of the
+patent tag this is not patentable or a
+question can come whether a
+whether I can a new form of planting a
+tree is patentable or not so from those
+to answer those type of question you
+need to know where it is mentioned that
+what cannot be patented
+you need to remember these term and it
+is it is important for the purpose of
+longer questions as well because most of
+the times question come with the
+scenario and to answer that scenario we
+need to mention under which section this
+cannot be patented or why this can be
+patented so for for that purpose you
+need to answer with the sections
+mentioned in Section 3 and section 4. so
+let's try to understand these sections
+uh
+so that you are able to answer the
+questions as well so section 3A says
+anything which is contrary to Natural
+laws or is frivolous cannot be patented
+so these laws are not legal laws these
+laws are scientific laws for example you
+are making a machine which is giving you
+an efficiency of more than 100 percent
+that is scientifically not possible so
+if it is scientifically not possible
+we'll term that invention as contrary to
+Natural laws or frivolous and we cannot
+get a patent on it then section 3B says
+anything which is immoral or contrary to
+public order so for example I am
+manufacturing a an explosive
+for for the purpose of hampering the
+public around me I cannot get a patent
+on this because that is immoral or
+contrary to public order
+then we have section 3C which uses the
+word mere Discovery is not patentable
+now what is the difference between an
+invention and a discovery is
+an invention is something which a person
+has made but Discovery is something
+which is existing but people did not
+know about it for example gravity if
+Newton explode gravity today Newton can
+get a Nobel Prize he can get anything
+but he cannot get a patent why because
+gravity is existing and he just
+identified an existing thing but if he
+manufactured something which uses
+gravity for the purpose of x y z then
+that is a manufacturing process and
+because that is created by a person it
+can be patented so we need to know the
+distinction between mere Discovery and
+invention inventions can be patented
+mirror Discovery cannot be patented then
+we have section 3D which says new form
+new use new property of a known
+substance or new use of a known process
+so in this section basically uh to give
+you an example if we have a drug for
+example paracetamol and for now
+paracetam mole is used for curing fever
+now I have started using paracetamol to
+cure pain as a pain relief medicine so
+it is a new use of an existing product
+so if it is a new use of an existing
+product I cannot get a patent on it
+then we have section 3E which is mere Ed
+mixture
+in section 3E if I make salt and
+solution sugar solution together salt is
+also existing sugar is also existing I
+cannot get a patent on it but in these
+sections you need to remember that if I
+am getting a surprising result because
+of mixing of two elements for example if
+I am you using paracetamol with a drug
+XYZ both are existing in nature but I
+did not know that these two drugs can be
+used to cure cancer or it is giving me a
+surprising effect that it can be used to
+cure cancer in that situation I can get
+a patent why because I will be able to
+see that show that I am bringing out
+enhanced efficacy and in that scenario
+it can be patented so it is an exception
+normally under Section 3E it is not
+patentable but we have an exception and
+I would suggest going through sections
+this section in detail and
+see the applications of these sections
+as well some of the examples I am giving
+if you remember the these examples
+you'll be able to answer the questions
+very well but a fair reading of the ACT
+is important
+so next we have mere Arrangement or
+rearrangement like we had mirrored
+mixtures for pharmaceuticals similarly
+we have mere Arrangement and
+rearrangement for mechanical inventions
+for example in this pen if I remove this
+cap from here and put it at the back it
+would be mere Arrangement or
+rearrangement of things if in a
+mechanical machine I am taking one part
+and putting it at a different position
+it would be mere Arrangement or
+rearrangement so mirror Arrangement a
+rearrangement of existing things cannot
+be patentable
+then we have method of Agriculture or
+Horticulture now here you need to be
+very careful because the ACT says method
+of our agriculture or Horticulture it
+does not say system of agriculture or
+Horticulture devices of Agriculture or
+Horticulture it just says method of
+Agriculture or Horticulture so under
+this
+for the purpose of this app only methods
+are not patentable but processes but
+devices or systems can be patentable so
+if I am a manufacturing a tool that is
+used for agriculture or Horticulture I
+can get the patent on it but if I am
+um having a method of planting seeds in
+a different manner so that is a method
+of doing agriculture that cannot be
+patented
+similarly we have section 3i which says
+process of treatment so again this
+section says process of treatment so I
+cannot protect whether the drug has to
+be eaten orally or drug has to be
+injected but I can protect the surgical
+tools that a doctor may require to do
+some diagnostic so I can protect
+diagnostic kids I can to protect
+surgical instruments because devices can
+be patented but processes and treat
+processes of treatment cannot be
+patented next we have section 3j which
+is parts of animals or plants cannot be
+patented but the exception is
+microorganisms microorganisms if they
+are invented by human beings can be
+prevented but parts of
+animals or plants cannot be patented
+next we have section 3K
+which is one of the interesting sections
+which says computer program per se
+mathematical method business method and
+algorithm cannot be patented so here we
+have four elements computer program per
+se mathematical method business method
+and algorithm so basically
+three elements are easy to understand
+like mathematical method if there is
+some mathematic steps involved that we
+cannot patent if I am man if I am making
+a business method a method to earn money
+but it does not have any technology in
+it I cannot patent it if it is a merely
+algorithm maybe calculations maybe if uh
+this if else statements or any algorithm
+of this thoughts we cannot get a patent
+but the important distinction here is to
+understand computer program per se which
+uses the word per se and according to
+is not defined anywhere in the act so
+what does computer program per se means
+so in many decisions the examiners and
+the controllers have come to the
+conclusion if computer program is doing
+some general purpose computer
+functioning it cannot be patented but if
+we are doing something extra
+then mere computer functioning that can
+be patented I know this uh this is
+tricky because we don't know what is
+general computer functioning and what
+can be which cannot be considered as
+general computer functioning so if you
+have practical applications of a
+computer program for example a computer
+program is used to manage alarm system
+of a very big industrial organization
+probably that can be patented because we
+are showing use of a computer program
+but if it is a general purpose computer
+program then we might not get a patent
+on it
+next we have section 3L which says
+literary musical dramatic and artistic
+work cannot be patented so basically
+these are subject matters of copyright
+we can get a copyright on this we cannot
+get a patent on this then we have
+section 3M which says mere scheme or
+rule cannot be patented so if I am
+making a scheme or rule or a new method
+of playing game I cannot get a patent on
+it because
+playing game is also considered as a
+scheme or rules for something
+then 3n is presentation of information
+how I am presenting information that I
+cannot get a patent on for example if I
+am delivering this lecture in audio
+video manner I can also
+give this lecture and written manner so
+presentation of information cannot be
+patented
+then we have Topography of integrated
+circuit so basically for integrated
+circuits which is topography of
+integrated circuits
+uh we have a different act and because
+of that act it is not considered under
+patent so Topography of integrated
+circuits cannot be protected under
+patents but it can be protected in a
+different Act then we have section 3p
+which is traditional knowledge so
+anything which is traditionally existing
+in our knowledge for example there are a
+lot of preparations which have been
+traditionally existing and how to know
+about whether that can be considered as
+traditional knowledge or not we have
+traditional knowledge Digital Library
+which is
+tkdl so if anything is present in
+traditional knowledge Digital Library I
+cannot get a patent on it why because it
+is an already existing knowledge so it
+would not be considered as new it would
+not be considered as involving an
+inventive step and it would all be also
+be considered as something which is
+existing in our traditional knowledge so
+because of that reasons we cannot get a
+patent on this
+and then we have section 4 which says
+invention related to atomic energy
+cannot be patented because government is
+the one who is doing all the research in
+that area and they don't want people to
+do research and get patents in this area
+for the purpose of public security
+therefore
+inventions related to atomic energy
+cannot be patented so basically from
+this section questions can come in the
+form of objective questions which would
+be specific to the sections and question
+can come in the subjective sections
+where you will be given a situation and
+you need to tell whether something is
+patentable or not so for that I would
+suggest make four headings novelty
+inventive step utility and subject
+matter eligibility in each of these
+headings you you can tell whether the
+invention is novel or not whether the
+invention has inventive step or not
+whether the invention is subject matter
+eligible or it is barred under any of
+the sections three or four
+so if you and then you can come to
+utility and save whether this invention
+has utility or not and if you after
+answering novelty inventive steps
+subject matter eligibility and utility
+then in conclusion you can write because
+I'm satisfying all these four criteria I
+can get a patent because I'm not
+satisfying subject matter eligibility I
+cannot get a patent so it will depend on
+that situation so I think that's all for
+this lecture just focus on these key
+element of what is a patent and how we
+analyze the patentability criteria
+remember these sections and then I will
+see you in the next lecture thank you

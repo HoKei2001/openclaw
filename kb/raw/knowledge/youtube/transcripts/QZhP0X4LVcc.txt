@@ -1,0 +1,725 @@
+As a patent attorney with over 20 years
+of experience, I've seen a lot of
+clients who are intimidated and confused
+about how to draft a provisional patent
+application. So, in this video, I'm
+going to give you the insider techniques
+on how to draft provisional patent
+applications related to physical
+products or inventions. So, what do I
+mean by physical products or inventions?
+So, for example, it could be consumer
+products, mechanical devices, machinery,
+or computerized systems like robots or
+appliance that have novel physical
+components. So naturally, a lot of these
+things could have software or computer
+hardware related to them. So check out
+my other video on drafting provisional
+patent applications to software and
+computer technology.
+So let's start off with some basics
+about provisional patent applications to
+make sure that we're all on the same
+page. So there's two ways to start the
+patent process. One is with a
+non-provisional patent application and
+this is the full formal application that
+should be attorney drafted has all the
+formal requirements tends to be pretty
+expensive and this is the application
+you file at the USPTO and it waits in
+line for 1 to 3 years before examination
+begins and then it starts a negotiation
+with the examiner where you're trying to
+convince the examiner that what you have
+is new and non-obvious over the prior
+art and you're trying to get the
+broadest claims possible. So this back
+and forth can go on for a long time. It
+could be months, sometimes years, and
+hopefully your application is allowed
+eventually and then we'll issue as a
+patent. So, the other way to start the
+process, and what we're going to be
+talking about today, is with a
+provisional patent application.
+Provisional patent applications are just
+a placeholder. They only last for one
+year. They automatically expire at the
+end of the year, and that term cannot be
+extended. Now, one of the most important
+things to understand about provisional
+patent applications is that you only get
+credit for what you actually disclose in
+the application. The USPTO is literally
+going to accept pretty much anything
+that you file and will slap patent
+pending on that and will give you a
+filing date. But it's completely
+possible that you could file a
+provisional patent application and it's
+going to be totally worthless. I've seen
+this a lot of times where people just
+have a one paragraph abstract, this tiny
+little disclosure, and yes, they can get
+a filing date on it, and technically
+they're patent pending, but that is
+absolutely worthless and gives them no
+protection. Now, even if you do a good
+job and have a lot of description,
+especially with computer and software
+related inventions, it's especially
+tricky. I've seen people with very
+detailed descriptions of the of the how
+the software works or how the hardware
+works or how the overall network or
+system works, but at the same time they
+don't have the right details. And yeah,
+while they have a lot of content, it's
+the wrong content and so it doesn't
+really give them all that much
+protection and it makes the provisional
+kind of worthless.
+Now, when learning how to draft a
+provisional patent application, it's
+pretty much as important to understand
+what not to focus on as to what to
+actually focus on. And this is a big
+issue I see with a lot of folks is, like
+I said, they draft these huge
+descriptions, but it has the the wrong
+details and they focus on the wrong
+things and they spend all their energy
+on stuff that is effectively worthless.
+So, the first thing I notice a lot of
+times is people trying to write like a
+patent attorney. That's a huge mistake
+and it's a lot of effort in trying to
+have a certain style when that style
+doesn't really help with patentability.
+Yes, it's fun to try to draft like a
+like like a patent and use that
+language, but you're not going to get a
+lot of benefit. You should save your
+energy and your effort for things that
+are actually going to give you some
+protective benefit. Some other things
+that I see a lot of times that people
+are spending their time on are things
+like the title, the field of the
+invention, the background, or the claim
+section. So, with the title, do not
+agonize over the title. I've talked to
+some people where they say, "Oh, you
+know, I've I've gone back and forth on
+the title and we we spent all this time
+workshopping it." Like, do not spend
+that time that it's wasted time. I I'll
+tell you later on the things that you
+want to focus on. Similar, you'll see in
+non-provisional patent applications,
+they have the field of invention. Again,
+this is not required for provisional
+patent applications. Don't spend any
+time on it. It's not required. Um, and
+especially if you're going to be
+agonizing over something like this, save
+your effort for something else. Another
+thing, and this is especially a
+counterintuitive one, is the background
+section. I see a lot of people who
+sometimes they'll spend more time on the
+background section than the actual
+detailed description. And really, the
+background section doesn't really give
+you a lot of benefit. The main target
+audience for the background section is
+going to be people like investors and
+people who don't know about patents who
+are reading the patent application.
+Especially in a provisional, which is
+not substantly examined at all, it
+doesn't really matter having a
+background. And if anything, backgrounds
+can actually be used against you. So,
+anything that you have in the background
+is admitted prior art. And so, a lot of
+times, I'll leave a background section
+out or keep it very, very basic. And
+later on, I'm going to give you some uh
+suggestions on how to do the background
+section, right? The next one is claims.
+Now, claims for one, they are not
+required in a provisional patent
+application. And this is another place
+where I see people trying to write like
+a patent attorney. have a good time
+drafting these claims, but they're
+effectively worthless. There's no
+benefit to having claims in a
+provisional patent application, aside
+from one little asterk that I'll discuss
+later on, but it's not something you
+should spend a lot of time on. I see a
+lot of folks who spend all this time
+trying to craft these claims and and
+trying to write like a patent attorney,
+and usually that's going to be
+worthless, and they spend more time on
+this than drafting the detailed
+description, which is the most important
+thing. Another thing is perfect
+drawings. And while having good drawings
+is important, they don't need to be
+absolutely perfect. So a mistake that
+people make is they spend all this time
+learning how to do something on CAD and
+they have to have these perfect drawings
+and submit hours and hours and hours
+when they could have done things really
+quickly just sketching things out by
+hand or sketching things out on a on the
+computer in a basic kind of way.
+Drawings don't need to be absolutely
+perfect. And one thing I tell people a
+lot of times is I would rather have a
+bunch of sketches that are really crappy
+and janky than one super perfect really
+nice drawing. So don't spend too much
+time on these things. Focus on what's
+really important which is the detailed
+description.
+So then what should you be focusing on?
+And the first thing is to write in a
+style of a product developer or an
+engineer somebody in the field of the
+invention. Hopefully that's you. So you
+should be writing in your own language,
+right? Don't write like a patent
+attorney. Don't write like you see
+patent applications have having
+language. It needs to be something that
+is plain language to the people who work
+in the field. Right? So the the test is
+would one of ordinary skin the art be
+able to make and use the invention based
+on the description. So the example I
+like to give and the mindset I like to
+people to be in is to say, okay, let's
+say that you had to draft a guide for an
+engineer or a product developer or a
+manufacturer to make and use your
+product based on only that description
+and they couldn't come back to you and
+ask you additional questions. What is
+the information that you would need to
+provide them so that they could
+adequately make and use the invention?
+That's the level of detail that you want
+in your provisional patent application.
+Another one of the critical things when
+you're drafting your provisional
+application is to make sure you get into
+the very specific details of the
+product. Not just the what, you know,
+what is it generally and what are the
+benefits of it. It's the specific
+details of how those functionalities are
+achieved. What are the specific physical
+configurations that allows it to perform
+the the things that it performs or do
+the things that it does or have the
+benefits that it has? What are the
+specific configurations? So it's not
+just the what, it's the how. Make sure
+that people understand how the phys
+physical configuration allows it to do
+the things that you're describing. So
+then in terms of where to start, a lot
+of times you won't necessarily start
+with the description. You'll actually
+start with the drawings.
+So for patent applications on physical
+products, having diagrams or figures of
+the product is absolutely essential. And
+the old adage of a picture is worth a
+thousand words is totally true. And what
+I always tell people is the more
+drawings you can have, the better. And a
+lot of times it can be useful to have
+multiple views so that you can have more
+clarity on what the product is and how
+it works, the different configurations
+it can be in. So it could be views from
+different sides. It could be perspective
+views, top views, things that are
+relevant to understanding it. And then
+maybe an exploded view. So, if it has a
+lot of parts, show the parts apart
+exploded. That's called an exploded
+view. Or you may want to have a close-up
+on certain parts. You know, have a full
+figure of just one little piece if
+that's important to understand how that
+one piece works inside of the whole
+system. Also, you may want to show it
+changing configuration. If it's
+something that can move and can change
+configurations, show a version in one
+configuration, show it in in another
+configuration. So, these are just
+examples. Don't feel like you're have to
+have these drawings. There's no right
+way. As long as it it is understandable
+to one of ordinary skill in the art such
+they could make and use the invention
+based on those drawings. That's all
+that's really important. And so it's
+going to really vary from product to
+product. Some products may not need that
+many figures. Some may need tons of them
+because it has a lot of little intricate
+parts. And you it's important to
+understand how those little intricate
+parts parts work themselves, how they're
+interconnected, how they change
+configuration. So, it really depends on
+the product. Don't feel like you're
+stuck doing things one way. Just make
+sure that it's understandable to
+somebody like a product developer, an
+engineer, whoever typically makes these
+sort of products.
+Once you have the figures, then you're
+going to want to start drafting the
+detailed description. Now, in certain
+patent application, you'll see all sorts
+of other things like the background, the
+field of invention, a summary, but
+what's really important is having a
+detailed description. Don't worry too
+much about having these special sections
+and having these things that are
+required. Like that doesn't really
+matter that much. What really matters is
+the detail description. That's where you
+should be focusing most of your time. So
+this should really be a walkthrough of
+the drawing. So start with each drawing
+and go into great detail about the
+drawing, what it shows, what the pieces
+are, how they're interconnected. Go into
+great detail about each each drawing. Be
+sure to write in narrative form. So
+don't have bullets or just don't have it
+be an outline. have it be in narrative
+form and have a lot of detail. It's not
+just sort of a a summary of things, you
+know, just with bullet points. It should
+be a full description about things. So,
+of course, you're going to be talking
+about the main embodiment that you have,
+that being sort of the main commercial
+product that you have envisioned or that
+you're you're actually going to be
+coming out with, but you want to
+describe all sorts of variations as
+well. And that's how you have a really
+broad patent application that's going to
+be able to cover a lot of variations in
+addition to what you're looking to do.
+Because really, you want to cover what
+you're doing, but also what competitors
+are going to do. You want to have it so
+that if competitors come in the market,
+they can't easily design around your
+patent application and make little
+tweaks and changes to it and then
+suddenly they're doing something that's
+totally different. You want all the
+variations to be covered so that if
+competitors come out and do it, they're
+still going to be infringing. Similarly,
+and this happens a lot in product
+development, especially with startups,
+as you get it in front of customers and
+investors, and as as you do more R&D,
+your product is going to change. So,
+you're going to want to talk about
+things that you may do in the future.
+Think about things that are going to be
+better. So if price was no object, for
+instance, you know, if you could spend
+as much money as you wanted on
+manufacturing or or things like that,
+what are the things that you would do
+that maybe going to be the second or
+third generation once you've built the
+company more? Talk about those things
+now because then you're going to be able
+to protect them now. You can protect
+them well before you're doing it. You
+can protect them well before your
+competitors are doing them. Also in you
+you want to be thinking about things
+that are better and things that are that
+are really good, but also think about
+things that are second and third best.
+So a good example here is that let's say
+we have a competitor who comes out and
+they come out with this crappy version
+of what you're doing, not something that
+you would ever want to have. You will
+still want that to be protected. And so
+talk about ways that maybe it'll be, you
+know, it'll be slower or cheaper or
+it's, you know, for whatever reason it's
+not going to be as good. talk about
+those examples as well because if a
+competitor comes out and they have some
+crappy version that's not as good, you
+still want that to be covered as well so
+you can stop them even though it's not
+as good of a product. And people always
+say, "Well, but you know, I don't
+necessarily know what we're going to do.
+We don't have the specifics." Make stuff
+up. That's totally fine. You can come up
+with a lot of different examples.
+Brainstorm. Have a good time with it.
+Make things up. You can throw in as much
+as you want. And if you happen to then
+actually implement some of these things,
+you'll want to have that description in
+there. If your competitors come out and
+they happen to have those things in
+there, you're going to want to have that
+description in there. So, throw in the
+kitchen sink. Come up with a lot of
+different variations. You are not
+limited to just what you're able to do
+now or what you know that you can do
+now. You can put in all sorts of fun
+variations. Another thing that can be
+really useful when drafting your
+provisional application is doing a
+walkth through of how the product is
+actually used in the real world. So, how
+would somebody actually interact with
+it? How would they use it? And with
+products too, you know, like well, what
+are people actually going to be doing
+with this thing? Who is going to be
+using it? Is it going to be a scientist
+or a consumer or is it going to be uh an
+engineer? Like, who are the people who
+are going to actually be using this and
+in what context? Tell a story. That can
+be really helpful. And these things
+aren't going to be limiting if you do
+them right.
+Now, drafting the figures and the
+detailed description should be 95% of
+the effort that you're putting into the
+provisional patent application. So then
+what is going to be that extra 5% of
+drafting that you're going to be doing?
+One is that if you have time, write a
+short summary of the invention, sort of
+based on your full description, and put
+that at the beginning of the detailed
+description. It can kind of be good to
+have a a summary up front without
+referring to the drawings just to kind
+of give somebody a little like kind of
+like an abstract, but put that in the
+detailed description as well. Also, if
+you have time, you can write a
+background section. People love to write
+background sections because it kind of
+sets up the problem, but one of the
+important things with that is you you
+you're not required to have a
+background. It's not an essential thing
+that most people are going to be looking
+at, but a lot of times if you're going
+to be showing the provisional
+application to investors and things like
+that, that can really be good optics for
+them. IC and sort of set up the problem
+and what the current state of the art
+is. But the critical thing with the
+background is do not talk about your
+invention in the background. Anything in
+the background is admitted to be prior
+to art and can be used against you.
+That's why a lot of times we just skip
+the background section or make it really
+really short or high level. Don't go
+anything above one to two paragraphs.
+It's it's kind of a waste of time.
+Another thing is the title. And like I
+said, I I hear people who say, "Well, we
+we we like workshop the title and we're
+going back and forth." No, don't do it.
+you know, just just have a really quick
+title. I mean, really, most of the time,
+what we're going to do is going to be
+whatever it is and then just tack
+systems and methods onto the end. Don't
+put more than a a few minutes into the
+title. It really does not matter. It's
+not going to be something that's going
+to make any sort of difference
+whatsoever. And the final thing that you
+should not be spending much time on is
+the claim section. So, I did say that
+claims are not required in a provisional
+patent application, but for for purposes
+of foreign protection, you need to have
+at least one dummy claim in there. And
+it's really simple. I'll give you the
+language now. It's just the systems and
+methods shown and described herein. That
+should be it for the claims. There is a
+page at the end. It says claims. There
+is the number one. And then it just says
+the systems and methods described here.
+And that should be it. Do not spend a
+lot of time trying to formulate claims
+and draft them like a patent attorney or
+sound like a patent. That is a huge
+waste of your time and effort. Um, and
+the biggest mistake I see people make is
+with the claims is they end up putting
+in so much more detail in the claims
+that really should have been in the
+detailed description. Things that like
+aren't in the detailed description, but
+are just in the claims. And if they're
+just in the claims, they're really not
+supported. The support comes from the
+detailed description. Now claims like I
+said are not required in provisional
+applications. They nothing happens
+claims the the provisional application
+is just a placeholder. It is not
+examined in any substant way. It is only
+at the non-provisional stage that then
+you will have claims and then you will
+have to have the examination process
+related to those claims. So please do
+not waste your time on claims. It's one
+of those things that you know is just
+it's a total waste of time. You should
+be focusing on that detailed description
+because that's where protection really
+is.
+So with the full structure of the
+provisional application in mind, here
+are some additional important details
+that you need to be mindful of. One is
+the drawings must be in full black and
+white. And this means they cannot have
+grayscale. And of course, they cannot
+have color. It needs to be 100% black
+and white. So when you're drafting the
+drawings, pull out any sort of
+grayscale, pull out any sort of color.
+make make sure that it's going to be
+full true black and white because when
+you file the drawings of the USPTO it's
+going to be converted to black and white
+and the problem I see a lot of times is
+people have color or other things that
+is that makes it so that that's there
+there's understanding there and
+important details can be obscured and
+lost upon conversion at the USPTO. So
+make sure you have true black and white
+drawings that you're going to be
+submitting. Another thing like I said is
+the drawings don't have to be absolutely
+perfect. You can do handline drawings
+and as long as it's black and white,
+that's totally fine. I always say I
+would rather have a ton of drawings and
+figures that are crappy and handdrawn
+than one perfect CAD drawing that you
+spend hours and hours and hours on. So,
+the drawings can be incorporated into
+the description. That's totally fine.
+Having the drawings in line if you feel
+like that's helpful. But if whether or
+not you do that, definitely have each
+drawing on a separate sheet of its own
+in as large size as possible. The reason
+here is because again, you only get
+credit for what is actually filed. And
+sometimes people file the drawings and
+they're kind of small tiny form and the
+the the small details or the small text
+gets lost upon filing and you don't get
+credit for that. So even if you have
+stuff in line in the text document,
+create specific sheets with each of the
+drawing figures and have it fill up as
+much space as possible so the small
+details and the small text, they aren't
+lost. And of course, the biggest thing
+when drafting the provisional
+application is that content is way more
+important than form. I would have rather
+have way more detail and have there even
+be spelling mistakes and have it just be
+flow of consciousness than have you know
+maybe a page or two that is perfectly
+written like a patent attorney and has
+flowery language and things like that.
+It's way better to have almost informal
+description in narrative form than to
+have this perfectly craft crafted pros.
+So detail and more volume of detail
+that's going to get you more protective
+value. not in just the form of how that
+is provided. So, being able to draft it
+like a patent attorney does not help
+give you more protection in the
+provisional application.
+It's best to start the drafting process
+with just kind of a brain dump. Get all
+the information down on paper and then
+go back to refine it. So, one of the
+things that you don't want to have in
+there is limiting language. You you want
+to remove that once you've kind of
+gotten all the concepts down on paper.
+Now the thing about limiting language is
+that it's if you have this in the
+provisional application and especially
+in the non-provisional application it
+can be used against you down the road to
+limit your scope of protection and make
+it so that people can say well you know
+you limited yourself to this very
+specific thing our product doesn't
+infringe because you use this specific
+language. Okay. So the basics of
+removing limited language is don't have
+anything that describes the whole
+invention. And strangely enough the best
+practice is never to use the term
+invention ever. Everything is just an
+example. It's an it's an embodiment. You
+never want to pin it down to say the
+invention is this or the invention is
+critically including these things or it
+has to do this. Have everything be
+optional because yes, that may be
+important in your embodiment in your
+commercial embodiment, but a competitor
+may not have that. And so if you limit
+yourself to saying this is essential,
+this has to be in there, the invention
+is this, that can be used against you
+down the road. And of course you want to
+talk about hey in some examples it can
+be important to do this or that but
+couch it in being in specific examples
+or specific embodiment. Now
+unfortunately limiting language is
+really confusing and counterintuitive
+and one of those things that even patent
+attorneys it takes years and years and
+years of experience to kind of learn
+about these things. It's not something
+that is easy to describe in a lot of
+ways. And so that's why a lot of times I
+suggest doing what I call a coached
+provisional patent application. And so
+for instance, what I'll do is I will
+coach my clients on drafting invention
+disclosure then that then I will scrub
+to remove limiting language. If
+anything, broaden things here and there.
+Make sure it has the right formatting.
+Make sure it has the right detail and
+then file that as a provisional patent
+application. That tends to be the right
+balance in terms of cost and and time
+and ROI,
+especially for clients that are going to
+be doing startups and things where it's
+really important. if if you definitely
+don't have any money, if you are on a
+budget, or if you're just kind of doing
+this for fun, maybe you don't
+necessarily need to run it through a a
+patent attorney. But if you're if you
+but if you have a startup and it's
+important that you get solid protection,
+a lot of times doing the coach provision
+can be really good. Make sure you run it
+by a patent attorney to make sure that
+you actually do have the right detail,
+that it's in the right form, that you
+don't have limiting language, and you
+don't have stuff in there that's going
+to like bite you in the ass down the
+road that you can't undo.
+Now, once you've drafted everything and
+removed limmy language, then you want to
+do sort of the final formatting of
+things if things aren't already
+formatted. One is thing to keep in mind
+is that USPTO is going to accept pretty
+much anything that you file as a
+provisional patent application. So, you
+need to make sure that it's in the right
+form because the PTO is not going to
+tell you that you've screwed things up.
+And it's only going to be years down the
+road when you're trying to get priority
+based on this provisional application
+that it's going to be in litigation or
+enforcement that people are going to
+say, "Oh, well, you actually had this
+limiting language in there. You know,
+your drawings, they were too small and
+you couldn't see these details, so you
+don't get get this priority." So, make
+sure that you have things right before
+you file the application. Like I said,
+it's great insurance to have a patent
+attorney do this kind of work with the
+coach provisional. Make sure it's in the
+right form. This can be especially
+important if you're going to be
+attracting investors. Investors are
+going to have to see this provisional
+application and they're going to want it
+to smell right and look right. And if it
+doesn't, they're going to be more likely
+to pass on you as a potential
+investment. Some of the simple things
+are to make sure that you have the same
+font throughout. Make sure it's at least
+12 point size so that when you file it,
+the the small text isn't lost. And then
+have things with paragraph numbers.
+Number each paragraph. I'll kind of give
+you an example here. And then put the
+drawings if you have them in line in the
+text. Also have this put them in
+separate sheets so that the small text
+and you know maybe small figures and uh
+small little aspects of the drawings
+aren't lost. You want to have them on
+separate sheets. Then what you do is
+just send it to your patent attorney to
+file it as a provisional application or
+they'll do this editing for you and
+they'll be ready to file it or you can
+then just file it yourself.
+2.7s · 24m 2s YouTube · 5.0k words · text via transcript/captionTracks

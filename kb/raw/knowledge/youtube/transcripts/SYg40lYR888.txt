@@ -1,0 +1,154 @@
+Hi, I would like to tell you a story how
+my wife and I were walking forward and
+uh just the day before or a week before
+we were meeting with a friend who had a
+kid with a stroller and we were pushing
+that stroller forward and uh I thought,
+okay, what if what if that stroller was
+automatically controlled by uh by some
+kind of a robotic mechanism. So, the
+operator wouldn't have to push that
+stroller forward manually. It would be
+driven uh automatically. It would have
+some kind of a distance control sensor
+and uh it uh would keep up with uh with
+the uh user. So as the user is going
+forward that stroller would uh would
+maintain the same distance and the same
+speed. Uh if the if the user stops that
+stroller would also stop. So pretty much
+a whole um automatic stroller. Um so as
+I was walking in the park today uh and
+um I I I just decided to brainstorm and
+talk my ideas into uh into the Chachi
+PT. So I gave a bunch of uh technical uh
+details into it. So it it was kind of
+coming back to me with a bunch of
+responses. So here in the text it's in
+Russian, but it doesn't matter.
+And closer to the end when I told it to
+uh generate a list of technical
+requirements, it generated a very
+detailed uh overview of what the product
+should be based on my uh based on
+my uh statements and my narration
+narration.
+So the cool thing is I wanted to
+investigate if such thing already
+exists and as I typed into Google I
+didn't see much stuff appearing and uh I
+was also walking uh with my wife and I
+didn't really have much time uh to to
+actually do a detailed research. So what
+I told Chai GPT
+uh is to construct a research prompt
+that would look online and see if there
+is any patents like this or if there is
+any any other invention or product
+available on the market that resembles
+all of the features that I have uh that
+I have uh provided it. It came back with
+a very detailed prompt to actually copy
+and paste into uh a
+researching uh into a
+researching
+window. So there you go. This is the
+prompt I got. Uh it also said to search
+for different patents here and consumer
+products etc etc. So so it's a quite uh
+comprehensive prompt.
+So what I did then I opened Google
+Gemini particularly to conduct deep
+research. I really like Gemini's deep
+research feature which in my opinion
+outperforms
+uh outperforms any other free deep
+research uh AI uh AI apps.
+uh at the time I had
+uh quite unlimited number of deep
+research requests. Now Google Gemini put
+a limit on them but uh it's okay. Uh and
+what the one thing I really like about
+Google's deep research is that it looks
+at a bigger quantity of websites at more
+at more websites. Also it conducts a
+deeper analysis
+uh compared to perplexity compared to
+chat GPT and it provides uh a uh a very
+comprehensive
+report. All right. So this is the prompt
+I fed into Google Gemini which in my
+case I'm using for free.
+uh CHP I have a premium subscription but
+with Google Gemini I didn't buy any uh
+any uh additional uh subscriptions and
+then it gave
+me a reformulated prompt right
+here and then I clicked on the start
+research. So what it did it it took
+about half an hour to look at a a big
+variety of websites and uh it came back
+with the
+following. So this is what it came back
+with. Uh and this is the report. It's
+it's massive. I'm going to quickly
+scroll through it. But what I
+particularly want you to see is that it
+also made uh it made detailed analysis
+into existing patents uh into existing
+products and some of the features that I
+have been describing like self uh
+uh propulsion here. No, in this one
+there is something uh follow mode. No,
+here is no no. So there are different
+breakdowns right
+here. If I were to look it on the
+computer screen, it would uh uh this
+table would appear a bit
+better. Uh and there you go. It made uh
+this report and it looked at 139
+websites. It looked at patent uh at uh
+different patents. It examined the
+patents and as I was monitoring as I was
+monitoring Google Gemini performing the
+deep research, it looked at the first 40
+websites and it kind of got stuck. It
+was just looking and analyzing these 40
+websites, these patents. It was just
+reading and thinking through them and
+then it looked into other
+uh other products.
+And this is a very extensive
+bibliography to be honest. I don't
+believe that a human al also looked at
+different YouTube channels. Uh I don't
+believe that a human would be able to
+construct such a detailed market
+research uh and a product analysis uh in
+um so pretty much I conceived that idea.
+I talked into chat GPT
+um all my thoughts about it, how I
+envisioned this product. Then I put it
+into I asked it to make me a
+prompt and then I pasted that prompt
+into Google Gemini deep research to
+provide me with a prior art search and
+it came back with this report.
+Um, so I think a lot of engineers or
+inventors might find this useful uh if
+they want to uh if they want to
+brainstorm and see what else is out
+there and maybe consider uh
+consider making some kind of a strategy
+for filing patents. though you have to
+be careful uh what you publish online
+and what you uh put there in the queries
+when you when when you intend to do a
+patent application but in my case I just
+I don't really care uh I just have this
+uh idea and uh I just wanted to share
+with you um this knowhow
+uh maybe in the next video I'll show you
+something uh something else cool that
+you can do with uh with this kind of
+output.

@@ -1,0 +1,11 @@
+Recording, online seminar, 19 March 2024
+• How to set-up Online Filing 2.0
+- Administration
+- Access rights and permissions
+- How to add new users in Online Filing 2.0
+- Templates
+- Folders
+- Address book
+• Demonstration of Forms EP 1001, 1038 and PCT RO/101
+• Information on importing data from eOLF to Online Filing 2.0
+• Brief introduction of the import/export (API) functionality in Online Filing 2.0

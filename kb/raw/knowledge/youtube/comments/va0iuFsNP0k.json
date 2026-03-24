@@ -1,0 +1,66 @@
+{
+  "video_id": "va0iuFsNP0k",
+  "total": 6,
+  "comments": [
+    {
+      "author": "@harimohan1625",
+      "author_id": "UCmjgCA65B3Jj26VGBXWNdag",
+      "author_url": "https://www.youtube.com/@harimohan1625",
+      "text": "Excellent talk. I would call this an entry point for understanding the technical subject matter issues under the EPC. Can\u2019t thank you more for putting this up there. Wish you had covered the last but one example too on ranking of search results.",
+      "likes": 3,
+      "timestamp": 1647043200,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@JoachimZawana",
+      "author_id": "UCLS_idHHua2BzjdWApWWskQ",
+      "author_url": "https://www.youtube.com/@JoachimZawana",
+      "text": "@Bardehle, any update on the last slide, a computer implemented method of simulating pedestrian crowd movement ?",
+      "likes": 1,
+      "timestamp": 1678579200,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@paulthompson9668",
+      "author_id": "UC3WwEo4zwM8tfP2tX-UGJBQ",
+      "author_url": "https://www.youtube.com/@paulthompson9668",
+      "text": "23:55 Was she complaining that you were talking to fast?\n(English is my first language, and I can understand everything you're saying.)",
+      "likes": 1,
+      "timestamp": 1583971200,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@tubal1",
+      "author_id": "UCc5tSPOMScf0WuMdC51cmlw",
+      "author_url": "https://www.youtube.com/@tubal1",
+      "text": "Thanks for the talk. Great to see this content on youtube. Sofware patentability is a very unclear issue in my opinion. For example:\n- The Board of Appeal considered that clasifying e-mails based on the liking of the recipient is not a technical issue, but what about classifying apples on the same grounds in a packaging plant? I understand that this classification will be made on the colour, size, etc,.. which are tangible objective parameters, but the final reasons are commercial, business-oriented, they are made for the liking of the customer; in the first place, putting all the apples with the same appearence in the same package doesnt solve any technical problem.\nOn the other side, having your mailbox full of spam is a technical problem (because it has apparent adverse effects on a company performance) which needs a solution (problem-solution approach).\n- Also I don't quite understand why the simulation of a circuit current flows is technical under the EPO criteria. They say that presentation of information is not considered a technical contribution. As I see it a simulation of any kind is a presentation of information in the form of flows. If this information had been presented in the form a table, with numbers corresponding to the values of the currents in the circuit, etc, it would have been rejected. Why a simulation (with colour flows, arrows, more realistic or pleasant to the viewer) makes the claim valid compared to other forms of presentation?",
+      "likes": 0,
+      "timestamp": 1678579200,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@BubuBarong",
+      "author_id": "UCVSHii_jiZ8Hd8g2MAm5poA",
+      "author_url": "https://www.youtube.com/@BubuBarong",
+      "text": "Great content, thank you so much. Just a tip on pronunciation: \u02c8\u025bl\u026ad\u0292\u026ab\u0259l",
+      "likes": 0,
+      "timestamp": 1647043200,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@P3RSIANs",
+      "author_id": "UCXJv5GnI1G5ybye1RobG42w",
+      "author_url": "https://www.youtube.com/@P3RSIANs",
+      "text": "Great talk. Where can I access the statistics on the number of Software Patents filed under the EPC each year?",
+      "likes": 0,
+      "timestamp": 1615507200,
+      "is_reply": false,
+      "reply_to": null
+    }
+  ]
+}

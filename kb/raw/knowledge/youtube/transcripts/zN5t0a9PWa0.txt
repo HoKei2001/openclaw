@@ -1,0 +1,1082 @@
+are you an established small business
+owner or aspiring entrepreneur would you
+like professional advice to help your
+business grow and succeed well look no
+further the Virgin Island Small Business
+Development Center is a territory's
+number one resource to move your
+business forward enjoy no cost advising
+low cost training and technical
+assistance from experts in both the
+public and private sectors the
+vbdc is nationally accredited and
+sustained by the University of the
+Virgin Island and the US small business
+administration visit us at our locations
+on St Thomas St John or St Croy and
+follow us on social media at
+vbdc for easy access to all our training
+and networking events be sure to join
+our newsletter and download the vbdc app
+the Virgin Island Small Business
+Development Center here to help your
+business start grow and succeed
+[Music]
+[Music]
+[Music]
+hi good afternoon everyone and welcome
+to the BBC's hosting of the patent and
+trademark office series today's
+presentation is entitled patenting apps
+and software US Patent practice allow me
+to introduce today's lead presenter Mr
+Edgar Gera
+orazo Edgar orazo serves as a primary
+patent examiner and Technical trainer in
+US PTO Technology Center 2600
+in this in his work he examines patent
+applications drawn to artificial
+intelligence including computational
+Linguistics speech processing and audio
+compression Mr arazzo has served under
+several details TC 2600 technology
+quality assurance specialist gs14
+technical trainer and specially trained
+gs15 electrical engineer generalist
+primary patent Examiner
+to participate in a White House
+initiative to form a pro pilot program
+art unit in addition to examining and
+patent examiner training duties Mr
+arazzo contributes as special advisor to
+us pto's eastern regional Outreach
+office Spanish language intellectual
+property programs supporting and
+presenting webinars in English and
+Spanish for the US pto's eastern
+regional Outreach office
+Mr arazo is also working as
+international relations and
+international patent program specialist
+detaily for us pto's office of
+international patent
+Corporation and the international work
+sharing patent programs division with
+ip5 and several International patent
+offices involving patent Corporation
+treaty patent prosecution Highway
+accelerated patent Grant and
+collaborative speech programs to name a
+few Mr arazo is a recipient of US
+Department of Commerce bronze medal
+award in fiscal year
+2014 exceptional career award in fiscal
+year 2019 and selected as American
+intellectual property law association
+2022 outstanding us PTO patent examin
+he has both a bachelor and master of
+science degrees in electrical
+engineering from George Mason University
+and a master of business administration
+degree from the Virginia poly Technic
+Institute and State
+University here's a friendly reminder to
+put your questions in the chat and they
+will be addressed by the presenting team
+either directly in the chat or later
+during the question and answer
+segment without further Ado please arazo
+the floor is
+yours thank you so much for the warm
+introduction it's it's really a pleasure
+and and an honor to be able to be with
+you guys today um once again we're on
+behalf of the eastern regional Outreach
+office and my director and the team uh
+the director Elizabeth oy it's one it's
+it's the great pleasure to to be able to
+share some of the resources that um
+USPTO offers for for for our our
+audience and and in this case we're
+going to be discussing um a little bit
+of uh patenting apps and software and uh
+so I invite you to let's go ahead and
+start this
+journey and once again uh if you have
+any any question any concern let's
+please put it in the chat and then we
+should be able to address it at the end
+of the
+presentation just all
+right so um if once again um protecting
+your intellectual property in this case
+our topic for discussion patenting
+patenting apps uh in software just a
+disclaimer before we start some of the
+references or all of the references
+essentially to particular products
+patents trademarks service marks
+Services uh companies and or
+organizations in this presentation are
+for illustrative and educational
+purposes only and do not constitute or
+imply endorsement of the by the US uh
+government the US Department of Commerce
+and the US patent and trademark office
+or any other Federal
+agency so some of the discussion points
+uh for today will be a brief
+introduction of intellectual property
+rights or IP as a business strategy what
+is intellectual property essential when
+it comes to the different uh
+intellectual property rights patents
+trademarks copyrights and Trade Secrets
+also we will be discussing um in filing
+a US patent application and the process
+of examination as well as some of the
+best practices for filing a US patent
+application for apps and sot for and
+lastly we will also be sharing some of
+the uh USPTO resources that are
+available for the
+audience all right so uh first of all uh
+here we have an image of our
+headquarters or U the US ptin and trade
+Mark office essentially um and to the
+left we have an image of a something
+that is quite interesting and perhaps
+many people may may or may not know it
+but this is an example of the um in
+ceson light model of thas Alber Edison
+so a copy of this of this model rests on
+the on our directors or current
+director's office so but ER for uspt for
+the US Pat and trk office uh which is uh
+America's foremost Innovation agent
+dedicated for to fostering for fostering
+Innovation and dividing and driving I'm
+sorry economic growth while maintaining
+a reliable predictable and a high
+quality IP system so how USPTO um
+accomplishes this this is essentially by
+issuing patents issuing uh which Grant
+the holders exclusive rights to their
+inventions and by registering trademarks
+and service marks for products and
+services just to give you a brief
+introduction of
+USPTO um some of the of the stats that
+are quite interesting to uh highlight um
+there's above 13,000 employees and this
+is these are numbers from fiscal year
+2023 close to um above 8,000 patent
+examiners above 700 trademarks examining
+attorneys 225 administrative patent
+judges and and different and also 28
+administrative tradmark judges so so far
+for fiscal year 2023 you can see that we
+have uh had applications filed about
+about above essentially 650,000
+applications uh from which 340 or about
+340,000 has have been issued as patents
+in the case of trademarks we we see that
+close to seven above 700,000 trademark
+applications out of which a little bit
+over 400,000 certificates of
+registrations have been um mitted so um
+as you can see there's a huge demand for
+Innovation and that can be reflected in
+the numbers that we see in the patent
+and trademark filings but um when it
+comes to intellectual property rights it
+is important to recognize that IP H or
+intellectual property
+should be seen as an IP strategy and
+this IP strategy should also be
+interpreted or observed as a business
+strategy so IP as a business strategy in
+other words and so why we mention this
+so um intellectual property essentially
+is attractive to investors and buyers
+and and by being attractive to investors
+and buyers it can also help enforce your
+rights your intellectual property rights
+by deterring infring lawsuits as well as
+contributing to increase the leveraging
+power when it comes to joining with
+other companies with buying other
+companies or businesses in the form of
+mergers and Acquisitions or
+m&as also um if we look at intellectual
+property strategy as a business strategy
+we can see that intellectual property
+rights uh offer or contribute
+essentially add value or provide added
+value to a company's asset and one more
+important point is that IPA strategy as
+a business strategy should be considered
+as a global approach as a global
+strategy and we'll try to um we'll
+essentially I I'll go over these because
+there's a little bit of confusion when
+when we talk about a global IP strategy
+versus global intellectual property
+rights so there's no such thing as um
+Global patents or Global trademarks
+because intellectual property rights are
+territorial
+um in in discussing the intellectual
+property rights it's it's really
+imperative to see why invention matters
+what this means to you what essentially
+is the meaning and when it comes to
+patents patents provide and promote
+Innovation and
+help um by the same to can Safeguard our
+inventions right your inventions
+essentially help companies grow provide
+um opportunities for growth and
+investment as well as offer benefit to
+the community by making new goods and
+services readily available in addition
+to this points
+um patents also provide personal growth
+development and also the opportunity for
+advancement with a new comp with a new
+patent or a pent being issued it could
+be a new technology that is born or it
+could be that a new company is born
+so it's really it's really interesting
+to see what is the impact when a patent
+is issued when a trademark is registered
+so what is intellectual property in the
+same approach that we see a real
+property a physical property in which
+you when you are um about to to buy a
+property or when you're about to
+um see what are the boundaries of of a
+physical property you'll see that
+boundaries of a property will have a
+specifically limits specific um
+measurements that will delineate what is
+your property and what the differences
+from the property of your neighbor when
+it comes to intellectual property
+intellectual property is also a sort of
+property in the sense that it's an
+intangible asset is an
+intangible one of an intangible property
+to a certain extent why why we mentioned
+that it's an intangible asset intangible
+asset essential because you cannot toach
+it however it offers and it presents
+legal boundaries legal limits around
+around your invention around your patent
+around your your intellectual property
+rights in this case if we're talking
+about patents we're talking about the
+claims we're talking about the scope of
+the
+claims how is the is essentially
+presented The Invention the embodiments
+that that could be described in the uh
+specification of the application but
+most most specifically the claims the
+claims are these legal boundaries these
+legal needs and Bounds of the
+invention what are the types of
+intellectual property we have patents
+trademarks copyright tray secrets and I
+I'd like to to uh emphasize that patents
+are new and inventive ideas trademarks
+are um can be are used to identify the
+original Goods or services and we'll I
+will describe in a few minutes what is
+the definition of each of the different
+uh intellectual property rights when it
+comes to copyrights these These are
+Creative
+Expressions stored in a tangible form
+for example the um lyrics of a song The
+manuscript of a textbook or or a book
+and also uh Trade Secrets tra Trade
+Secrets is essentially any information
+that is valuable as long as it's kept
+it's kept confidential so it's not
+revealed it's kept in and maintained in
+secret so an example is the formula of
+Coca-Cola um now when it comes to an app
+example um we try to uh to offer a
+little bit of
+um of of explanation in terms of what an
+IP portfolio could be uh identified as
+and essentially in an IP portfolio
+which will will definitely have um
+intellectual property rights and in this
+case we could you can mention patents
+trademarks copyrights Trade Secrets and
+when it comes to examples of patents
+this could be utility patents this could
+be design patents right if we're talking
+about an app example for the case of a
+utility pattern if an app is Noel and
+nonobvious way of doing something new
+causing a change in the real world or
+improves or improvements uh upon when it
+comes to a design pattern this can be
+used to protect the appearance of an
+apps icon for example and various other
+elements of the apps graphical user
+interface or a GUI a trademark how a
+trademark can be seen in an IP portfolio
+of an app an app's name appearance of
+its icon essentially and appearance of
+the user interface as we mentioned so
+sometimes there's a little bit of
+overlap in what can be protected and it
+really depends depends on your uh IP
+strategy uh USPTO cannot offer legal
+advice but we do offer IPA education
+just trying to inform the audience where
+and how the different uh intellectual
+property rights um can be seen or how
+can you help uh um we essentially
+provide information how you could
+understand or get or gain knowledge
+about patents trademarks copyrights for
+the case of an app example the code of
+the app right the algorithm of the app
+in this case as well as pictorial and
+graphic works that are incorporated into
+the app and TR secret so we have that in
+blank because as long as that
+is maintained in in uh in in confidence
+definitely will be still be valuable
+all right so in getting started it's
+important to plan early ER even before
+the development of the development
+process create an IP strategy as we
+explained in this case a multi-layer
+obtain health research prior art and
+carefully document and disclose prior
+art essentially are references or a
+documents that could to a certain extent
+describe the invention describe the the
+techniques that are used in your
+invention and when we're talking about
+creating an IP strategy in this case a
+multil layer you need to consider
+whether what type of intellectual
+property should be the uh your first
+step in the door right whether that is
+through a patent through a trademark or
+a copyright or trade
+secret all right so now let's talk about
+patents um what is a patent so patent is
+essentially the right to exclude others
+from making using selling offering for
+sale or importing the claimed
+invention it presented has a limited
+term it this is really really important
+it's territorial which means a US patent
+provides protection only in the United
+States there's no such thing as a
+worldwide patent so please there's no
+such thing as a global patent of course
+there are many
+um International patent programs in
+which see an application could be
+examined in one nation and if there's it
+happens that there is a any work sharing
+program or any collaborative program
+between these particular Nations that
+there could be some benefit in terms of
+being uh or of examining the pre then
+application in The Other Nation but I
+think for now it's it's it's pretty to
+understand that no work there's no
+worldwide patents there's no Global
+patents all right because intellectual
+property rights any and all are
+territorial types of patents so we
+mentioned briefly um utility patents and
+design patents but we also have plan
+patents right so uh utility and and plan
+patents um they have um essentially a
+lifetime of 20 years where design
+patents have a a lifetime of 15 years
+and what is the how how does a patent
+looks like right how does does a pattern
+look like here we have an example of an
+an the anatomy of a pattern essentially
+on the first page of a pattern uh of a
+patent you should be able to observe the
+uh date of the patent in this case the
+issue date The Invention title in this
+case we have a network folder
+synchronization the name of the inventor
+right right below the title of the
+invention er something that is really
+really really important is the filing
+date filing date will determine the um
+the the we call it the effective filing
+data or the the date F by which the
+patent will enforce its lifetime it's
+right right so 20 years from that date
+and it really depends it could be that
+there's a um domestic priority to a
+provisional patent application or there
+could be a foreign priority so but it's
+safe to think that when you're referring
+to the filing date always always check
+that date some of the essentially the
+elements of a patent we have the
+abstract offering a short summary of The
+Invention the written description in
+which the inventors or the inventor is
+has a duty to disclose how does it work
+how the invention Works essentially how
+is it made or used if then uh in that
+description you also have to also
+provide additionally H drawings or
+figures how does the does the invention
+look like and thirdly we have um the
+claims and the claims are the most
+important part of of a patent
+application of a patent because these
+are the claims definitely Define the
+legal boundaries of the invention
+similar to the to of a pro to a property
+as we were discussing uh minutes ago all
+right so let's see what are the hardles
+to uh patenting so that could be the the
+um the barriers to to patent an
+invention and we have that um your
+invention has to fulfill three
+requirements and one of them is to be
+Noble to be non obvious and to it has to
+have a utility what's the meaning of
+these three requirements and these three
+requirements my apologies that there's
+some overlapping here but it's referring
+to the to the statutes to to the um
+title 35 the from of the United States
+code and it says that um
+101 102 103 and uh this defines clearly
+and delates what's been defined as novel
+what is being defined as non obvious and
+what is defining H defined as utility
+that it has utility means that it does
+does it function as it's intended that
+is Noble means that the invention is it
+new or or was not described in the prior
+art or known and non obvious it means
+that the differences between your
+invention and the prior art would not
+have been obvious to one in that field
+so here we have a nice example we have a
+um example of a treamer right and um in
+in in this case your invention can be
+see can be identified there in the
+figure that is on top of the other three
+trimmers so there's a magazine
+describing three trimmers and that's
+that's been identified as prior art but
+how can we see whether those are obvious
+uh or are non obvious or are obvious
+with respect to the
+invention let me just give you a brief
+example let's say that your trimmer is
+presents a mechanical engine or a
+mechanical motor
+right and um I'm sorry an electrical
+motor but the prior art discloses a
+trimmer that is that presents a
+mechanical engine a mechanical and motor
+how obvious is that to replace a
+mechanical motor for an electrical motor
+right just get a little bit of
+water it's much more complex than that
+but at the very least this high level
+observation let us know that something
+is replaced right could that pass the um
+the the the um the the test of non
+obviousness or could that pass the test
+of novelty right so I'll I'll leave you
+that up to up to you to to to think a
+little bit more about that so what is
+prior
+art prior art essentially is or includes
+patent
+printed Publications or other
+disclosures in the field of your
+invention that have been published
+before your effective filing date so it
+really depends so you have in the US we
+have the uh we are first to file we used
+to be first to invent now it's first to
+file so and there's there's a peri a
+grace period of one year before the
+effective filing
+date presenting your idea don't be a
+afraid uh to Champion your
+idea diagrams are helpful essentially
+and it's important to recognize that the
+best uh the best uh or the secret s
+let's put it that way of of your
+invention it's important to keep to
+maintain confidentiality prior prior to
+filing your patent
+application um that's why there are many
+many ways in terms of uh provisional
+patent applications non-provisional
+and and different other other uh
+strategies that you might take um
+consult with uh with Council about safe
+ways to disclosure invention before
+filing a patent application please
+please search for help all
+right now applying for a
+p so here we observe uh this is a this
+is an interesting um ER figure that we
+have a new idea starts here and there's
+red block all the way at the end we see
+patent in this green block right but in
+between you have the ability you have to
+have in order to to uh obtain or to be
+uh issued a patent you need to present
+either a provisional
+application uh to start with or a
+non-provisional application of course
+provisional application which is an
+optional with um approach will allow you
+to with a small number of requirements
+to being able to secure a effective
+filing date and that's one of the
+strategy that we try to emphasize so for
+example if you have a provisional patent
+application versus a non-provisional uh
+patent application of course this is
+only for utility patents it's really
+really important to to highlight that
+for provisional patent applications
+these are not examined nor are they
+published um they have one year time
+limit only four utility patents as we
+mentioned and it has a lowcost way of of
+of providing or establishing an an early
+effective filing date or priority date
+is how we recognize it in a
+non-provisional patent application with
+few formalities so it's a precursor of
+the non-provisional it's a placeholder
+it's it offers you the ability to obtain
+an early effective filing
+date and of course with this
+um small set of
+requirements something that is really
+important is that provisional
+applications P applications are not
+examined and also they're not published
+that's really really important when it
+comes to non-provisional this receive
+examination they have to fulfill all
+their requirements that are established
+by the law and also these are published
+18 months uh from the earliest filing
+date unless there's a a
+non-publication um at at fighting and
+these can become patents something that
+is not mentioned here is that when you
+file either a provisional or a
+non-provisional patent application you
+can have the ability to put on your
+product patent pending and sometimes
+that offers a lot of value when you're
+you're either you're testing the market
+you're just trying to see whether your
+product will be able to fulfill the the
+needs of the of the audience or the
+needs of the of the um goods and
+services that you just trying to to um
+to
+offer here are some of the requirements
+of a non-provisional patent application
+filing requirements as we mentioned
+specification including a description in
+a claim or claims drawings when
+necessary for an for an understanding of
+the invention of course the inventory
+information including legal name
+residence and mailing address of each
+inventor an oath or Declaration or an
+application data sheet of course um the
+prescribed filing search and examination
+fees are also part of the application so
+what do I need to disclose so patent
+it's it's um is interesting to to um see
+to observe that it's a quid pro
+that means that in exchange for the
+right to exclude others from making
+using importing or selling your
+invention for a limited time period you
+have the
+obligation under the law that you must
+fully disclose your invention so the
+public can benefit from it from it and
+expanding and expand on it ension and
+this is colored in in title 35 of the
+United States code section
+112 what do I need to disclose and this
+is a part of the 112 section
+112b so are the claims clear enough that
+the the public is is able to be informed
+of the boundaries of of your
+invention and also can be it can be
+determined whether the claimed invention
+meets all the criteria for
+patentability all right so now let's
+talk about uh prosecu of your
+application so in this figure we see
+sort of a of a of a route or some sort
+of like a traffic simulation of of
+what's going on when a pent application
+um arrives on examination Avenue ER
+figuratively so as an application is
+filed it receives uh first of all a
+pre-examination assessment right once
+that pre-examination assessment is done
+it aditt
+gets routed to the specific examiner
+under the corresponding Technology
+Center where the technology has been
+classified for the application to be
+examined at that point an examiner will
+be able to examine uh to examine your
+application and then the applicant will
+have the opportunity to interact with
+the examiner could be the situation that
+the examiner uh provides rejections and
+or objections and this is the very uh
+same moment that uh the applicant should
+be
+actively be working with the examiner
+whether is um answering
+arguments providing information that is
+needed and and also making changes
+whether that is the case or whether the
+argument of the examiner is not
+convincing try to explain your position
+try to explain why you think your um
+invention is is novel is not obvious or
+it has to or it has utility so it's
+really important to be in communication
+with examiner of course you can make
+changes you can make amendments but to
+the original
+um in this case to the to the original
+subject matter of the application you
+cannot add new things because that
+that's not that's not permitted by the
+law of course it could be the situation
+that the examiner if the examiner and
+the applicant um are not in an agreement
+U it could be an appeal you could also
+file for an appeal or it could be the
+situation that could end up in an
+abandonment or it could be that your
+application um would eventually be in
+the allowance Boulevard or it could be
+issued as a
+patent so what is the role of the US
+USPTO examiner right so for um for
+examiners for patent examiners their
+professionals they are um
+scientists and engineers and also um uh
+legal Professionals in some cases that
+will be reading and understanding your
+application they will be searching for
+prior arm and they will also be
+evaluating the specification and the
+claims of course everything with respect
+to the law with respect to the
+technology er uh with respect to the um
+the the field of of Endor in this case
+with respect to the the technology that
+the application is related to and also
+will be responding in the form of office
+actions in which they will be presenting
+their findings their the the um the the
+facts that are that are going to be um
+explained with respect to the position
+of the examiner not only from the
+technical side but also from the legal
+side and also it's it's highly
+encouraging that um applicants hold
+interviews with exam
+as you may want either at the beginning
+of prosecution throughout prosecution
+it's really important to be actively um
+in contact with the
+examiner what is the role of the
+applicant the role of the applicant
+essentially is to file a complete
+application please make sure that all
+those elements are pres are presented
+when you file your uh application your
+patent
+application requir requirements when it
+comes to the um um complying what the
+what you need to comply in essentially
+right so complete set of claims your
+specification your drawings an abstract
+um a summary of The
+Invention following this the established
+uh format that the office is
+requiring and also be able to be
+truthful from begin from the very
+beginning you have the duty to disclose
+anything and everything that you have
+your application and it's better to
+disclose because it's your duty that's
+that's law um disclose all known prior
+that's what I'm was just trying to
+highlight and in response to examiner
+office actions please explain your
+position make with faith changes to the
+application that's really really
+important now is your idea eligible for
+protection and this is under the P 35 of
+the USC code H section 101
+it has to be uh under one of the
+statutory categories whether that is a
+process a machine a manufacturer
+composition of matter an improvements of
+the of of of the just mentioned um what
+is patentable right so we mentioned the
+requirements novelty non obviousness
+utility right so could be situations
+where you may have products and
+processes physical things manufacturers
+composition of matter processes means to
+an end means of of doing something new
+new way of of doing something
+old what is not patentable you cannot
+patent uh an idea essentially this must
+be able to be developed into a new non
+obvious and useful machine manufactured
+process and or composition of matter
+that can actually accomplish the task
+cannot you cannot patent natural
+phenomenal you cannot patent abstract
+ideas when it comes to Software computer
+architecture we have here some of those
+examples computer error controls
+reliability and control systems Ai and
+simulation modeling database and file
+management document processing uh
+graphical user interfaces computer
+architectures input output our and IO or
+IO inter interprocess communication
+software development memory access and
+control just to give you a few of those
+examples of the Technologies so here we
+have an an example of a software claim
+I'm just going to mention briefly this
+is a method for synchronizing a shared
+folder over a network it has several
+steps describing uh receiving describing
+associating the folder describing um the
+um connection between a client and a
+server how the the the file is is is
+provided according to a client system
+and and and so on here's an example of a
+software design pattern application so
+so so uh design patents will have will
+always start with the letter h d after
+us and that's the way how you could
+recognize you have a software a design
+patent
+application there are training materials
+uh with respect to um title 35 of the
+United States code section 101
+describing subject matter matter
+eligibility and this offers guidance
+explaining how the office personnel
+including patent examiners should
+evaluate claims for patent subject
+matter eligibility under 35 USC 101
+after ideas examples and so on so I I
+invite you to to visit our resources um
+of course when you access our our page
+you should be able to find these
+different examples with respect to
+subject matter and
+eligibility when it comes to best
+practices it's important to describe the
+technical challenges in your field of
+invention and also specifically describe
+the engineering solutions that you are
+coming up with in this case to address
+those and address those challenges right
+so this these can be seen in the
+operational
+flowcharts claim your invention
+carefully and of course really really
+important articulate how your invention
+improves in this case computer
+functionality how your Sol Your solution
+is unconventional compared to other
+Solutions in your particular field of
+invention you have some of those
+examples when it comes to
+flowcharts um all right so I think we
+have covered um a few topics now let me
+just share uh some of the USPTO
+resources so when you go to our main
+page uh triple W uspto.gov you can have
+the opportunity to um get yourself
+informed about patents trademark
+trademarks IP policy learning and
+resources and also been able to get
+a to see or to read inspiring stories of
+invention and innovation of course you
+could you also have a different we also
+offer some um resources for education
+education for inventors entrepreneurs
+startups kids and different others of
+course in a nutshell you should be able
+to get um information how to dis mify
+the patent system essentially and there
+are toolkits for that
+so here's the uh QR code uh if you would
+like to uh take a picture of that
+um if you need help uh in in your
+corresponding area of residence and so
+you can we have several um Regional
+Offices the main headquarters located in
+Alexandria Virginia but we also have
+Regional Offices um in Midwest region
+Texas region the rocky mountain region
+Silicon Valley region as well as um and
+a new regional office that will be in in
+the area of um southeast of the United
+States in in in Georgia essentially so
+and also will be having um Community uh
+Resource Center uh when it comes to um
+in the Northeast in in New Hampshire so
+we we'll be announcing pretty soon more
+of the more of the more of that
+information will be coming
+so in the different Regional Offices as
+well as headquarters you have the
+opportunity to connect with inventors
+entrepreneurs organizations in your
+estate you could also get free Patent
+Trademark legal assistance uh being able
+to uh have access to U USP this is
+through the our main page in in your
+region so I invite you to go ahead and
+and visit that here's where we were
+mentioning um our new Southeast uh
+Regional office that will be coming
+soon of course our east coast region are
+uspal headquarters and um our office
+hours are from 8:30 to 5:00 pm Eastern
+Time Monday through Friday and what are
+the core functions of the of the of us
+USB headquarters have the ability to
+receive a an examine uh p and trademark
+applications um us and international IP
+policy development oversight and and
+management of USPTO operational
+functions as well as stakeholder
+engagement and training
+so if you are not close to um to one of
+the Regional Offices or um our main
+headquarters we also have what we called
+patent and Tra Resource Centers or ptc's
+these are
+um because a nationwide network of
+public State and academic libraries that
+are designated by the usbt to
+disseminate patent and trademark
+information and also to support the
+intellectual property needs of the
+public these centers are authorized and
+resourced by USPTO so any and all
+information that is presented and that
+is shared and provided at these centers
+are coming from USPTO all right so if
+you need to find out where the where is
+the nearest uh ptrc you can go to
+uspto.gov
+TRC if you would like to um get
+information about USPTO latest events we
+have an events P web page uh you could
+register for upcoming events uh also
+being able to to plan whether you like
+you whether you're interested in a
+particular topic IP policy um Outreach
+programs education programs and and
+different other venues that we have
+available for the public we also have um
+video library or a YouTube channel where
+you if you missed um one of those
+conferences or workshops you could
+definitely do a quick search here and
+and been able to see those
+videos um essentially we have access
+resources for startups as well so
+whether you're interested in protecting
+your IP rights you have a you have to
+have a plan for Success you have to
+you're interested in finding finding fun
+funding or also you need or whether you
+need to engage Eng with with experts so
+we have different resources USPTO
+doesn't provide funding but we work with
+different other entities for which you
+can get additional information how you
+can get educated about those topics all
+right um uspt also pres has a an
+inventor Assistance Center and and iic
+essentially provides patent information
+and services to the public and uh I
+is staffed by former supervisor patent
+examiners and very experienced former
+primaries primary examiners who will be
+ready to answer general questions
+concerning patent examining policy and
+procedure here's the um we have our our
+Monday through Friday our hours of
+operation business hours and we also if
+you're interested in um how to fight for
+a patent application but you don't have
+legal representation you don't have a
+legal council you just trying to do the
+to to file your patent application on
+your own we also have resources for what
+we called prosay applicants or Pro we
+have a pro assistance uh program which
+is able to provide Outreach education to
+applicants also known uh also known as
+Pro applicants who file patent
+applications without the assistance of a
+registered patent attorney or agent so
+for more information uh uspto.gov
+Pro pray
+patents also we have free legal
+assistance programs these are through
+our uh patent program proo program this
+is a nationwide program that is able to
+match financially on resourced inventors
+and small businesses with volunteer
+patent practitioners ER who will be um
+willing to find and prosecute patent
+applications of course there are certain
+requirements and also we have the low
+School uh low School Clinic
+certification program which permits law
+students under the supervision of a
+participating law school Clinic
+supervisor being able to practice patent
+and or trer law for use P while
+providing those services to applicants
+in a pro bono
+manner so as we can see um our patent
+pro bono attorneys patent prono agents
+patent prono law firms it's a nationwide
+Network that assists financially on the
+resource independent inventors as we
+mentioned so there are there are some
+rules that need to be um that you need
+to comply with and um we definitely
+please take a look at that uh that
+resource right
+there as we mentioned our proo program
+organizations are throughout the United
+States and its territories and also for
+the um law school clinics as well our
+patent uh and traa Resource Centers as
+we
+mentioned in um our Pro program my
+apologies a couple of slides are
+repeated there um and also we previously
+mentioned our usb2 events but here's
+also additional information or QR code
+if you're interested so uh please stay
+connected with USPTO through either our
+news and updates our events uh that usbd
+announces patent alerts trademark alerts
+copyrights so we invite you to you can
+subscribe to the to USPTO uh pater
+information um this is a list of some of
+the resources that we mentioned our
+helpline 100 PTO
+9199 and also some additional resources
+and links if you have any question
+please feel free to reach out here's the
+email of my director Elizabeth as well
+as my email we're uh ready and available
+to um to receive your your your phone
+calls your emails and if you have a
+question please feel free to reach out
+after this presentation in the or in the
+near future
+all right so I think I have con
+concluded my
+presentation uh um I don't know if we
+have questions or from the
+audience all righty thank you for that I
+don't see any questions at the moment I
+just see everyone saying thank you for
+the
+presentation absolutely my pleasure yes
+I know it's it was kind of a long set of
+the slides but the material that we
+provided in here will definitely give
+you can give you um jump start on on
+your on your invention on what you have
+in
+mind all right so thank you for that I
+think it's safe to say we can proceed to
+the next slide and this webinar will be
+converted into an on demand format and
+we will email the participants a copy of
+the PowerPoint
+presentation however if you're in the
+meeting and you don't have your actual
+name I see iPhone and a few persons I
+don't see in terms of registration
+please send a message in the chat with
+your name or your email address so I can
+make sure that you get the post survey
+email and so with that being said the vi
+spdc has so much more in store for usbi
+small businesses you can visit our
+website at
+www.vc.org download the vbdc app on your
+mobile mobile device from the
+appropriate App Store like and follow us
+on Facebook Instagram Twitter Google
+business and subscribe to the bbdc
+YouTube channel channel for new uploads
+of our on demand webinars okay so I see
+a few names in the
+chat so that's pretty much it in terms
+of webinars we have coming up I will
+give an
+update um at a at a later time but you
+can always go to our um training portal
+and see what's coming up don't forget to
+download the app so no questions I want
+to say it's always a pleasure
+collaborating with the US pta1
+initiatives like this so thank you guys
+so much and for everyone in attendance
+thank you for attending today's webinar
+and on behalf of the entire vbdc network
+we wish everyone a productive rest of
+day thank you thank you take care

@@ -1,0 +1,203 @@
+[Music]
+hello and thank you for joining us today
+for another exciting episode of
+inventors quick tips in this episode
+we'll be going through a mock claim
+drafting exercise that's right I
+invented the wheel so now let's see how
+I go about claiming it now before we get
+into it a few points that I want to
+quickly make don't try this at home and
+by don't try this at home I mean to say
+that in general I would not recommend
+that inventors write their own claims
+and file their own patent application
+reason being is that this is specialized
+work and I believe that most inventors
+are better served by spending their time
+and their effort on their invention
+their business plans and their product
+development claim writing is specialized
+stuff that if you don't do it regularly
+can be quite challenging for a lay
+person to get right so while I think
+this is good as a learning actors
+exercise I don't recommend people try to
+file a patent application with their own
+claims however inventors have
+successfully obtained patents on
+applications that they wrote their
+themselves it does happen
+furthermore I recognize that hiring
+professionals costs money
+and not everyone has the resources to
+hire a professional so if it comes down
+to a choice between trying to get some
+protection on your invention versus not
+then writing and filing your own patent
+application may be the best available
+option for you this example I'm going to
+pretend it's not something I actually
+invented we're just pretending here for
+the purposes of learning look at the
+most out of this video if you're able to
+pause on occasion as I'll be asking you
+a few questions throwing this video and
+then suggest that you pause the video
+for a minute to think about a few things
+finally this example assumes a basic
+knowledge of how claims work and if you
+have that then keep on going if you
+don't really know what claims are I
+suggest watching my claims introduction
+first which I will put a link to in the
+Crypton below it is not to long but it
+will help you get the most out of this
+video so if needed go watch that and
+then come on back okay so as I said I
+invented the wheel but not just any
+wheel let's go over the parts of my
+wheel
+I got a rim I got a hub section where
+you attach the wheel to a car and some
+spokes now most inventions are an
+improvement on an existing thing so my
+wheel improves on the prior art stuff
+that already exists with this slot in
+the spoke there's slot that I invented
+allows air to flow better towards the
+brake rotors to help keep them cool and
+increase braking performance so let me
+try writing a claim for my invention so
+take a look at this claim as you will
+see it does describe my invention but
+there are some things we may be able to
+do better let's talk about limitations
+perhaps I have added some limitations in
+my claim that aren't really necessary
+and these limitations can restrict my
+claims more than what is needed pause
+the video for about a minute and see
+which ones you can find okay let's take
+a look here we have the word automobile
+but does this rim have to be limited to
+automobiles could it work on a
+three-wheeled vehicle a motorcycle
+airplane landing gear I don't know maybe
+maybe not but there's no real advantage
+in my claim one my broadest claim to
+limit it to an automobile
+how about spokes I called five here but
+could I have more or fewer spokes sure
+my invention is the slot right the slot
+in the spokes so I could have a three
+spoke wheel a 10 spoke wheel or whatever
+so in light of this let's try to broaden
+my claim out of it I changed it to
+vehicle not specifically an automobile
+and I'm not limited to five spokes note
+that the word plurality is a legalese
+word that means more than one and if you
+read some patent claims you'll see the
+word plurality a lot plurality is just a
+fancy way to say more than one so here
+I'm not limiting the five spokes I'm
+just saying more than one spoke now take
+a look at this chart on the bottom
+you'll see a line where the further on
+the left you go the more
+arrow or specific your claims are and
+the further on the right you go the more
+broad or general your claims are if I
+write a claim that's too broad
+I'm not going to get a patent because my
+claims will also cover things that
+already exist the prior art and that
+will prevent me from getting a patent if
+my claims are too specific I might get a
+patent but it will be pretty easy to
+design around by competitors the sweet
+spot right here in the middle is claims
+that are allowable and also meaningful
+meaning to say that they're not too
+specific and not too broad they will be
+allowed but they'll also give me some
+protection so it helps to consider the
+prior art and again prior art is just a
+legal term for stuff that existed before
+now this information often comes from
+doing a patent search searching is
+something that can be done effectively
+through the internet using free
+resources and I have an episode on
+searching I will put a link to in the
+description below but let's say I do my
+search and here's what I come up with
+and what do you know there's a lot of
+wheels out there that already have slots
+so consider my second attempt on the
+claim my claim could easily apply to
+some of these rim shown here so I need
+to tighten up my claim a little more so
+I can have a claim that covers my
+invention but doesn't cover these rims
+that you see here so let's go back to my
+invention and dig a little deeper now I
+have the slot we already put in the
+claim but I also have this angled flange
+that actually serves to direct air
+towards the interior of the rim to cool
+the brake rotor so I have the side of
+the rim as you see down there and you
+can see that I have the angled flange to
+direct air towards the brake rotor so
+now let's add that structure to my claim
+and assuming that the prior art rims
+don't have that angled flange we may be
+on our way to a better claim but another
+issue sometimes that we encounter can be
+vagueness something in our newly added
+wording might be vague and that can
+trigger a rejection that could prevent
+me from getting a patent granted pause
+the video for a minute and see if you
+can find something vague
+okay what did you find here's what I was
+thinking
+angled angled flames angled compared to
+what everything is that an angle to
+something so let's tighten this up a
+little bit maybe something like a flange
+oriented at an angle with respect to a
+side of the rim so now it's not just
+angled arbitrarily but it's angled with
+respect to some other part of the wheel
+now I have removed some of my
+limitations that weren't necessary and I
+added some limitations that help focus
+my claims towards what my invention is
+all about which are the things that I
+did to my spokes to improve directing
+the air flow onto the brake rotors now
+once again remember this is an exercise
+these claims are not real and may not
+contain everything needed to conform to
+all the patent practices but for the
+purposes of a short tutorial I hope you
+found it to be helpful
+so just to recap the rules we covered
+are avoid unnecessary limitations things
+that don't need to be there in our
+example an automobile wheel or five
+spokes then include necessary
+limitations things that do need to be
+there to distinguish my invention from
+the previous prior art wheels that exist
+out there and have dependent claims for
+a range of coverage as you saw in this
+example we only had one claim but in
+practice you would have more than one
+claim covering your invention so once
+again thanks for watching and we'll see
+you next time on inventors quick tips
+[Music]

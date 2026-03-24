@@ -1,0 +1,2 @@
+The European Patent Register contains all the publicly available information on European patent applications as they pass through the grant procedure, including oppositions, patent attorney/EPO correspondence and more. This service also provides for public file inspection.
+More info: https://www.epo.org/searching-for-patents/legal/register.html

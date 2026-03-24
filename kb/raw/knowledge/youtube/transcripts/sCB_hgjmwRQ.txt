@@ -1,0 +1,489 @@
+There are a few major milestones in a software 
+engineer's career: getting your first commercial  
+software engineering job; shipping your first 
+product; and getting your first software patent. 
+Software patents are even more controversial 
+than their physical device counterparts. 
+The rather permissive environment for software 
+patents in the 90s led to a land rush,  
+where lots of questionable patents were filed,  
+and many of them were approved.
+Still, being able to say that you're  
+a inventor on a published and accepted 
+patent has a certain allure to it. 
+What exactly is a software patent?
+And what does it take to get one?
+Hi! I'm John Miller, the Deliberate Engineer.
+I spent the last 30 years working at a variety  
+of places, including much of it at big tech 
+companies like Microsoft, Amazon, and so on. 
+As a result, I was involved in several 
+V1 projects, and lots of inventions,  
+many of which resulted in patents.
+I have more than 30 unique patents to my name.
+Today we're going to talk a 
+bit about software patents. 
+How do you file one?
+How is it evaluated and granted? 
+What's the value of having a software patent?
+What are they used for? 
+How are they abused?
+Is it even worth filing a software patent?
+Today I'm going to give you some examples 
+of patents and inventions that I've been  
+involved with, and then help give you 
+more of an idea about what the process is,  
+and whether it's worth participating in.
+Before we go any further, I 
+need to give a disclaimer. 
+I am NOT a lawyer, and I'm 
+certainly not a patent lawyer! 
+Any advice that I'm giving today, 
+any information, is not legal advice. 
+This is just my experience through 
+the time that I spent filing patents,  
+and reviewing patents at a variety of companies.
+If you want to file a software patent, or even see  
+if it's worth doing, often times you're going 
+to need thousands of dollars of legal advice,  
+regardless of who pays for it. Whether it's 
+you, or the company you're working for.
+Also, I've mostly worked in the US, 
+so my perspective on things is going  
+to be skewed towards working in 
+the US and filing US patents. 
+Possibly a little bit about 
+filing globally as a US inventor.
+So, if you live someplace else, you'll probably 
+have to find out specifics for your area.
+So, what is a software patent?
+Typically a software patent is  
+a description of an instantiation of an 
+algorithm or some sort of a software invention. 
+It'll include information about 
+how that instantiation was created,  
+describe the general setting that it works in, and 
+then provide an increasingly broad set of claims  
+that describe what you consider innovative, and 
+what you want to protect, based on your invention.
+Sometimes a patent is broader than just 
+an algorithm and a software invention. 
+It can include business processes 
+- that has varied over the years,  
+so you need to find out what the current 
+laws are, to understand if your business  
+logic can be included as part of the patent 
+as well as the algorithms that you're using.
+In addition to describing the invention, 
+the claims that are included in a patent lay  
+sort of a claim to part of the intellectual 
+landscape, saying: "Anything that falls in  
+this area is covered by my patent, and I have the 
+force of law to come and ask for damages from you,  
+or ask for you to stop what you're doing, 
+and be able to make a court agree with that."
+A written patent is typically anywhere from 
+10 pages to 80 pages of mind-numbing legalese. 
+Very generic descriptions of things, ranging 
+all the way down to extremely specific details. 
+They are written so that they can be 
+interpreted and enforced by lawyers. 
+If you're curious what real patents look 
+like - real software patents - you can  
+go to the USPTO - US patent trade[mark] 
+office, I think - the USPTO's website,  
+and take a look at both pending applications 
+and granted software patents, to get an idea  
+about what's involved in 
+them, and what they look like.
+Bear in mind that if you're the employee 
+of a company, or if you're planning on  
+being an inventor yourself, you need to 
+be very careful about looking at patents. 
+The instructions that I received 
+when I was working at Microsoft was,  
+don't look at any patents if you have an idea.
+If you think it might be valuable,  
+go ahead and submit a pre-disclosure for 
+that idea, but don't go look at the patents. 
+The idea is, that having looked at existing 
+patents may unconsciously inspire you,  
+or otherwise taint your invention, so 
+that you can't claim it as your own. 
+When that happens, then it 
+can invalidate a patent.
+Software patents are usually granted for 
+a particular legal domain [jurisdiction]. 
+For example, within the United 
+States, or within Canada,  
+or within parts of Europe that are part of the EU.
+Europe is a little funny, because the groups of  
+countries that work together and honor 
+each other's patents aren't necessarily  
+the same as the EU. But, there are a 
+couple different patent offices there.
+When you file a patent application, that 
+application gets evaluated by the patent  
+office that you submitted it to by an expert in 
+that domain - or at least in related patents. 
+They take a look at other existing [prior] 
+art, and take a look at the claims you have,  
+and decide whether your invention 
+is sufficiently innovative enough  
+for them to grant you a patent.
+Sometimes they refuse a patent outright. 
+More often, what they'll do is, take a look at 
+the the patent and disallow some of the claims. 
+They'll give you a suggestion of 
+things that need to get revised. 
+It comes back to your patent lawyer. They 
+revise it. You approve the revisions,  
+and then that goes on to the patent office, 
+where that revised version gets reviewed again,  
+and possibly gets granted.
+The whole process, from start  
+to finish - at least in the us, can take 
+anywhere from six months to several years.
+So, what are patents, and why are they useful?
+A patent is a way of protecting time and money  
+that you spent inventing something.
+By getting a patent,  
+you get sort of exclusive ownership of that 
+particular invention for a fixed period of time. 
+In return, you agree to file 
+the details of that invention  
+in the patent, and then after your patent 
+expires, anybody who wants to can use it for free. 
+The world gets sort of later 
+access to innovative inventions,  
+and the inventor gets a certain period 
+of time where they're granted a monopoly  
+on producing things out of that 
+instantiation of the invention.
+Now, for software patents especially, proving 
+that somebody stole your algorithm that they're  
+infringing somehow can be quite difficult.
+It takes a lot of time and money to investigate,  
+and then to apply a suit.
+Larger companies that have  
+many patents typically have a set of 
+dedicated lawyers who take care of this. 
+But if you're a smaller company, the threat 
+of infringing - of a company coming to you and  
+telling you: "Oh, by the way, you're infringing 
+our patents and you need to stop right now, or  
+you need to pay us a licensing fee"...
+Because litigation can be so expensive  
+and lengthy, oftentimes a threat 
+is enough to drive compliance. 
+A company that tries to enforce its patents, 
+and goes after people who are infringing it,  
+isn't always malicious.
+In many cases, they're just  
+trying to protect their investment 
+in the invention in the first place. 
+In addition, in some countries - the US for 
+sure - if you don't go after people who are  
+infringing your patent, then your 
+patent can actually be invalidated. 
+Because, they say: "Well, the 
+invention's already out there."
+In big tech, patents are used a little differently 
+than I suspect they are for other owners of them. 
+Typically, the big companies will have a very 
+large suite of patents, a "patent portfolio." 
+And this will cover a wide swath of the area 
+in computing, at least giving a basis to  
+press claims that somebody is infringing patents.
+So, when one company is working on something,  
+then another company comes in to say: "We notice 
+that you're infringing some of our patents." 
+The company that was accused will then 
+bring up some of their own patents that  
+they think relate to the accuser, and say: "Well,  
+you're also infringing some of our 
+patents. Why don't we cross-license?" 
+And then, maybe some money will 
+trade hands, and they each agree  
+that the other company has the right to produce 
+software using any of the patented technology.
+This cross-licensing really makes sort 
+of a club where everybody's allowed to  
+use all of the intellectual property that 
+each of them owns, in terms of patents, and  
+can do so without worrying about being persecuted.
+It also gives them a broader base of things to  
+claim as protection for their patents, in case 
+somebody else comes and tries to sue them.
+Patents can also wind up being abused.
+One strategy for investors with deep  
+pockets is to go and find valuable 
+patents in distressed companies. 
+In other words, companies that 
+are on the verge of folding  
+or maybe even companies that are in liquidation.
+Just because the company couldn't succeed, doesn't  
+mean that the IP that they own isn't valuable.
+And so, these deep pocket investors will go  
+and buy the patents, and then see what 
+other companies they can shake down.
+Sometimes they go after the 
+small and medium companies, 
+because those companies are less 
+likely to have the resources  
+to be able to fight the patent claim. 
+Instead, what those small companies will 
+do typically is pay a "nuisance" fee,  
+a nuisance settlement that will be cheaper 
+than even going to court, win or lose. 
+This is what the people who 
+buy the patents want to do. 
+They want to collect money, 
+with a minimum of work. 
+Or, sometimes they will set their sights 
+on a very big fish and go after them.
+These types of investors are usually called 
+"patent trolls." They're out there trying to  
+charge a toll for going across 
+the bridge of their IP... 
+I don't really know if that's 
+what it's [the name] based on,  
+but I like to think it at least has SOME 
+reason for being called patent trolls.
+What makes a good software patent?
+Well, there's three basic elements that  
+should be part of any good software patent.
+First, the technology should be innovative. 
+Now, innovative can be a shockingly 
+low bar, so you shouldn't just  
+rule out things that to you seem obvious.
+That's really, if there's value to your invention,  
+that's really something that you will want your 
+patent lawyers to figure out within the company. 
+Don't go looking for these things yourself.
+So, that's why you file something called a  
+pre-disclosure that describes the invention, 
+mentions anything you know off the top of  
+your head that might be related to it, 
+to make the search easier for them. 
+And then describes roughly why 
+you think it's worth patenting.
+Secondly, the patent should have some 
+way associated with it of making money. 
+For example, if you come up with a compression 
+algorithm that is twice as fast and compresses  
+things twice as far as other existing compression 
+algorithms do, you can bet there's going  
+to be a way to make money off of that!
+So you'd absolutely want to patent that.
+On the other hand, if you come up with 
+the technology to validate strings by  
+taking the string, reversing it, and then 
+re-reversing it again, well that's really  
+just a lot of wasted work, and I don't think 
+anybody would be interested in patenting that. 
+Or, even if they tried, it 
+probably wouldn't be granted.
+And third, the patented technology 
+should be detectable somehow,  
+if someone's infringing your patent.
+For example, with the compression algorithm,  
+if you saw other people producing the same 
+sort of thing that could be understood by  
+your compression algorithm, you have a pretty 
+good idea - at least a basis for investigating  
+further - that they are infringing you.
+On the other hand, if you have some secret  
+way of routing data that's more 
+secure within your data center,  
+it's not visible to any other customers, that 
+can't be detected from outside of that company. 
+Then, there's not a whole lot of point 
+in patenting that, because you won't  
+be able to detect if other data center 
+companies are infringing that patent.
+Instead, you would probably treat 
+that as a "trade secret." Something  
+which you limit the audience that 
+can see it inside of the company,  
+and which you protect by keeping it 
+secret, rather than by patenting it.
+While we're talking about disclosure, it's 
+worth mentioning that if you make an invention,  
+and then you talk about it in any PUBLIC forum 
+-- mail it to somebody a different company,  
+you present it in a paper, you 
+talk about it in a press release,  
+anything like that, that's disclosure.
+In many jurisdictions, this will result in you  
+being unable to file a patent on that technology.
+Depending on the jurisdiction, sometimes  
+a patentable idea can no longer be 
+patented as soon as it's disclosed. 
+In other jurisdictions, it starts a timer 
+counting, that may go for - for example - a year. 
+If you file your patent application within a 
+year of initial disclosure, it is still allowed. 
+Otherwise, it's just refused straight out:
+This technology's already been disclosed,  
+it's public knowledge, we 
+can't grant you a patent on it.
+So, let's say you have a patentable 
+idea that you haven't disclosed yet. 
+Then you're going to fill out a pre-disclosure 
+form that describes the patent, and the value  
+that you see in it.
+This will eventually  
+make its way to your internal lawyers.
+But first, it typically goes through the hands  
+of managers and senior technical 
+people in your company. 
+They take a look, and they see if they believe 
+it's a valuable idea, if it is an innovative idea. 
+These people will typically have more 
+experience, they will have filed lots of patents,  
+so typically they'll have a better 
+idea of what can and can't be patented. 
+Based on that, they decide whether to go 
+forward with a patent application or not.
+Patents are expensive, as I mentioned earlier.
+I think the figure I heard for them, back when  
+I was paying more attention, was around the 
+order of $25,000 to see a patent all the way  
+through the process until it's granted.
+There's a budget for these things. 
+You don't just file an infinite number of patents.
+This means, part of the role of these managers and  
+senior technical people is to act as gatekeepers.
+To make sure that they leave enough budget  
+throughout the year to be able to file all the 
+interesting patents that come up through it.
+So, they will say no to lots of patents 
+that they don't think are valuable enough,  
+so they can save the budget 
+for other patents that are. 
+After the patent gets approved 
+by the technical managers and  
+the higher up people who are controlling the 
+budget, then it goes back to the legal department. 
+The legal department will do 
+a preliminary investigation. 
+Read over the pre-disclosure, read 
+any of the attached documents. 
+And then, they'll typically meet up with 
+the inventors at a pre-disclosure meeting. 
+At that meeting, the inventors 
+described the invention to the  
+lawyers, and they sort of make sure everybody 
+understands what's being talked about. 
+And the people who filed the pre-disclosure can 
+also provide additional documentation - design  
+docs and so on - that will be 
+useful for drafting the patent.
+Then the patent lawyers go off.
+They draft the patent, and then they return  
+a draft of the patent application to the same 
+people who submitted the idea in the first place. 
+The submitters take a look 
+at that patent application,  
+and make sure that it's 
+technically valid and complete. 
+They also provide a list of the 
+inventors of that patentable technology. 
+The inventor list typically needs to be 
+correct in order for the patent to be valid,  
+so you need to be careful how you form that.
+The people who you put on there should be people  
+who had a MATERIAL contribution 
+to the patented technology. 
+Assuming everything moves forward, then the 
+patent gets submitted, and maybe after a round  
+of corrections it gets granted.
+Or, maybe it gets refused.
+So, why would you as a developer 
+want to file a software patent? 
+Well, as we mentioned before it's kind of cool.
+Typically you'll get some sort of a tchotchke  
+for doing it, like a little lucite colored 
+puzzle piece that talks about the patent.  
+Maybe a different color for a patent 
+application versus a granted patent. 
+There's also typically some sort 
+of a bonus associated with it. 
+It can be anywhere from a couple hundred 
+dollars, to a couple thousand dollars. 
+So, you have some incentive as an employee 
+to file patents on patentable ideas.
+So, what sort of things are patentable?
+Well, I can just tell you some of the  
+things that I've been involved in inventing.
+I haven't necessarily been the sole inventor. 
+Sometimes I've only been a 
+minor contributing inventor. 
+But, things that I've been involved in patenting 
+in the past include: authentication protocols  
+for authenticating a third party who can't talk 
+directly to the authentication server; networking  
+protocols having to do with peer networking, 
+people talking to each other and exchanging data;  
+shared replicated databases; discovery protocols;
+ways of evaluating sensor data to try and  
+disambiguate different contacts on a mouse 
+sensor; all kinds of things like this. 
+These all sound relatively fancy, but things 
+like APIs can sometimes be patented as well. 
+Just the actual API design.
+That gives people the option then  
+of suing somebody who tries to make a 
+replacement module using the same API. 
+I don't know if this is still allowed 
+today, but it was a strategy in the past. 
+You should error on the side of being 
+liberal when you try to decide if  
+something is patentable or not.
+Go ahead and submit it.
+So, summing things up:
+Software patents are ways of  
+protecting intellectual property and particular 
+instantiations of algorithms, ideally with some  
+working software associated with it.
+Companies file patents to help protect  
+their inventions, and to protect them 
+from other people who have patents filed  
+that might be infringed by this company,
+so they can get a good cross licensing deal  
+that protects both the companies.
+Further, it can be worth filing  
+a patent because it benefits your career.
+It helps protect the IP of the company, and it can  
+give you a little tchotchke, make you feel good.
+There's nothing wrong with that. 
+But, you also need to be aware that 
+filing patents can be quite expensive. 
+It's not something you'd want to 
+just run out and do on your own,  
+unless you've got twenty five thousand dollars 
+sitting in your pocket burning a hole in it.
+It can be quite difficult to see the process 
+through, and oftentimes it takes years.
+So, I know a lot of you more senior software 
+developers out there have a ton of experience  
+writing patent applications and patenting things.
+Do you feel like I've given a fair description  
+of the patent process?
+What's your experience? 
+Do you have recommendations for software 
+engineers who are trying to decide whether  
+or not to file patents on things?
+I'd love to hear all about it  
+in the comments below.
+Thank you for watching the video, 
+and keep on pushing forward!
+Hi. This is John.
+Thanks for watching. 
+If you enjoyed this video, 
+please think about subscribing  
+so you get notified of my future videos.
+Also, if you are interested, you might want  
+to check out the video I have linked here.
+Thanks, and keep on pushing forward.

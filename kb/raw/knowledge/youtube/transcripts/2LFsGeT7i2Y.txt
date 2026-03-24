@@ -1,0 +1,229 @@
+[Music]
+hello and welcome to another edition of
+inventors quick tips today we are going
+to be holding a claim writing workshop
+where we go over the basic thought
+process often used in coming up with
+claims
+so first let's go over some basic claim
+facts
+the claims legally define the invention
+you can say whatever you want to in the
+written description but when it comes to
+determining if someone is using your
+invention without your
+permission which is called infringing
+what is it that the other party would
+have to do
+to answer that question the first place
+one looks is the claims of the patent in
+question
+so if we need to know what a claim term
+is or what a claim really means we may
+look to the specification or written
+description to determine what a claim
+means
+there are certain grammatical and
+formatting rules for claims for example
+every claim is numbered and every claim
+ends in a period to name just a few of
+the rules
+it is one thing to write a claim that
+follows all the rules it is another
+thing to write an effective claim we
+could devote multiple videos to claim
+writing but for this particular video we
+are going to focus on the thought
+process for writing an effective claim
+a main goal of claim writing is to get a
+broad claim that is allowable
+allowable means that the patent office
+will approve it to be in an issued
+patent
+and broad means the opposite of specific
+if the claim is too specific it may be
+allowed but easy for a competitor to get
+around by simply changing minor details
+so once again the goal is broad and
+allowable
+if you need more information on how
+claims work i have a video that covers
+some of the basics and i will put a link
+to that video in the description
+after you pass your test to become a
+patent professional it is common to take
+some workshops on claim writing and
+often in these workshops they'll start
+off with an example invention and it
+might be something like this
+congratulations you've invented the
+go-kart
+and so the students will be asked to try
+and write a claim for the go-kart and
+they'll let you get started and you'll
+start writing something like
+a vehicle comprising multiple wheels a
+motor a steering mechanism and a braking
+mechanism now please note that this
+claim and all the examples in this video
+that follow are not intended to be a
+real claim we are taking some shortcuts
+and making some simplifications to
+illustrate the thought process while
+keeping the technical details from
+getting too complex so just keep that in
+mind so with that said things are coming
+along with our claim and then the
+workshop
+instructor will reveal that it's a trick
+question
+why
+because claims do not exist in a vacuum
+they are written in consideration of
+prior art what's prior art it's the
+legal term meaning stuff that existed
+before your invention and the instructor
+will say to write an effective claim we
+should consider what the prior art is
+and make sure that our claims don't read
+on the prior art we know of
+now there is a high chance that there
+could be prior art that we don't know
+about but we have to work with what we
+know and now the instructor will tell
+you about a piece of prior art
+here is our prior art let's see about it
+the prior art has multiple wheels
+the prior art has a motor
+the prior art has breaks so my initial
+claim is clearly too broad
+everything i listed in my claim can be
+found in the prior art train
+but when i look at my go-kart clearly it
+is not identical to the train there must
+be some other differences for the
+purposes of this exercise let's focus on
+two differences one is with my invention
+the engine is a gasoline-powered engine
+and the prior art has a steam engine so
+we can change to a gasoline-powered
+motor and what else
+this prior art train follows the tracks
+but there is no steering mechanism with
+my invention the go-kart can be steered
+wherever the prior art train has to
+follow a track that's been laid down so
+let's make another edit to the claim
+now i have a steering mechanism too so i
+have some differences now between the
+prior art i know about and my invention
+it's at this point the instructor will
+say guess what
+we just became aware of another piece of
+prior art you may need to edit your
+claim in light of this prior art we just
+learned about so let's see it and here
+is our new prior art it's a motorcycle
+let's see what we have
+multiple wheels
+gasoline-powered motor
+steering mechanism
+with the handlebars through to the forks
+so this prior art again has everything
+that our claim currently has
+what's another way to think of this well
+my steering mechanism is different why
+i've got two wheels up front and the
+prior art motorcycle has only one
+and to have two steerable wheels up
+front that seems like a non-trivial
+difference compared to motorcycle
+steering which is relatively simple as
+in the case of the go cart we need to
+have both front wheel steer in a
+coordinated manner so let's make a claim
+edit
+so with my claim edits we now state that
+we have four wheels and we control the
+steering of the front wheels by
+simultaneously
+operating them with the steering
+mechanism so it looks like we have
+gotten past the prior art we know about
+but patent claims are not just about the
+past they are also about the future
+let's use our time machine to see a
+future device
+so here is our future device
+it has the similar steering mechanism
+but
+we have some things in our claim that
+this device doesn't have let's keep
+looking
+the future vehicle has three wheels not
+four as in our claim the future vehicle
+has an electric motor not a
+gasoline-powered motor as an hour claim
+recall that we added the
+gasoline-powered limitation to try to
+differentiate from our prior arch steam
+train
+but now that we've explored further we
+see the real departure from the prior
+arch seems to be the steering mechanism
+not the motor type so let's make a few
+edits to try to help make our claim more
+future resistant
+first we'll get rid of the
+gasoline-powered limitation it's not
+helping us that much since we have the
+motorcycle that already has that feature
+second we'll get rid of the limitation
+of specifically having four wheels and
+we will restore the word multiple but we
+will keep the limitation of wherein two
+of the wheels our front wheels
+continuing to differentiate from the
+motorcycle prior art in terms of
+steering and now here is the final claim
+from our workshop
+so in doing this we have considered the
+prior art devices the training and the
+motorcycle
+and we've considered our future device
+now you might be thinking i don't have a
+crystal ball i can't know what the
+future device is going to look like and
+that's certainly true that nobody can
+know with certainty what the future
+devices will look like however a good
+patent professional usually will try to
+think about what limitations are really
+necessary and which ones aren't
+and by thinking in that way they may
+help make their claims more future
+resistant just take the example of the
+wheels we initially started with four
+wheels but then when we really thought
+about it we realized you know maybe it
+doesn't need to have four wheels but we
+do need to have front wheels together
+that steer so that paved the way for the
+possibility of a three-wheeled vehicle
+or a six-wheeled vehicle or what have
+you so thinking in that way can help
+make the
+claims more future resistant
+because the goal is we'd like future
+devices to infringe on our claims so
+that
+we could possibly collect royalties or
+sue for damages or things like that
+again these aren't real patent claims
+but simply intended to illustrate the
+thought process that may take place
+while writing claims for an invention
+so hopefully you found this video
+helpful if so please like share and
+subscribe and thanks again for watching
+bye

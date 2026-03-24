@@ -1,0 +1,303 @@
+Hey there, inventor. So, you're
+interested in filing a provisional
+patent application. I'm Curt Lockhart, a
+patent attorney, and I help inventors
+navigate the patent process. So, today
+I'm going to walk you through this
+complete step-by-step process to file
+your own provisional patent application.
+Provisional patent application is a
+great starting point for many individual
+and early stage inventors. It gives you
+patent pending status for 12 months
+while you explore the market viability
+for your invention. Are you ready to get
+started? All right, let's jump in. All
+right, so the first thing you're going
+to want to do is make sure you have all
+the documents that you're going to file
+ready. And so for the provisional patent
+application, really the main document
+you want is the specification, which is
+the written description of your
+invention.
+Drawings are not required, but it's nice
+to have as support. So if you do have
+any sort of drawings or diagrams or
+sketches that help support your
+invention, you can also include th those
+as well. Then the last document that's
+going to be important especially for a
+lot of individual inventors is this
+certification of micro entity status.
+And so, uh, micro entity status is a way
+that you can get the filing fees reduced
+by 75%.
+And so, for a lot of individuals, uh,
+lower income filer inventors that are
+filing, they're going to qualify for the
+micro entity status. So if you go to
+USPTO
+micro entity status
+and then you click on that there's a
+description of the micro entity status
+and how you qualify and so uh gross
+gross income is the is a common way. So
+if you go scroll down to gross income
+basis and so there are really four
+requirements you have to meet. And so
+first you have to qualify as a small
+entity which individuals do unless
+they're assigning their patent rights to
+company or or an individual that doesn't
+qualify. Business purposes if you have
+fewer than 500 employees or you're an
+individual um you'll meet that
+requirement. Then the next requirement
+is application filing limit. And so you
+you have to be named on as an inventor
+on less than four priestly filed
+patents. And so if this is your first
+time filing a patent application, you're
+going to meet that requirement. Then the
+last one is the gross income. And
+there's a maximum qualifying gross
+income. So if you click here, it'll take
+you down. And it is currently
+241,830.
+So if you have a a gross income less
+than that, then you would qualify as a
+micro entity. And then the last
+requirement is you just can't assign
+your patent rights to like a business or
+or an individual that doesn't qualify uh
+under that maximum uh gross income
+limit. So if you qualify for a micro
+entity
+status, you can grab this uh
+certification of micro entity status
+gross income basis form and then you'll
+just fill it out. So, you'll stick your
+name as the inventor, the title of the
+invention,
+and then you'll sign the form down here
+and date it. And then you won't need a
+registration number uh if you're filing
+as an individual. That's just if you
+have a you're a registered private
+practitioner.
+And so once you have those documents
+ready to to submit and a payment method
+for the filing fees, you can go to
+uspto.gov.
+This is the United States Patent and
+Trademark Offic's website.
+And if you go to patents
+and
+apply for a patent and then you can open
+patent center
+and under new submission, it's going to
+be a utility provisional application.
+And then you'll get this popup that says
+um it basically prompts you to sign in.
+So you you can continue as a guest and
+file that way or you can sign in and
+create a USPTO account. It's nice to
+have an account cuz then you can track
+your application when you go to convert
+it to a non-provisional application. You
+can track the status in there. But you
+can for for sake of simplicity and and
+quick filing, you can also file just as
+a guest user. If you create a USPTO
+account, there's a verification process
+you have to go through that can be
+lengthy. So for our purposes we'll just
+calendar a guest user. So we'll hit
+continue and then we are looking for to
+fill out the application data sheet and
+we are going to select the web ads
+option here. So we will hit select
+and we are going to go through
+all of these categories and we're going
+to input the information for our
+application.
+And so
+for the inventors, we will add new
+inventor
+and
+I will be the inventor
+and
+we'll stick our contact information in
+here.
+We will hit add. If you have multiple
+inventors, you can hit create and add
+another, but we'll just file under one
+for now. So once we've input all the
+inventors, we are going to hit next
+section.
+And so for application details, there
+won't be a customer number. That's for
+if you you're a patent practitioner,
+you'll have a customer number, but won't
+have one here. So we'll provide a
+physical address. So, we'll click this
+and we'll stick in
+name
+and our address again.
+Then we will
+input our title here which will be
+medicic energy
+phone case
+and then these sections are optional.
+There won't be an attorney docket
+number. It's your filing as a
+individual.
+So we'll go ahead and set the entity
+status to small. We'll actually select
+micro later on. Little drawing sheets.
+We only have one. You can put one there.
+Can put one there as well. These are
+optional. So you don't need to put
+anything there if you don't want to.
+They're not filing by reference. So we
+won't need to select this box. And so
+then we'll hit next section.
+This is for representative type. Uh this
+section is optional and since we are not
+represented
+go ahead and skip this section.
+This section first inventor to file uh
+section will also not apply. This is if
+this application was somehow claiming
+party to an application that was filed
+clearback before March 16th, 2013. So
+that's not going to apply in this case.
+So we can skip this section as well.
+authorization or opt out of
+authorization to permit access. Uh this
+section will not be applicable as well.
+We can go ahead and skip this. Opting
+out of permitting access for foreign IP
+offices.
+And under applicant, the applicant is
+the inventor.
+We can skip this section as well. So,
+we're going to go ahead and leave this
+section blank for now since the
+inventor, we're going to be the
+applicant as the inventor. But if you
+did, if you were filing this
+application, you were signing it an
+ownership to a business, you can go
+ahead and add the new applicant would
+just click this box, applicant is an
+organization, and then you would stick
+in the information for that business
+entity and click add. Here, we'll go
+ahead and skip that for these purposes.
+This section is if there was an
+assignment of ownership outside of the
+inventor or the applicant. If it's a
+business, if there's a third party that
+has ownership interest in this patent,
+you can add them here. We will go ahead
+and skip that for this purpose, too.
+Uh we'll go to next section, which is
+the summary. Make sure everything's
+filled out. Okay.
+And then we will go to sign this form.
+At the very bottom, we will input our
+signature
+like this.
+And there's no registration number
+unless that that would be for a
+registered patent attorney to put there.
+So we'll hit continue. So when we add
+our files, the patent office prefers the
+specification in doc x format. So we'll
+go ahead and provide it in that format.
+It will also accept PDF.
+So we'll upload our specification
+and it automatically gives it a
+description specification.
+We'll go ahead and
+include our drawings
+and it also gave it a description.
+And then we will include our
+certification of micro entity status
+and that one did not get a description.
+So we'll go ahead and input that
+description.
+So we want certification micro entities
+gross income status.
+So now we have all of our documents. So
+we'll go ahead and hit continue.
+And this is where we'll calculate our
+fees. And so this is where we want to
+select micro entity so that we get the
+micro entity discount on the filing
+fees. And for the number of pages in the
+specification and drawings, we'll go
+ahead and hit a total of seven pages
+that we are are filing. And we do not
+have any petitions that we are filing as
+part of this submission. So we don't
+need that box. We'll go ahead and hit
+continue.
+And then here we'll select our fees. And
+so in this case, we just need the
+provisional application filing fee which
+has already applied the micro entity
+status discount. So we'll go ahead and
+select that. And we won't need any of
+these other
+optional fees. So we will hit
+continue
+and we this is where we'll review
+everything make sure we've got our
+application data sheet our specification
+our drawings our certification of micro
+entity status
+and we are submitting a utility
+provisional application and we are micro
+entity stats and so if everything looks
+good we've got our filing fee we'll go
+ahead and input our name
+as
+filer.
+And then this is where we'd hit submit
+here. And then on the next page, you're
+going to get a filing receipt. And the
+filing receipt is going to have your
+application number. So you want to make
+sure to save a copy of that. That'll be
+important when you go to convert the
+application to a non-provisional. You
+can reference that provisional
+application number. And then on the next
+page, you'll you'll also pay the uh
+filing fees as well. I'm not going to
+submit it just because this is a demo.
+Um but that's what you you'd hit submit
+and then you would pay the fees on the
+next page and you would get your filing
+receipt that you can save.
+The more details you put in your
+provisional patent application, the
+stronger it will be to support your
+later filed non-provisional application.
+The provisional application is just the
+starting point. It's not an actual
+patent. You'll have to convert your
+provisional application to a
+non-provisional application for it to
+become an actual patent. Your
+provisional application expires in
+exactly 12 months from your original
+filing date. And this deadline cannot be
+extended. So, you want to track this
+deadline closely. If you have any
+questions about the patent process, feel
+free to reach out. I'm always happy to
+help.

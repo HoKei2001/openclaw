@@ -1,0 +1,102 @@
+[Music]
+hello and welcome to inventors quick
+tips in this episode we are talking
+about some common patent application
+mistakes that i encounter and in
+particular the mistake of humans in the
+claims
+claims to find the invention in legal
+terms and so it's usually preferable to
+have the claims worded
+in terms of structure rather than who
+interacts with the structure and let's
+take a look at a contrived example just
+to help solidify this point
+here's an example invention to get
+weather for your location on your phone
+by pressing a button
+so here's my phone with my weather
+button on it and when i press the button
+my phone makes a query out to the
+internet reaches the remote server calls
+a function on that server that server
+then reaches out to some database of
+weather information and that data is
+returned and displayed on the phone
+so again this is not a real invention we
+are just using this as an example
+to help illustrate the point about
+humans in the claims
+so with a system like this i've
+encountered claims like the following
+a computer implemented method for
+providing weather information comprising
+receiving a key press from a user
+sending a weather data request to a
+remote server in response to the key
+press
+obtaining the weather data at the remote
+server from a weather database and
+sending the weather data to the user
+so we have a human in the claim where is
+the human
+the human is not happy as he does not
+want to be in the claim let's take a
+look and see where the human is hiding
+we have a key press from a user
+and sending data to the user and while
+it is true ultimately that the user
+initiates the activity by pressing the
+button and the information is ultimately
+delivered to the user
+for the purposes of patent claims it is
+often better to try to write the claims
+without the humans in the claims if
+possible
+so when we think about it in more detail
+the user presumably has his or her phone
+which we can generalize as a mobile
+electronic computing device
+and we can take this activity done by
+the user and instead rewrite the claim
+in terms of the electronic computing
+device i.e the phone that belongs to the
+user so here is a reworded claim to take
+the humans out of the equation our human
+is happy again now
+he has his mobile electronic computing
+device
+and the claim now reads receiving a key
+press from a display
+i.e a touch screen of a mobile
+electronic computing device
+and
+and similarly rather than having the
+claim language as sending the data
+directly to the user
+we are sending the data to an electronic
+computing device which can be the phone
+that the user has with them
+so in summary
+try to keep the humans and human
+activity out of the claims where
+possible why
+a few reasons one is that human activity
+in many cases may not be considered
+patentable so for that reason alone it
+is a good idea to try and keep the
+humans out of the claims
+another reason is that the patent
+application needs to show how the
+invention works and in our example if
+the claims are claiming sending data
+directly to a user rather than involving
+the actual hardware then there's a good
+chance that the claims are
+oversimplified skipping steps or
+otherwise too vague
+so hopefully you found this information
+helpful if so please like share and
+subscribe and thank you again for
+watching
+[Music]

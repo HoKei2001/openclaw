@@ -1,0 +1,82 @@
+{
+  "video_id": "RTpQnpVzwWo",
+  "total": 5,
+  "fetched_at": "2026-03-12T08:35:10.377974+00:00",
+  "comments": [
+    {
+      "id": "Ugxdh_I_mX1x32ehKM14AaABAg",
+      "author": "@ALPHABARN",
+      "author_id": "UCNuY2UKiXUIyku5z-rs3ubQ",
+      "author_url": "https://www.youtube.com/@ALPHABARN",
+      "author_verified": false,
+      "text": "Thank you super helpful",
+      "likes": 1,
+      "published_at": "3 years ago",
+      "timestamp": 1678579200,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    },
+    {
+      "id": "UgyMKBuoYpcBJhdjKjp4AaABAg",
+      "author": "@mahdial-husseini6916",
+      "author_id": "UCMm2k6HcaVQdA8FfEMRfs0g",
+      "author_url": "https://www.youtube.com/@mahdial-husseini6916",
+      "author_verified": false,
+      "text": "Excellent video!",
+      "likes": 0,
+      "published_at": "1 year ago",
+      "timestamp": 1741737600,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    },
+    {
+      "id": "UgzLmHOHS1dLM4-M7WN4AaABAg",
+      "author": "@wisdomsalon9779",
+      "author_id": "UC5uX5GARcNuOdA820md8UFg",
+      "author_url": "https://www.youtube.com/@wisdomsalon9779",
+      "author_verified": false,
+      "text": "This was very helpful!",
+      "likes": 0,
+      "published_at": "4 years ago",
+      "timestamp": 1647043200,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    },
+    {
+      "id": "Ugys8CKFqIbfiO8JqON4AaABAg",
+      "author": "@explorevlog7216",
+      "author_id": "UCGTsqR943p63apX1UzY36Tw",
+      "author_url": "https://www.youtube.com/@explorevlog7216",
+      "author_verified": false,
+      "text": "Informative..very good",
+      "likes": 0,
+      "published_at": "5 years ago",
+      "timestamp": 1615507200,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    },
+    {
+      "id": "UgwlehmGAsTd4ROrEzd4AaABAg",
+      "author": "@1stPrinciples455",
+      "author_id": "UCqlVJ26T87FsKYCy8Vy2hXQ",
+      "author_url": "https://www.youtube.com/@1stPrinciples455",
+      "author_verified": false,
+      "text": "Yes,  covid is an issue.  Almost all Agent firms do not want meet ups.  I did encounter one that does while sourcing for my preferred agent. To date,  I have yet finalized which agent to be the one",
+      "likes": 0,
+      "published_at": "5 years ago (edited)",
+      "timestamp": 1615507200,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    }
+  ]
+}

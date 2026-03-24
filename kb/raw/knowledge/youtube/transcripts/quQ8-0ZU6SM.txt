@@ -1,0 +1,221 @@
+[Music]
+[Applause]
+so this next question is asking
+about you know what happens at the
+patent office when you submit your
+patent goes to an examiner and then they
+85% of the time in the US they will
+issue an office action rejecting some or
+all of your
+claims and I'll get clients that'll
+freak out we're rejected might as well
+give up well 85% of the time that's
+that's what happens well you know if you
+look at the whole process about
+two-thirds of all patents go to issuance
+so it's not time to panic when you get
+that um office action rejecting your
+patent and the types of rejections you
+get you get a few of them and some of
+them are very
+technical um so you'll get things about
+thing the the patent patent claim being
+unclear or
+maybe
+um uh it's especially if you do an
+amendment that the amendment isn't
+properly supported in the patent that
+you filed so you get those are 112
+rejections those two flavors of
+them uh you'll get sometimes these
+rejections that say you know it's not
+patentable subject matter I.E that's not
+the sort of thing you can patent and
+there's all kinds of things that are
+accepted
+from uh
+patenting by
+Statute um they don't allow you to do
+tax optimization strategies the IRS I
+guess wants to not have you
+um uh being able to sniggle out of your
+taxes too
+easily
+um uh medical uh you know human done
+medical Therapies
+right so if there's a way to do you know
+a hard bypass you can't file a patent on
+that they don't want a patent attorney
+running in to the emergency room saying
+stop that I have a patent so there's a
+more you're not allowed to uh enforce in
+that
+area um there are things that um
+abstract ideas right and and that drags
+in a lot of things that are business
+methods that's where it comes up most
+often is business processes or anything
+to do with currency or you know healthc
+care gets dragged in
+there um teaching gets dragged in there
+um a lot of things that have been
+traditionally done by humans for
+thousands of years kind of get dragged
+into that
+prohibition on things being too abstract
+business methods so sometimes a software
+case that has software that maybe
+manages how humans do something can be
+seen as just how humans have been
+managed forever right and that it's
+software who
+cares so um you'll get these subject
+matter eligibility 101 rejections right
+the seminal case in that area is Alice
+so sometimes people say Alice rejections
+are 101 right um and then when it comes
+to the substance of what you're going
+after um those rejections generally fall
+into two categories one is novelty is it
+new well if if they find somebody that's
+described exactly the same thing what
+you're filing is not new I.E you didn't
+invent it you know patents are to
+protect
+inventors so a novelty rejection is
+pretty tough to overcome because you're
+going to have to find something in in
+another claim or somewhere else in the
+patent application that you can add in
+there so that what you're pursuing is
+new right so you'll get those rejections
+almost always you know when I craft
+these patent applications we have a lot
+of fallback positions and other things
+that we could go after so I'll read
+through the patent application and find
+some of those things and then uh we'll
+add it into the claim and then there we
+go the next one and it's probably the
+most common rejection and and um one
+that's most nettlesome most difficult to
+get
+around is an obviousness rejection so
+you're like oh well I know what that
+word
+means has nothing to do with that
+dictionary word the way that I describe
+it is
+that the examiner will sit there and
+find similar pattern
+and they'll look at your claim and maybe
+you have four elements in your claim ABC
+D and they'll look at this first pattern
+has ABC they'll look at the second
+patent has D and they'll say well you
+know these two patents you know somehow
+you know you put them in a box and you
+shake that box and out comes your
+invention is is how it works so there's
+it's more technical than
+that uh but generally what the patent
+office is saying is
+that what you're
+doing if I looked at these two patents
+or these three patents or I've seen five
+or six
+um they have all the elements it's it's
+kind of they're working on the same sort
+of problems or the same technology area
+and you know these things are just not
+that
+interesting not not interesting enough
+to weren't getting a patent so I always
+challenged my inventors to say look you
+need to find those things that are not 1
++ 1 equals 2 because that's how they do
+these obviousness
+rejections you want to find areas where
+there's synergy
+and unexpected results so it's 1+ 1
+equal 3 right
+um and you know you want to be pretty
+specific in talking about your
+Innovation is is most commonly you when
+pursuing a patent care about getting
+protection in this particular area but I
+see a lot of um patent attorneys that
+will write this patent that it you know
+it could cover anything right um was
+working one on the the other day and it
+had to do with a particular household
+appliance and I was reviewing the claim
+of the person who had worked on it and
+it covered everything right and this was
+very common technology that showed up in
+a lot of different areas stop client
+cares about these sorts of appliances
+that's all they do let's come up with
+the claim that brings in some of those
+elements so it's very clear we're trying
+to pursue our rights in this particular
+area not generally for for um uh this
+particular technology in any sort of
+application so don't be too greedy right
+there's a temptation to say oh well this
+is new um across every industry often
+it's only new in the your particular
+industry because you know a lot about it
+so you can narrow down the window in
+which the examiner is likely the search
+and is likely to provide art to um
+patent applications to reject your your
+case and you can often say well I get it
+we're going after this kitchen appliance
+and even though you found this in you
+know some sort of horse hitch from the
+1800s that's not an analogous art
+different Engineers different problems
+stuff like
+that so those are the the main
+rejections you're likely to see those
+for when you get your office action and
+it's very technical there's very few lay
+people people that can properly size up
+one of these office
+actions and work through the issues so
+that's where you really need you know a
+council prosecutor agent or or attorney
+to help you out in that regard so don't
+panic most most patent applications um
+get rejected I actually have the reverse
+thing when I see that they're letting
+this patent issue without any rejection
+I'm like well wait a minute I left
+something on the table I you know
+15% so don't panic talk to your counsel
+work through the issues that you might
+be able to help them with the technology
+and you can figure it out and you can be
+part of the 2third that gets their cases
+through the other thing that I would say
+too is you want to look like the
+triangle tool many tools have this where
+they have examiner analytics there are
+some people that even put some of those
+analytics out on the web for free find
+out if you're dealing with the tough
+examiner U because strategies differ and
+a lot of councils treat every examiner
+the same well examiner that hasn't
+allowed a patent in 2 years is different
+than one that has a 90% allowance rate
+so look at that would be kind of my my
+my tip for the day in addition to your
+question so I hope that helps um if you
+have any comments or further questions
+you can put them below don't forget to
+like And subscribe and we'll see you
+next
+time
+[Music]

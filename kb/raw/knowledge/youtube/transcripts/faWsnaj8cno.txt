@@ -1,0 +1,286 @@
+have you ever thought to yourself i
+could have invented that
+i'm here with my colleague chris smits
+who's also an expat here in london he's
+a mechanical engineer and a u.s attorney
+as well as a qualified patent attorney
+with the united states patent trademark
+office
+and we are near wolverhampton which is
+just outside of birmingham england to my
+non-uk friends
+and why we're here well we're here to
+address that very question that a lot of
+people have in their life i could have
+invented that
+and
+really
+the core issue of that is in law is it
+patentable the patentability issue
+and two very important elements of that
+which are novelty and obviousness right
+and actually patentability
+is four elements and
+in most jurisdictions those elements are
+is it panama subject matter right does
+it fall within the scope of things that
+people are allowed to patent you're not
+allowed to patent
+laws of nature you know abstract ideas
+but
+basically in the us everything else is
+fair game so it's packable subject
+matter
+and then you have
+novelty or newness as you mentioned
+obviousness
+and then finally it has to be useful it
+has some utility to it
+if it doesn't do what you say it's going
+to do then it's not really worth
+anything
+now i think the point is is that these
+two most
+important aspects are novelty or newness
+and obviousness because that's what i
+think most people think of
+when they think of an invention
+that's right and the reason that we're
+here in wolverhampton of all places is
+because we came across the most perfect
+thing to illustrate this issue it's
+called horsepower
+what do horse boarding and patentability
+have in common
+well that's a good question
+a better question to answer that is
+what is obviousness
+when an invention is obvious to one
+skill on the art you can't get a patent
+on it simple example if i invent a cool
+computer and patent it
+i can't add a power switch to it
+and just say that i've invented a cool
+computer with a power switch adding a
+power switch would be obvious this comes
+up in patent litigation all the time
+because inventions are usually just
+small incremental steps in innovation
+it's okay to combine things together
+that are not obvious and still get a
+patent
+it gets really tricky though because a
+lay person on a jury or a judge
+may not see how obvious the combination
+would be to a person who is skilled in
+the art especially for high-tech
+innovation
+to illustrate that's where horse
+boarding comes in
+poor sporting is essentially
+chariot racing on a modified skateboard
+it combines skateboarding chariot racing
+mountain boarding and water skiing
+push on
+if you didn't know about all these
+sports beforehand you would think that
+this is a truly novel and unobvious
+activity
+but even if you did know about all these
+activities or sports beforehand you
+might still think it's novel new not
+obvious
+that's the tricky part
+okay so kids have been catching rides
+behind bikes and cars on their
+skateboards for decades off-road
+skateboards have also existed for
+decades and well chariot racing is
+millennia old
+so is it really novel to combine these
+things maybe
+maybe not right that's the thing with
+innovation
+taking known devices and combining them
+so they can do something new and
+innovative it's a whole ball game when
+we're talking about obviousness
+especially
+to a person with skill in the art
+of horse riding but not skateboarding
+maybe it would be
+however to someone with skill in the art
+of skateboarding
+all he did is replaces the bike with a
+horse
+so
+not that
+you know not obvious
+now from the ice from a chariot racer a
+chariot
+with a skateboard it
+it all kind of goes together right and i
+get the thing that is
+of import right here is that depending
+on whose point of view you're looking at
+this sport is either novel or it's not
+in law that person who knows what's
+going on
+in the art is called the person with
+skill in the art
+for horse boarding there are not a lot
+of horse boarders but there are a lot of
+chariot style racers
+so
+we've actually asked daniel and emma who
+are our kind hosts today to join us to
+talk a little bit about their gear
+because
+in this
+field if anybody is skilled in the art
+it's them
+so please guys why don't you tell us a
+little bit about your boards and some of
+the gear that you've developed for this
+we take
+a mountain board
+with a skype board styles truck
+and we modify our boards with a mountain
+bike computer
+so that we can record
+our speeds we can record our maximum
+speeds and we can if we so we should
+record our lap times
+we then
+to allow us to tow from a horse
+we take something similar to a water ski
+handle
+we considerably shorten the length
+normally 70 foot for water ski down to
+probably 12 foot for our purposes and we
+combine that with
+a quick release mechanism
+so that we can always quickly disconnect
+from our horse
+and then
+where we've been slightly innovative
+is with our harness which we attach to
+our horse's saddle
+now this is a salt harness which we have
+developed
+because nothing exists to connect our
+rope to a horse because clearly no one
+has ever bought no one has ever wanted
+to be towed by a horse
+now daniel and emma you were saying that
+this is actually something that you guys
+innovated right yes
+and
+for our watchers back at home there what
+you need to know is now that they've
+disclosed this to the public which
+wasn't us first by the way
+they have one year to go ahead and get
+this patented otherwise it will lose its
+patentability based on that technicality
+so i highly suggest that you take this
+to a lawyer and get this thing patented
+if you're so interested all right
+believe that will be our next move all
+right
+well thanks a lot guys thank you very
+much
+i once had a case where the patent was
+for adding a password
+to a sata storage device the patent
+claimed that sato or sata
+existed but adding a password to access
+the document on the system was novel to
+prevent more than one person working on
+a document at a time
+they tried to make it look really novel
+by making the password concept seemed
+really complicated but it wasn't
+it was simply using an existing
+technology to lock out other editors
+while the document was in use by another
+person
+it was useful for document control but
+it wasn't novel
+in my experience if you're linking more
+than three things together
+then a judge or a jury is not going to
+think that
+this idea was obvious there's just too
+many things being pulled together
+especially when you're pulling ideas
+from different disciplines that's right
+also you run into situations where a
+piece of prior art a
+magazine article or newspaper a journal
+whatever it might be
+a specification for a new technology
+there's going to be a hint
+in that
+publication that basically
+takes you to the edge of the current
+technology but suggests well wouldn't it
+be great if we could do this as well
+when you come to something like that you
+know that people who are skilled in the
+art and familiar with the technology are
+going to have read that and whatever
+that may be now is not going to be
+patentable
+finally the distinction between
+us and eu patent law highlights this
+problem
+u.s patent law requires an invention to
+be non-obvious
+european patent law requires an
+invention to involve an inventive step
+while this may seem at first to be
+essentially the same there are important
+differences
+in europe the examiner determines what
+the differences between the invention
+and the prior art are
+if there are none the invention is not
+novel
+if there are the examiner determines
+what technical problem is solved by
+adding these elements to the prior art
+system
+he then determines if solving the
+technical problem by adding those
+elements would be obvious
+if no technical problem can be found
+the invention does not involve an
+inventive step
+confused
+you're not alone
+when presented with
+competing evidence it really comes down
+to
+a gut level belief in one party's expert
+over another
+there is some relief though
+as a matter of fact just recently a
+couple months ago the u.s supreme court
+confirmed that clear and convincing
+evidence a very high burden of proof is
+required to invalidate a patent so if
+you think that something's on the border
+with this whether it's obvious or not
+know that in the court of law you're
+going to be given basically the benefit
+of the doubt that it is patentable
+in conclusion we've had a wonderful time
+with our hosts here and wolverhampton
+and i've had a great time with chris yes
+we've learned uh the basics of these
+issues of patentability novelty and
+obviousness and we've learned it in a
+really great way i hope you've enjoyed
+it and i want to thank you chris for
+joining me you're welcome my pleasure

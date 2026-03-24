@@ -1,0 +1,621 @@
+Thank you everyone for joining us, the webinar
+today is going to cover how to file your own
+non-provisional patent application, this is not
+about how to prepare your application but this is
+about how to file your application once you have
+it prepared we're going to go over the website you
+need to go to how to access the types of forms
+you need in addition to your patent application
+and we're going to basically do a demonstration of
+how to load things up so you can proceed and file
+if you don't have a account with the patent office
+so this is assuming two things one you do not have
+an account with the patent office so you're just
+an individual filer and this is also assuming that
+you're filing a non-provisional patent application
+so we'll go through all those pieces and then at
+the end we'll come back and answer some questions
+so hold off on any of your questions until we get
+to the very end all right i'm gonna uh share my
+screen here with everyone so that you can see
+what we're doing and where we're starting um and
+you can put your questions you have in the chat or
+email format but we'll do chat so that one can
+so that nicole can grab that email I mean those
+chat questions and and go over them at the end
+with me i'm hoping that everyone can now see my
+page that i'm on which is uh uspto.gov so i went
+to this page and you're gonna deal mainly with
+this tab this is for trademarks we're gonna deal
+mainly with this tab and where you're gonna go is
+the tab called the patent center so you'll click
+on that tab it'll take you to the patent center
+and the page that comes up is going to give you
+various different options so you can look up an
+application by application serial number you can
+do a new submission you can look at an existing
+submission you can file petitions and you can even
+obtain a patent center account if you'd like to
+have one of those just to give you a quick summary
+of what this looks like when you click this tab it
+takes you to a page that basically says here's
+how you create your own account with the uspto
+and if you read through it it
+explains to you exactly how to do it
+we're going to go to the electronic filing system
+as an unregistered user so when I click this tab
+this is what comes up I might as
+well do it so you guys can see it
+you go to this page and now you have
+basically two ways to file online
+if you have an account you would click this page
+and it will take you to a page where you can
+actually start to load up information under
+your own account most patent attorneys will have
+their own account if you don't you just click
+unregistered user so I'm going to click this
+and it's going to take me to this page
+where I can now file a patent application
+the way you proceed with this is you put in your
+name so i'm just going to put in my first name
+my last name even though i have my own account
+and then it wants an email address so you can
+put in your email address over here uh it it'll
+help to have that email address there because
+correspondence and things that come from the
+patent office will go to that email address
+if you don't have an account uh here are your two
+choices you can do a new application or if you've
+already filed one and you're doing things to
+that application you can pick this so we're going
+to pick new application once you pick that it's
+going to drop down and give you a bunch of options
+and typically for most people you're going to be
+filing a utility application and you're not going
+to be coming from an international application
+or anything like that so you would click the
+utility application and then it asks you which of
+these utility applications you want accelerated
+exam has uh it's the same as a non-provisional
+except it has a lot of fees associated with it
+there is track one prioritization again it has
+fees associated with it non-provisional is the
+one we're doing right now if you were doing
+a provisional would be this one and you can
+just ignore these two because these are very
+specialized things that i would definitely
+not recommend you doing it on your own i would
+definitely get an attorney involved that knows how
+to do it so we're going to click non-provisional
+application and everything else is ready to go so
+i'm just going to hit continue and it's going to
+take me to the next page this next page is going
+to ask me about the title of the invention so
+basically i'm going to put in title of invention
+and I capitalize everything you don't have to
+I use all caps there you don't have a docket
+number so there's no need to put anything
+there you just leave that as it is and now
+here you're putting in the name of the inventor
+now if you're following this for somebody else
+you yourself may not be the inventor on the other
+hand if you're filing it for yourself then you
+definitely would be the inventor and so you would
+put your name in there in this case I'm going to
+pretend like I've actually invented something
+for the first time in my life so I'm going to
+add in my name here and no middle name for me and
+my last name now you won't have a customer number
+or anything like that you can enter a customer
+number in here we have one or you can click here
+and you can provide a correspondence address in
+this case we're going to provide a correspondence
+address we're going to put in our office
+address in oregon and put all the information in
+for you it would be exactly what the address
+is that you want them to communicate with
+because they will send things in
+physical form as well as electronically
+once you have that data in you hit continue
+and now you're going to load up all the
+things that are related to your application
+so you basically click choose
+file it takes you into your
+pc so we're going to go to this folder where
+i've got a couple of things folded up already
+and we're going to file the application if
+you notice i'm going to load all of these up
+one by one because i want to demonstrate something
+to you because this is going to create an error
+for us this is a docx file and the formatting of
+the file is not correct but i want to load that
+up to tell you and then this is the category where
+you look at to see what it is that you're filing
+so you're filing a new application so you're
+going to pick this one that says application part
+when you do that this drop down menu changes
+and now you can pick from here and of course
+all your application parts will include uh the
+specification the claims and the abstract so
+this document has all three of those things in it
+so i'm going to say yes to this and i'm going to
+load up all those details there so
+i'm going to say the specification
+oh see how i left all categories and everything is
+here so i'm going to change this all categories to
+application part which will make it easier to
+find the things i'm looking for here it is i'm
+going to put the specification it starts on page
+1 and goes to uh let me see what page it goes to
+because you have to be precise with this if
+you get this wrong uh the system is going to
+reject you so i am just looking real quickly
+to see how many pages are in this application
+so in the sample application
+i've created there are a total of
+11 pages so i'm gonna say the specification
+goes from page one to page nine then again
+oh not amendment sorry application part
+then i'm going to say the claims go uh
+from page uh 10 to page 10 i've only got
+one page of claims and i added doc oh
+oh here it's giving me an error file attached
+cannot be other than pdf or text okay so i've
+got to go in and choose the correct format file
+that was the error that i wanted you to see
+so now i've got a pdf in here and so if i say add
+document here it didn't give me any errors and the
+last page is the abstract so i'm going to say page
+11 of 11. now we also need to load up not just the
+specification but also the supporting figures
+so here i will go back into that same folder
+i'm going to load up a set of
+figures let me grab one thing here
+i'm going to paste it here
+with a slightly different name
+so that i have the figures ready
+and you can name it the names have to
+be different if i use the same name
+uh the system will give me an error
+all right so here's the figures i'm going to
+pick this i'm going to add that as figures now
+if your figures uh are so we want application
+part and you come over here and you pick
+see how it says drawing only black and white or
+other than black and white if your figures are
+all in black and white then you just pick that uh
+keep in mind that if you don't submit black and
+white figures that you have color there is going
+to be an additional fee to submit color figures
+so we're going to do black and white only and then
+we have all different kinds of things that we need
+to load up after this now we have to load up an
+application data sheet and an oath and declaration
+i do have the application data sheet pulled up as
+a sample for everyone to see um nicole can you see
+the new application the new screen yes i can okay
+very good so this is the application data sheet
+this is what you need to fill out and load up into
+the patent office website so here it's asking for
+the name of the inventors i'm just going to fill
+this in real quickly to get past this point city
+and state of residence you can just put you know
+whatever city you happen to live in um and the
+country of residence is always u.s you can put
+in the address for the inventor or you can put
+in the address where you want things mailed for
+the inventor so it doesn't have to be necessarily
+the same thing so i'm going to put in you know the
+address of the office that receives mail for us
+and put the suite number here
+and city and state
+and i'm doing this uh in real time so you guys
+can see what's going on country remember is u.s
+so there are no other information um we're
+not going to check anything specific uh
+if we if we're using the same address
+then you don't need to check this box uh
+it can be a customer number
+and this is the email address
+so here you can check this
+box and it will switch it over
+wherein you can add in the information for
+the correspondence you can do that there
+and city is tiger state is oregon country is u.s
+and postal code is would that put in 223 yeah
+you can add in a phone number you don't have to
+you can add in an email address you don't have
+to but it's good to put it there because this
+is the email address they will correspond with
+so i can put in juventus
+and there you have the information filled in
+for the correspondence address the next block
+is asking for the title of the invention so i'm
+just going to put in title and whatever i put
+in here is going to auto fill over here in this
+section called title so you'll see you'll see it
+um docket number you don't have
+if you're a small entity you check
+there it is right there title of invention
+so you can't change this portion of the form
+to change this portion of the form you have
+to come into this section to fill it out
+application type is important this is a utility
+non-provisional so you pick non-provisional
+subject matter of the invention you can put
+that in here is utility it's not planned
+it's not designed um however many figures you
+have you can include here so we can say we have
+11 pages of drawings and this one is
+asking a different question this is not
+about how many sheets of drawings you have
+because you can have one sheet of drawing
+with four different figures on it this question
+is asking what figure do you want us to use for
+publication if you don't tell them one they will
+pick the first figure and publish it with that
+so i'm gonna tell them to pick figure number
+four um if you're incorporating or including any
+other application by reference this would be the
+portion you fill out but you don't need to worry
+about any of those portions if you don't want your
+application published you have to check this box
+and it's don't worry about this error you
+just have to check this box to tell them
+not to publish it and there is a fee you have
+to pay for not publishing also if you want to
+publish it early you can check this box and
+again it'll charge you a fee to file that so
+we don't want any of these we're okay with that
+again we don't have a customer number or anything
+so we can leave this blank you just don't put
+anything in there if you have a provisional that
+you're converting to a non-provisional that
+is where you would fill this information out
+so you would say the prior application that's
+the no that's the provisional is still pending
+this is where you put your application number for
+this application and because we don't have it see
+the node it says leave blank if you're referring
+to this application what is the continuation type
+you could be a continuation or you can be claiming
+benefit of a provisional which i would click there
+then you put in the provisional application number
+and the filing date of the provisional in this
+case we're not claiming any of these things so i'm
+just going to blank these out again and leave them
+alone however if you needed to you would be able
+to add that information there now form priority
+again if you're coming from out of the country
+you you filed an application in a foreign country
+and you want to enter the u.s this is where you
+would provide that information again that's not
+our case here and for most of you you will not be
+doing that you'll be just filing first in the u.s
+um this is authorization to opt out you don't
+need to check any of these boxes because this is
+actually checking for the negative applicant
+does not authorize so if you leave a blank
+you're authorizing them and you want to
+do that because this expedites some of
+the back office work especially if
+you're filing in foreign countries
+with regards to applicant information sometimes
+the applicant is the inventor other times the
+applicant is the company that owns it so you
+would have to designate one of these you know
+boxes here so if you're assigning it to a
+company you would check that and if you notice
+all of this will change to allow you to identify
+a company we're just going to say joint inventor
+okay if it's just you and you don't want to
+check any of these we can basically leave this
+blank and so it automatically the applicant
+automatically becomes the inventor and they
+have a note here for you says if the applicant is
+the inventor this section should not be complete
+so if you're the sole inventor and you want to be
+also the applicant just leave this blank and then
+here it says if it's an organization check here
+if not uh you just fill in your name here by the
+way if you check this box all of these things will
+change to get organization name and address if you
+uncheck it it goes back to the original form so
+we're going to leave that blank because we are the
+inventor and we don't want this section is for the
+aston e so if you're assigning it to the company
+you would have to provide that information again
+if the assignee is an organization you check
+here and the reason for that is it changes
+it to basically ask for the corporate name
+again we're going to leave this blank we're going
+to move on because again we're not assigning it
+to anyone this is where you sign it so how
+you assign thing is forward slash your name
+forward slash again you put the date you can do
+the drop down menu here and pick today's date
+right down the bottom here uh and then you type in
+your first name and your last name and then if you
+have a registration number you put it here most
+of you will not so you leave that blank but for me
+yes i do so i would put that in if i was filing it
+for somebody else uh representing them in a legal
+capacity and that's it that's your form completed
+so now we can save this form in our folder
+and now go grab it uh out of our folder so
+saying save the pdf as we're going to go into
+a different folder
+here we go we're going to basically select
+this folder and we're going to save it right here
+oh for correspondence information the name
+is required so i guess we did not put in
+the name for the correspondence information
+let me see what i did wrong let's go down
+okay
+and let me look up here real quick where
+we added the correspondence information
+here it is it wants this
+all right now we can say file save as
+okay so now we can switch back to where we
+were and now we can say um so we've added the
+specification we've added the figures
+now we can add the application data sheet
+and it goes back here so now
+that's the application data sheet
+and the file name that it has you can give
+it any file name you want as long as you do
+not leave spaces in the file name you must
+use underscore if you want a space to appear
+again this is application part and the thing we
+pick is the one that says application data sheet
+the other thing we can add
+is the oath and declaration
+i'm going to put that up on the screen
+real quick here so everyone can see it
+here's the oath and declaration you can again
+put in the title of the invention by the way if
+you don't file this oath and declaration with
+the application they will send you a notice
+saying you're missing the oath and deck and they
+will you know charge you a fee and then you can
+basically check this box to say it's attached
+i am the inventor so i'm going to sign this
+date is optional you don't need to put that
+in and then of course the signature by putting
+the forward and backslash and then we're going
+to save this also into that same folder so we
+have access to it real quickly and easily and
+we're going to call this one oath oops sorry
+and we're going to save that right there
+now when i switch to the application filing
+processes i can now go choose that file
+it says oath i add it
+and then down here i basically say oath and
+declaration filed so now i've got everything
+i've got the specification claims and abstract
+i've got the figures which is what this one is
+i've got the application data sheet and i've
+got the oath and declaration so i say upload
+and validate and it will go through and look at
+all of the stuff that i'm uploading to see if
+there's any errors or any problems if there
+were any errors it would give me this red
+triangle if everything is okay it gives me
+the blue triangle now i can say continue
+and i can go pay the fees there are three basic
+types of fees there's the regular undiscounted
+which you can see right here there's the small
+entity so if i click that all of these fees
+basically drop down significantly and then if
+i say micro entity they drop down even more
+micro entity is based on individual and income
+a small entity is for companies less than 500
+employees and large entity is for a company that
+has more than 500 in this case we'll just do um
+small entity because if you do a micro entity you
+have to file documents to support that so you have
+to pay the filing fee you also have to pay the
+search fee and you have to pay the examination fee
+um because your application is being filed
+electronically there's no real other things you
+need to check here but if you're filed originally
+in paper you get a certain number of sheets for
+free so i suggest filing electronically of course
+you can mail it into the patent office that's not
+a problem so there are no reasons to add any
+information here um this is the next question
+it's asking you how many claims do you have in
+your application and that can only be up to 20
+included in the price any more than 20
+you've got to pay for each one after that
+so i can basically say you know i have 11 claims
+okay and then it says how many independent claims
+be on three you can have as many independent
+as you want but you got to pay 240 for each of
+those so let's say i have four independent claims
+so i got three for free i'm sorry it's saying in
+excess of so i have to put in one and this one i
+don't have any in excess of because i only had 11.
+so i've got zero and one here when it does the
+math i push calculate and it it does things now
+there's other boxes down here that you can check
+and remember i told you they do a surcharge if
+you file the oath and declare late if you file
+your fees late uh you know any of these things
+that happen you would have to check this box
+and pay the fee now if you don't check this box
+they will come back later and send you
+a notice saying you paid you got to pay
+the fees if you have any petitions
+you can click here and you can see
+all the various different petitions again most
+people will not have that and then these are
+the newly added fees these again are sequence
+listings and most people won't have that either
+so that being said i kicked the calculate button
+right now if you look over here all of these
+areas are blank once i hit calculate it'll
+go through and calculate everything for me
+now if you notice because i had one extra it added
+the 240 if i tell it i don't have any more than
+three so let's say i had two independent claims
+then i would tell it to calculate and it will
+drop the fee down to what it would be without the
+extra fees so now that i've got my fee calculated
+i've got all the data in here i hit continue again
+make sure that you click the small entity because
+if you don't and you do large entity all of these
+fees will double all of these fees will double
+so i hit continue now i'm at this final page this
+page is a page where i see if i've got everything
+up here's my specification yeah here's my
+drawings here's my application data sheet
+and here are the other two things that we need
+to deal with in terms of the oath and declaration
+and then this fee worksheet was automatically
+generated based on the previous sheet once i
+hit submit my application gets filed and i get a
+serial number and it will then take me to a page
+where i can pay all of those fees again if you
+don't pay those fees at the moment you file
+they will send you a notice that you didn't
+pay your fees and they will charge you
+surcharges for paying your fees late i'm not
+going to hit submit here i'm actually just going
+to cancel this out i'm not going to do any filings
+because i don't want to have a patent application
+pending and get a notice that i'm you know got to
+do this and i don't want to go pay fees and all of
+that good stuff but anyway that in essence is how
+you get to the situation where you can file your
+application so at this point um i'm going to open
+it up for questions and see what questions people
+have uh so again remember this is about filing a
+non-provisional application and this is assuming
+that you do not have an account with the patent
+office so do we have any questions great yeah
+we have a couple um from uh a different channel
+jubin somebody's just wondering uh pretty basic
+how long does it typically take to get a response
+from the uspto okay so there are two types of
+responses that you will get the first response
+you will get is the initial examination office
+of the patent office reviewing your application
+to make sure all the pieces are there so they
+can give it to an examiner so the first type of
+response you get will probably come within a month
+once they find that everything is
+there and they assign it to an examiner
+that can take anywhere from 16 to 18 months to
+get an official action from the patent office
+right thank you and daryl i see you're unmuted
+yourself do you have a question for us oh yeah i
+was wondering on the text that you put in for each
+of the files that you upload i see that you've got
+some upper and lower case and it looks like if
+you're going to have a gap it needs to either be
+an underscore or a hyphen is that correct that's
+right so you can have upper and lower case letters
+in the file name you can't have special characters
+so you can have numbers and letters okay and you
+can use upper and lower case and they must be all
+one with no gaps so if you want a gap to appear
+then you just put an underscore
+or a dash so when i put the date
+instead of putting 2 0 2 2 0
+1 i can put 2 0 2 2 0 1. okay
+great okay i have one more um on my side
+somebody's asking um where can they find
+out more about micro emphasis status
+and if they qualify for it or not sure
+um when i went uh if you missed it but let me just
+put it up here real quick i'll share one more time
+when uh um let me know when you can
+see this because then it'll give you
+uh chance to see it can you see it nicole yep it's
+up there okay so when i went to the uspto.gov page
+um let me go back to the
+very beginning and show you
+under the patent tab there's a thing
+called forms you see that right there
+if i click that it'll take me to where
+all the different patent office forms are
+and if i scroll down there's one
+that will be called microentity um
+yeah it's like i thought
+i knew where it was but uh
+i think maybe you can do it but if you
+search yeah it's here um there's a form
+here called micro entity uh statement and let
+me oh miscellaneous form sorry let me see if
+i can go to the miscellaneous section
+because it's not a commonly used form
+there we go
+well it seems like i can't find it easily but
+it's there and i do typically do a quick search
+and you can bring it up very quickly but
+it's called a micro entity status form you
+pull out that form and you fill it out it's
+basically a statement that you're making that says
+you know your income is below a certain level and
+you haven't filed more than so many applications
+and that's it it basically allows you to get
+a discounted fee and they don't do any kind
+of verification it's just a statement that you're
+making under oath so if you do uh lie on that form
+there is um oh here it is under fees micro entity
+status so i'll just click on that so you guys can
+see it real quick on the screen and here is
+the statement um so you basically fill it in
+sign it off and right here they identify
+where you need to go to look to see if
+your income level meets that requirement and
+if you click on the form in live it tells you
+right here that it's two hundred and two
+thousand and five hundred and sixty three
+dollars so if your income is below that then
+you're good to go to file that form perfect i
+just put that in the chat just a link there and
+i i'll link it when we put upload onto youtube
+um that's that's it from my end anybody else
+have any questions for us before we wrap up
+yeah i had another question on the uploading
+of the files i noticed that it was some uh
+docx mike experience in the past has just
+been the pdf only if you were doing drawings
+can you just put the drawings as jpegs or pings
+inside of the docx and upload it that way or
+um so right now the uspto it takes docx and it
+takes pdf formats yeah if you're going to put it
+in you can't load it up as jpegs or things
+like that it's either got to be a docx or pdf
+and remember their pdf have to be of a specific
+type they can't be these uh types of pdfs that
+are not searchable so we use a program called
+qpdf yeah to convert it from the unacceptable
+pdf format to the acceptable pdf format yeah
+that's been a savior for me too because i had a
+problem with um embedded fonts being a hassle and
+their cute pdf yeah so you can do all different
+kinds of screenshots and things like that just
+remember that if you're putting something in
+that's got color in it you have to then you know
+pay that extra fee for submitting something in
+other than black and white so are your drawings
+always done in pdf uploaded in pdf yes so for
+the predominance of what we upload is pdf drawings
+yeah and to the extent that we have to put color
+then we do make it a pdf file that can be
+uploaded i see all right that's great thank you
+that'll do it no more questions on art
+on my end all right well i appreciate
+everyone um and we can uh uh if you have any
+questions just follow up with us uh liz do you
+want to put the email in so that people have any
+questions that can i know where to email you yes
+services.com
+um yep and i'll put i'll put a link
+as well when we post it on youtube so
+all right everyone thanks for joining us thank
+you everyone thank you thank you guys bye
+you

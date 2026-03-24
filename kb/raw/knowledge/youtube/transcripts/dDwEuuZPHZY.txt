@@ -1,0 +1,373 @@
+since publishing my video a few months
+ago about how to electronically file
+your own provisional patent application
+I've had several people write me and say
+hey John can you give us a template and
+show us how to write a provisional
+patent application step by step well
+this video does that I'm going to
+provide you with a downloadable template
+for provisional patent application and
+I'm going to go through it step by step
+and show you how to write your own
+provisional application
+hi my name is John Ferell I'm a Silicon
+Valley patent attorney welcome back to
+my channel okay if you haven't done so
+already the first step is to pause this
+video and go down to the description
+section and download a copy of the
+provisional application template now my
+hypothetical fictitious invention is
+called systems and method for detecting
+and removing Jitter from video so let me
+tell you a little bit about the
+invention first of all and most
+important ly this is a fictitious
+invention it may or may not work I just
+made it up when my kids were growing up
+I had a VCR camcorder and I took lots of
+video of my kids running around playing
+in the snow well the problem with the
+video as I went back to look at it is
+there was a lot of Jitter in the video
+in those days there was no such thing as
+image stabilization and as a
+photographer and a videographer I
+certainly wasn't very stable and
+consequently there's a lot of shaking
+that's going on in the video especially
+as I was zooming in and zooming out this
+was really amateur videography so I had
+this idea wouldn't it be great to find a
+way to eliminate the Jitter using
+Digital Signal processing and artificial
+intelligence to tell what was actual
+shaking of the camera versus moving of
+the subject in the camera maybe the
+moving of my kids as they were running
+around the yard so the way to do this it
+seems to me is to look at elements in
+the video that normally don't move
+things like trees and mountains in the
+distance maybe flowers houses things in
+the video that normally you wouldn't
+expect to be moving and if they are
+moving are they moving together
+indicating that the whole camera is
+moving or are they moving differently
+relative to each other indicating that
+there might be a change in perspective
+caused by something in the video
+actually moving like a car moving
+relative to a tree so the invention is
+grab some pixels in the various elements
+of the video image and make a decision
+as to whether the video itself is
+shaking or the elements within the video
+are moving independent of each other if
+all the elements in the video image are
+moving together in synchrony then it
+probably means that the camera's shaking
+and we want to eliminate or subtract out
+that synchronous movement and in doing
+so we should be able to pretty simply
+and algorithmically remove the Jitter
+from the video okay with that background
+of my hypothetical and fictitious
+invention let's jump into the
+provisional patent application template
+and see how we might write up our own
+description of our provisional patent
+application now it's important to
+understand as we write up this
+provisional patent application that
+there are no set formality requirements
+for writing a provisional patent
+application these are just suggestions I
+Prov provide this template as a
+guideline and if you include the
+elements that I've included in this
+template you're very likely to have an
+enabling provisional patent application
+that will be useful in supporting a
+utility application later okay first
+thing is it's important to start with a
+strong title the title for my fictitious
+invention is systems and methods for
+detecting and removing Jitter from video
+now I think it's important to have a
+descriptive title now I could have used
+a title like video editor but I just
+think it's helpful to have a more
+descriptive title it'll help you flesh
+out the invention as you go through and
+write it up and also it'll help you
+identify and distinguish later
+inventions that you might have you might
+not pick this document up for another
+year and having a descriptive title will
+help remind you at least at the time
+what you thought the invention was so
+again systems and methods for detecting
+and removing Jitter from video when
+working up the title of your invention
+think about what is it and what does it
+do for example you might have a solar
+powered margarita machine that's useful
+for making margaritas on the beach
+instead of calling this just a beverage
+apparatus you might title it something
+like solar powered portable beverage
+mixer another silly example is maybe you
+have a panini machine that's useful in
+also making tortillas so instead of just
+calling this a cooking utensil title it
+something like combination sandwich
+toaster and tortilla press the point is
+I think it's really useful to have a
+title that's descriptive and really
+describes what it is your invention does
+now the first section I have in my
+provisional application template is
+something called the background of the
+invention now again this is optional but
+this is a great place to describe the
+problem that your invention is
+addressing what makes this invention
+valuable and what were people doing to
+address the problem prior to your
+invention okay after we've completed the
+background of the invention the next
+step is to work on the description the
+written description of the invention and
+I'd like to start with the figures some
+years ago I was representing a large
+film company in the Bay Area of San fr
+Francisco and they were working on an
+animated feature film and when I was at
+their facility one day I noted that they
+had this storyboard that was laid out on
+a long hallway in the facility and the
+storyboard consisted of several hundred
+pages of slides showing each of the
+scenes of The Animated feature film
+where each page had positions of
+characters and a little bit of dialogue
+but as you walk down the hallway looking
+at page after page you could see the
+entire story the entire sequence of the
+story of the animated film patent
+figures are like this the patent figures
+tell the story of The Invention starting
+with the big picture the context the
+wide scene in figure one the overview of
+the invention the overview of the system
+and then sequentially narrowing down
+figure after figure telling the story
+narrowing down on each of the elements
+with character development until finally
+we get towards the end with the conflict
+and the resolution where we get to the
+point of novelty of the invention so if
+you think about figures as telling the
+story of The Invention then the rest of
+the patent description becomes so much
+easier to write now for my simple
+example the Figure Set is really pretty
+easy to understand and my Figure Set is
+fairly typical of software type
+inventions taking a look at figure one
+it's really just the layout of a general
+purpose computer the processor unit an a
+main memory Mass data storage input
+output controller this is what you would
+expect of a general purpose computer the
+elements of a general purpose computer
+running a specialized software algorithm
+in my case that would allow you to
+remove Jitter or shake from a video file
+if your invention is say a new roller
+skateball bearing set then your first
+figure would be perhaps a roll roller
+skate and then in the second figure you
+might take a look at the wheel and then
+figure three and figure four you might
+explode the wheel and show the cage or
+the race in which the ball bearings are
+housed and each figure figures 1 2 3 4
+however many figures are going to get
+into more detail leading up to the point
+of novelty of your invention and looking
+back at my invention my figure 2 is a
+sequence of steps of how the algorithm
+works it Imports the video frames it
+detects Shake in the in the frames it
+stabilizes the image and then it
+combines the frames again in order to
+produce a final image my third figure in
+this sequence of figures figure 3A and
+figure 3B of my template show images
+that I'm going to use in the description
+of my invention that'll help me explain
+the invention and then figures four and
+figures five go into the details of the
+algorithm because really my invention is
+a computer algorithm it's a sequence of
+steps as opposed to a machine such as a
+roller skate or fajita machine but in
+the general case we want to start with a
+big picture of figure one and then
+narrow down until we get to the point of
+novelty telling the story of our
+invention I'd like to point out a couple
+of special things about the figures
+looking at figure one of my template
+notice that each of the elements of this
+figure have a three-digit number
+associated with them this three-digit
+number helps in the description because
+I'm able to refer back or reference
+these element numbers in the figures
+when I'm describing the invention also
+notice that the element numbers have
+three digits as opposed to one or two
+normally patent attorneys reserve one
+digit or twood digit for the figure
+number three digits or four digits are
+used for the element number and notice
+that on figure one all of the elements
+start with a number one this means that
+the first time that this ele element was
+referenced it was referenced in figure
+one so 110 120 Main memory 120 if we see
+main memory 120 described somewhere in
+the description we can go back to figure
+one because that's probably where it was
+first introduced these are small things
+but they'll certainly give your
+do-it-yourself provisional patent
+application a lot more pop and make it
+more efficient for the patent attorney
+who converts your provisional patent
+application to the utility application
+later if you've taken the time to
+organize your figures as I've described
+the invention description should pretty
+much write itself you start with figure
+one and you describe each of the
+elements of figure one for each of the
+elements you want to describe the
+elements if it's an uncommon element you
+want to describe where the element comes
+from where do you get one how do you
+make it and then importantly how it's
+connected how the elements are connected
+together and we do this for each of the
+elements and each of the figures figure
+one figure two figure three just step
+through each of the elements and
+describe what each element is how it's
+connected if it's a method invention or
+an algorithm as mine is we want to go
+through each step step by step one step
+leading into the other how you perform
+each step and then how you get to the
+next step but the idea is that we want
+to walk through each of the invention
+elements each of the figures until we
+get to the end and once we've done that
+it's almost a certainty that our
+invention will be sufficiently described
+to enable another person to make and use
+our invention now one thing I'd like to
+add about my fictitious invention my
+description this is a template I'm not
+sure that I have enough detail in my
+invention to support patentability after
+all I'm not even sure my invention works
+so my invention was hypothetical it was
+fictitious it's exemplary only so don't
+just copy my words changing the words
+for your invention and expecting that to
+be enough because I'm not sure that I've
+included enough detail about my
+invention to make it patentable mostly
+because my invention was never intended
+to be an invention it's purely
+fictitious okay the very last thing I've
+included in my invention template is an
+exemplary claim and I made a video a
+couple of months ago where I explain why
+I like to include a patent claim in a
+provisional patent application even
+though it's not required to do so
+there's no requirement to include a
+patent claim in a provisional patent
+application but I think there's a couple
+of reasons that having a patent claim
+can be useful first of all it just
+reminds you n months to a year from now
+when you sit down to convert your
+provisional patent application to a
+utility application it gives you a
+summary of what you were thinking your
+invention really was at the time but
+more importantly it provides add a
+checklist of the important elements in
+your invention and a patent claim really
+is nothing more than a listing of the
+Essential Elements and how they're
+connected together in order to create
+something inventive that is something
+new useful and non obvious having this
+checklist can be very useful when
+preparing a provisional patent
+application because it's a reminder for
+each of the elements to make sure you
+have sufficient description in the write
+up and in the figures in order to
+support the invention so I like to have
+a provisional patent application claim
+not because it's a requirement for the
+provisional patent application but
+because it acts as a checklist it's a
+reminder to me to make sure I've
+included all the important detail
+description in the write up and in the
+figure and that's it if you've completed
+all of the parts of my template and the
+way that I've described with enough
+detail so that someone else can make and
+use your invention then your provisional
+patent application should support a
+priority date as of the date of filing
+okay let's stop for just a second I
+totally get it that preparing and filing
+your own patent application can be a lot
+of fun it's also really satisfying to
+file your provisional patent application
+and to be able to mark your product's
+patent pending but writing and filing
+your own provisional patent application
+is not without its complications it can
+be timec consuming and depending on your
+invention it's pretty easy to get stuck
+if you get to the point where you feel
+like you could use some professional
+help maybe just to review your patent
+write up or even to help you write and
+file the entire application let me
+invite you to reach out send me an email
+message at the address below I'd be
+happy to help you set up a patent
+attorney consultation and now that your
+provisional patent application is
+completed you're going to want to
+electronically upload it to the US
+patent and trademark office patent
+Center in this next video I explain
+exactly how to do that I'll see you over
+[Music]
+there
+2.1s · 15m 11s YouTube · 2.5k words · text via transcript/captionTracks

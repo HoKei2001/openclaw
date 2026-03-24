@@ -1,0 +1,694 @@
+Received: from KUXPR01MB7844.apcprd01.prod.exchangelabs.com
+ (2603:1096:d10:4e::10) by TYSPR01MB6823.apcprd01.prod.exchangelabs.com with
+ HTTPS; Mon, 23 Mar 2026 07:06:43 +0000
+ARC-Seal: i=2; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=pass;
+ b=XpZo33Ue5h3LzTbDcYfbNPw204PBhUg58cEOweXAQsFQdHVgWG0Ka7vy+2j9vEpvk8m1lUsjNwnZZDpPoy97hB37RZdigTWCnKhfwEs0P3HwgqT1x5sZNnPQbyblDhPqu1VMh6aiYSqzNyazQb+ZZlhChu/MWYYG9XGFfnLJ7XIvTpIUCG6riS+oYb7A6s8zgoAwuzXaLRsoVZpOdCxUcfiwvl9VK/l9BLYLeCZO/59AsOkI2EJ29K4Lk72R1ztnUZvBgSvtPic7x2Cqc6mLqRyuMPmYhACWiYRSrs75g+1SttFoOfg9B8d0N3EVXE9Kelrn7PU75pl/j3+5jV9f8g==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=KkOLORFjUiwVkWgwS3WIvdvQtJlni+AwaNkBWW8FHGA=;
+ b=hh5LgUuOCMg3v3J/9+r8yf9+ewNKwdnyMt57wbcZCU5XPLFO+T7Ty2Xki0RqOWUvt2pWIMQgdKr3YXk3CzBOtOIfbTLWkP56KOJR4FH2o2EalvJQTY7TMaR32RvR4J5qeavX8uOKOcJCmLldX0VgveXfoOwHkAnm1nTwxmVMdZWKK5kHgGKY/Iy2+4TLB6TFNOpWJaF6YV80872Y1eG5QEW35kVh+Uo9dzD2Pr+zzefhwO+vGHxJFK5iZ+vjwrcasrfeOYQSADqPXUuJDbl57eMi8jxW/lXn4CBGaRktLeUc7kSD8YMq+AOG2CGw/c1Pw/ZbFosa9sIaQ2AR+Xg9jw==
+ARC-Authentication-Results: i=2; mx.microsoft.com 1; spf=pass (sender ip is
+ 2607:f8b0:4864:20::730) smtp.rcpttodomain=motiong.ai
+ smtp.mailfrom=goveda.com; dmarc=pass (p=reject sp=reject pct=100) action=none
+ header.from=goveda.com; dkim=pass (signature was verified)
+ header.d=goveda.com; arc=pass (0 oda=0 ltdi=1)
+Received: from SI1PR02CA0019.apcprd02.prod.outlook.com (2603:1096:4:1f4::15)
+ by KUXPR01MB7844.apcprd01.prod.exchangelabs.com (2603:1096:d10:4e::10) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.9723.25; Mon, 23 Mar
+ 2026 07:06:41 +0000
+Received: from SG2PEPF000B66CB.apcprd03.prod.outlook.com
+ (2603:1096:4:1f4:cafe::95) by SI1PR02CA0019.outlook.office365.com
+ (2603:1096:4:1f4::15) with Microsoft SMTP Server (version=TLS1_3,
+ cipher=TLS_AES_256_GCM_SHA384) id 15.20.9723.31 via Frontend Transport; Mon,
+ 23 Mar 2026 07:06:50 +0000
+Authentication-Results: spf=pass (sender IP is 2607:f8b0:4864:20::730)
+ smtp.mailfrom=goveda.com; dkim=pass (signature was verified)
+ header.d=goveda.com;dmarc=pass action=none
+ header.from=goveda.com;compauth=pass reason=100
+Received-SPF: Pass (protection.outlook.com: domain of goveda.com designates
+ 2607:f8b0:4864:20::730 as permitted sender) receiver=protection.outlook.com;
+ client-ip=2607:f8b0:4864:20::730; helo=mail-qk1-x730.google.com; pr=C
+Received: from mail-qk1-x730.google.com (2607:f8b0:4864:20::730) by
+ SG2PEPF000B66CB.mail.protection.outlook.com (2603:1096:f:fff6::59) with
+ Microsoft SMTP Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384) id
+ 15.20.9723.19 via Frontend Transport; Mon, 23 Mar 2026 07:06:51 +0000
+Received: by mail-qk1-x730.google.com with SMTP id af79cd13be357-8cd8c6e365eso237011685a.0
+        for <qi.he@motiong.ai>; Mon, 23 Mar 2026 00:06:51 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1774249608; cv=none;
+        d=google.com; s=arc-20240605;
+        b=TRTWDKl0ARjXFeLYUIxWl7Xg3N7xfvQhB/s6Aeu2uOM6uZS/5zu95uKPFjMonbCZ/q
+         F2N8pWCd+8pnxmLxM2Uz5XUwRFiPbdIjttLzGiweR25glMQ21yzWAFgSmZVLHQxv0UuN
+         n44iS1Zuk+CIPB9N9ZgtOKeqFf2FPvXdj9G1AflRO1cMBqsevuLDtCUkZZfb3NYsIHEA
+         wLgxOzxn22fnk5AyOK6NzTqjB4JDApXkuIz6JynyHG4xdpZ+1juGUHZSTRC8a1oKeHeM
+         yHgsdvcLHZsvoNnqNjxrQVW2kiwukYcEOm6MCfKUlK69JSQpFU6rGHmjbJSK5j/4m8cL
+         Lirg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :dkim-signature;
+        bh=KkOLORFjUiwVkWgwS3WIvdvQtJlni+AwaNkBWW8FHGA=;
+        fh=2cEjPpUnESoJpFHOjhu+vqR5NFbWGmJD+gYwlwCJnOM=;
+        b=TbrvHdGDObyDXKKNxt3X+yNnaBVwR01aWRiZghN13dDcHIrAFXquUKTETsStdP0GTc
+         wnF4KXVqzOlpNQhK72+xcGFl8Cli14NPDxLB1LT4qyXJJsoMk0M6kPk8xA+cZEyM/1TZ
+         V/qJBDuY+RvpzHZ20cMsjjiNwr49Xg8P0vj2hRIk9lL+eYyTOCibSyKGGy7MytAu8nxa
+         VLSa8DbvxIvSI6z33e09IDAiVV7+VXyluASS/B6Nl3neNmlURRFpBIKUPaMDG8tpXcAw
+         wNvU+t80koD79wy3zhnpJEgJFBu83IEWAuo7DYBd5BtekIafr5zWV7N7nF9YO/DZFBSg
+         E1/A==;
+        darn=motiong.ai
+ARC-Authentication-Results: i=1; mx.google.com; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=goveda.com; s=google; t=1774249608; x=1774854408; darn=motiong.ai;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=KkOLORFjUiwVkWgwS3WIvdvQtJlni+AwaNkBWW8FHGA=;
+        b=pBA+XttNdAG2Dt78bzrTuL4Zq3HPIkGZjIraHki1Z/eoJYARVXIJllHvTFBCxbO5jA
+         kO7yoblnCR9C0VYGWrStFRTi5P1VOX5JjOSle3WQnpxGGj6o7xGaXlIAbSc2b1WxN2O0
+         RWABl2qt9C5x8NcgllT1n6gRJVLBOkpPUyV08tGBuyYRfKjTKEpdfBPad9mJlT2YqhSf
+         XK2pKI4pt5y91DIL7m/lOF03dSJngYc1b0CcnUjU9QClviJgxs+xShkLBgrqGFeEr270
+         XC6gMv9dpV0RpnW33K6c5uf3nkO/Uave1IxUx2iJrPkwkfviImAV/J3kenyWlY/CWQmi
+         2WdA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20251104; t=1774249608; x=1774854408;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :x-gm-gg:x-gm-message-state:from:to:cc:subject:date:message-id
+         :reply-to;
+        bh=KkOLORFjUiwVkWgwS3WIvdvQtJlni+AwaNkBWW8FHGA=;
+        b=szWLeVfoY+znSAP3wsTFIfDS1n+07TJFQ3Fl1r9fETaMdwX3jnKSgNqFytdJ0jjAVp
+         smDp4bRxo/xmA052ghePrsnpvfeD7jOlClDSzHIgJ827iCJCP0kImHYNaLU4FirZTIhI
+         /6SK7MGw1BalqRcaXg/FX7UkqPZHrStMTCTO+dIXkl9jWGl3N5m8GsikEusaSMis6RAF
+         /iv5+Jgmw4xXueSnVfCCmNruR8vFDNTv1QeoHDGIQwqIUK8eLrNRVGdnScfZnfgT2+Qs
+         KkpihQXlKoTlzX+xP4pa7VhyHEIgqLS6o+6OnU/g5UlaNPeejDyDh3a3d9ZKIMsA+wKP
+         n//A==
+X-Gm-Message-State: AOJu0Yx64htn5pa03p53/Ym4D0M1ZTU22/kjRdb8gqXgWo64fov3iXCc
+	pw8k6YbGL4lNcwHpR33rKk2SqV6XbN2GM1ijqVC0d9nPWPJjQaaftJqlvyuhdlsWfGf9zOScVAm
+	yAnHUGKOd9/7IVYFvzbkScknWXodchnYbFdRaH9Gbuv+pPA5B5wdd0iLx
+X-Gm-Gg: ATEYQzzd76PUU7KzbJT+SGPBCqrwI3oH2KFxemiyn4ADQb7MmFExizTqMQuqcFPVEFO
+	0oTR6WGQMP9OKyFukwpYfEoDMuPpaYI0hPu6xmMqlTOmBxGMF11WFnp46HpNv851BGZeBFARzU5
+	uUkIlHIVXt6brIIN1NqJhb2tn6EtwCYKwBwHxVqJw/B50yXCZvnrEfQ7cdYtS9wJlAP0v46hpiy
+	I60lyaSHtG6Svt56b3CnRIzFKFmmuNkDSsGibDoKE+MIibqwldTJ3J/cIGQGhi28r6RlzDKYxR8
+	uRK6hw==
+X-Received: by 2002:a05:620a:1a26:b0:8cf:c1c2:90a with SMTP id
+ af79cd13be357-8cfc7e7757fmr1606620285a.17.1774249607823; Mon, 23 Mar 2026
+ 00:06:47 -0700 (PDT)
+References: <CAP425-M9snVA18q3UYK8QrPNSgh2anEzn+9=acNyDgKig8Aoug@mail.gmail.com>
+In-Reply-To: <CAP425-M9snVA18q3UYK8QrPNSgh2anEzn+9=acNyDgKig8Aoug@mail.gmail.com>
+From: Cheng Yilian <yilian@goveda.com>
+Date: Mon, 23 Mar 2026 15:06:37 +0800
+X-Gm-Features: AQROBzBP4JIia7Lw0B-s3h_maqyhs0fV3qgzn77w6-yNs7cKoT_eaQGQLrc9FuE
+Message-ID: <CANVdCTt8SuWamGVOdohAZTK=uMu4aetx5-42argsbE3HDvZ6WA@mail.gmail.com>
+Subject: Fwd: Meeting notes_13 March 2026
+To: qi.he@motiong.ai
+Content-Type: multipart/alternative; boundary="0000000000009e1279064dabad73"
+Return-Path: yilian@goveda.com
+X-MS-Exchange-Organization-ExpirationStartTime: 23 Mar 2026 07:06:52.2113
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 3adbf000-f9a6-46fa-0de4-08de88aac27f
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: ab35974d-76f6-433f-8f44-edce82bd41ea:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: SG2PEPF000B66CB:EE_|KUXPR01MB7844:EE_|TYSPR01MB6823:EE_
+X-MS-Exchange-Organization-AuthSource: SG2PEPF000B66CB.apcprd03.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Office365-Filtering-Correlation-Id: 3adbf000-f9a6-46fa-0de4-08de88aac27f
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Antispam: BCL:0;ARA:13230040|43022699015|13003099007|8096899003|19002099003|16102099003|18002099003|56012099003|22082099003;
+X-Forefront-Antispam-Report: CIP:2607:f8b0:4864:20::730;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:mail-qk1-x730.google.com;PTR:mail-qk1-x730.google.com;CAT:NONE;SFTY:9.25;SFS:(13230040)(43022699015)(13003099007)(8096899003)(19002099003)(16102099003)(18002099003)(56012099003)(22082099003);DIR:INB;SFTY:9.25;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 23 Mar 2026 07:06:51.8620
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 3adbf000-f9a6-46fa-0de4-08de88aac27f
+X-MS-Exchange-CrossTenant-Id: ab35974d-76f6-433f-8f44-edce82bd41ea
+X-MS-Exchange-CrossTenant-AuthSource: SG2PEPF000B66CB.apcprd03.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: KUXPR01MB7844
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.9723.008
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910005)(944506478)(944626604)(4710137)(4713098)(4999163)(920097)(930201)(20251009189)(140003);
+X-Microsoft-Antispam-Message-Info:
+	=?utf-8?B?bVdqMWZJVHhObmV2MWwvalVvTm13bXNtcmRXRlFvVVlmV1g4S3NQMTE0M3ps?=
+ =?utf-8?B?ODh2WEpybEFHbE9mTzVPYVcvMW9kWWY3TDkxbmIvblRlSEkvVEExNUVJWnFG?=
+ =?utf-8?B?OFJYRXU2dys2OEZhRDBFTTZ5eGYrckczZHhrRlBZSzJkeVUvVVp5SHV4UHRn?=
+ =?utf-8?B?d1ozMnFsalE5RVRhYVRQSGNla0IvdExld3lIbkF6Zi9EYzlWN1BWTWdzY1l4?=
+ =?utf-8?B?Q2VJaGlSTW9mbUprSVFXMTd4VVlTUFVSaEY5ZTg1eG5WaUhvYUQ1aFJOZzNL?=
+ =?utf-8?B?VmlJRjFWVDZBUmdxVTNaVmJITUo1QTBtNlpzSldPY2dlRVhFaUdUWGFWWVc0?=
+ =?utf-8?B?dDRYbFNMM2VuQmlSSzBDSzhCUFEyNkQ5RUxOc29oU3Z6Y3UxUDIvblVWTlRT?=
+ =?utf-8?B?dFdnaFpsODh1dmdadGx1NGlpc0IrRmNlVnlLZDFzbVNveERjbU5DcllEVG5W?=
+ =?utf-8?B?dnJFaDh4ODd2bno1NTR4ck0rbHZIa05oRnlPOWxFSFovUTU2czJlc0xHYjBO?=
+ =?utf-8?B?MEJkTDZpVjdNaTRjS1dqWTRINGk3UlNUaWJnV1l6VkZET3B0MTFiWHVCKzhT?=
+ =?utf-8?B?VDl0b2JPZ3g4VWRQVTdXalRSUnh0d2cxSC80U3RSZiszZnF6R1pNRkpPSi8w?=
+ =?utf-8?B?TGc2cDNIVXpRZC9LZXdsWENYYkRXa3Z4bXk3UHdGRHM2QXBVamI4NEdETzBy?=
+ =?utf-8?B?K2tab1RxMDdaa0ZNSHBaeCszM3YvQ0lnd25yUnY0S004SFlPTmMvUnduczBm?=
+ =?utf-8?B?SGV6c3RiSzJseGVOYkJlL1FQaTBDalIvaHhWMXVnTXBaaUZSQUFEUGRaS1pZ?=
+ =?utf-8?B?UWdjWWMvRnRCcVFDa2drQnBnT0t2QnN1d2ZHTFFJWmxkUTc1RzhBcnNROUpP?=
+ =?utf-8?B?ekx4VHhicS85UlB3L3NBMmM3SmsrWTdpb2lqM2pySU9EUmNYQi9STVM2UUZH?=
+ =?utf-8?B?SzVZWisyMFM5NXB1R1NjcHI2d0RlV29QaEFVL29WWE9NM1JHMVpQMG5mQ3d1?=
+ =?utf-8?B?OUJzU0lkUXhCZXUxZEtDbXVCekhHNGs5MVJUVWxGdng3bkJNdTE2V3BHWWVi?=
+ =?utf-8?B?YXE1cEpHNGJJWjJWQi9URHZsMHlMK0lEczdyUEMxQ0JoSDhYNEJ2cmRDMTZj?=
+ =?utf-8?B?d0JsQVdNNFBHT1FyV200THp5WTRhdzN4aFBCb2JDdzlsMlZvS0FtVmRvY256?=
+ =?utf-8?B?cnNxSkRxSDlyd0cxYytoR29ndHErSDdLdEpYV2RzcmFaT2QvR05OeUNscDhG?=
+ =?utf-8?B?RXVPZ1doWXN0Mms0Tk44WjlYNEl3Z0dZRlhIbEFwb29KWkgyT3ZkSGxXcTBY?=
+ =?utf-8?B?VDRybnV3QlhyVEtUNnRVNkdGbks0eXYwbU1qYzVrYUJVYXFEZk04cVVJZzl0?=
+ =?utf-8?B?Q0EvV2tqUUNLcklyUE0xdFdrUDVwNUtZMnFHcWsybER4ZzFIMUc1UGJxN2FE?=
+ =?utf-8?B?TkRVMGliQ01RYjdDWU11eGdISThrVW9NL014SnhCVVQ4allOWi9VVzVrQjhi?=
+ =?utf-8?B?VmNkTHhSbG0reklPR2NRNGhaeDZSVDJWS1pUcFQwQUZPR2JYb2Nid2pvL2pa?=
+ =?utf-8?B?NGE3NEVaTDlJUGRaYVM3SVdZS2c1M1ZQNWRXN1VEY2VMaUs1MUxOK1JNOTBD?=
+ =?utf-8?B?bUpDRmZSNDBTOGd0ZFMwd1EzYU95OEFkUXhUQTB3VTViS3JWTDMzcEFmOTR0?=
+ =?utf-8?B?VGhFNVZPaStNR010TDh3RGhSVlp1dVR1dXByWCs3Qm5LeW5WSnphanR2OUdD?=
+ =?utf-8?B?OXF1d3lYdXNoaW9LbjRXVDZPUVRSOHI5SVI2akkzVi9VNTBqYURLN2l1bnVK?=
+ =?utf-8?B?dmJUK1pPS2lEbUszTmhzUjE0K2RYaHJVYnoyc05tQVlRUkwxbWRlNk9vb081?=
+ =?utf-8?B?RjVHOXQxcEpnTFU0S3FJdWI4UGdFTE91bUE1a2FkTFQvam96QjAzSGNiM3g0?=
+ =?utf-8?B?T3czUUgzNHQyZnJUNGdZODJ5UUh4UlNYcmplRGhFbW1tN05yTzd6YzZmNDdn?=
+ =?utf-8?B?ak5LQk9CNEs2RzM4V2sxRjQ5ZllPa1o3cm9iQXJCSkFuejVYZGRNbmNnTElJ?=
+ =?utf-8?B?enVvdHdoTGw3TUUvMCtacVdZN1Z0V1dtVkFpYnJ6S2ZrY1U2OUZmV29nbTBO?=
+ =?utf-8?B?YkFqY0k3VlVpZlJRdW9tMHNnblVaRmdZZGJjYVJIdk9tb3ltRnM4NU1kYk5X?=
+ =?utf-8?B?UFc0ZlNYN1ZiL3FSUFlzKzY3ZnE1VElkVTl4eGY3TTliSCsyK29Nd0orR2Fz?=
+ =?utf-8?B?TUhsRkNDcGxuSXk5NHpnVXNsTWtzRW5Sc1VtczJPS3hMaDIvT2FmbXdQQkh5?=
+ =?utf-8?B?WHVXMEJpYnErejhKbi9jUFZLbmgrb1dNeVZFeHVPaVpFcm9OS0gzSjBqWHZr?=
+ =?utf-8?B?Q0RoOGRuY1dlSlR6UklSSG9sdkFMNE9PWW5BUmtTSjlPOTQwWXdsaEZhVlBE?=
+ =?utf-8?B?Wkl4Mi9PNTdxSGJnazI4Z1IybDd4aWluOWVFQVhEcnNLdG5nK3I1OFZWWXZy?=
+ =?utf-8?B?MWw5TVFxNG5TaHJMVnYxTVBuUm1sWGhGY0dxRC9ZVmo4OW03SEVxODZ2Q2dr?=
+ =?utf-8?B?UjdIaERsUEVnUENJMklYUCtlZGtpbzVqNG9GdVZ4UXR1SFIvM3hNRGpqVzZC?=
+ =?utf-8?B?N0ZEbWo4cXgvejluek5NRHRHT09aRmYwMWQ4dHlMNUVXYk8vMlowK01Nb2hW?=
+ =?utf-8?B?UE45Q3dFQWtrbHgvUUtwelo0UFhneXdsZ2xROGovaWpOYURxVi8zSWlNOUJV?=
+ =?utf-8?B?UEdQRVJ0dVIwS0Z3VnkwamtzYUtGaEg5MzYrSTA1L0NoS0FWWXBELzZ4QVlU?=
+ =?utf-8?B?M3ZzTTNRZDhkRVpMODl4YmMyMEpsbGpOMVJkNHFQNzZITmxvVlo1Y2VzMjNm?=
+ =?utf-8?B?bmZZdkZza3gxTk5BQnd5MHV5Qkk5eXhwQUpJNmJITnVFeFY1VDhOYklPSkVR?=
+ =?utf-8?B?Uno0U3hWeG93N3NGcmFhL1RzME15VHlKcm9BK1VldVJaZHhRdW1nRGZ5Skw0?=
+ =?utf-8?B?cFhaV3I5UUtFRVVGYWNUaHhYU0srdHQzTkNZYnM4Y3RKY0diMU1CaUxyemR1?=
+ =?utf-8?B?bnpyY2xIVUNZejV5ZmwrdVoycHhsQzhVVmVadVNKRkRha3VnUml1YlZKSDRT?=
+ =?utf-8?B?QkljbXIwY2lhNzFnR1kzNjVqOEJYc041ZWhnWGVQSVN6SUtpM09FVGh4N2JB?=
+ =?utf-8?B?M202MDNWTXluSTJ4NDJ2c0NXTUdUdTVPa01ndkM5R0xGajlTOWZBTGt4cjZE?=
+ =?utf-8?B?eUdkTzVIUURENE9RWGNEUnZVdFRvTkRaZmFUd0QxSnk2QlJ1ZnoxeERGTXgx?=
+ =?utf-8?B?ejhidjZMNWlVUERrWVpBY0s1UU5wQ0FqTjY4UVNiL21lTWpTLysrdjEzbzFw?=
+ =?utf-8?B?c09yRDlqWmFLRHA3a2hjQzBrVDRxbzdwL0VYUURaMHVtWXNWRU1mKzdUZFBQ?=
+ =?utf-8?B?c1FxMlpGVjd0TzB5YmdSZzJleUZwQUF3cVBueWxvL0dwT3VESng5a3RXL3Vp?=
+ =?utf-8?B?VGFZTkxUK2pBblBOWVA4T0ZYazZiZVVwNDZuMDdCbnVCTFdXc2ljQ0pVM2VN?=
+ =?utf-8?B?cmZuUEh6RmV1MlAxVGhqakFONWVxWDJlT1k2NThwcjgveVNjWHhwZ0xVRU80?=
+ =?utf-8?B?VGZ5VDRZSmpOMnlLaEhSM1ZhOUlzVGhLdHVyQnZpQ3pEanFxWG80clRNdWRt?=
+ =?utf-8?B?M1VIQnFZUE41OHA4Z1l0NzNqL1laQmJLNy9saTRNV2lZeVRrWllkQlc1S2lD?=
+ =?utf-8?B?Z1FqVXNQQjVxSlZaaHFGR2lRK2VJOUZocW1JK0VMdno0V3NkNW9LQ2E1azJu?=
+ =?utf-8?B?UmdrSjZoUVVpNUptZnk3cGd3cEFpUUJjL3FSQ0R5YnRMZHUxdnlWVUtjYUkv?=
+ =?utf-8?B?NzdRPT0=?=
+MIME-Version: 1.0
+
+--0000000000009e1279064dabad73
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You don't often get email from yilian@goveda.com. Learn why this is importa=
+nt<https://aka.ms/LearnAboutSenderIdentification>
+
+
+---------- Forwarded message ---------
+From: Ziyin Han <ziyin.han0330@gmail.com<mailto:ziyin.han0330@gmail.com>>
+Date: Sun, 15 Mar 2026 at 14:49
+Subject: Meeting notes_13 March 2026
+To: yilian@goveda.com<mailto:yilian@goveda.com> <yilian@goveda.com<mailto:y=
+ilian@goveda.com>>
+
+
+Hi Yilian,
+
+Just following up on our phone call on Friday - please find a brief summary=
+ below for your records. Feel free to reach out if you need anything else.
+
+P.s. the issues/points mentioned below are based on the version shared to m=
+e on 9 December 2025 and may no longer be relevant in view of the latest de=
+velopments with your team. Please ignore if they have already been addresse=
+d. The comments below are based on my limited experience and knowledge for =
+your consideration only. Hope this helps.
+
+Search and novelty assessment function
+1. The prior art documents searched only include published patent documents=
+. In actual novelty assessment, prior art documents are not limited to pate=
+nt documents and include journal articles (some behind paywalls), webpage, =
+published conference abstracts, books, magazines, videos (including those a=
+vailable on youtube). It is crucial to include all prior art types to ensur=
+e the accuracy of your novelty assessment report.
+
+2. When searching features, my understanding is the algorithm will look for=
+ the appearance of absence of identical or similar technical features from =
+the prior art document. If the searched feature exists in any of the prior =
+art documents, the novelty is lost. However, at least in the UK, novelty in=
+volves a two-step test. First, determining whether the prior art discloses =
+the invention (as mentioned above) and second, checking if the disclosure a=
+ctually enables the skilled person to make it (Synthon BV v SmithKline Beec=
+ham plc [2005]). As an exaggerated example, your invention is a flying car =
+and a similar flying car has been disclosed in a sci-fi novel. The novel sh=
+ould not be considered novelty destroying as it does not provide sufficient=
+ teaching that enables a person skilled in the art (may be an automobile en=
+gineer) to make the same car after watching.
+
+3. Please check if the current model is able to tell patentable subject mat=
+ter from non-patentable ones (we have not discussed this but it just came a=
+cross my mind last night). Reference to patent examination guidelines from =
+IPOS, (https://isomer-user-content.by.gov.sg/61/d159c40c-f15d-49d6-97de-feb=
+33bca527f/examination-guidelines-for-patent-applications.pdf), see paragrap=
+hs 8.3-8.8. This is a big can of worms and we can test these later. I have =
+not done any testing yet.
+
+4. Selection inventions as an "exemption" for novelty if the invention sear=
+ched claims a specific subset of the compounds from a prior art on the basi=
+s of an unexpected advantage. Again, we have not discussed this in the call=
+. I can explain another time with more specific examples. For now, if you w=
+ish, you can refer to the IPOS examination guideline paragraphs 4.83-4.92.
+
+5. Last point of my observation is that, the algorithm I tried seems unable=
+ to tell the difference between open-ended and closed-ended terms. Patent l=
+anguage unfortunately requires more accuracy than natural language. As expl=
+ained in the call, "comprising A, B, and C" (open-ended) means having, but =
+is not limited to the elements A, B, and C; "containing A, B, and C" (close=
+d-ended) means having exactly elements A, B, and C, and nothing more.
+
+6. The current version is yet able to conduct searches for biological seque=
+nces (peptides, nucleic acids, etc.). They make up a large part of biologic=
+al inventions. Similarly, there is a crying need for search of chemical str=
+uctures in the industry. Would be greatly helpful if your tool can do that.
+
+Additional functions to consider
+1. Patent search and monitoring services (a lot of service providers are do=
+ing it unfortunately but you might just include it to make your platform co=
+mprehensive). Sometimes, companies wish to monitor patents and patent appli=
+cation status from their competitors. This was not discussed with you yet b=
+ut just came to my mind.
+
+2. As mentioned, you may consider having separate functions for freedom-to-=
+operate searches, i.e. comparing features of a product against existing pat=
+ents from competitors to assess potential risks of infringement before prod=
+uct launch.
+
+Points to note for new provisional filing feature
+1. Drafting quality
+I assume the drafting will be done by AI. There will need to be a certain t=
+ype of QC for the drafting at your end. Manual screening takes up a long ti=
+me and may hinder your work capacity. For example, typical drafting turnaro=
+und time for patent attorneys for claims is 1-2 weeks and full specificatio=
+n is 3-4 weeks. The time taken is not just for drafting itself but also for=
+ scrutinising the data provided, identification of essential features (from=
+ non-essential ones).
+
+2. Right to the invention
+You will need a mechanism to identify who is filing the patent (maybe Singp=
+ass for Singapore). People can do funny stuff and patent trolls filling dum=
+my patents are not rare. Also, this may be a source of potential disputes t=
+hat involve employees and employers, where the employee files a patent with=
+out informing his/her employer (actual owner of the invention, if stated in=
+ the contract). Don't think you will be liable for the acts done by rogue e=
+mployees, but good to have some control procedurally and internally monitor=
+ user filing activities. This is more of PR/reputation risk rather than tec=
+h issue.
+
+3. Section 34 (Singapore Patents Act)
+This is the security clearance requirement for Singapore entities and resid=
+ents of Singapore at the time of making the invention (applies to foreigner=
+s too). Other countries have similar requirements. Tricky part lies in the =
+language in the act here: "34.=E2=80=94(1)  Subject to this section, no per=
+son resident in Singapore may, without written authority granted by the Reg=
+istrar, file or cause to be filed outside Singapore an application for a pa=
+tent for an invention...". Not sure if your product/company is considered "=
+cause to be filed" (given that patent agents are liable under this section)=
+. You may want to consult a lawyer for this.
+One way I can think of is to caveat the shit out of it in your product, and=
+ ask the user to declare their nationality and residency, and specify which=
+ patent office they would like to first file in. Maybe include a warning pr=
+ompt telling them that it is not allowed to file abroad without a prior sec=
+urity clearance issued. Ask them to consult the relevant patent office if u=
+ncertain before hitting "file".
+
+That's what I can think of for now. Happy to follow up on the points above =
+or other issues.
+
+Best regards,
+Ziyin
+
+
+
+--0000000000009e1279064dabad73
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</head>
+<body>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" styl=
+e=3D" aspect-ratio: revert !important; background: revert !important; block=
+-size: revert !important; border: revert !important; bottom: revert !import=
+ant; color: revert !important; color-scheme: revert !important; content-vis=
+ibility: revert !important; cursor: revert !important; direction: revert !i=
+mportant; display: revert !important; font-size: revert !important; height:=
+ revert !important; hyphens: revert !important; letter-spacing: revert !imp=
+ortant; line-height: revert !important; margin: revert !important; opacity:=
+ revert !important; order: revert !important; outline: revert !important; o=
+verflow: revert !important; padding: revert !important; position: revert !i=
+mportant; resize: revert !important; rotate: revert !important; scale: reve=
+rt !important; tab-size: revert !important; table-layout: revert !important=
+; text-align: revert !important; text-indent: revert !important; text-orien=
+tation: revert !important; text-overflow: revert !important; text-shadow: r=
+evert !important; text-transform: revert !important; text-wrap: revert !imp=
+ortant; top: revert !important; transition: revert !important; user-select:=
+ revert !important; vertical-align: revert !important; visibility: revert !=
+important; white-space: revert !important; width: revert !important; word-b=
+reak: revert !important; word-spacing: revert !important; writing-mode: rev=
+ert !important; zoom: revert !important; cellpadding: 0 !important; border:=
+ 0 !important; cellspacing: 0 !important; display: table !important; width:=
+ 100% !important; table-layout: fixed !important; border-collapse: seperate=
+ !important; float: none !important; border-spacing: 0px 0px !important; " =
+align=3D"left">
+<tbody style=3D" aspect-ratio: revert !important; background: revert !impor=
+tant; block-size: revert !important; border: revert !important; bottom: rev=
+ert !important; color: revert !important; color-scheme: revert !important; =
+content-visibility: revert !important; cursor: revert !important; direction=
+: revert !important; display: revert !important; font-size: revert !importa=
+nt; height: revert !important; hyphens: revert !important; letter-spacing: =
+revert !important; line-height: revert !important; margin: revert !importan=
+t; opacity: revert !important; order: revert !important; outline: revert !i=
+mportant; overflow: revert !important; padding: revert !important; position=
+: revert !important; resize: revert !important; rotate: revert !important; =
+scale: revert !important; tab-size: revert !important; table-layout: revert=
+ !important; text-align: revert !important; text-indent: revert !important;=
+ text-orientation: revert !important; text-overflow: revert !important; tex=
+t-shadow: revert !important; text-transform: revert !important; text-wrap: =
+revert !important; top: revert !important; transition: revert !important; u=
+ser-select: revert !important; vertical-align: revert !important; visibilit=
+y: revert !important; white-space: revert !important; width: revert !import=
+ant; word-break: revert !important; word-spacing: revert !important; writin=
+g-mode: revert !important; zoom: revert !important; display: block !importa=
+nt; ">
+<tr style=3D" aspect-ratio: revert !important; background: revert !importan=
+t; block-size: revert !important; border: revert !important; bottom: revert=
+ !important; color: revert !important; color-scheme: revert !important; con=
+tent-visibility: revert !important; cursor: revert !important; direction: r=
+evert !important; display: revert !important; font-size: revert !important;=
+ height: revert !important; hyphens: revert !important; letter-spacing: rev=
+ert !important; line-height: revert !important; margin: revert !important; =
+opacity: revert !important; order: revert !important; outline: revert !impo=
+rtant; overflow: revert !important; padding: revert !important; position: r=
+evert !important; resize: revert !important; rotate: revert !important; sca=
+le: revert !important; tab-size: revert !important; table-layout: revert !i=
+mportant; text-align: revert !important; text-indent: revert !important; te=
+xt-orientation: revert !important; text-overflow: revert !important; text-s=
+hadow: revert !important; text-transform: revert !important; text-wrap: rev=
+ert !important; top: revert !important; transition: revert !important; user=
+-select: revert !important; vertical-align: revert !important; visibility: =
+revert !important; white-space: revert !important; width: revert !important=
+; word-break: revert !important; word-spacing: revert !important; writing-m=
+ode: revert !important; zoom: revert !important; ">
+<td valign=3D"middle" width=3D"1px" bgcolor=3D"#A6A6A6" cellpadding=3D"7px =
+2px 7px 2px" style=3D" aspect-ratio: revert !important; background: revert =
+!important; block-size: revert !important; border: revert !important; botto=
+m: revert !important; color: revert !important; color-scheme: revert !impor=
+tant; content-visibility: revert !important; cursor: revert !important; dir=
+ection: revert !important; display: revert !important; font-size: revert !i=
+mportant; height: revert !important; hyphens: revert !important; letter-spa=
+cing: revert !important; line-height: revert !important; margin: revert !im=
+portant; opacity: revert !important; order: revert !important; outline: rev=
+ert !important; overflow: revert !important; padding: revert !important; po=
+sition: revert !important; resize: revert !important; rotate: revert !impor=
+tant; scale: revert !important; tab-size: revert !important; table-layout: =
+revert !important; text-align: revert !important; text-indent: revert !impo=
+rtant; text-orientation: revert !important; text-overflow: revert !importan=
+t; text-shadow: revert !important; text-transform: revert !important; text-=
+wrap: revert !important; top: revert !important; transition: revert !import=
+ant; user-select: revert !important; vertical-align: revert !important; vis=
+ibility: revert !important; white-space: revert !important; width: revert !=
+important; word-break: revert !important; word-spacing: revert !important; =
+writing-mode: revert !important; zoom: revert !important; padding: 7px 2px =
+7px 2px !important; background-color: #A6A6A6 !important; valign: middle !i=
+mportant; width: 0px !important; ">
+</td>
+<td valign=3D"middle" width=3D"100%" bgcolor=3D"#EAEAEA" cellpadding=3D"7px=
+ 5px 7px 15px" color=3D"#212121" style=3D" aspect-ratio: revert !important;=
+ background: revert !important; block-size: revert !important; border: reve=
+rt !important; bottom: revert !important; color: revert !important; color-s=
+cheme: revert !important; content-visibility: revert !important; cursor: re=
+vert !important; direction: revert !important; display: revert !important; =
+font-size: revert !important; height: revert !important; hyphens: revert !i=
+mportant; letter-spacing: revert !important; line-height: revert !important=
+; margin: revert !important; opacity: revert !important; order: revert !imp=
+ortant; outline: revert !important; overflow: revert !important; padding: r=
+evert !important; position: revert !important; resize: revert !important; r=
+otate: revert !important; scale: revert !important; tab-size: revert !impor=
+tant; table-layout: revert !important; text-align: revert !important; text-=
+indent: revert !important; text-orientation: revert !important; text-overfl=
+ow: revert !important; text-shadow: revert !important; text-transform: reve=
+rt !important; text-wrap: revert !important; top: revert !important; transi=
+tion: revert !important; user-select: revert !important; vertical-align: re=
+vert !important; visibility: revert !important; white-space: revert !import=
+ant; width: revert !important; word-break: revert !important; word-spacing:=
+ revert !important; writing-mode: revert !important; zoom: revert !importan=
+t; width: 100% !important; background-color: #EAEAEA !important; padding: 7=
+px 5px 7px 15px !important; font-family: wf_segoe-ui_normal, Segoe UI, Sego=
+e WP, Tahoma, Arial, sans-serif !important; font-size: 12px !important; fon=
+t-weight: normal !important; color: #212121 !important; text-align: left !i=
+mportant; word-wrap: break-word !important; ">
+<div style=3D" aspect-ratio: revert !important; background: revert !importa=
+nt; block-size: revert !important; border: revert !important; bottom: rever=
+t !important; color: revert !important; color-scheme: revert !important; co=
+ntent-visibility: revert !important; cursor: revert !important; direction: =
+revert !important; display: revert !important; font-size: revert !important=
+; height: revert !important; hyphens: revert !important; letter-spacing: re=
+vert !important; line-height: revert !important; margin: revert !important;=
+ opacity: revert !important; order: revert !important; outline: revert !imp=
+ortant; overflow: revert !important; padding: revert !important; position: =
+revert !important; resize: revert !important; rotate: revert !important; sc=
+ale: revert !important; tab-size: revert !important; table-layout: revert !=
+important; text-align: revert !important; text-indent: revert !important; t=
+ext-orientation: revert !important; text-overflow: revert !important; text-=
+shadow: revert !important; text-transform: revert !important; text-wrap: re=
+vert !important; top: revert !important; transition: revert !important; use=
+r-select: revert !important; vertical-align: revert !important; visibility:=
+ revert !important; white-space: revert !important; width: revert !importan=
+t; word-break: revert !important; word-spacing: revert !important; writing-=
+mode: revert !important; zoom: revert !important; ">
+You don't often get email from yilian@goveda.com. <a href=3D"https://aka.ms=
+/LearnAboutSenderIdentification" style=3D"background: revert !important;col=
+or: revert !important;content-visibility: revert !important;direction: reve=
+rt !important;display: revert !important;font-size: revert !important;opaci=
+ty: revert !important;rotate: revert !important;scale: revert !important;vi=
+sibility: revert !important;">
+Learn why this is important</a> </div>
+</td>
+<td valign=3D"middle" align=3D"left" width=3D"75px" bgcolor=3D"#EAEAEA" cel=
+lpadding=3D"7px 5px 7px 5px" color=3D"#212121" style=3D" aspect-ratio: reve=
+rt !important; background: revert !important; block-size: revert !important=
+; border: revert !important; bottom: revert !important; color: revert !impo=
+rtant; color-scheme: revert !important; content-visibility: revert !importa=
+nt; cursor: revert !important; direction: revert !important; display: rever=
+t !important; font-size: revert !important; height: revert !important; hyph=
+ens: revert !important; letter-spacing: revert !important; line-height: rev=
+ert !important; margin: revert !important; opacity: revert !important; orde=
+r: revert !important; outline: revert !important; overflow: revert !importa=
+nt; padding: revert !important; position: revert !important; resize: revert=
+ !important; rotate: revert !important; scale: revert !important; tab-size:=
+ revert !important; table-layout: revert !important; text-align: revert !im=
+portant; text-indent: revert !important; text-orientation: revert !importan=
+t; text-overflow: revert !important; text-shadow: revert !important; text-t=
+ransform: revert !important; text-wrap: revert !important; top: revert !imp=
+ortant; transition: revert !important; user-select: revert !important; vert=
+ical-align: revert !important; visibility: revert !important; white-space: =
+revert !important; width: revert !important; word-break: revert !important;=
+ word-spacing: revert !important; writing-mode: revert !important; zoom: re=
+vert !important; width: 75px !important; background-color: #EAEAEA !importa=
+nt; padding: 7px 5px 7px 5px !important; font-family: wf_segoe-ui_normal, S=
+egoe UI, Segoe WP, Tahoma, Arial, sans-serif !important; font-size: 12px !i=
+mportant; font-weight: normal !important; color: #212121 !important; text-a=
+lign: left !important; word-wrap: break-word !important; align: left !impor=
+tant; ">
+</td>
+</tr>
+</tbody>
+</table>
+<div>
+<div dir=3D"ltr"><br>
+<br>
+<div class=3D"gmail_quote gmail_quote_container">
+<div dir=3D"ltr" class=3D"gmail_attr">---------- Forwarded message --------=
+-<br>
+From: <strong class=3D"gmail_sendername" dir=3D"auto">Ziyin Han</strong> <s=
+pan dir=3D"auto">
+&lt;<a href=3D"mailto:ziyin.han0330@gmail.com">ziyin.han0330@gmail.com</a>&=
+gt;</span><br>
+Date: Sun, 15 Mar 2026 at 14:49<br>
+Subject: Meeting notes_13 March 2026<br>
+To: <a href=3D"mailto:yilian@goveda.com">yilian@goveda.com</a> &lt;<a href=
+=3D"mailto:yilian@goveda.com">yilian@goveda.com</a>&gt;<br>
+</div>
+<br>
+<br>
+<div dir=3D"ltr">Hi Yilian,&nbsp;
+<div><br>
+</div>
+<div>Just following up on our phone call on&nbsp;Friday - please find a bri=
+ef summary below for your records. Feel free to reach out if you need anyth=
+ing else.&nbsp;</div>
+<div><br>
+</div>
+<div>P.s. the issues/points mentioned below are based on&nbsp;the version s=
+hared to me on 9 December 2025 and may no longer be relevant in view of the=
+ latest developments with your team. Please ignore if they have already bee=
+n addressed. The comments below are based
+ on my limited experience and knowledge for your consideration only. Hope t=
+his helps.&nbsp;</div>
+<div><br>
+</div>
+<div><b>Search and novelty assessment function</b></div>
+<div>1. The prior art documents searched only include published patent docu=
+ments. In actual novelty assessment, prior art documents are not limited to=
+ patent documents and include journal articles (some behind paywalls), webp=
+age, published conference abstracts,
+ books, magazines, videos (including those available on youtube). It is cru=
+cial to include&nbsp;all prior art types to ensure the accuracy of your nov=
+elty assessment report.&nbsp;</div>
+<div><br>
+</div>
+<div>2. When searching features, my understanding is the algorithm will loo=
+k for the appearance of absence of&nbsp;identical&nbsp;or similar technical=
+ features from the prior art document. If the searched feature exists in an=
+y of the prior art documents, the novelty
+ is lost. However, at least in the UK, novelty involves a two-step test. Fi=
+rst, determining whether the prior art discloses the invention (as mentione=
+d above) and second, checking if the disclosure actually enables the skille=
+d person to m<font face=3D"arial, sans-serif">ake
+ it (<em style=3D"color:rgb(10,10,10)">Synthon BV v SmithKline Beecham plc<=
+/em><span style=3D"color:rgb(10,10,10)">&nbsp;[2005]). As an exaggerated&nb=
+sp;example, your invention is a flying car and a similar flying car has bee=
+n disclosed in a sci-fi novel. The novel should
+ not be considered novelty destroying as it does not provide sufficient tea=
+ching that enables a person skilled in the art (may be an automobile&nbsp;e=
+ngineer) to make the same car after watching.&nbsp;</span></font></div>
+<div><font face=3D"arial, sans-serif"><span style=3D"color:rgb(10,10,10)"><=
+br>
+</span></font></div>
+<div>3. Please check if the current model is able to tell patentable subjec=
+t matter from non-patentable ones (<i>we have not discussed this</i> but it=
+ just came across my mind last night). Reference to patent examination guid=
+elines from IPOS, (<a href=3D"https://isomer-user-content.by.gov.sg/61/d159=
+c40c-f15d-49d6-97de-feb33bca527f/examination-guidelines-for-patent-applicat=
+ions.pdf" target=3D"_blank">https://isomer-user-content.by.gov.sg/61/d159c4=
+0c-f15d-49d6-97de-feb33bca527f/examination-guidelines-for-patent-applicatio=
+ns.pdf</a>),
+ see paragraphs 8.3-8.8. This is a big can of worms and we can test these l=
+ater. I have not done any testing yet.&nbsp;</div>
+<div><br>
+</div>
+<div>4. Selection inventions as an &quot;exemption&quot; for novelty if the=
+ invention searched claims a specific subset of the compounds from a prior =
+art on the basis of an unexpected advantage. Again,
+<i>we have not discussed this</i> in the call. I can explain another time w=
+ith more specific examples. For now, if you wish, you can refer to the IPOS=
+ examination guideline paragraphs 4.83-4.92.&nbsp;</div>
+<div><br>
+</div>
+5. Last point of my observation is that, the&nbsp;algorithm I tried seems u=
+nable to tell the difference between open-ended and closed-ended terms. Pat=
+ent language&nbsp;unfortunately requires more accuracy than natural languag=
+e. As explained in the call, &quot;comprising A,
+ B, and C&quot; (open-ended) means having, but is not limited to the elemen=
+ts A, B, and C; &quot;containing A, B, and C&quot; (closed-ended) means hav=
+ing exactly elements A, B, and C, and nothing more.&nbsp;
+<div>
+<div><br>
+</div>
+<div>6. The current version is yet able to conduct searches for biological =
+sequences (peptides, nucleic&nbsp;acids, etc.). They make up a large part o=
+f biological&nbsp;inventions. Similarly, there is a crying need for search =
+of chemical structures in the industry. Would
+ be greatly helpful if your tool can do that.&nbsp;</div>
+<div><br>
+<div><b>Additional functions to consider</b></div>
+<div>1. Patent search and monitoring services (a lot of service providers a=
+re doing it unfortunately but you might just include it to make your platfo=
+rm comprehensive). Sometimes, companies wish to monitor patents and patent =
+application status from their competitors.
+ This was<i> not discussed with you yet </i>but just came to my mind.&nbsp;=
+</div>
+<div><br>
+</div>
+<div>2. As mentioned, you may consider having separate functions for freedo=
+m-to-operate searches, i.e. comparing features of a product against existin=
+g patents from competitors to assess potential risks of infringement before=
+ product launch.&nbsp;</div>
+<div><b><br>
+</b></div>
+<div><b>Points to note for new provisional filing feature</b></div>
+</div>
+</div>
+<div>1. Drafting quality</div>
+<div>I assume the drafting will be done by AI. There will need to be a cert=
+ain type of QC for the drafting at your end. Manual screening takes up a lo=
+ng time and may hinder your work capacity. For example, typical drafting tu=
+rnaround time for patent attorneys
+ for claims is 1-2 weeks and full specification is 3-4 weeks. The time take=
+n is not just for drafting itself but also for scrutinising the data provid=
+ed, identification of essential&nbsp;features (from non-essential ones).&nb=
+sp;</div>
+<div><br>
+</div>
+<div>2. Right to the invention</div>
+<div>You will need a mechanism to identify who is filing the patent (maybe =
+Singpass for Singapore). People can do funny stuff and patent trolls fillin=
+g dummy patents are not rare. Also, this may be a source of potential dispu=
+tes that involve employees and employers,
+ where the employee files a patent without informing his/her&nbsp;employer =
+(actual owner of the invention, if stated in the contract). Don't think you=
+ will be liable for the acts done by rogue employees, but good to have some=
+ control procedurally and internally
+ monitor user filing activities. This is more of PR/reputation risk rather =
+than tech issue.&nbsp;</div>
+<div><br>
+</div>
+<div>3. Section 34 (Singapore Patents Act)</div>
+<div>This is the security clearance requirement for Singapore entities and =
+residents of Singapore at the time of making the invention (applies to fore=
+igners too). Other countries have similar requirements. Tricky part lies in=
+ the language in the act here:
+<font face=3D"arial, sans-serif">&quot;<span style=3D"box-sizing:border-box=
+;font-weight:bolder;color:rgb(0,0,0);text-align:justify;text-indent:19.2px"=
+>34.</span><a name=3D"m_-8344980551022445559_pr34-ps1-" style=3D"box-sizing=
+:border-box;color:rgb(0,0,0);padding-top:110px;text-align:justify;text-inde=
+nt:19.2px"></a><span style=3D"box-sizing:border-box;display:inline;color:rg=
+b(0,0,0);text-align:justify;text-indent:19.2px">=E2=80=94(1)&nbsp;&nbsp;Sub=
+ject
+ to this section, no person resident in Singapore may, without written auth=
+ority granted by the Registrar, file or
+<u>cause to be filed</u> outside Singapore an application for a patent for =
+an invention...</span>&quot;. Not sure if your product/company is considere=
+d &quot;cause to be filed&quot; (given that patent agents are liable under =
+this section). You may want to consult a lawyer
+ for this.&nbsp;</font></div>
+<div><span style=3D"font-family:arial,sans-serif">One way I can think of is=
+ to caveat the shit out of it in your product, and ask the user to declare =
+their nationality and residency, and specify which patent office they would=
+ like to first file in.
+</span>Maybe<span style=3D"font-family:arial,sans-serif"> include a warning=
+ prompt telling them that it is not allowed to file abroad without a prior =
+security clearance issued. Ask them to consult the relevant patent office i=
+f uncertain before hitting &quot;file&quot;.&nbsp;</span></div>
+<div><span style=3D"font-family:arial,sans-serif"><br>
+</span></div>
+<div><span style=3D"font-family:arial,sans-serif">That's what I can think o=
+f for now. Happy to follow up on the points above or other issues.&nbsp;</s=
+pan></div>
+<div><span style=3D"font-family:arial,sans-serif"><br>
+</span></div>
+<div><span style=3D"font-family:arial,sans-serif">Best regards,</span></div=
+>
+<div><span style=3D"font-family:arial,sans-serif">Ziyin</span></div>
+<div><br>
+</div>
+<div><br>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--0000000000009e1279064dabad73--

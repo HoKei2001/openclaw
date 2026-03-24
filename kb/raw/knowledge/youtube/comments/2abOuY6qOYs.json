@@ -1,0 +1,82 @@
+{
+  "video_id": "2abOuY6qOYs",
+  "total": 5,
+  "fetched_at": "2026-03-12T08:32:25.636086+00:00",
+  "comments": [
+    {
+      "id": "UgxTO1cxI3e69MoeHnJ4AaABAg",
+      "author": "@yegor256",
+      "author_id": "UCr9qCdqXLm2SU0BIs6d_68Q",
+      "author_url": "https://www.youtube.com/@yegor256",
+      "author_verified": false,
+      "text": "Thanks for the video, it's helpful! Would be great to hear about the reasons we should consider when adding or NOT adding elements to the body.",
+      "likes": 2,
+      "published_at": "1 year ago",
+      "timestamp": 1741737600,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    },
+    {
+      "id": "Ugy7wLii_3CU7hQA1WF4AaABAg",
+      "author": "@DatascienceSiharath",
+      "author_id": "UCk7cY0Bb8GHCub8lL7-np0A",
+      "author_url": "https://www.youtube.com/@DatascienceSiharath",
+      "author_verified": false,
+      "text": "Very helpful information",
+      "likes": 2,
+      "published_at": "2 years ago",
+      "timestamp": 1710201600,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    },
+    {
+      "id": "UgxSJVPN5fLJtL5SoYh4AaABAg",
+      "author": "@teama.d.s6961",
+      "author_id": "UCYO99u-rGd69NgwwCJApxYQ",
+      "author_url": "https://www.youtube.com/@teama.d.s6961",
+      "author_verified": false,
+      "text": "😊😊",
+      "likes": 2,
+      "published_at": "2 years ago",
+      "timestamp": 1710201600,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    },
+    {
+      "id": "UgyUbSkBrAdILIseXlF4AaABAg",
+      "author": "@JuanRodriguez-x9d1d",
+      "author_id": "UCV1wqZxU-2cscsn23dn4mdg",
+      "author_url": "https://www.youtube.com/@JuanRodriguez-x9d1d",
+      "author_verified": false,
+      "text": "Just wondering how can I communicate with you",
+      "likes": 0,
+      "published_at": "2 months ago",
+      "timestamp": 1768176000,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    },
+    {
+      "id": "UgzRKwfyeksxZu5BT294AaABAg",
+      "author": "@PatentIllustrator",
+      "author_id": "UCi1zcj3_diLsewkks_tRFPA",
+      "author_url": "https://www.youtube.com/@PatentIllustrator",
+      "author_verified": false,
+      "text": "I’ve been helping Inventors & Patent Lawyers like yourself with Patent Illustrations for 9 years now and enjoyed your video. Very informative and learned something new! Thanks",
+      "likes": 0,
+      "published_at": "1 year ago",
+      "timestamp": 1741737600,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    }
+  ]
+}

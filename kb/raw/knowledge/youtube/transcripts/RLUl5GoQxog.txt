@@ -1,0 +1,741 @@
+hey there welcome back to yet another
+session on this channel you know what
+I'm inclined to believe that this topic
+or this session is the most awaited one
+or the most requested one through emails
+comments LinkedIn post this is around
+the patent drafting questions appearing
+in the patent agent
+examination also known as P2 C3 lovingly
+the 30 marker
+so let's call this session P2 C3
+drafting applications how to so before
+we jump into solving the questions let's
+spend couple of minutes in understanding
+or recalling the sections of a pent
+application so as you can see a patent
+application is divided into multiple
+sections these are the title field of
+the invention background of the
+invention the summary of The Invention
+the detailed description that you need
+to provide the advantage sections uh the
+claims the most important one and the
+abstract uh I'm not going to spend a lot
+of time in detailing out the requirement
+for each of this section because in this
+particular video I have gone into detail
+in terms of what all needs to go in
+these sections and what is the basic
+formats of these sections so please
+visit this video uh it would be a good
+starter so with the basic details in
+hand let's get started now as we know a
+patent application will be considered
+complete when all these sections have
+relevant information but the basic
+question remains as it is from where do
+we find the relevant information in the
+earlier format which was a jumbled up
+version of a patent application we would
+plug out some information and plug into
+the relevant section and that's how we
+would call it as an open book exam now
+the format has changed the information
+that is provided is too thin and too
+little but you know what you may not
+believe when I say it the new version is
+much simpler and much straightforward
+than what it was earlier now the
+information is given in a much
+structured manner this is how you
+receive information in real life there
+is a problem statement there are
+existing solution there are challenges
+to it then there is an objective of your
+invention then how do you meet those
+objective the implementation details and
+what are the technical advantages that
+you are able to achieve through your
+invention this is how an inventor would
+kind of Express his invention to you so
+it's very easy now to follow the
+invention to underline the components to
+underline the details and to find
+relevant information for the sections
+that we are looking for so how do we do
+it let's see so first when you read
+through the disclosure the first few
+sentences the challenges part is nothing
+but your background section you can take
+the information as it is and put it as a
+background section you may want to maybe
+enhance the structured connections may
+want to add couple of more sentences if
+you think you have some knowledge about
+it and uh that's about it you talk about
+problem statement you talk about
+existing Solutions which is given in the
+question and you talk about the
+shortcomings and then finally you tell
+about why your invention is needed there
+is therefore a need for uh system and
+method for solving the above mentioned
+problems isn't it so Still Remains the
+Same while you read you will also
+realize that they have categorically
+mentioned what is the objective of the
+invention what does the invention want
+to do so that is nothing but your title
+of the invention that can also be used
+as the Preamble of your claim right uh
+and as you go down you will see how
+exactly they are doing it they would
+have listed down the name of the
+components the functionality of the
+components maybe the steps method steps
+and what is achieved out of those method
+steps these are nothing but the body of
+the claim the components the wear in CLA
+which says that this is the
+functionality of it the method steps
+this is what the method step uh results
+in right so with the information that is
+provided you are able to come up with
+your system claim process claim
+apparatus claim isn't it now once you
+have your system claim or method claim
+it gives you a summary now what is a
+summary summary is a plain English
+version of your claim this also gives
+you the abstract abstract also is a
+single or simple English version of your
+train so you got so many sections out
+there by itself now what do we do about
+the detailed description now all the
+implementation details which are there
+those are nothing but the description
+the way you need to write is come up
+with a structure uh if you are able to
+draw figures now figures could be the
+block diagrams where you say system
+another simple box another simple box
+you can name those boxes you will get to
+know all about it when we go through the
+example referring to all this you just
+provide the way system functions with
+the help of all these components and
+with the method steps that's your
+detailed description and at the bottom
+they have given you technical advantages
+these are are nothing but the advantages
+of your system which you write at the
+bottom uh so with this you will have all
+the relevant information which is needed
+to come up with
+your application not satisfied would
+want to go through an example to
+understand it let's go ahead so this is
+the first question question 10A from the
+patent agent examination 2024 you can
+pause and read through the question and
+then I'll help you to decode the
+question
+so the invention is around runway length
+uh which at times or at places may not
+be adequate enough for safe operations
+of aircrafts so we would want to provide
+a system a method or a solution to
+overcome such challenges to achieve uh
+the economic growth to achieve the
+technical advancement so if you see the
+invention disclosure the structure is so
+well maintained it starts with the
+background section provides the existing
+Solutions provide the problems also
+which I have highlighted and
+categorically mentioned as background As
+you move forward it also talks about
+what is the objective of the invention
+they would want to come up with some
+solution to it right which can give us
+title which can give us uh the Preamble
+for our claim and then it goes about the
+implementation detail and categorically
+provides us the components the the
+Rockets the iic system and The Thirst
+control so these are the major
+components which are there in the system
+which would help the system to overcome
+the problem which is there and finally
+they provide all the technical
+advantages which are not the
+implementation details but these are the
+technical advancements to kind of
+justify the inventive step justify the
+uh economic benefits which The Invention
+is uh providing so take a pause and see
+how I have uh dissected the invention
+disclosure to retrieve the information
+from
+it so now the next step is to come up
+with the entire patent application and
+using the information which is provided
+because we don't have hell lot of a time
+at hand to go on drafting a very
+beautiful application and elaborate
+application we don't have content we
+don't have time so we will be using the
+information provided so if you ask me
+have I done the best that I could do for
+this invention no but have I done the
+best that I could do with the invention
+with the information provided and for
+the time that is there definitely yes
+and you should also do it now the next
+step is to write the pent application in
+the examination so what section should
+we start with see ideally we should
+start with title followed by background
+with the information that is already
+there and then the detailed description
+claims and Abstract but uh I would want
+you to take a different approach start
+with claims don't write the claims on
+your answer sheet as in the first
+section itself but have a rough page
+somewhere and draft the claim for it
+once you have understood the objective
+of the invention and what are the main
+components and what is the basic claim
+again here don't go for the Rockstar
+claim the claim which covers the basic
+components that they have provided here
+the method steps that they have provided
+here and with that you will be able to
+get summary abstract and in fact your
+detailed description also so start with
+claim somewhere in your notebook okay
+and uh use our previous video to learn
+how to draft the claim if you have any
+uh confusion around it so with this
+approach in mind let's start the
+question so the first that you need to
+do is draw this format as you attempt to
+write the answer now this is form 2
+format uh you should remember the format
+of it you write form two you write
+patent act you write patent rules and
+then you write the title you write the
+applicant details applicant details are
+not provided but have this format and
+then at the end you write that this is a
+complete specification and there is a
+preamble for complete specification you
+can uh remember this so this should be
+your first page as such right so let's
+go Section by section now starting with
+title title can be obtained by the
+object objective of the invention as
+provided in the disclosure so for this
+particular case uh I came up with two
+versions first is Method and system for
+integrating rocket propellent in
+aircraft propellent is the word which
+was not there in the disclosure but then
+because we are talking about thrust
+propellent comes as a natural word may
+or may not come you can take your own
+decision uh second version was a rocket
+assisted aircraft system for short
+Runway operations now now here we are
+providing the technology and problem
+statement all together you can take your
+own call from the objective whatever
+title that you think suits the best you
+can pick that up now as I said we will
+attempt the claims first even though in
+rough the question has asked us to draft
+two claims now it could be two
+independent Claims One independent claim
+and a dependent claim so let's get
+started we should start with a format
+which says I V claim then the claim
+starts which says a system claim
+basically a rocket assisted aircraft
+system comprising components components
+components first component is a
+plurality of rocket propulsion unit they
+talked about Rockets integrated into the
+aircraft we don't know the numbers hence
+a plurality of rocket propulsion units
+integrated with the aircraft second
+module is the avionic module what it is
+configur to configur to monitor the
+runway conditions third is the most
+important one which takes the decision
+which is the thrust control module now
+this is connected to who the plurality
+of propulsion units because it is
+controlling them on what basis does it
+control it takes input from the avionic
+module what is the condition and based
+on the condition it adjust the thrust to
+be provided by the propulsion units
+during takeoff and Landing right and we
+have ended the claim by saying thereby
+reducing required runway length for
+aircraft operation because that's the uh
+technical advancement of our invention
+right now we have to draft a dependent
+claim now if you go through the
+disclosure we don't have any further
+details about any of these components as
+in any further details right which we
+can use as a dependent claim so I
+thought why not just write a method
+version of this claim which is much
+easier because that's a copy paste of it
+how do we do it so here is the method
+version of it a method for operating a
+rocket assisted aircraft what does it do
+first we monitor the condition based on
+the monitoring conditions we determine
+what is the thrust level this is
+required and third we control the purity
+of uh propulsion units based on the
+required thrust for either Landing or
+taking off so this is how your claims
+will be in the questions they have also
+asked us to come up with diagrams so can
+we come up with diagrams yes once we
+have claim we can come up with anything
+so from the system claim we can come up
+with the system diagram it's nothing but
+a line diagram a blackbox sort of where
+we have a system uh within the system
+box we have multiple sub modules which
+are connected to each other we give them
+the names we give them the numbers and
+and we know the objective of it so that
+would be your system diagram this is how
+it looks so we have a big box which is
+nothing but a rocket assisted aircraft
+uh we have multiple boxes in it and we
+have given the name and we have also
+made the connections between them to
+emphasize uh how they interact with each
+other so this is your system diagram now
+since we have method claims we can also
+come up with the flowchart because
+method claim has steps so the flowchart
+has all these steps going step by step
+and we will use these diagrams to
+explain our invention so with the help
+of the claims we were able to come up
+with multiple sections of the
+application but to complete the answer
+we are going to go step by step starting
+with the field of the invention the
+format of the field of the invention is
+the invention generally relates to you
+write the broader technical domain in
+this case it is Aviation Technology more
+specifically The Invention relates to
+you can copy your title here or you can
+write the solution that you provided or
+the problem that you are solving it is
+nothing but you are enabling aircraft
+operation on a shter run way how by
+providing an enhance propulsion system
+right so you can come up with the
+language around it moving on the
+background as I mentioned earlier I have
+taken the background from the challenges
+part that they had mentioned in the
+disclosure itself maybe here and there
+you can enhance a line so I have done
+that and I ended the background by
+saying therefore there is a need for a
+system that that enables standard
+aircraft to operate safely and
+efficiently from shter ways so you can
+come up with a need of your invention
+right so this is how you would end your
+background section now once you are done
+with your background section you can
+move to the summary section now as we
+discussed earlier summary can be
+directly obtained by converting claim
+into simple English the format is given
+here the invention provides a method and
+system for the preamble that you write
+from here on you write what your system
+includes the system includes the first
+component which does this further the
+system includes a second component which
+does this uh additionally the system
+includes a third component which does
+this so this way you will provide the
+summary of your
+invention now if you are able to come up
+with few drawings for your invention
+then in the next section you will talk
+about brief description of the drawings
+how do you do this is one of the format
+you just provide some information of the
+drawings also so figure one illustrates
+a drawing depicting a block diagram of a
+system for doing something in accordance
+with an embodiment of an invention now
+we end this with this particular
+disclaimer because we don't want our
+invention to be limited to this
+particular drawing that we have given
+similarly you can provide brief detail
+about the method flowchart also
+illustrates a flowchart for method steps
+for doing something
+in accordance with an embodiment of an
+invention of the invention
+sorry now we will go towards the
+detailed description uh we will provide
+detailed description with the help of
+the figures that we have come up with we
+start the section by providing an
+introduction to the invention again the
+invention provides solution for
+overcoming a challenge this again I have
+picked from the invention disclosure
+only I think the last paragraph or
+somewhere around it
+after this we start with figure one we
+provide the introduction of figure one
+again the way we provided brief
+description we copy paste here sorry we
+write it again here after that we
+provide introduction to the all system
+Elements which are there in the diagram
+basically are claim components right so
+the format is uh the system number 100
+includes you write component one number
+component two number number component 3
+number full stop after this you come up
+with the paragraph which introduces all
+the system components as appearing in
+the system claim in our case the system
+diagram also followed by their numbers
+basically system 100 includes component
+one number component two number and
+component three number after this
+paragraph by paragraph you take each
+component and its functionality
+let's say in our case we start with the
+avionic
+module we say avionic module 102
+configured to what does it do monitors
+Runway after it has monitored the runway
+it shares the detail with who The Thirst
+control module
+104 uh what does it do it actually
+determines what could be The Thirst that
+needs to be provided and who does it
+provide to it provides to the poity of
+propulsion units 106 and I have numbered
+them because there are n number of it
+now there are two use cases here first
+is when there is taking off another one
+is when is landing so what I have done
+is I have broken them down into two
+paragraphs again the information is from
+the disclosure only I have not done
+anything else right so I have just
+started with one paragraph it says for
+instance during taking off what do we do
+and similarly during uh Landing what do
+we do so with this this our system
+description is over with appropriate
+numerals moving to the description of
+the method flow so here also we start
+with figure two illustrates a flowchart
+for we provided and then we start with
+method steps where we say uh at step 202
+what happens at step 204 what happens at
+step 206 what happens so whatever you
+did there you can again do here repetion
+are allowed so with this our description
+is
+over we will move to the technical
+aspect of the invention which they have
+provided in multiple lines we'll just
+use them as it is but with a format so
+the format is the method and system is
+advantageous as it see what is the
+technical advantage that they have
+provided there write it here is there
+another technical Advantage then we read
+further the method and system is
+advantageous in that it is there any
+other uh advantage that is there
+Additionally the method and system is
+advantageous as it provides you keep
+doing it at the end you say patent agent
+name and sign after this we will put our
+claims that we have already drafted in
+the format as IV claim claim one and
+then we will write claim two followed by
+abstract abstract again is nothing but
+an English translation of the claim that
+we had written the method and system is
+disclosed for or disclosed is a method
+and system for the system includes da da
+da component the system also includes
+another component for doing something
+Additionally the system includes
+component for doing something thereby
+system improves something or solves a
+problem so with this your patent
+application is over with relevant
+information to each SE section that they
+asked for in place so don't you think it
+was still an open book exam no why we
+used sentence by sentence structure by
+structure the information that was
+provided by them in the question while
+we come up with the pent application so
+for me it was still an open book exam
+because I don't have time I don't have
+additional information to write anything
+more or to assume anything more how can
+I assume anything around an invention
+right so I think it was still an open
+book exam and in a much more uh
+efficient and structured manner it made
+our life much easier
+now let's take another question so this
+was another option given in the paper in
+the exam
+2024 uh the invention is around coming
+up with the composite material for
+vehicle manufacturing here also they
+have provided with the challenges
+existing Solutions and what is the
+objective that they want to do how do
+would they do it the implementation
+details are there and the technical
+advantages so let's decode the question
+so as highlighted we are able to derive
+background information we are able to
+derive information for our title our uh
+claim Preamble we are also able to
+identify the claim components because
+they are coming up with a composite
+material so there is element one then
+there is element El two the carbon
+reinforcement and how these two element
+one and element two are combined
+together because they have categorically
+mentioned Innovative aditive and molding
+methods they have used so that's a
+giveaway so that's our implementation
+also and finally they have given us the
+technical details that doesn't help us
+with our claims but then these are the
+advantage sections that we would write
+at the end
+so what section will you work on first
+you can work on Title First followed by
+background and so on so forth but what
+did we decide we will always take a shot
+at the claim first because claim will
+give us a better understanding of the
+invention which will help us to
+structure the application in a proper
+manner so while we draft the claim the
+claim Preamble will give us the title
+also so so what could be the title of
+this invention because the inven relates
+to composite material of element one and
+element two we can go with the title
+which says titanium
+wire and carbon fiber composite material
+for vehicle construction it could be
+automobile construction also this could
+be your title let's work on the claims
+now in this question also we have been
+asked to draft two claims now if you
+read the disclosure they have provided
+detail about the composite material what
+all is there in that composite material
+and and how this composite material is
+manufactured so we can write one
+apparatus claim which is nothing but the
+product claim composite material claim
+itself and another claim would be the
+method to come up with such composite
+material so how do we start we start
+with the format I we claim and we write
+a composite material for vehicle
+construction for vehicle construction
+may or may not required but you can
+write it comprising we write the first
+element of the composition which is
+nothing but titanium y wi it's a primary
+structure material see I'm using all the
+information that they have provided I
+may ignore this also but I wanted to
+make use of all the information that is
+there second is carbon fiber
+reinforcement which is integrated with
+the titanium wire and how have they
+integrated
+it this is where the Innovation comes
+combined using additive manufacturing
+and composite molding to form a cohesive
+structure with enhanced strength to
+weight
+ratio so this is how our composite
+material claim would look like we have
+provided both the elements we have
+provided how they are integrated and we
+have also provided how it is technically
+Advanced so our claim is also Justified
+that
+way now moving to the method of
+manufacturing it so this is how we will
+attempt it a method for preparing a
+composite material for vehicle
+Construction compris Rising we are
+integrating as a first step integrating
+titanium wire with carbon fiber using
+the technique that is there and then we
+are forming a cohesive structure using
+the composite molding technique that
+they have provided to get a enhanced
+strength to weight ratio so our method
+claim also is
+over so for this invention can you come
+up with any diagrams see for the
+composite material the there is no
+diagram that you can come up with but
+for this method claim you may think of
+just drawing a flowchart twostep
+flowchart basically step one and step
+two if you have time and if you want to
+follow this you can do it uh otherwise
+you may ignore this also so what is the
+next step we'll go step by step uh
+starting with the field of the invention
+the format is the invention generally
+relates to in this case the automotive
+manufacturing industry more specifically
+The Invention relates to we write maybe
+the composite material for what
+manufacturing providing what advantage
+Advantage right and then we move to the
+background section here again I have
+used the same information which was
+there in the question paper maybe uh
+moved a sentence here and there but most
+of the information remain the same the
+main thing that I do or that you should
+also do is the end couple of lines for
+the background which says there is
+therefore a need for a solution a method
+a syst system for doing something this
+actually sets the case for your
+invention right let's move on to the
+summary section which is nothing but the
+paraphrasing of the claim one that we
+drafted disclose is a composite
+material and method of construction
+thereof the composite material includes
+you write component one component two
+how they are integrated together and
+what is the advantage that they put
+provide your summary section is done
+next we move to the detailed description
+or the brief description of the drawings
+in case you have chosen to come up with
+that flowchart If You observe here also
+we are starting with an overview of the
+invention The Invention provides a
+composite material for something and the
+advantage and the solution that it
+provides right
+thereafter we follow the implementation
+detail that they have provided
+what do we start with as a primary
+material what is the secondary material
+that we do how do we integrate them what
+kind of Technologies are we using to
+come up with that cohesive structure or
+cohesive composite material at the end
+and what is the advantage of that
+cohesive material how does it help the
+industry there is one paragraph in there
+which talks about how it has
+applicability in multiple uh automobile
+sectors so I have written that paragraph
+also here followed by this we come up
+with the technical advantages which
+again they have provide what is the
+format the The Invention is advantageous
+in that it provides you write this
+further moreover additionally with all
+these transition uh words you can come
+up with paragraph by paragraph by
+paragraph with this we are done with our
+detailed description
+also after this we reproduce the claims
+that we have already drafted and at the
+end we write the abstract again which is
+nothing but the English translation of
+our claim one that we have drafted so
+while we have not specifically spoken
+about the form two format for this
+particular example please make sure that
+you start your answer with that form two
+format please make sure that you put
+that patent agent signature at the end
+of the claim at the end of the detail
+description so these are few minor
+formatting uh practices or syntax that
+you should remember uh another one uh
+that I may not have kind of spoken about
+about is uh using the referal numbers so
+in diagrams we have given numbers to
+components like 102 104 106 so in that
+case you are supposed to use these
+numerals in the claims also and in the
+abstract also if you go back to the
+answer of question one you will see that
+the answer has the numerals mentioned in
+it so with this we are done solving the
+questions uh in this session we came up
+with the framework to decode the
+question to identify relevant
+information that will go in the sections
+that we need to complete our patent
+application in a way uh these questions
+can still be considered as open book
+exam questions man all the information
+is already there and I genuinely feel
+and believe that the patent office is
+not looking for you to draft 1520 pager
+application because the information is
+not there you should not assume the
+information you should not assume the
+invention take the information is what
+is there and plug into the sections
+attempt each section provide detail for
+each section that should be good enough
+for them to evaluate you whether you
+know how a PN application looks and
+whether you know what kind of
+information goes in what
+section so with this uh I take your
+leave if you still have any questions
+please uh drop in a message comment and
+please like subscribe and
+share it means a lot take care bye-bye

@@ -1,0 +1,52 @@
+{
+  "video_id": "kFXYWwVxrkg",
+  "total": 3,
+  "fetched_at": "2026-03-12T08:31:39.947118+00:00",
+  "comments": [
+    {
+      "id": "UgwIobnwWipc6hgbGBZ4AaABAg",
+      "author": "@Down_Under_2024",
+      "author_id": "UCfXvpT2MCn-_9hs74-Ya24Q",
+      "author_url": "https://www.youtube.com/@Down_Under_2024",
+      "author_verified": false,
+      "text": "Its so mystifying all this patenting process, thank you for your guidance.",
+      "likes": 2,
+      "published_at": "6 months ago",
+      "timestamp": 1757635200,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    },
+    {
+      "id": "UgzGwCOsRAgD8rCXUbd4AaABAg",
+      "author": "@ThoenWorks",
+      "author_id": "UCeVizyxQc9YibV6-JDKP6CA",
+      "author_url": "https://www.youtube.com/@ThoenWorks",
+      "author_verified": false,
+      "text": "Thank you - very helpful discussion & information.",
+      "likes": 1,
+      "published_at": "1 month ago",
+      "timestamp": 1770854400,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    },
+    {
+      "id": "UgzAjJfqbIgdbP9ccgV4AaABAg",
+      "author": "@akebax",
+      "author_id": "UCLn_2a0hsrhJ6qkXLv7fE-Q",
+      "author_url": "https://www.youtube.com/@akebax",
+      "author_verified": false,
+      "text": "Very good advice! Thank you!",
+      "likes": 0,
+      "published_at": "2 months ago",
+      "timestamp": 1768176000,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": true
+    }
+  ]
+}

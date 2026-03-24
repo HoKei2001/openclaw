@@ -1,0 +1,1520 @@
+so good morning my name is deandra
+coleman i'm with the virginia spdc
+network for those of you that are not
+familiar with our organization
+virginia spdc is a partnership program
+between the u.s small business
+administration
+george mason university and local host
+institutions throughout virginia
+with 27 locations across the
+commonwealth we provide training and
+technical assistance to small businesses
+in their local communities
+our one-on-one consulting services are
+available at no charge
+today's webinar patents learn how to
+conduct a prior art search
+is presented by the virginia sbdc in
+collaboration with the united states
+patent and trademark office
+and is the third in a series of four
+webinars with the uspto
+we are recording today's presentation
+and it will be posted on our website
+virginiasvdc.org due to the large number
+of participants everyone's microphone is
+muted
+but if you have questions during the
+presentation you can type those into the
+q a box
+if we're unable to get to your question
+you can email us
+after the webinar and ask your question
+there and now it is my pleasure to
+introduce our presenter for today's
+session
+cynthia is a part of a src federal and
+has been a member of the information
+technology resource
+provider since july 2003 cynthia has a
+master's in management information
+systems from george washington
+university
+prior to joining the itrp program
+cynthia has held
+several jobs in training computer
+software as well as software development
+with the bs in math and computer science
+cynthia brings a solid i.t background
+coupled with significant experience
+in software development and training
+please join me in welcoming our
+presenter for today
+cynthia sadroski hi
+good afternoon and in my capacity
+at the patent office what i do is
+train new patent examiners and how to
+use the software
+that the patent office uses as well as
+provide
+a technical support to the examiners and
+in doing so one of the
+courses that we teach is is searching
+and how to use the software that the
+patent office provides
+the examiners to how to search so with
+that background
+um i will go ahead and talk about
+i'm patent searching i'm and
+uh and why do you need a patent search
+so we're going to be talking about the
+tips
+and tricks for uh patent searching and
+in doing so
+we're providing a suggested a six step
+process
+in doing so they so that you can find
+out if your idea invention
+um is new novel and non-obvious
+so we'll be talking about why to search
+um we'll be talking about
+keyword searching which i'm talking
+about is doing text searching
+okay and i know you all do that but
+that's fine but when i'm talking about
+what you need to think about when you're
+doing
+text searching in addition to doing text
+searching you can also be searching by
+what we call classification
+um classification is similar to what you
+do you know when you go into a bookstore
+or into a library they have a dewey
+decimal system
+that you're all familiar with that you
+use to find books are just not stacked
+somewhere and you just have to fumble
+through the stacks
+um and so the patent office also has a
+classification system
+and the classification system that we
+are now using
+is called um cpc or the cooperative
+patent classification system
+and i'll talk a little bit more about
+that um any of our audience who
+um have our inventors um prior to
+2015 you might be familiar with the
+uspto
+has a us patent classification system
+and we'll talk a little bit about that
+system as well
+but mostly focusing on that cpc
+and then i talked about that we will
+provide a six-step
+process and give an example of of how
+you may want to
+use this six step process when you are
+providing uh
+your searching to find out on the
+novelty of your invention
+so any kind of documentation patent
+numbers
+um that i may reference is for
+illustrative purposes
+and it's not anything that the patent
+office um
+supports okay
+so uh definition of what a patent is so
+what you're doing
+is um when you apply for a patent um
+and if it's granted what it is is that
+the u.s is um granting you
+the property rights to your idea it's
+only for the united states
+okay um and it excludes others from
+making using your offering for sale etc
+your invention throughout the united
+states and it is for
+a limited time um though if you ever
+want you can you know sell your
+um you know patent to um someone else
+so that they have that right that you
+have um been granted
+all right so i'm what's the purpose of
+even
+wanting to apply and and get your
+invention patented
+well in doing so as i said you will be
+protected
+from others making using or selling your
+idea
+um but in doing so your patent needs to
+be either new
+useful or non-obvious and what i be
+mean by non-obvious is let's say that i
+want to invent a pen
+well i'm assuming that all of you have a
+pen
+somewhere if it's not in your hand
+already somewhere
+close to you and so but what i want to
+do
+is in honor of um being saint patty's
+day yesterday i'm going to um
+invent a pen that writes
+in on my tartan color
+and so therefore the pen will have
+various inks
+coming out and it will write in various
+colors at one time
+well maybe that's not maybe because we
+have pens and pens who do write
+you know in different color inks and
+being able to write with more than one
+color at a time
+maybe that is that's obvious for
+pens that are already out there and so
+therefore maybe
+it's obvious that you can go that
+direction um it's not going to be
+something that i
+will make that decision on that will be
+between
+on you as the applicant and the patent
+examiner um
+as they examine your application okay
+so um so non-obvious is something you
+may want to be considering as you are
+looking at your
+idea or your invention um as you're
+doing searching so again new useful and
+non-obvious
+are what you're gonna be looking for um
+for your invention
+all right so um there's gonna be several
+steps that you will be
+following as you um apply
+your invention to the patent office and
+what we're going to be doing right now
+is focusing on
+determining is your idea or invention is
+it patentable
+and that's we'll be focusing on today
+okay so um you'll clear the term prior
+art
+and uh prior to working at the patent
+office to me when somebody talked about
+art i was thinking of the mona lisa or
+something like that
+um you know or a sculpture and so here
+the word art has to do with
+um your um idea concept
+um it doesn't necessarily refer to art
+as a painting or a drawing or a
+sculpture
+just has to do with any kind of
+documentation literature
+web um site or whatever that has
+already is in the public venue
+and therefore you can't patent something
+that is public knowledge
+um and so that's what you need to be
+looking for
+is how is your invention different than
+what's already out there in the public
+um we'll be talking about on i talked
+about you're going to be doing text
+searching
+and we're talking here talking keyword
+searching but there are some things you
+need to think about
+when you are developing your query using
+your text and we'll talk about that in a
+minute
+i'm also as i mentioned going to be
+suggesting that you also incorporate a
+classification search
+on as you're conducting your search and
+i'll explain
+how you can find out what the
+classification numbers is that you may
+want to use
+in doing your searching
+all right so as i mentioned prior art's
+going to be any kind of documentation
+that it discusses
+or describes your invention all right
+i'm sure you're going to be want to be
+looking at you know dates
+on you know is your idea on
+the you know the idea of your
+application is it proceeding by someone
+else's patent or patent application if
+so
+then their prior art may supersede yours
+all right and then again and will be
+determined based on the patent examiner
+is they
+are doing they're going to be doing
+searching as well um
+and so what you need to do and you want
+to do is search
+to find out what is already out there so
+as you
+um write your um application
+in in your claims um you want to
+emphasize
+how your idea is new um novel
+um non-obvious or useful
+all right
+so priorities i mentioned can consist of
+lots of things
+today we're going to be really focusing
+on searching u.s patents and published
+patent applications
+and patent applications are published in
+the united states
+um 18 months after filing or
+if the applicant says please do not
+publish my application
+then you won't find it on published at
+all
+but the us patents you will find
+published but you
+also might want to look at or
+or be consider of on foreign patents and
+their published applications
+um journals magazine articles books on
+websites as i talked about conference
+proceedings uh maybe you have attended a
+conference and presented your idea um
+you have
+a time limit with which to do that um
+i believe that is within a year um but
+um you know you may want to make sure
+that that is the
+my information is correct but my
+understanding is that you have within a
+year if you
+presented your idea at a conference to
+go ahead and apply for your
+patent application or scientific papers
+all right so let's talk about the
+challenges what you need to think about
+when you are doing your text searching
+all right
+so on the first one's talking about
+vague or in
+inconsistent technology you're inventing
+a toy
+well think about it if you um talk to um
+a child um you know for their birthday
+and say
+you know if you buy them any toy my
+assumption is they're not going to be
+may not be happy with that
+um so you might want to be more specific
+especially if you are
+talking to a child and say what kind of
+toy do you want for your birthday um
+they're going to talk about specifically
+what doll or truck or ball
+or game they want and they're just not
+going to say oh just go ahead and buy me
+a toy
+all right so you want to make sure that
+the terms you're using
+are pretty specific also think about
+on the terms you're using and um are
+there
+other terms that are i'm obsolete that
+you need to be aware of in doing your
+searching um so
+you know for hi-fi um you know or
+um a you know as a disc player or
+whatever
+water closet you know if you're you're
+thinking about doing something you know
+about with a toilet
+and also different terms of of what the
+term means if and if i said to my mother
+rest in peace
+that i was going to buy a mouse um she
+probably
+would squint and look at me and go why
+would you want to buy a mouse
+you know you've got some cats and you
+know the cats are going to probably uh
+attack the mouse and it's like no no no
+mom computer melts
+oh and she won't even know what a
+computer mouse is um
+but i also have a real life story that
+i'd like to
+talk to you about terminology my
+background as you heard is computer
+science
+and i was a programmer in in in prior
+um career and uh
+and i um have worked on computer
+terminals
+and to you know so you know the word
+computer terminal now we call monitors
+but in the past it was called the
+computer terminal and i was working for
+a company
+on who put me on a project and the
+project was terminal consolidation
+well i knew what that meant that meant
+that we were going to take different
+functions and put them on the same
+computer monitor or computer terminal
+knew that was confident about it went
+into the meeting with our customer
+and our customer turns out to be the faa
+federal administration and aviation
+administration
+and their idea of terminal consolidation
+was taking on different
+functions and putting them all together
+in one piece of software
+and i'm like oh so it's a little
+different than what i thought about
+computer in terminal on also the faa
+on to them the idea of terminal is that
+huge building that you run through when
+you're trying to catch your plane
+all right so that's one example another
+example still of the word terminal
+is in my prior life i was a computer
+programmer and i worked for the state of
+south carolina specifically for the
+medical university of south carolina
+and um we were asked to set up a lab
+with computer terminals in it so that
+the students could come in and practice
+taking
+their boards before they took their
+certification exams
+so we were like what are we going to
+call this lab
+should can we call it a terminal lab
+well in the field of medicine terminals
+is
+a totally different term than computer
+terminals
+than a building that you run through and
+um we were on
+the lab was going to be on the fourth
+floor and the seventh floor of our
+building was the cadaver lab
+and so i felt if we label the terminal
+we may find
+a cadaver being rolled into our lab so
+terminal um a colleague of mine owned a
+car repair shop
+if i talk to him about terminals he'd be
+thinking about batteries
+you know in a car so you know if i do a
+search on the word terminal i've got to
+be more specific
+is it medicine is it a computer
+is it a car battery so again you need to
+think about
+the terms that you're using and can they
+be thought of in other
+ways i would probably number one be
+talking to
+um perhaps friends colleagues families
+and
+and and the terms that you're using do
+they understand that term and
+what do they think that term means um
+also as you're doing your searching
+um and and your art area on
+what other terms are you finding that
+you may want to use
+because that'll introduce the concept of
+synonyms so
+that um if you are on doing
+um a search you want to be you know
+doing a search on
+you know here if it's having to do with
+rodents you know
+rodents or mouse or whatever so
+you're going to want to think about
+those synonyms
+and you're going to want to order those
+synonyms together
+i'm also spelling i'm uh you know we've
+got
+um the british we have different
+spellings of color or the word tire here
+so if you're doing you know even besides
+doing study names you may want to do the
+word color
+or color spell oh you are etc also
+on patents and patent applications they
+have typos in them
+so you may want to be as you're looking
+at it you know is repellent spelled a n
+t
+or e n t example here of three wheeled
+um tri-wheels i'd be calling it a
+tricycle that's what i had when i was a
+kid
+so you may want to have three wheels or
+try
+wheels or tricycle kind of things and in
+developing your search query and also if
+you're going to be using acronyms
+not only will you want to include those
+acronyms but also spell them out
+do you know what led stood for light
+emitting diode or a pda personalized
+digital assistant so make sure that you
+know you're um including
+um all these different spellings
+variations synonyms
+um and acronyms and and spelling them
+out
+um as you're building your query
+also realize that doing text searching
+if you're using patent google's which
+you can do
+on that only takes you back to searching
+back to the 1880s and you may think oh
+well that's pretty far back
+or depends on what you're trying to
+invent if you're inventing something
+that perhaps has to do with shoes
+um or even engines or motors
+or plows um they existed you know before
+1880 and therefore
+that's not you know unheard of that you
+may want to be looking
+and getting you know patents that um
+existed before 1880 because the patent
+office
+was founded in 1790 so
+there are patents that go back as far as
+1790.
+on on the uspto public website there is
+a
+uspto search engine um and
+doing tech searching will only take you
+back to 1976
+and that's why i'm going to be
+encouraging to also do classification
+searching
+because doing classification searching
+can take you as far back
+as 1790. we also have
+a the system we call public east and
+public west
+that um will only allow you to do text
+searching back to 1971
+depending on what databases you use
+again you can do classification
+searching only that will take you back
+to
+1790 but public east and public west
+is not available from your own computer
+you would have to go
+either to a patent office um or
+on major um pet or major
+public libraries in major cities on
+have the computer
+access to our public geeks and public
+west this public east and public west
+system that i'm referring to
+is the same system that patent examiners
+use when they're conducting their
+searching and the public east and public
+west
+is proprietary software and therefore
+you have to be within the confines
+of the umbrella of the patent office and
+therefore you would
+it's limited access again and i'll talk
+about
+maybe a little bit more of where you can
+find those besides
+going to a patent office which right now
+as you know you know is not allow
+the public in because of the pandemic
+all right so we talked about i mentioned
+a little bit before about so we've
+talked we finished talking about doing
+searching using keywords or text i want
+to introduce the classification
+and i mentioned you know the dewey
+decimal system that you're pretty
+much familiar with the patent office all
+system
+is also um classifies and has to
+organize their
+patents and patent applications i can
+just imagine thomas jefferson who is one
+of our first patent examiners
+sitting on in his office and getting the
+first patent application and perhaps it
+was about
+um what we call a button hook to be able
+to
+um button up your the high top shoes
+and so he gets that application and he
+puts it down and then he gets another
+patent application having to do with
+plows
+well then does he put that application
+next to the shoes and then the plows
+you know you know because to be pile on
+one top of you know so as they were
+coming in he had to figure out that he
+had to organize them
+and so we had a classification system
+and so
+up until 2015 the system that we had was
+called the united states patent
+classification
+and we'll talk about that right now a
+little bit more
+so um we had up until um 2015
+the uspc the united states patent
+classification system
+right um and if so if you ever have
+looked at patents
+um or patent applications you will see
+those values
+um but starting in um 2013
+the patent office started um working
+with the
+european patent office on you know
+because we knew realizing we're becoming
+a global
+system i am and so we have
+between combining with the patent
+the us patent office and the european
+patent office
+we created a system called cpc the
+cooperative patent classification system
+and um and that's the system in the
+values that we use
+um ever since 2015 um and
+but even though we've only started using
+it in the us since 2015
+the us retrofitted um patent
+applications back
+and have applied and added the cpc
+values on
+to the patents and patent applications
+that were
+issued prior to 2015 and i'll show you
+about that
+um and uh so the cpc is a combination of
+the us
+and the european patent office but the
+value in the format is based off the ipc
+the international patent classification
+systems you'll see that the formatting
+looks exactly like the ipc's and they
+started using the international patent
+classification values
+um and then have been updating and
+they're in in retrofitting them
+and the classification system is very
+dynamic back in thomas jefferson's days
+on um he probably did not receive any
+patent applications about computer
+computer terminals um um and therefore
+there would have never been any
+classification systems about computers
+and the first time that a patent
+application or this
+series of patent applications came in
+about
+on computers they were looked as as
+registers and
+were classified under a red registration
+type of
+system similar to the jakarta loom that
+has um
+card system to be able to determine how
+the different um
+yarn feeds through kind of a precursor
+to
+the ibm card system that they had
+and um but then eventually i'm the
+realization that that this um computer
+on concept is a whole technology by
+itself and therefore at some point
+um the computer system
+had its own classification value so just
+to realize that
+classification values and
+systems um evolve because our technology
+evolves
+okay so we talked about you know the cpc
+is what we use now since 2015. um and in
+looking at those values you'll see that
+the very first value
+of a cpc is going to be a letter a
+stands for human necessities b
+is performing operations c is chemistry
+um and d is textiles etc
+okay so it's going to be you're going to
+see letters and numbers
+the very first one high level is going
+to be
+where does your concept fall into so
+that's what you want to think about but
+we'll be looking at values a bit little
+later
+but you want to think about where does
+your invention fall
+all right so we'll talk more about the
+cpc values but what i want to do now
+is um talk about the six step process
+that we suggest you may want to apply
+um as you are conducting your searching
+right because what you want to be able
+to do
+is be able to have a systematic
+way to do your searching on making sure
+that i've recovered all the information
+searched all the different areas that
+you need to search in to find out is
+your
+invention and idea new useful
+and non-obvious
+okay so in our example we're going to be
+talking about inventing an umbrella
+an umbrella that has a rib design that
+won't collapse or turn
+inside out when the wind blows um
+kind of thing and when my um
+my niece graduated from high school she
+was
+valedictorian of her high school i was
+very proud of her of course the whole
+family
+was but it rained on the day of her
+graduation and so i was helping her
+you know and i had the umbrella so that
+she wouldn't get wet you know
+and as i'm you know holding the umbrella
+and i'm so excited and
+whatever that i push the umbrella of
+course upside down and now it's
+gathering the water and not protecting
+her
+so she would have really appreciated
+having an umbrella that wouldn't have
+turned inside out
+so we're going to be talking about that
+if we are inventing umbrella
+does not turn inside out how what do we
+need to do
+in conducting that search okay so number
+one
+um we want to talk about think about
+what is the purpose of your invention
+you know and there are several kinds is
+it utilitarian meaning does it do
+something
+or is it ornamental meaning it's only a
+design
+um so um utilitarian is something having
+to do with it has to
+do something um let's say that
+you've got um a top on or a top or a
+shirt or whatever
+and it has stitching and the stitching
+is very ornamental
+well if the stitching is just ornamental
+that's going to be a design
+um concept but if you're stitching um
+glows in the dark um you know that would
+be utilitarian because it has a use
+so um design patent examples is on
+the characters from star wars um some of
+those have been packed and in those
+examples of design so design is how it
+looks
+but it has no function utilitarian is
+has a function
+and there's also plants on plant um
+there's a third kind
+of invention are you inventing a new
+rose on
+um a um a new uh
+flower of some sort okay so i'm assuming
+the majority of you
+are uh be um applying for utilitarian
+um patent but it could be ornamental
+all right um what is what is the
+invention supposed to do
+is is it something is it how it's made
+or what is
+is the product itself so what are you
+inventing and you can only have one
+idea per patent application okay
+so if you have um perhaps one is making
+it
+and how it's made versus what it is that
+may need to be to
+patent um applications uh what is it
+made of
+you know um i'm assuming that um
+if i made my umbrella out of concrete it
+definitely wouldn't turn inside out
+but i might not be able to lift it so
+i'm gonna think about you know so is it
+the structure of my invention you know
+how will this invention be used
+we talked about new useful and
+non-obvious
+so therefore i have to come up with what
+are the key words and the terms
+that i need to do to describe my
+invention and you may want to you know
+consult a technical
+um dictionary or thesaurus to find out
+terms and as you're on searching your
+art area
+um take notes and make a list of what
+are the terms
+that people are using on when you're
+looking and doing your
+literature searching and as well as
+you're talking to people and they say oh
+so you're talking about you know um
+about the button hook
+oh okay kinds of things so think about
+what
+um what people respond to you if you're
+talking about your idea
+all right so here's an example of we
+talked about purpose
+so we're writing the purpose as umbrella
+is to be a new rib design to eliminate
+the collapsing or turning inside out
+um what our invention is going to be an
+improvement so you don't have to buy
+lots of umbrellas
+um so you know we keep on breaking them
+um our components are going to be
+about the on the rib and the stretchers
+on to
+the framing that we're going to menu and
+perhaps even the fabric we're going to
+be using
+and um how we're going to be using it is
+to protect you from getting wet
+um or perhaps even from the sun um and
+so what are the terms so we can
+talking about we know umbrella well what
+do people talk about you know parasol
+sunshade um you know a bumper shoot if
+you
+uh you know um are familiar with how
+they refer to it
+um say in um in england and
+then we need to talk about so that's the
+one and then we're talking about that it
+needs to be windproof
+you know so windproof wind resistant you
+know what are some other terms that we
+can think about
+all right so what we're going to be
+doing now step two is
+uh we want to be once we've got our
+terms the synonyms we want to order them
+so we're going to have you know umbrella
+or
+um sunshade or bumbershoot or whatever
+um and then our oars on synonyms for our
+wind resistance so it's going to be
+windproof
+or wind resistant um and then we want to
+take
+those two concepts here's an example it
+could be more than two concepts
+but we have two concepts and we're going
+to add those concepts together and we'll
+show an example
+um in a minute and we also may want to
+do wild card because we don't want to
+just umbrella because we might be
+umbrella umbrellas plural
+um for wind it might be you know not
+just
+windproof but wind proofing or when
+resistant
+um we might be resisting or resisted
+so we may want to include wild cards and
+what is the wild card
+in the system you're looking at example
+here's asterisk
+but others just certain each system may
+have their different kinds of wild cards
+and wild cards don't have to be at the
+end of the word but generally they are
+um if you want to do a phrase you might
+want to put that in quote marks
+or if the system you're using has a
+operator called
+adj you may want to be using that as
+well
+all right and also you may want to be
+looking at
+other inventors who are your competitors
+all right or even competitors in the
+name of on companies
+is there companies that is your
+competitor
+all right so here's an example we're
+oring together
+our on our um synonyms so we've got
+umbrella
+or paracel or sunshade they don't have
+bumper shoot in this example
+and we have asterisks at the end of the
+term so that we can have perhaps
+singular or plural or
+ings or whatever it may be um
+and then we probably should have also
+put asterisks be after
+wind proof or wind resistant here we've
+got wind resistant
+um in on a quote because we want to look
+at that as a phrase
+but you know when resistant maybe is one
+word you know so maybe we should have
+had also
+or when resistant is one word and not
+two words
+you know so we could have had asterisks
+you know at the end
+to come up with the variations of you
+know resistant because it may be
+resisting
+you know so maybe just to resist
+asterisk so we can have resisting
+resisted um in addition okay
+all right so step number three is um now
+that we've created our query
+we're going to be running that search
+and what you want to be doing is
+you're running your search you want to
+be um looking at your results
+you're going to be looking at not only
+the terminology but if your invention is
+visual
+like i can be looking at an umbrella and
+i can sort of see well this is an
+umbrella
+but this is um a a bag
+so you know i don't need to look at the
+diagrams that come back that look at
+bags because that's not
+you know similar to what i'm trying to
+do so maybe you know focusing on the
+drawings and looking at those
+i'm in on again looking you know so
+you're going to want to
+be looking not only at the words you
+know also recording what words you're
+finding that
+might be words you've not used in your
+query yet or how people are referring
+to your art area i'm you know
+you may and also record what documents
+have you found
+patents patent applications um that have
+you found
+are you not finding anything and if
+you're not finding anything you may not
+be um in the right area you may not be
+using your terminology correctly or
+maybe
+your idea is so unique and novel that
+there's nothing out there
+but i would think that if you're doing
+searching and not finding anything
+similar to what you're trying to do i
+would probably rethink
+what terms you're using and how you're
+composing those terms
+um because i would say the majority of
+the time is probably something out there
+similar
+um and and therefore you know you're not
+looking in the right area
+i think about it is like going fishing
+that you know when you go fishing you
+pick up your poles and
+you know in your tackle box and you head
+off to the
+to the to the um river or creek or
+pond or lake and you start fishing and
+if you're
+you know casting and you're not getting
+any bites on fish
+well do you go home and say oh no fish
+today um or do you think oh
+i need to go in a different part of the
+river or a paddle out to a different
+part of the lake
+you know and then start fishing kind of
+thing so again
+if you're not getting any hits if you're
+not getting any bites
+you may want to look at what your query
+is
+all right so here's an example and i
+will make this bigger but i'm going to
+be looking here's in front of a patent
+i mean this is known as an image after
+2015
+and the reason why i'm mentioning 2015
+is that's when the u.s
+patent office um started using the cpc
+values
+prior to that they used um us
+classification values
+so let me make this just a little bit
+bigger so i know it may be hard to see
+though you might have a copy of this
+already
+and so here i'm looking at so here i'm
+looking at
+my cpc values and here's an example of
+a cpc value so we've got a45b
+space 19 forward slash zero
+zero val those two combinations
+is one cpc value all right
+let me make that one again make it a
+little bit bigger so you can see it
+and so there's one cpc value there's a
+second cpu
+value and there's three so there's three
+cpc values
+what i want to mention is that when you
+do a cpc search
+there should be no spaces so it should
+be a 45
+b 19 forward slash 0 0 in this example
+all right it doesn't have to be upper or
+lower case b's we don't care
+on but you just make sure that there are
+no values
+but notice we talked about age remember
+we talked about a's being um
+it was called human necessities so this
+is the format
+of it all right we've got an a we've got
+a class we've got a subclass
+group subgroup all right so when you're
+doing searching
+the spacing is there for readability but
+when you're doing a searching
+remove those spaces okay so you may so
+this is where you're gonna
+start learning about what cpc values
+should i be using cindy suggested
+that i do cpc searching and i don't know
+what values you are
+they are so when you're starting to find
+the patents and patent applications
+that are um in your area
+make a make a note of what ctc values
+are there
+all right so this is um a patent
+um that was issued after um 2015.
+all right so let me go to looking at
+one this is prior now this happens to be
+uh let me scroll over here a little bit
+this was 2014
+and let me zoom in
+all right and we're not seeing any cp
+values on the front of this patent
+this is an image of a patent all right
+and we're seeing a u.s value all right
+so this is the u.s classification
+example
+135 class 30 forward slash
+31 is the subclass so this is a cpc
+i mean a u.s classification value not a
+cpc value
+so you may not find them on the image
+of a um patent and i said but i
+mentioned that they have been
+retrofitted
+well they won't be on the image
+but what you want to do is you're going
+to want to get
+let me make this a little smaller here
+what you're going to want to do is
+we want to look at the text version of
+this
+so this is pictures of the words you're
+going to want to look at
+the text version of this and when you
+look at the text version of this
+which they will show right now the text
+version this is the same document that
+we were looking at
+when they retrofitted they didn't
+republish the image
+oh sorry let me go back it went to the
+next
+um this is the cpc value so this is the
+uspc
+value of c the u.s classification value
+we saw 135
+forward slash 31 but on the text you
+will see the cpc value that we saw
+before
+a and again there's spaces between the
+45s and the b's
+you would take them all out and this is
+the
+cpc values on here's example of two of
+them
+all right so cpc values if you don't see
+them
+on the front of a patent you're looking
+on at a perhaps at a patent image
+that um was um granted on before
+2015. okay
+so let's say that you want to just to
+investigate
+different cpc values how can i do that
+and you can do that
+you can do that by going to this is the
+example of the patent office
+on uspto.gov public website
+all right um and on in doing so i
+mentioned
+that on you can we have a um the patent
+has a public
+um search um engine that you can use
+and under quick links um we've got
+pat pa tape full text or we have
+application full text
+you can click on either of those this
+would look at patents only
+this would look at patent applications
+only um
+and but they're only going to um but for
+text searching
+they're only going to go back to 1976
+but if you do classification searching
+you can go back further so as i
+mentioned here's an example of a cpc
+value
+notice there are no spaces we're going
+to say we want to look at the curtain
+classification
+and do a search so here's an example of
+how the value would look when you're
+typing it in
+and we can focus on just looking at cpc
+values
+all right so let me
+um make this
+a little smaller for you to see all
+right
+so um yeah so we've talked about
+classification searching
+now i want to introduce the concept of
+cited references step number five your
+cited references
+when a patent um is issued if you won't
+find these on patent applications
+you will only find cited references on
+patents
+and when a patent is issued the office
+will not only obviously publish the
+patent itself the abstract that claims
+the specifications
+you know the inventor and all that um it
+also will
+identify what we call references cited
+so these references cited i'm going to
+make this now
+bigger i can oops let me go back
+oh hold on here go out i want to go that
+far out
+all right so let me go
+there we go and i want to make this a
+little bigger so you can see it
+so you will find in his field 56 if you
+want to be concerned about that um and
+it's going to be a list of
+all patents patent applications
+um as well as any kind of non-patent
+literature
+um or foreign patents that were cited
+i'm by the applicant you um because when
+you apply
+um for your patent application not only
+you're going to be writing your abstract
+and your claims and your specification
+but you're going to also be including
+what area what art did you find what
+documentation
+did you find on in doing your search
+and then you're going to be saying okay
+this is what i found
+i'm in you know and then of course this
+is why my
+invention is new useful um
+non-obvious different from what i found
+so
+this can be documentation that you have
+submitted this can be also
+documentation that the examiner found
+on when they did their search and if you
+see asterisks
+after a value that indicates that those
+were the documentation found by the
+examiner
+and the others that don't have asterisks
+were documentation that you found
+so i've got patents here us patents here
+the last three here i'll make a little
+bit bigger
+are patent applications i can tell just
+based on the number
+so a patent application is going to have
+a
+a four digit year and a seven digit
+number after it so i can tell that these
+last three
+were patent applications so you can cite
+patent applications
+but you won't find cited references on a
+patent application
+okay so you may want to do what we call
+citation searching
+you know let me look at on you know
+what was out there kinds of things if
+you're looking at
+when you're doing your searching um so
+you know once you get into your
+that fishing air hole and you're getting
+bikes you may want to look at you know
+what else was
+out there perhaps you may want to look
+at those documents
+as well patent examiners will look at
+those documents as well
+and that's called citation searching
+google does it um
+though google citation searching is a
+little different than
+our citation searching within the patent
+office software
+is being specific we will look exactly
+at these values
+and come up with those where the google
+i
+may take a little more liberty and look
+at
+what the google feels as um or similar
+to
+in addition to these values so you may
+find it a little bit more wide range
+um on that
+all right so um perhaps during your
+citation searching
+all right and then step number six is
+um you may that once you've done your
+searching within the us
+patent and patent applications um or you
+may have gone out just to do not even
+google patents
+but just done a google search just to
+find out what literature is
+out there i am you may also want to
+focus perhaps on searching foreign
+patents
+and patent applications i'm um espacenet
+um is the european patent office you may
+want to look there perhaps
+you know are you looking also to expand
+your patent application
+beyond the u.s borders um at some point
+but when you're filing in the u.s it's
+only for u.s
+protection it does not apply to applying
+your
+patent application to foreign
+countries and again you might want to be
+doing that non-patent literature search
+you know just regular google search you
+know
+um against websites and journals and
+conferences
+kinds of things um you also may want to
+search not only by your you know your on
+the keywords and the classification i
+talked about in the citation searching
+but you may want to search against as
+they mentioned your competitor
+you know what inventors are you finding
+that your competitors
+or companies you maybe want to do we
+call a signee or assignee
+um search as well who are your
+competitors on
+kinds of things to see what they're
+doing as well
+and whether you want to do your own
+searching that's fine
+or at some point do you want to
+determine that you might want to hire a
+patent attorney
+i'm kind of saying that's a decision
+that you need to make
+um i don't know what their uh the fees
+are for that but you can always um you
+know inquire
+about that all right so
+if you want to be able to go look up the
+schema
+the cpc schema this is going to the
+uspto.gov public website
+um and you can do a search there i
+mentioned that you can be using that
+ft um and application um
+ft database for searching but you can
+also be searching
+in for the schema and so we want to see
+where's umbrella classified okay
+so i'll show you how to do that so we're
+on uspto.gov
+up in the search window we can do cpc
+schema
+or scheme umbrella type up there or
+type down here in this in this in the
+public page and then you're going to get
+back
+a a list and in that list
+here we've got never thought of umbrella
+being a walking stick we've got walking
+sticks umbrellas
+and we click on that link here's our
+a45b that we're familiar with that's the
+high level that we talked about and here
+we've got that a45 and it's going to be
+the very top of our list and then we may
+want to scroll down
+further to get that a45b
+um 19 forward slash whatever
+kinds of things and so you may want to
+you know scroll down to see a little bit
+more
+about that so again they're shown with
+spaces when you do your search
+on it and you know eliminate the spaces
+also when you're doing a searching um
+you can do a classification search with
+text searching
+that is possible but um if you want to
+get
+very old or have access to older
+on patents and patent applications
+you're going to want to do
+classification searching by itself
+because as soon as you introduce text
+searching
+then you no longer can go only as far
+back as text searching will take you
+so when you introduce text searching
+again it will only take you back to
+1880s and google patents
+um 1976 on the
+full-text um search engine within the
+public
+patent office website um or on
+send t71 if you came into the patent
+office or a public library that accesses
+our
+on public east and public west so think
+about doing classification searching by
+itself
+see the older documents you get um and
+then
+you know and once you start introducing
+um your text searching
+that will then limit how far back you
+can go okay
+all right and here we scroll down and
+here is our a45b here's an example of 25
+22 and here's about devices for
+increasing the resistance of an umbrella
+so that looks like a classification that
+i um
+value i would like to use when i'm doing
+a classification search
+all right and let me go back one um if
+you see a d
+after a valley or in front here we've
+got a d
+in front of this there means that
+there's more information there's a
+definition
+though above it here does not have a d
+so there's nothing further you can
+drill but here i can drill if i've got a
+d in front of my classification value
+um so if i click on the d um
+it will take me in and i'll make this a
+little smaller for you
+oops i'm sorry something i'm clicking on
+is taking me out of where i want to be
+let me go back to where i was
+okay all right so i wanted to get
+a little bit smaller so here it's
+showing that d
+here here's an example give me a picture
+it may not give me a picture
+but it's just showing me a little bit
+more about what
+the definition of a 45 b 25 forward
+slash 22 is about
+okay not all of them have that i have no
+idea i'm clicking something they're
+taking me out of there
+all right so i talked about if you want
+to do searching and foreign
+so um so we'll talk about that here with
+the
+um european patent office
+the wipo here is searching
+international patent office that you can
+access for
+patent applications that we call cpcs
+um we talked about searching cpc values
+themselves
+talked about google patents um there is
+you can do that as well
+we talked about on searching on
+the uspto public website that we have
+for using those facilities to do the
+searching if you would like to access
+and use the systems that the patent
+examiners actually use
+again they're at the uspto offices when
+they become open to you
+or at ptrcs i'll show you what those are
+um patent um um
+locations those are the libraries if i
+click on that i'll show you that in a
+minute
+um if you are located in the virginia
+area
+you can go to um the patent office that
+is in um
+alexandria across from king street on
+uh metro stop um
+and um you're gonna go on what's called
+there's a huge complex in
+in virginia you would go into what's
+called the
+um east building and then there's a um
+public um
+search room that you can go and search
+using this the
+east and west systems that are there and
+when the office is open
+they're open from eight to five monday
+through friday
+okay you can also call ahead
+um to see if they're opened um here is
+the
+patent and trademark resource centers
+i'm
+and um and here in virginia
+um there's um some libraries and where
+they're located
+um if you click on this link
+it will tell you um where that library
+is
+you have access to that library okay
+um and then um further on there will be
+follow-up um presentations um about how
+to submit your patent
+um once you determine your application
+once you determine that you
+it's new and novel or non-obvious
+all right for assistance um there's an
+assistance center
+that you can call you know um
+to do that so here's those numbers um
+there is a business center so if you
+have
+they encourage you to submit your patent
+application electronically
+um um and so you can do that and you
+have questions on that as well
+but you can submit it on via mail as
+well
+all right any questions
+well thank you so much cynthia uh that
+was great information
+great presentation uh it doesn't look
+like we have any questions
+uh but that's okay um we can
+you know i throw it out there if you
+guys think of something afterwards i
+know this is a lot of information
+we're gonna send out the slides we'll
+send out the recording so if anyone
+thinks of questions
+you can send that to help
+virginiaspdc.org
+or of course use the resources listed in
+this
+uh presentation with the links
+associated
+but thank you so much uh you all will
+also receive an email with the
+evaluation
+and if you would like you can sign up
+for more upcoming webinars we have one
+last
+webinar in this series next thursday
+same time 12 o'clock
+um you can visit virginiaspdc.org
+training we also have the covid business
+recovery center on our site which we
+develop to help owners not only continue
+business operations but to thrive
+and recover these resources are designed
+to be used in collaboration with your
+local svdc advisors
+and you could sign up for a free and
+confidential session by emailing help
+virginiasvdc.org or via our website
+um so that's it for today if you don't
+have anything else cynthia will say
+goodbye and hopefully we'll see everyone
+next time
+all righty i thank you very much and um
+good luck in
+searching and finding um and submitting
+your patent um
+application and um and congratulations
+on being inventor um and having those
+ideas to
+create an invent thank you
+all right thank you everyone we'll see
+you next time
+1.9s · 54m 7s YouTube · 8.8k words · text via transcript/captionTracks

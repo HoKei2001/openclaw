@@ -1,0 +1,417 @@
+do you have a new inventive concept and
+would like to perform your own patent
+search hi I'm April Mosby Patton
+attorney and in this video we're going
+to review the seven step prior art
+search strategy as recommended by the
+USPTO with a few tweaks of mine so let's
+get started
+[Music]
+hey people hello
+April Mosby here patent attorney and in
+this video we're going to cover how to
+perform your own patent search now first
+I wanted to to discuss the distinctions
+between a federal patent search and a
+comprehensive patent search a federal
+patent search merely includes those
+patents published patent applications
+that are close or relevant to your
+Innovative concept
+for the comprehensive search however it
+will include not only the publish patent
+applications and published patents that
+are found in the uspto's federal
+database but they will also include the
+foreign patents that are published as
+well as non-patent
+documentation such as
+catalogs books websites
+magazines and so we're going to go into
+that a little bit further alright so we
+have a seven step process and strategy
+that is recommended by the USPTO and
+we're going to follow that first you
+want to brainstorm your Innovative
+concept we want to find out all the
+different types of patents that aren't
+are related closely related distantly
+related and so let's use any type of
+brainstorming application and so for our
+particular example we're going to have a
+a bicycle a monitor that is placed on
+the wheel of a bicycle
+that when you pass through the garage
+door of your home that has a detector or
+sensor it will detect when the bicycle
+entered into the garage and it will
+automatically shut the garage door down
+okay so that's our Innovative concept
+for example
+okay so for this particular example
+we have a bicycle tire that has uh the
+wheels that have the sensors and the
+detectors so I'm going to brainstorm
+this particular idea
+for an Innovative concept so in the
+beginning what you would want to ask
+yourself is what's the purpose of the
+invention
+does it have is it a utilitarian device
+or does it have an ornamental design and
+for our example we have a
+utilitarian function
+um the and so in the brainstorming and
+you know how to do the brainstorming
+you've got the bicycle tire it has
+um and then I broke it down and the
+tires has spokes it has detector
+um and it could use several different
+types of communication protocols
+and so I've listed up I
+broke down the garage door and the
+remote control feature
+possibly the sensor opening and closing
+it was a device and then different
+manufacturers because they probably have
+some uh patents in this area so that we
+could kind of look through
+uh if it were a process you would look
+to
+um hash out all the different steps of
+the process
+and you would look to well what is the
+invention made of what is the physical
+composition and so I could have added
+metal rubber the different types of
+things
+um
+that could be at could be added to the
+brainstorm as well
+and then also think about keywords and
+Technical terms that describe the nature
+of the invention
+and so you can look to uh technical
+dictionary or thesaurus to help you find
+those keywords and
+write down as many terms as you possibly
+can think of
+and then proceed to the next step
+so for step two you're going to access
+and review The Cooperative patent
+classification schema and so what that
+is is a database if you will of indexes
+that index all the different types of
+arts and their
+um
+subsections and subsections of those
+subsections and so you'll see when we go
+and dig in further and so okay so you
+first go to the
+uspto.gov their website and you're going
+to search
+uh for the seven step patent search
+process
+okay seven step strategy go there and
+it's going to give you a review of what
+I've given to you in this particular
+video
+but for the Second Step you're going to
+go to
+this instead of the CPC uh putting
+entering a search at the top and the
+search field on the USPTO website you're
+going to go select this link
+and I'm going to put in here at first I
+was I put bicycle but it needs to be a
+lot more refined if you think about the
+invention the Innovative concept really
+focused around the a sensor the garage
+door Center so I'm going to put door
+sensor
+and see what we get here
+and then I've already gone through it I
+this is the best one because we're
+focusing on that sensor it's a signaling
+so you're gonna have to like go through
+each one of these to see which one is
+closest to your Innovative concept it's
+not always going to be on point so it's
+really something like you have to dig
+for it
+and then
+um the garage door sensor basically is a
+motion uh detection uh sensor so what I
+did was find on this page
+motion detection
+and here we have motion detection and so
+here is the the code and so what you
+would want to do in here it's like
+burglary theft going through the alarms
+we're not talking about burglary but for
+motion detection when like a burglar
+trips over you know
+um breaks uh
+um disturbs a
+an optical line so that with the braking
+a disturbance uh being Optical so that's
+one
+um and then for motion detection is
+another
+once you find that classification code
+that is
+mostly relevant to your uh Innovative
+concept you're going to proceed to step
+three in step three you're going to look
+at the definition of that particular CPC
+to further break down what what you
+could find to find specific keywords for
+your search
+so this is uh
+gb0 G 0 8 B 13 124 you go to the
+definition
+thirteen one twenty four you go there
+and
+you just reviewed that looking for more
+keywords that you can use in your search
+so we're really just doing a deep dive
+we're we're looking and we're trying to
+narrow and narrow further narrow our
+search
+for infrared sensors
+uh detections using light barriers
+single beams multi-beams so
+you get really much more specific based
+on how you're actually going to detect
+when the bicycle
+enters into the garage or is near the
+garage and the garage door opens and
+then what other sense are you going to
+use to detect when it crosses over so
+this gives you a lot of good ideas as to
+how you can approach it and okay in step
+four or you're going to access and
+retrieve the patents that are related to
+that particular CPC code
+so uh you could
+you copy
+and then you're going to paste it into
+we're going to go here to a public
+patent search
+so I had already performed the search it
+is you have to put the the terms with
+the period CPC
+and that will search based on that
+filter based on that classification code
+and so I pulled up a number of patents
+you hit this button to switch from text
+mode to
+um actual image mode and then you can
+see the different patterns you can
+scroll through each page and this one is
+a patient tracking board tool and
+interface and it goes into sensing the
+motion of the patient
+so um there you can find a number you
+gotta basically uh go through that these
+references and read
+see which ones are close here we have
+500.
+patents so you could add
+and uh maybe garage door
+garage
+see if that works
+so you you really have to keep digging
+and digging and searching
+until we come up with
+these how many do we have
+positive 23
+so here we go so you just select on each
+one of these you can download a patent
+you can print it out
+uh
+hit the print feature
+it will
+enable you to save it as a PDF or to
+print it to your printer
+this first page is a blank page okay so
+you could change
+where it starts pages
+custom
+two through
+32 because the first page is blank
+that is a default so here you have a
+patent you've got the abstract
+you got the
+um the first most relevant drawing
+figure
+and then you you look through what's
+going on with each each one of the
+figures and see if it's close to your
+Innovative concept
+you can read and I would like if
+I think what's best is to see which ones
+graphically are closest to your
+Innovative concept and then you can dig
+into the claims section which is
+found in the last
+section of your patent so here are the
+claims what is claimed is
+computer and implemented system with
+electronic medical records the system
+comprising and so you see well for our
+example it does not but there might be
+features of their motion detection so I
+would download it and
+perform a search to see what's what's
+going on with the motion detection
+sensors
+and how that is implemented
+I might
+focus on patents that are closer to a
+garage door sensor
+and that's it but it takes a little
+while you have to really be diligent and
+compile all these references and then
+you can really see okay this is how
+they're claiming their claims this is
+how they're writing their their
+background this is how they're writing
+the specification the detailed
+description of the figures this is how
+they've drawn up the figure so it gives
+you gets you closer to drafting your
+case in a better way that represents
+your Innovative Concept in step five
+you're gonna conduct a more thorough
+in-depth search of the patents that are
+closest to your Innovative concept
+you're going to look at the front page
+the USPTO recommends that you only look
+at the front page in the abstract I say
+you look at the claims the claims is
+where
+um you will find if they have all of the
+different components that are in your
+particular Innovative concept that make
+up your Innovative concept and you can
+see how close they are to your concept
+or how far away they are
+and on the front page you can also look
+for other CPC classification codes to
+further dig into your search
+and in Step six you're going to perform
+the same type of surge uh based upon the
+CPC classification code in the patent
+application database
+finally in Step seven you're going to
+dig into a lot number of different ways
+to broaden your search
+first you're going to perform a keyword
+search just go to the USPTO database and
+enter in the particular keywords that
+you found from your
+search of the CPC
+schema in steps
+two one two and three then you're gonna
+broaden your search using the US Patent
+classification code which is different
+from the CPC code and so those codes you
+found in some of the related patents and
+patent applications
+you can use that to further your search
+and find other references
+and the next step you can search a
+number of the foreign published patent
+applications or published patents uh
+using the
+espacenet.com website in it you will
+find a number of different Federal
+patent applications Federal patents that
+are published uh there for your search
+and
+um
+they we all have the same
+code system so you can use that as well
+the next step is to look at the
+non-patent published documents you can
+uh perform a Google search uh for
+Journal articles magazines books
+um technical articles technical journals
+Etc also you can go to your
+uh Public Library they have a lot of
+online digital resources as well as
+paper resources to find help you to find
+anything related in books magazines news
+articles journals catalogs
+Etc and finally you if you want to get a
+a lot more thorough of an examination or
+search you can hire a patent attorney
+that would be this gal or you can hire
+any patent attorney
+uh I work for Monarch intellectual
+property group
+you can contact me
+sometimes a lot of patent attorneys
+don't perform a patent search they
+prefer to allow the examiner to perform
+the patent search because they do a very
+extensive job a comprehensive search of
+both published patent applications
+publish patents foreign and domestic and
+non
+published patent documentations or
+Publications books journals technical
+journals magazines
+that will be done when you file your
+case and so if you do it before it's
+almost like a duplicate effort redundant
+um some people do perform a pad search
+just to make sure that there is no
+patent infringement that they're not
+wasting their time that maybe they could
+put some more innovation in their patent
+application to definitely almost
+guarantee that they will have a really
+solid patent and that that patent will
+more than likely issue and they will
+have a higher probability of issuance
+and so that would be the purpose also
+they could find other ways to design
+around their patterns so
+um they could put that and make sure
+that that's included in the
+specifications so they will make it
+really hard for other people to infringe
+your own Innovative concept
+and so that is all that's uh those are
+the steps the seven steps that it's
+recommended by the uh USPTO as well as
+myself
+um with additional information that I've
+included that I use uh and uh
+I am happy to be here happy to help you
+if you would like to reach out to me
+just tag me down below put a a comment
+in the uh comment section or uh
+DM me direct message me I'm on social
+and I'm on YouTube
+I am here for you I believe in your
+dreams and I believe in protecting your
+domain and so let's together let's work
+together
+bye
+if you like this video teaching Please
+Subscribe below and give us a like thank
+you also please note the material
+presented here in is for informational
+educational and promotional purposes
+only the federal law of the United
+States is constantly changing there is
+no guarantee that all of the relevant
+changes have been noted here in as such
+this video should not be intended or
+taken as legal advice neither does it
+establish an attorney-client
+relationship thank you
+1.9s · 21m 22s YouTube · 2.5k words · text via transcript/captionTracks

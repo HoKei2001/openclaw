@@ -1,0 +1,223 @@
+so you've invented something new and
+you're thinking about building a product
+or getting a patent on your new
+invention well how do you know it's
+really new how do you know that someone
+hasn't invented it before you
+well maybe what you need is a patent
+search now it's possible to hire a
+patent attorney like me of course to do
+the search for you but it's also
+relatively easy to do a quick and dirty
+search yourself and so in this video I
+want to teach you how to do a quick and
+simple patent search really in three
+simple steps maybe taking less than
+three minutes hi my name is John Farrell
+I'm a Silicon Valley patent attorney
+welcome back to my channel now the first
+step in determining whether your
+invention is new or not is really pretty
+obvious just go to your favorite search
+engine and type in some keywords related
+to your invention and let's say that
+your invention is an automatic
+transmission for bicycles then go to
+Bing or go to Chrome and type in the
+words automatic transmission for
+bicycles and just see what turns up now
+if your keywords are like most you can
+be sure that the search engine will find
+something it may find search results not
+containing all of the words for example
+it may contain automatic transmissions
+for bicycles but scratch out the word
+automatic or scratch out the word
+transmission and of course this isn't
+really helpful in determining whether
+someone else has an automatic
+transmission for bicycles so be careful
+about the search results that come up
+and along the same lines don't get too
+freaked out if it looks like somebody
+else has made your invention before you
+it's important to carefully look at the
+search results that come up because
+oftentimes the search results contain
+aspirational or hypothetical inventions
+that somebody would like to see but
+actually where no invention currently
+exists so just be careful when analyzing
+the search results from an internet
+search now related to this internet
+search I also like this search pictures
+where I'll type in the word picture
+colon and then the words automatic
+transmission for bicycle or whatever the
+invention is I just think that pictures
+are a good way to search an invention it
+really gives me some idea of what others
+are doing and what others are thinking
+about products that currently exist in
+the marketplace so when you're doing the
+internet search using your web browser
+also search for pictures because I think
+this will be super helpful now a second
+type of search that you can do and one
+that I think is very helpful and one
+that I do as a professional often is to
+go to my web browser go to your web
+browser and type in the words Google
+patents now this will take you to a
+database of all of the existing issued
+patents as well as patent applications
+contained in the Google database and
+also there are quite a few foreign
+patents there as well now once you get
+to the Google Patent database case in
+the search bar type in the keywords of
+your invention again something like
+automatic transmission for bicycles or
+really whatever phrases might describe
+your invention it's a natural language
+search bar so you can enter whatever
+words are appropriate and it will try to
+parse your words in a way that will most
+closely search your invention now
+obviously the advantage of using the
+Google patents database is that you get
+patents back and you'll be able to
+search a stack of patents that are most
+closely related to your invention and
+these can be super helpful and as I said
+as a patent attorney I really like that
+it allows natural language searching and
+it just makes it really easy for me to
+find lots of variations on a single
+invention now again with the pads and
+maybe even more so with the patents you
+have to be very careful when
+interpreting the prior art that it turns
+up patterns are very difficult to read
+and sometimes it's hard to know whether
+prior patent is describing your
+invention or a related invention that's
+just performed differently or in a
+different way so be very careful when
+trying to interpret other patents and
+don't get too discouraged if you find
+patents that look like they might be
+closed if you're concerned about it if
+you're worried about whether someone's
+patent is really the same as your
+invention talk to a patent professional
+and have them help you work through the
+priority this can often be done in a
+30-minute consultation and can really
+ease your mind with respect to your
+search results now the third step for
+the protocol or process I might suggest
+to you for a quick and dirty patent
+search is to utilize the new tool chat
+GPT now this is an incredibly powerful
+tool and I've really enjoyed playing
+with it although as you might have
+discerned from some of my prior videos I
+still have a lot of concerns about the
+privacy issues related to chat GPT so
+when you use chat gbt two things to keep
+in mind number one be very careful about
+the Search terms that you use in your
+invention you don't want to teach chat
+GPT what your invention is and then the
+second issue related to chat GPT is this
+issue of hallucination one problem with
+chat GPT is it's trained to talk if it
+can't find text that relates accurately
+to your invention it will just make
+stuff up it will hallucinate inventions
+just to have something to say it may be
+pure fiction but it will always try to
+provide you with a response so typing in
+for example automatic transmissions for
+bicycles it's going to produce some
+results it will tell you about different
+manufacturers producing different
+products with product names just make
+sure that those products are real for
+example if it gives a product name made
+by mono of Japan make sure you go to the
+Shimano website and verify that that
+product really exists that said I've
+really been impressed by the results
+that Chad GPT produces and you have to
+understand that chat GPT is trained with
+just about all of the text that was ever
+written and so if the word automatic
+transmissions for bicycles for example
+shows up in its database it's going to
+be able to produce results containing
+those words so I find it useful it's
+interesting it's not always accurate oh
+and one more thing about chat GPT aside
+from the fact that there may be privacy
+issues is that chat GPT at least as of
+this date with Chachi bt4 the training
+database is time limited as of some date
+in 2021 so it's not yet connected to the
+internet with current data although it
+will be soon reportedly so when you're
+doing searches related to inventions
+prior inventions on your invention on
+your new product just keep in mind that
+the data it's producing is probably good
+only until about 2021 and by the way
+this relates to patent applications as
+well
+patent applications are generally not
+made public until 18 months after their
+priority date so there's a big block of
+patent applications that we just don't
+have access to and that we can't search
+and then finally although this isn't the
+preferred method probably for most
+people looking for a quick and dirty
+search you can go to the USPTO website
+and use their Search tool to help you
+find patents and patent applications
+that have either been filed or issued
+now the problem with a USPTO website is
+that the search engine is not nearly as
+easy to use as that of Google so
+although it's very powerful and very
+granular with respect to what you can
+search within a patent application or an
+issued patent I just find that the
+Google search engine for most people
+will be easier to use okay that's about
+the quick and dirty patent search that
+you can do yourself
+now if the patent is important let's say
+you're in a startup and you're raising
+money you're looking for Venture
+financing or maybe you're about to start
+manufacturing you still may want to go
+to your patent attorney and have a
+professional patent search performed it
+will be a lot more thorough and your
+patent attorney will be able to help you
+walk through the patent search results
+and understand what the prior art really
+contains okay that's all I have with
+respect to searches now then the next
+question is even if your invention is
+new and someone hasn't invented before
+you or come up with the same idea before
+you is it really something you should
+patent should you get a patent on your
+invention I talk about this question and
+give you some ideas to think about in
+this next video I'll see you over there
+[Music]
+foreign
+2.1s · 9m 27s YouTube · 1.5k words · text via transcript/captionTracks

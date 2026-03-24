@@ -1,0 +1,14 @@
+{
+  "agents": {
+    "defaults": {
+      "workspace": ".openclaw",
+      "skipBootstrap": true,
+      "model": "openrouter/nvidia/nemotron-nano-9b-v2:free"
+    }
+  },
+  "env": {
+    "vars": {
+      "OPENROUTER_API_KEY": "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"
+    }
+  }
+}

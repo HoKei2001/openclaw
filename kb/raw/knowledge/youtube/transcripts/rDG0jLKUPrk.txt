@@ -1,0 +1,270 @@
+hello again and we are now down to the
+fourth part of this course let's talk
+about prior art search
+why prior art search in the previous
+slides I emphasized that filing for a
+patent application requires that your
+invention must be novel inventive and
+industrially applicable there is only
+one way to determine the novelty and
+inventiveness of an invention best known
+to patent practitioners and that is to
+conduct a prior art search
+prior art search considers all
+information patent or non-patent
+documents known to the public that may
+render the features of an invention
+lacking novelty and inventiveness or the
+other way around
+as you can see in this slide
+I included Lazada shopee eBay Alibaba
+are among the popular online sources of
+information regarding the existence of
+any product or technology
+in the same manner on-site Hardwares
+malls markets are Avenues of
+informations for prior Arts
+so if products that can be seen in any
+of these are related to your product
+what can be new in your product
+remember the guidelines in our previous
+lectures on assessing novelty and
+inventive step
+now if say your concept of invention is
+not yet seen in any of those Avenues
+maybe somebody has already conceived
+similar invention
+and has not yet reached the market
+but has already filed a patent
+application or maybe somebody has
+already acquired a patent for it
+it's now time to consult patent
+databases thus we perform the so-called
+button search a button search looks at
+at least the closest patent documents to
+which the present invention can be
+compared with and detect features in the
+present invention that may have existed
+in the previously granted inventions
+thus rendering the application not
+patentable or again the other way around
+if there is it may be disheartening but
+at least you know
+now these are some of the most used
+databases which are free
+the Google patents is pass net United
+States patent office and electoral
+property office of the Philippines
+patent scope of waipu and lens.org here
+are the URLs of the sites
+here are the screenshots of button
+search performed in Google patents
+here are the screenshots of button
+search performed in spasnet
+before I do demonstrations on how to go
+about doing patent search here are some
+notes I want you to consider before you
+do your own button search
+remember that if you follow this outline
+you will be on the advantage of really
+knowing how your applications for
+invention patent will perform when it
+finally falls on the disk of a patent
+Examiner
+so first figure out
+search words that defines your invention
+second compose a list of search string
+or search strings with Boolean operators
+which I'm going to introduce later on
+third experiment on IPC or International
+patent classification code
+in the strings
+and fourth collect relevant patent
+documents to compare your invention with
+keywords are K phrases as you would do
+when searching for information on Google
+think of a word or phrases that describe
+the information you want to elicit and
+expect the internet to bring relevant
+content choices it will be best to list
+down exhaustively words or phrases that
+once put into the search field will
+elicit patent documents that may be
+similar or at least relevant to your
+invention consider including in the list
+the purpose or use of your invention the
+parts of the invention and synonyms for
+the elements or parts involved it will
+help much if you can provide a clear
+description of your invention
+based on that description do your list
+and use it as guide to do the search for
+example if your invention is a mouse
+trap
+your description May read something like
+this
+a mouse trap having a cage constructed
+in a manner that cleaning is easy
+it is provided with a sensor remotely
+connected to a device that informs a
+user about the presence of a mouse
+inside the Trap it is very important
+that you should have a picture of the
+embodiment of your invention at least in
+your mind but having a clear sketch and
+descriptions such as this will come
+handy the purpose is for you to have
+something to compare with in case you
+bump into a relevant invention or patent
+document
+once you have a clear description and
+maybe a sketch of your invention your
+keyword and key phrase list may include
+the following
+the next step is to compose
+strings using these keywords and key
+phrases
+a search string is the combination of
+words phrases IPC and oftentimes using
+search operators such as Boolean
+operators
+refrain from randomly typing words in
+the search Fields use the benefit of
+creating sound search strings to Target
+or filter the closest prior Arts
+relevant to your invention and from the
+list that you created learn how to make
+strings
+that Target the patent document which
+will help you figure out the novelty and
+inventiveness of your invention by
+comparing
+Boolean operators include
+inserting the words and or
+and not in between keywords or key
+phrases
+Now using the Boolean operator and
+placed in between two words will tell
+the system to look for documents
+where both of those said terms can be
+found in specified section of a patent
+document
+for example Mouse and trap would mean
+that the system will look for the word
+Mouse and
+at the same time trap in a single
+document
+the same with Vermin and drop animal and
+drop rodent and catcher
+the Boolean operator or plays in between
+two words or two phrases will tell the
+system to look for documents containing
+either of those words such as to look
+for either mouse or Vermin in a single
+document animal or Mouse and trap or
+catcher and such
+or a single document
+for the Boolean operator not placed in
+between words will tell the system to
+include documents containing words or
+that word before the Boolean not but
+exclude documents containing the word
+after the Boolean not for example
+include all documents containing fruit
+but exclude documents that has pineapple
+and the second example to include
+documents talking about Metal
+but exclude those documents containing
+aluminum
+now based on the description you created
+and from which you came up with keywords
+and key phrase list your string can
+include such as this
+Mouse and drop and cage and easy
+maintenance this can only be one of the
+many strings you can create and I would
+suggest that you create as many use this
+string to input in the search field of
+the database such as this and the
+is passionate
+when you hit enter after inserting the
+keywords in the search field
+here is the example
+the spacnet returns 17
+documents
+that you can examine
+you can click on each of these documents
+to read the content
+if the number of documents may be too
+big to read try further experimenting on
+your search stream
+in Google patents I prefer to go to the
+advanced search
+and type my keywords
+instead of directly typing in the search
+field I type my keywords on the field
+found at the upper right hand side
+of the screen
+each of these fields
+is separated is understood to be
+separated by the Boolean
+uh operator and such as mouse or animal
+and drop and sensor
+and in this case I've already included
+the IPC now let's talk about
+experimenting on IPC code in your string
+there's uh maybe a long talk about the
+IPC but here I'm going to give you a
+simple technique on how to leverage on
+IPC
+the IPC or the international patent
+classification is a classification
+system used in classifying patent
+documents concerning their respective
+technical field
+The Cooperative pattern classification
+is an extension of the IPC
+and is jointly managed by the European
+patent office and the U.S patent and
+trademark office it has nine sections
+which you are going to discover later on
+from a a to Y each with classes
+subclasses groups and subgroups there
+are approximately 250 classification
+entries
+now how to do this you go to ispass net
+and once you're in this past that you
+just click on the classification search
+and you will be directed to a page that
+shows you the what I mentioned seven
+sections of the classifications upon
+clicking any of this it will be expanded
+into more uh classes subclasses group
+sub groups and so on
+now for a shortcut all you need to do is
+type keywords in the search field and
+hit enter once you do that you will be
+provided with
+so many
+IPC code which are relevant to that term
+or phrase or keywords that you entered
+in the search what are you going to do
+with this you can read the description
+of it IPC code
+and you can take one code at a time and
+experiment on adding each in your search
+string such as this in the Google
+patterns so once you include a relevant
+IPC your search return will be more
+targeted and filtered
+and so that's it now you can easily look
+for Relevant prior arts or prior
+inventions for you to compare your
+invention with to tell you if your
+invention is noble and inventive again
+before you attempt on filing for a
+patent
+in the next video I'm going to show you
+an example of a completely documented
+patent application and I will see you
+there

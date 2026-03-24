@@ -1,0 +1,77 @@
+What is the difference between patent
+novelty and non-obviousness?
+Have you ever wondered what makes an
+invention truly unique in the eyes of
+the law? Today, we are going to break
+down the important concepts of patent
+novelty and non-obviousness.
+These two terms are essential for anyone
+looking to secure a patent for their
+invention, but they mean different
+things.
+First, let's talk about novelty. Patent
+novelty means that your invention must
+be new. This means that the exact
+invention has not been known, used, or
+disclosed anywhere in the world before
+you file your patent application. If
+there is even one prior art reference
+like an earlier patent or publication
+that fully describes your invention, it
+lacks novelty. In simple terms, if your
+invention is already part of public
+knowledge, it cannot be patented.
+Now, what about non-obviousness?
+This is where things get a bit more
+complex. Even if your invention is new,
+it must also show an inventive step that
+would not have been obvious to someone
+with ordinary skills in the relevant
+field at the time you created it. This
+means that your invention cannot just be
+a simple or predictable combination of
+existing ideas. Non-obviousness prevents
+patents from being granted for trivial
+changes that experts could easily figure
+out.
+Your invention should representing a
+meaningful advancement or an unexpected
+feature compared to what was already
+known. To clarify the difference,
+novelty asks if your exact invention has
+been disclosed before. If it has, you
+cannot get a patent. On the other hand,
+non-obviousness asks if your invention
+would have been an obvious step for
+someone skilled in the field based on
+existing knowledge. If it would be
+obvious, then no patent is granted.
+When patent examiners review
+applications, they first check for
+novelty by comparing your invention to
+prior art for exact matches. If your
+invention passes this test, they then
+look at non-obviousness.
+They consider whether your invention as
+a whole would have been obvious given
+the prior art and common knowledge in
+the field. Understanding these
+differences is vital when you are
+drafting patent applications or
+responding to any rejections from the
+patent office. To show novelty, you need
+to demonstrate that no single prior art
+reference discloses your invention
+completely. For non-obviousness, you
+should explain how your invention solves
+problems or achieves results in ways
+that were not suggested by prior art.
+In summary, novelty protects the newness
+of your invention while non-obviousness
+safeguards its inventive quality. Both
+are fundamental to securing a valid
+patent. So, if you are working on an
+invention, make sure it meets both
+criteria to increase your chances of
+getting that patent.
+[Music]

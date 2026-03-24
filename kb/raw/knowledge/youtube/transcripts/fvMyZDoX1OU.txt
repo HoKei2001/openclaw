@@ -1,0 +1,1800 @@
+here. I got to start the live stream to
+all our platforms, LinkedIn, Facebook,
+and YouTube.
+Give that just a second here. There we
+go. We're streaming.
+Okay.
+>> All right. Go ahead and give us a record
+button to hit here, too.
+All right, Paul. I think we're ready to
+rock here. Welcome everybody to what
+we're calling the licensing playbook
+live. Does it sound more exciting when I
+do it that? Does that help or just think
+I'm weird? I don't know. It doesn't
+matter. It's going to be good info
+tonight. Um, so today's topic is going
+to be a good one. It's filing a
+provisional patent application. What's
+changed and how to do it the right way.
+And there has been some changes that
+have caused a problem for us, our
+clients, and our students. And we have a
+solution for you. Okay. Um, so join our
+director of project management, Paul
+Sorenson, and myself. I'm the one of the
+co-founders here at Inventright, in this
+tutorial/discussion.
+Feel free to ask questions in the chat
+box by digitally raising your hand here
+on Zoom or typing them into the chat. If
+you're joining us live on LinkedIn,
+Facebook or YouTube, simply type your
+questions into the chat. U, we're
+probably going to go over a bunch of
+stuff and then we'll do some Q&A at the
+end. We're going to try to keep it on
+topic what Paul's talked about and then
+it can devolve into all sorts of patent
+questions to to fill up the hour, but I
+think it's going to be a good one. So,
+provisional patent applications are one
+of the most important tools inventors
+have. Filing one correctly is a critical
+step in moving your idea forward.
+Unfortunately, the US Patent and
+Trademark Office filing process has
+become dramatically more complicated and
+many inventors are struggling with the
+mechanics of simply getting a
+provisional patent application filed
+successfully. And that has not been the
+case in the past and we'll explain
+what's going on here in a little bit.
+Tonight, we're breaking down what's
+changed, what we've learned, and what we
+recommend to the InventRight community.
+So, we're going to today what we're
+going to share is what we've been doing
+with our clients and our students to
+help them through this situation. And we
+said, why don't we change share it with
+the entire public invent community as
+well. Tonight, you're going to learn
+what's changed at the USPTO and while f
+filing has become harder, where
+inventors are getting stuck in the
+process, the approach we're using right
+now to file successfully, and it's not
+hard, why we are currently don't
+recommend filing electronically on your
+own, and we'll give you a clear
+step-by-step road map to filing with
+confidence today. Please note, this
+session contains no legal advice. This
+is not this is an inventor to inventor
+discussion based on realworld
+experiences. So, please consult an
+attorney. This is not legal advice. That
+whole disclaimer, you've heard that
+before, right? If you've been planning
+to file a provisional or you've tried
+recently and hit a wall, this session
+will help you move forward with clarity.
+All right. So, now I'm done reading
+stuff. Now, we're going to be more um by
+fly by the seat of our pants, right,
+Paul? Which is what we like to do.
+>> That's what we do best.
+>> Good deal. Well, Paul, you know, I I
+just want to thank Paul um because Paul
+was really a champion within Invent,
+right? And you know, he wants to help
+people. He's a very helpful guy. But it
+was also in his own self-interest. Let's
+be honest, Paul, we were having our
+gateway clients and our students, our
+coaching students really struggle with
+these new things happening at the patent
+office. So, Paul being a kind of take
+the bull by the horns kind of guy, uh
+said, "I got to come up with a
+solution." and he's going to talk about
+his solution for the problem. Hopefully,
+it won't be a problem six months from
+now, a year from now. Hopefully, the
+patent office will see this and they'll
+they'll say, "Oh, I guess we got to fix
+this thing or at least um they'll do
+something there." So, Paul, do you want
+me to put up the slides or is there
+anything you want to share before we
+Okay, cool.
+>> Yeah, we'll go ahead and get going.
+>> All right, let's get going here. Giddy
+up. I'm in a silly mood. I get a little
+silly when I'm tired. Um,
+so filing with the USPTO 2026, what has
+changed? So, go for it, Paul.
+>> All righty. Yeah. So, in the past, um,
+there's there's always changes at the
+USPTO. There's changes everywhere, and
+that's nothing wrong. That's just how
+life is. Uh, it just so happens that
+back in September of 2025,
+there was a change at the USPTO that
+made it more difficult to file
+electronically because before we could
+do it, we had it done. It was a science.
+If you had your documents in order, we
+could do it in 15 to 20 minutes at the
+most. And it went just smooth as can be.
+And uh what changed is they have
+apparently they are taking some steps at
+the USPTO as it says here on the slide.
+It's a new security measure to reduce
+fraud and unauthorized filings from bots
+and identity thieves. We're not exactly
+sure what that even means. Um but
+nonetheless, they've made the change.
+And the main change is is that you can
+no longer
+um file electronically as a guest. You
+have to sign in. And that's where the
+problem is is to sign in. They're
+requiring now that you um
+uh get a verify me account or it called
+the IDM me. I think that's on the next
+slide.
+>> Yeah. ID.
+>> Yeah, it's uh let's see here. is id.mme.
+Yeah.
+>> Yeah. So, yes. So,
+um
+>> you know, Paul and I were talking about
+this and we were like, do we really know
+why they implemented this? Like, who's
+filing provisional patents that
+shouldn't be? Why why what is identity?
+What is what does it have to do with any
+of it? We don't we don't know. We just
+don't know.
+>> We have no idea what the motive is, but
+we know it happened. And it's very real.
+and it took it from being very easy to
+very challenging and it all surrounds
+the IDM me. So if you'll go to the next
+slide there.
+>> Okay.
+>> Um so the ID the IDM me is just a
+measure they have in place that they
+know who is filing and it's quite a a
+involved process. Um I mean it takes 30
+to 60 minutes. Um, so that's not super
+bad if it went smooth, but um, we've had
+some people have gone through it and
+it's worked fine. We've had more people
+go through it and have extreme stress
+and trouble getting through it. And then
+we've even had some that go through it,
+think they're good, go through the whole
+electronic filing uh process, and it
+won't let them submit because of a minor
+detail or something to that effect.
+>> Hey, Paul, does it does IDM me is that
+the same thing as the real ID? I still
+don't have one. I think you're supposed
+to get a new driver's license. That's
+the real ID
+>> or whatever.
+>> I don't think that's it. Um, not the
+same thing. understand you have to go
+through as it says here um you upload
+some governmentissued ID uh you have to
+provide your social security number uh
+you have to take pictures you have to
+meet with somebody live and um from what
+one of our uh coaches Terry was telling
+me that one of his clients
+uh was overseas outside of the us and um
+had to show some
+I forget if it was some utility bills or
+something. Anyway, some form of
+verifying that it's them. And then when
+it came down and it seemed to go through
+fine, but when it came down to it, they
+didn't even accept it. So now he went
+through all that trouble and still could
+not file electronically. So
+>> he he like I think he was in France and
+he got on with them on Zoom actually.
+Yeah. Yeah. And he had to like move his
+head around. He had to do all this
+stuff. They're like making you jump
+through all these hoops and thought
+everything was good and then they said,
+"No, it's denied." It's like, "I used
+your process. What was
+>> denied?" It's like,
+>> so to that end, we've had enough
+troubles because we we love to help our
+students and clients through that
+process because it's usually a stressful
+thing. When you haven't done it before,
+it just is overwhelming. After you've
+done it a few times, it's really not
+that bad. And so we've provided that
+service just to help them through. And
+it's always been pretty streamlined
+until it came to this. And we would
+rather not spend that time on a gamble
+if it's going to work or not. And the
+verify or the IDM me is not something we
+can even be on and guide you through. So
+the workaround for right now um is to
+rather than doing an electronic filing
+to just disregard that and go to the
+mail-in filing. And I think the next
+slide.
+>> I think it's a brilliant uh solution,
+Paul. I really uh I really appreciate
+you seeing this problem happening over
+and over. Give us a timeline. How long
+has this been happening? 3 weeks, 3
+months, three years.
+>> Um since September
+>> of last year. So,
+>> okay. Since September. Got it.
+>> So, one sec. I'm just getting the slides
+so I know when to tell you to switch.
+>> Okay. Sure.
+>> So, I'm getting them pulled up here. Um,
+so yeah, the this slide here, it talks
+we're going to talk now about mailing
+the application versus the old way
+because there's always pros and cons to
+everything. Um, the pros is it's easy.
+It's so easy that in fact, this was the
+fallback when I had clients and students
+that were just struggled with
+technology. um didn't know how to
+convert files to PDFs and and get the
+right PDF type and how to scan stuff in
+um how to rename files and and we did
+there's every ability out there, you
+know, that can't do anything
+electronically and then those who are
+just a whiz at it. And uh so when we had
+people that were challenged in that, we
+would just go to this anyway. So this is
+nothing new that we we've done this for
+years and years also.
+>> And it's just easy. It's super super
+easy. It's very dependable. It's proven.
+Uh and it's a lot faster than trying to
+walk somebody through and getting all
+these glitches and issues that you run
+into. But people really worry about when
+they can say patent pending then Paul
+and you've addressed that here
+>> and that that is the one con. Well,
+there's two cons. One, you have to go to
+the post office. You have to leave your
+house.
+>> Oh my goodness. No.
+>> And then the other one is your priority
+date when you file file it electronic is
+it immediately when we're done. Your
+priority date started. Uh, with the mail
+in it is based on when the USPTO
+receives it. It's not even on your
+postmark date. It is when they receive
+it and process it. Um, which
+one thing about that is that doesn't
+matter nearly as much as people think.
+It is I I don't know that I've ever
+heard of anybody having an issue with
+their priority date needing to be a day
+sooner, a week sooner. It it what
+difference it makes is it makes it so
+your protection doesn't start till that
+five days later and almost never is that
+going to have an ill effect on you. So
+>> okay
+>> is that is that what how you feel about
+priority dates? Andrew, what's your
+thoughts there? I
+>> it's not important. I've never had
+anybody in 26 years of doing this say,
+"Oh, that that provisional patent
+priority date totally messed me up." I
+mean, it could you could get struck by
+lightning as well. Um, but I've never
+had it happen. So, so what you mail it
+in. Now, you might not even know this
+because it's such a little detail and I
+think it's so important, but is it the
+date they receive it that it's So, if
+you if you get that confirmation,
+um, I think you're going to show that
+later. They that confirmation they got
+it or is it they process it? What I um
+found as I was doing my research on it,
+it is the date that they receive it
+atto. So they must record it when they
+receive it.
+>> Got it.
+>> So that's and so we'll talk about that
+in just a few.
+>> Is that something to worry about?
+>> Yeah.
+>> Um Okay, cool.
+>> So yeah, let's go to the next slide.
+This is um going into what we have to do
+to prepare to mail it to prepare to file
+it period using the mailin uh process.
+So, and we'll go through these more in
+detail. Um but first of all, you have to
+prepare um all six of the documents and
+again we'll go through what those six
+are. We have to then you have to verify
+the information on them and sign them
+all. That's a critical step. You don't
+want to get it in. I've seen so many
+over the years that come back from the
+USPTO with a notice of missing parts
+because they missed a signature. Um
+>> or or the payment information. They
+didn't put that. Yeah.
+>> Uh the third thing is once you have
+everything ready, make copies. You never
+ever want to send that off without your
+own copy in case it gets lost or
+whatever. It's just your little
+insurance policy that you can
+at least not have to redo everything. H
+you just make another copy and send it
+again.
+>> Kind of goes without saying, but I don't
+know. Some people don't have common
+sense. I find sometimes it's like really
+that was my only one. Now I got to do it
+all over again. It's like, wait, make a
+copy. Come on.
+>> And then and you know what that was the
+same with doing electronically. I always
+uh particular receipts when you filed it
+electronically,
+I would have all my clients and students
+print that page. Not even save it
+electronically. I'd say print it so you
+have that document to show that you did
+file it and you did pay for it. Those
+were the two receipts in the electronic
+system you needed. But then anyway, the
+fourth thing here is then you just mail
+it via Priority Express and we'll get
+into the detail on that.
+>> Okay,
+>> cool. So let's go to the next uh slide
+and this is walking through the six
+documents that are that you need to file
+a PPA. Now this first one the abstract
+it actually is not a requirement but
+smart IP that we or most of our students
+and clients use automatically generates
+an abstract um and so that's why we have
+it here but it is not required even
+though I put required document one is is
+this okay
+>> um so that's just a one paragraph that
+is almost those samples there um that
+really is about how long an abstract is
+it's just very short. And if you don't
+know what that is, you can just uh
+Google or chat GBT what's included in
+the abstract on a a provisional patent
+application and it'll give you good
+information there. Or you can always go
+to your trusty legal advisor uh that
+knows patents. That's
+>> that's the bulletproof way to get good
+information.
+>> Okay.
+>> The second document is your
+specification. Now, this is the main
+body of your PPA. It has all the
+verbiage and everything. And in a
+provisional patent application, there's
+not really a format that you have to
+use, but if you're going to do it, you
+might as well do it um the more correct
+way and in the way that adds a little
+bit more value than you just putting a
+whole bunch of stuff down. And there's
+lots of different um uh samples of how
+to do that on the online. And then
+again, smart IP, if you use that, it
+already puts that uh together for you.
+So
+>> yeah, for those of you that are are new,
+um a provisional patent has no formal
+requirements. Um it but it doesn't mean
+you should do a bad job. Um you could
+literally scribble on a piece of paper
+and send it in. they would accept it if
+you paid the fee. You you don't want to
+do that. Um but there are no formal
+requirements on exactly how you you have
+to do it. That's just um that surprises
+people. And if you ever looked at a a
+full patent, you're like, "Oh my god,
+this is like another language. I don't
+know what the heck I'm looking at."
+Provisionals don't need to be done like
+that. So for those of you who haven't
+filed a provisional, it's it's not it's
+not really not that scary. It it
+shouldn't be scary. And you don't have
+to write it like the full patents that
+you see, not even remotely. Um,
+>> right. One difference it makes um from
+just doing the scribble on a napkin to
+doing it um more properly or more
+formally I guess would be the way and
+including it in certain orders and
+including stuff that's not quote unquote
+necessary is it gives you it does give
+you a more powerful PPA because you're
+starting to expound and cover things
+that you wouldn't in just your ramblings
+on a napkin that would work.
+>> So, so there is power in doing it even
+though you don't have to.
+>> No, Paul, Paul, is this true? It's not
+just the the problems that our clients
+and our students are having, not 100% of
+them are is not just the ID. Me issue
+with the verification, but little
+different little quirks that seem to be
+fixed and now new quirks popped up. And
+isn't one of them um the whole embedded
+font thing in PDFs
+>> that was two generations ago with the
+big
+>> Yeah, that was the problem before.
+>> The one just previous to um the IDM me
+um they had fixed that um but then it
+started creeping in that they wanted it
+in docx sometimes. I didn't ever
+experience that. So, I don't know what I
+was doing different than a lot of people
+that were um saying it needed to be in
+docx format because I didn't experience
+that. So, once again, you can see that
+what one person experiences in another
+can be different even though you're
+working in the same system doing the
+same thing and I don't understand that.
+So,
+>> yeah. All right.
+>> Wait, this is the the next one. So,
+let's go to the the next document is the
+drawings. this also. So I probably
+misspoke say I misspoke saying it's a
+required document. We say it is because
+that's just the good practice to do.
+>> You do not need drawings in a PPA, but
+why would you not have them? And the
+reason I say that is it's my
+understanding that if you have drawings
+in your PPA and you did not articulate
+in your specification stuff in the
+drawings that an attorney could pull out
+of that, it is still covered.
+>> You definitely want to put images. We
+usually suggest having at least three.
+Um, you don't have to go crazy. I had
+one client years ago that I think he had
+like 35 pages of drawings and 35 pages
+of his specification and that's way
+overboard. You definitely don't need
+that. But he had a pretty solid PPA. He
+covered every angle that he could think
+of.
+>> And they don't have to look like patent
+drawings like this. Paul, what are their
+options as far as drawings go?
+>> I'll tell you, my first one I ever did,
+I did it with a Sharpie. I show that now
+comically because that was way previous
+to how the internet has evolved.
+Nowadays, you can get people to do um
+line drawings so good that and so cheap
+that there's no reason to not do good
+line drawings because once again, my
+Sharpie drawings versus some that are
+more like these on this slide. There's
+got to be I I can't believe there
+wouldn't be a little bit more power in
+that if somebody were looking at it from
+a legal standpoint.
+>> Sometimes I bet there's AI solutions
+that can convert pictures into AI into
+line drawings. Sorry. um where you have
+if you have a decent prototype you give
+it to the AI and say turn this into a
+line drawing and you can use those um
+but you know for those of you some of
+you might be like well I've filed a
+bunch of provisionals before well here's
+what's unique why you need to stick
+around to the end of this webinar is
+Paul's this is all mailed in now so what
+we're saying is look there's people that
+get past the IDM me somebody typed in
+here they did it just the other day um
+and they get past all the little quirks
+that pop up and they can file. But if
+you want to make it easier on yourself,
+just mail it in. So there might be some
+subtleties here where you're like, "Oh,
+I just normally have a PDF, but now I
+need to print this stuff up." So that's
+why you might learn a few little things
+in here about what's unique to mailing
+it in as opposed to electronically
+filing it.
+>> All righty. So this the third required
+document or or um suggested document. Uh
+yeah, go ahead and go to the next one to
+the fourth one. This one actually is
+required under certain circumstances.
+This Oh, no. This is So, this is the
+SP16, which is the cover sheet. Um, this
+is required when you're mailing it in.
+When you did it via electronically, this
+was generated um let's say it in one of
+the changes the USPTO did had this
+automatically done when you filed
+electronically. So, you did not have to
+do this uh previously, but now you do.
+And it's easy to do. You just Google
+USPTO SB16,
+and the first link usually is a fillable
+um form. And I have highlighted on these
+documents the uh parts of that that have
+to be filled out. And I have people all
+the time that I send this to and they're
+like, "Well, down at the bottom, it I
+can't read it right here, but it I think
+it says something about a
+>> a filing number or something,
+application number." It's like, if it's
+not highlighted on this, it it this is
+exactly what you need to file. So, if
+it's not highlighted, don't be filling
+in more thinking that you're smarter and
+you're like, "Oh, I have this or that."
+Do exactly this way. and I've done
+hundreds of them and it goes through
+every time.
+>> The second page looks like you just say
+no if it wasn't done with a US
+government agency,
+>> right?
+>> And you're good to go there. And then
+there's a number of pages for the
+drawings
+specifications. I don't know what. Oh,
+number of pages. That's interesting.
+They want they want to make sure they
+got all the pages. That's a good double
+check system.
+>> So don't don't be sloppy with this. Even
+with electronic filing, I've had people
+file, try to file stuff, then they
+didn't make the payment and they're
+like, "Oh, now it's incomplete. Now they
+want a bunch more money. Instead of $65,
+they want 200." I'm like, "It's easier
+just to let it go and then and then just
+do it again." But, um, none of this
+looks complicated, but if if you're
+sloppy with paperwork and you you know
+that about yourself, um, have a spouse
+or a friend take a look at it. Um, title
+of the invention, the title to your PPA.
+Get this form from the top of your PPA.
+Must match. Okay, good. And it must
+match.
+>> Uhhuh.
+>> Yeah, you need to match that. And you
+need to have your name consistent
+through your whole filing process, too.
+If your name's Mike or Michael, don't
+put Michael on one place and Mike on the
+other.
+>> You could probably put Mike all through,
+but you just need to be consistent. Um,
+I don't think that that ever matters.
+Um, but
+>> the micro entity part. Can you talk
+about that?
+>> Yes. So, hold on just a second. That is
+>> the bottom part there.
+>> Hold on just
+>> Yeah, I had to put I had to have my
+glasses on to see that too.
+>> I have to get the rolling so I can see
+it. [laughter]
+Um, so,
+uh, going through this, I'll start at
+the top. Is your first name in that
+first box in the upper left, then your
+last name is in the middle one. And then
+the the right box at the top is your
+city and state. Um then the big part in
+the middle as Andrew was saying that is
+the title of your PPA. That will be on
+the top of your specification and you
+just can copy and paste it there. The
+next box down there's a little X that
+you have to put an X in. Um and then put
+your personal name out to the side of
+it. And then below that is your address,
+city, state, zip, country, phone, and
+email. And then um in the next box down,
+there's one that you'd mark that you're
+submitting drawings. And you need to put
+the number of draw number of pages there
+are. So you have four drawings, but
+there's two on each page. You only have
+two pages of drawings. They want to know
+specifically how many physical pages
+there are. H
+>> um that was the same with the uh the
+electronic filing as well. Then the same
+thing with the specification. However
+many pages your specification is, it
+asks for how many pages that was. Then
+in the bottom box, um the second little
+box down that I have marked and
+highlighted there is that you certifi
+you're you are saying that you certify
+as a micro entity and the USPTO has
+rules if you uh qualify as a micro
+entity and I think it drops the cost of
+the uh provisional patent application by
+75%.
+Right now it's at $65 and that has
+changed. It's gone up and down. It's
+It's crazy that it's ever gone down, but
+it has gone down. But currently, it is
+at 65. So, you'll want to check to see
+how much a provisional patent
+application filing is as a micro entity
+at the time you're doing it and put that
+dollar amount in there.
+>> Um, and you can also go to the USPTO
+site to see all the rules um or the
+qualifications if you qualify as a micro
+entity. most people
+it's uh incomebased and I think it the
+current one is you have to make $277,000
+or less to qualify. So I wish I didn't
+qualify. [laughter]
+>> Well, you know, one of the it's a good
+point. Somebody may be watching this
+video in the future and it may not be
+65, it may be 75.
+>> And um and also there might be something
+else that changes. So, when you see it
+say 65, don't just pay 65 because I
+think the one of the downsides of filing
+with paper, if you're not if you're not
+paying attention to all this stuff and
+and you don't do certain things, you
+know, it's it's going to cause you
+problems. You don't pay the right
+amount, whatever. And then they they
+want like I I think what I've seen,
+Paul, they charge like $200 extra if
+there's any issue.
+>> You know what? That actually is what the
+paperwork leads you to believe, but it's
+not the case. It scares everybody to
+death. It did me the first time I did.
+And why I got a notice of missing parts
+the first time is cuz I did it
+electronically.
+And
+um I tried to sign the SB15A or SB16,
+probably both, electronically. And back
+then it would only accept it about half
+the time. And you could do it exactly
+right, the backslash, your name, and the
+backslash. Sometimes it would accept it
+and sometimes it wouldn't.
+>> So, I just got away from that. I just
+had everybody print it out, fill it out
+electronically, fill it out, sign it,
+and then scan it back in as a PDF. But
+anyway, back to what I was saying is I
+got that and I'm like, why do I have to
+pay $215 or whatever it said? And the
+USPTO says, "No, all you have to do is
+send us the new one, the new SB15A
+signed, and then it's a $15 a5 $15
+resubmission fee. That's all it cost
+me."
+>> So, when you when you mail that, do you
+reference your original? How do they
+know? Let's say you're mailing that as
+well. Do you know what you do there?
+Yeah, I because on your whenever you get
+that document when you it's the
+confirmation document, it'll give you
+your uh application number and it has
+all the information on that and you just
+reference that.
+>> So, if you forgot to pay the fee, you
+didn't put the check in, you didn't put
+the title of your invention, you can
+file another SB16 or whatever else was
+>> right
+>> wrong and then you're going to reference
+>> exactly what's missing.
+>> Got it. Okay. It might not be in really
+good language that you it's crystal
+clear, but they
+>> and then make sure to include that at
+$15 if that's what they're charging,
+>> right?
+>> Don't do that again. Don't keep doing
+that. Yeah.
+>> Yeah. That's the other thing is then you
+have to do the credit card payment form
+that we have to do here that that's
+coming up also.
+>> But anyway, yeah, let's go to the next
+one. This one is the SB15A
+which is the form now that you have to
+have well not now because you always
+have had to have it to certify that you
+qualify for the micro entity status. So
+on the SB16 you marked that that's how
+you're applying and that's what
+generated that price. But now they need
+that form that you're you've signed
+saying that you qualify because they
+could audit you and find out if you
+really weren't. Um I've never heard of
+that happening, but uh it gives them
+legal rights to do that. So on this
+document, all you need is your name in
+that your full name. It's your first and
+last name in that box on the left side.
+And on the right side, once again, it's
+the title of your invention that is
+going to be at the top of your
+specification. So, that just needs to
+match. And then at the bottom, it's just
+your signature, your physical signature,
+then your name, address, and phone
+number. Um, you don't have to put a
+registration number. I get people all
+the time like, "Well, what's my
+registration number?" And I'm like,
+"Well, is it highlighted?"
+>> Then you don't need it. I didn't just to
+not highlight it. [laughter]
+>> Got it. Thank you. Thank you, Paul.
+Little things like that will really trip
+people up and then they're like,
+>> "That's the thing with a lot of these.
+There's a whole bunch of blanks and
+stuff on these documents that you just
+have to have done it before and you know
+what's right and wrong instead of
+getting all stressed out and it makes it
+take 10 times longer to do. My first PPA
+I filed, I think it took me close to
+four hours because I'd do this and then
+have to chase it down what what am I
+supposed to do and then come back and I
+had that figured out and get to the next
+junction it's like oh I have a lot of
+options. What do I do here? And so after
+the first time I got quite proficient
+and now after filing so many it's just a
+piece of cake. So
+>> yeah, you know, you know why this is a
+really important um session tonight is
+the ability for an inventor to file a
+provisional patent and legally said
+patent pending for $65 is incredibly
+powerful and I thank the patent office
+for that. But when we see that people
+are struggling with it, it might not be
+everybody, but a percentage get unlucky
+or, you know, it's too complicated or
+whatever, that's that's I think it's
+hurting independent inventors. And yeah,
+you can pay a lot of patent attorneys
+will charge 25 3500 bucks to file a
+provisional. So when you can file one
+yourself, the patent office fee if
+you're a micro entity is only 65. It's
+incredibly powerful tool that
+Inventright has believed in since the
+day it became available. And we want you
+guys to be able to do it. We don't want
+you to get discouraged and we want you
+to be able to do things cost-effectively
+if it's right for your particular
+situation. So, um, we don't want people
+to struggle with this. Uh, and yeah,
+things like, you know, to have this, you
+can go back. We'll put this video up on
+YouTube by the end of the week, probably
+within a day or two. Um, and you can go
+back and just follow the highlighted
+stuff. You do that easy breezy lemon
+squeezy or whatever. My daughter would
+say that. Um, actually, she wouldn't say
+that. She'd give me a hard time for
+saying that. Um, all right, let's go.
+What What we got next here?
+>> Let's go to the next one. And this is
+the sixth document. This is the one that
+you pay them that you for sure have to
+send in. This is another one that um the
+top part is just very intuitive. You
+mark what your card is, you put your
+information in, you sign it, put the
+date. Um, then below that, same thing.
+It's just the normal stuff that we are
+used to all the time is your credit card
+billing information
+and then or billing address. And then
+the bottom part is what trips everybody
+up. When you're doing a PPA, the only
+thing you have to do is put right in
+that box where I have that and put PPA
+fees. That's it. I didn't forget to mark
+one of those. You just put PPA fees.
+They will see that credit card. It's all
+with your application. Um, and there's
+no number to give with it because you
+just have all your paperwork that's
+going in with that. And so you just do
+that and uh put a check in there which
+nowadays or not, excuse me, not a check
+uh they have your credit card
+information. So it's just done. Nice.
+>> So that is the six those are the six
+documents that you need to um have ready
+and all prepared in the proper order.
+And then if you go to the next slide
+um the USPTO they recommend that you
+send it using the prior priority mail
+express. So I found what that looks like
+what that even is. Um, and so
+before you put it in that, make sure you
+have all six of those documents or
+however many you're going to send. Like
+we talked, there's some of them that are
+required, some of them that aren't. Um,
+and then verify that they're all filled
+out correctly and signed and dated. And
+then make copies of all of those. and
+then go to the post office and get this
+priority mail express uh envelope. Put
+that in there. And then when they when
+you go to send it, in fact, probably at
+the little desk at the post office, I
+think they have all the forms. You get
+the uh form 3817. That's the certificate
+of mailing and fill that out. And then
+you send it to that address there. the
+send it to commissioner commissioner for
+patent PO box 1450 Alexandria Virginia
+and that is oh the next the next uh
+slide shows that certificate of mailing.
+So then once you do that um go to the
+next slide
+and now's when you wait to get your
+priority date. Um uh once they have
+processed it, they will send that back
+to you and you'll get the form. And this
+is the one that we were talking about
+earlier that you need to open it and
+read it and make sure it does not say
+notice of missing parts. I can't tell
+you how many uh people I've talked to in
+the past that um down the road, six
+months, we're talking about it and and
+they say for whatever reason we're
+looking at that. In fact, a lot of times
+it's when it's about to expire. They
+thought it was and I'm like, "Well,
+what's the date?" They're like, "Oh, let
+me open it up." And they get it and
+there was notice of missing parts. So,
+they never had coverage because they
+give you 60 days and if you don't take
+care of it, then you you didn't even get
+a patent pending. You were not even
+patent pending.
+>> Well, you got I got a question for you.
+You might not have an answer to this.
+Will they still take the fee?
+>> Is the fact they will still take the fee
+if there's notice and missing part.
+Okay. You know what? Not verification.
+>> Yes. Because
+>> Yeah. Because that's one of the things
+that can kick you out if you didn't pay.
+>> No. If you if you gave them the $65, but
+there's a notice of missing parts, will
+there still be the credit card charge?
+The credit card charge?
+>> Yeah. I've never heard of somebody
+getting refunded back.
+>> Got it. They're always going to So,
+that's not really a verification that
+you see the charge on your credit card.
+You got to You got to look And you're
+going to get this in the mail?
+>> Um, yes. Yeah, you get the it'll come
+in.
+>> You've given them your email address. Do
+you get an email as well when you mail
+it in?
+>> Nope. It comes in an envelope that looks
+just like that right there.
+>> Got it. Okay.
+>> And when you open it up, it will look
+like that right there. So, up here,
+it'll have um the application number,
+your filing date. Uh they'll mark if how
+much what fees they received. Um, and
+then it'll have your confirmation number
+and filing receipt and everything. And
+right below that, if on the first page,
+it'll say notice of missing parts if um
+you in fact did have missing parts. And
+there's a detail about that.
+>> I got a question for you. The
+certificate of mailing is they're going
+to give you the certificate, but this
+isn't like a um uh re a verification
+receipt. There's there's you can pay the
+where somebody has to sign and it
+verifies they've received it so that you
+would know that they received it on that
+date. You don't get that, do you? You
+just get this thing in the mail later.
+>> I believe there is a fee for this
+certificate of mailing as well.
+>> Oh, okay. But you're not going to get an
+like I forget what it's called, but the
+post office you can get a confirmation
+receipt.
+>> It's registered mail. I think
+>> registered. Yeah. Yeah. So you get a
+number and then you'll you'll get an
+email and then you can look up the
+number and you can see that they signed
+for it a particular date. So providing
+you did everything right which you don't
+know yet till you get that letter in the
+mail you can go ah I can say pat and
+penny because it's going to be that date
+providing I didn't mess something up in
+which case you'd find out a week to six
+weeks later when you get it in the mail.
+>> Yeah. So technically mailing it in, you
+probably shouldn't be reaching out
+sending something that says you're
+patent pending except for the fact that
+if it's off, they do give you 60 days to
+fix it. But um you just got to be
+careful because you don't want to be
+saying you're patent pending if you're
+not because that could have ill effects
+down the road if the certain situation
+came along and
+>> sure
+>> whatever. So,
+>> so, so just to be clear everybody, for
+those of you that are new, when you file
+a provisional patent application, you do
+marking materials or anything, you can
+legally write patent pending. You don't
+have to say provisional patent pending,
+but um because you're mailing it in, I
+would confirm that, you know, they they
+got that and there's no you didn't mess
+it up. There's not a notice of missing
+parts, which just means you didn't do
+something right. Um, now Paul, um,
+they're not reviewing. I know because we
+have some people that are experienced,
+some people are new. So, can you talk
+about, you know, they didn't ex They
+didn't review your patent, did they?
+>> They did.
+>> What did they review?
+>> They they make sure your paperwork was
+there. That's it.
+>> Yeah. So, they reviewed Did I get the
+Did Did they fill out that SB16, right?
+Did they give me the credit card
+information? That's all they look at.
+that whole the all the the patent itself
+that you wrote up, the provisional
+patent, they could care less what that
+says. They're not looking at that. So,
+don't think like, "Oh, great. I got
+approved for a patent." It's just a
+placeholder in time, right?
+>> Yeah. Years ago, I had one of my
+students that he got his PPA filed and
+his first question is to me, "So, I'm
+all protected on my invention?" And I
+said,
+"Yes and no, you're patent pending,
+but pat a provisional patent
+application, as Andrew was saying, is
+just a placeholder, and it's 100%
+contingent on you filing a non-com
+non-provisional later on and getting it
+granted.
+So
+>> you are covered saying you're patent
+pending and you are guaranteed to have
+that priority date if you have
+patentable stuff that you're uh granted
+claims on um on a subsequent
+non-provisional patent. The priority
+date will come back to this day that you
+had the priority on that information.
+From a from a marketing perspective and
+a perceived protection perspective, it's
+very powerful to be able to say patent
+pending. You know, like I said, you
+don't have to legally you do not need to
+say provisional patent pending. Say
+patent pending. So, for 65 bucks, that's
+incredible. But realize what you're
+getting there and do some more research.
+What is a provisional? Not only that,
+but a lot of companies, I wouldn't say
+all companies, but most companies these
+days will not even look at your stuff if
+you don't have any protection. They want
+to see that you have something that
+legally you can go back to. So, you
+can't go to them and say they ripped you
+off because if you're protected, you're
+protected and they can't infringe.
+>> So, we don't hear of people being ripped
+off really. There's I'm sure there's
+horror stories out there, but we don't
+hear hardly ever. Um,
+but at the same time, uh, you need to
+have that protection in place. And like
+I was saying, most companies nowadays,
+if you don't have any form of
+protection, even a PPA, they will not
+even take your submission because it
+becomes a liability for them. Now,
+>> yeah. All right, we got one more slide
+and then we'll jump to Q&A. We'll have
+like a good uh 15 minutes or so for Q&A.
+>> Yeah. So, we've kind of gone through
+this. We kind of jumped the gun. Is uh
+if you need to look for the notice to
+file missing parts of the provisional
+application, that's what we were talking
+about. That'll be in that letter that
+you receive from the USPTO.
+Um, if it does happen to have that,
+don't freak out and see big numbers
+because I've got one here. Um, the
+language that it led me to believe is
+that
+I had to pay,
+sorry I wasn't planning on doing this,
+but uh, they said I needed to pay
+this might be the wrong one, but it was
+like $250
+or something like that in order to fix
+it. And that was for something
+completely different. I still don't even
+know what that was. And I've had tons of
+people report the same thing. They call
+me saying, "Oh my gosh, how come they're
+wanting, you know, $300 now?" And it's
+like, "Okay, it's not true. It'll cost
+you $15 more to resubmit with the stuff
+that was missing. That's it."
+>> So, uh, what do you advise people do if
+that if that happens to them, Paul?
+Should they They're actually pretty
+helpful if you call the 800 number. Yep.
+Would they call that and say, "Look,
+this is what I was missing. What's the
+form I need to fill out? What what is a
+fee?"
+>> Exactly. Okay.
+>> You know, the funny thing is in the
+past, um, it was really easy to get
+through. Well, you might have had to
+been on hold for, you know, five or 10
+minutes. And if you got an agent that
+was not very helpful, you could hang up
+and call right back and get somebody
+that's super helpful. And I had that
+happen before. But I'll tell you right
+now, I have a client that just um either
+last week or the week before, she was on
+hold with the USPTO for like four hours.
+>> Oh jeez.
+>> And then they didn't even help her, so
+she had to do it again. So
+>> Oh,
+>> right now they must have a lot of
+backlog and so it's not nearly as easy
+as it was before uh to just call. But my
+experience is the USPTO has been super
+super helpful. Uh if you call
+Okay. Hopefully that's an anomaly.
+>> Yeah.
+>> Um Okay. So, let's uh I'm going to turn
+off the the slides here and we're gonna
+we're going to jump into some Q&A. Uh
+where did my Q&A go? Let me break that
+out.
+Okay. I think I'll start from the top.
+Um
+uh Brandon was just saying, "Hi, Brandon
+Prim." He said, "Hi, Paul. Been a while
+since I talked to you. Hope you're
+you've been well." Um, so, uh, Jonathan
+said, "What should I what should I do if
+I can't afford the $300 for a patent
+search? I'm in the submission portable
+for portal." And he references a toy
+company. Uh, could I work out a deal
+where they have pay for patent fees?
+Well, we let's answer the first question
+that's more on topic. Um,
+one of the things that we share with
+folks is, and I like saying this to
+shock folks, when you come up with an
+idea, never ever in a million years
+should the first thing you do be a
+patent search. It's a complete and utter
+waste of time. Not saying you don't do a
+patent search, but the first thing
+you're going to do is you're going to do
+a market search because what is or isn't
+in the marketplace tells you so much.
+People patent all sorts of stuff that
+doesn't make sense. So you can find
+other patents and then you need to
+analyze is it really a problem for you
+or not. Um but uh so my answer for Paul
+for uh Jonathan is you can do a patent
+search yourself but do a market search
+first use Google images. It's
+controversial asversial as to whether or
+not to use AI. Personally, if you don't
+have a thing that's going to change the
+world, I don't hesitate to use AI. But
+that has to be a decision that you make,
+right? But AI, Google searches, Google
+images is amazing. Google shopping is
+amazing. Um, so you do that market
+search first and then you can do um uh
+patent search. You can use free patents
+online. You can use Google patents.
+Patent office website's a little clunky
+compared to others. Now Paul, what do
+you have to say about patent searches?
+>> Yeah, I I agree. The first thing is to
+do a market search, find out what's out
+there, and then use these different
+tools. Do the best you can to jump in.
+And these days, you can find tutorials
+of how to do almost anything online. And
+um and that gets you one level better
+than a market search. And then um you
+can use AI. It's amazing that that'll
+get you a little bit more a step closer.
+You can hire somebody on Fiverr or
+Upworks to do a patent search for you.
+And um all those things are just they're
+way cheaper than having an attorney do
+this $300 patent search. And anything
+that you do um gets you that much more
+security. But just know that even if you
+had 10 Harvard attorneys do patent
+searches that they're not going to
+guarantee anything, they're not going to
+guarantee you that there's not missed uh
+prior art. And so at a certain point,
+you do have to just resolve that you've
+done your due diligence. And we always
+want you to do your due diligence
+because fast forward down the line and
+you're in a licensing agreement, you're
+going to indemnify your LE that you did
+the patent search and to the best of
+your knowledge, it was correct. Now, if
+you've done a good job um and one does
+happen to come up, it's not this
+immediate huge lawsuit. The first thing
+is a cease and desist. the infringing
+party says, "Hey, you're infringing on
+us." And so you stop and I think most of
+the time you could probably work
+something out with that person just to
+say, "Hey, sorry we're infringing. We we
+looked and we didn't find that." Of
+course, you want to verify with your
+attorney that you actually are. You
+don't want to pay them a royalty on
+something, but a lot of time that you
+don't want to pay them a royalty on
+something that you're not even
+infringing. But a lot of times you can
+just resolve it that way. But a worst
+case scenario is you're infringing. As
+soon as you're notified, you stop. And
+so there's generally malicious. You're
+not going to have this big multi-million
+dollar lawsuit or anything. So
+>> yeah, but you know, one one
+misperception, Paul, is people think
+they did a patent search and they
+couldn't find anything similar. So
+therefore, it's a subconscious thing. My
+idea makes sense. No, your idea doesn't
+make sense because you did a patent
+search. You didn't find something.
+similar. Your idea makes sense when you
+study the marketplace, when you study
+the microcategory of your invention. So,
+if you're doing a barbecue spatula, you
+should know every freaking barbecue
+spatula on the market and go, does mine
+have a point of difference? Does it make
+sense given the market? So, the market
+search way more important than the
+patent search. Um, and a lot of times
+you'll find similar things which can
+validate your idea. Oh, there's a bunch
+of barbecue spatulas like this. Oh, but
+mine has this little extra something
+here. Okay, great. All those people like
+that makes it better, not worse. The
+whole there's nothing like it thing,
+that's like an inventor disease. There's
+nothing like it. And there might be
+nothing like it, but if there's things
+somewhat like it, and you also have a
+point of difference, that can actually
+be even better. Um,
+>> at the end of the day, just do your due
+diligence so you're comfortable saying,
+"I did a very thorough search. I
+couldn't find anything." Um, where a
+patent search does come in handy versus
+a market search is sometimes the
+patented portion would be in such a
+complete different category that you
+would never find it in your category,
+but it was something that is common in
+two categories. And so that's where you
+get the the classifications and that
+kind of stuff that takes it to another
+level than just
+>> Yeah. And I'm not against patent
+searches, don't get me wrong. And we've
+done webinars on that and trainings on
+that. And there are AI tools out there
+that are incredible. Um I use some of
+them are bad and some of them are great.
+And I used one the other day a guy was
+trying to get invent to start working
+with them on this AI tool. But I think
+they're great. So I don't know, Paul. I
+I haven't got my real ID yet. Everybody
+that's lives in the United States is
+supposed to get a real ID. I guess you
+can carry your P passport instead, but
+>> No, that is not what this is about. It's
+not the little star on your license. It
+is a an ID.
+>> It's not related at all.
+>> I don't think so
+>> because um Paul's put in I is is P A U L
+Z. That's interesting spelling. I
+already have an ID. Me account. So I
+guess it should be easier. Had to do
+that with applying to renew a passport
+several years ago. I think they're
+connected with the passport thing.
+>> Yeah, that might be that might be.
+Um,
+so I guess I don't know enough. I know
+that they send out a thing saying, you
+know, the new IDs, you have a star or
+something or another on your um,
+driver's license that indicates Yeah.
+little little gold star in the corner
+means that it's a different level of ID.
+But that's just having that doesn't make
+it so I don't have to do the ID me.
+>> Okay, you can hear me? Okay.
+>> Yeah.
+>> All right. And my headset was dying
+here. So, let's see what else we got.
+Um, let's go to the stream. We've got
+people on LinkedIn, YouTube, and
+Facebook. So, that's pretty cool. Let's
+see if we get some questions. Get this
+big mic in my way here. Um, uh, let's
+see.
+Uh,
+Todd wrote, "I've always done the paper
+version, drew my own good drawings,
+never tried electronic. I know my
+strengths, and that would not be one.
+Just made a copy of it all, sent the
+papers in, made a copy, he said.
+Basically, it went great." So, some
+people have been still doing that. Um,
+so that's great.
+>> The closer to the patent office you
+live, the faster, too. I had one uh
+student years ago that she lived right
+about like three blocks away from the
+patent office and she we did it
+electronically and she got it like in
+within two days she had her verification
+or her
+>> that's funny back. So,
+>> um, Mike writes, "Can you submit a CAD
+on a PPA?" So, what do what how do you
+feel about CAD drawings in a PPA?
+>> Well, you don't even need drawings. So,
+and I submitted my first one by drawing
+um with a Sharpie and so it absolutely
+would work.
+>> Yeah. I just think they need to be easy
+enough to understand. So, it could be a
+picture. It could be somebody you paid
+to take a
+look at picture of your prototype, turn
+it into a line drawing. You could have
+AI turn it into a line drawing. You
+could use a computer program. Could draw
+it with a Sharpie. Back in the day,
+Paul, I don't know if you remember this,
+but we'd have people like take a
+something from a magazine or a picture,
+put it a lamp under a table, put tracing
+paper on the top, and trace around a
+picture of something that was similar if
+they didn't know how to draw. and they
+get themselves a line drawing that way.
+There's all sorts of ways. Um, and
+you're not trying to impress anybody.
+This isn't a marketing piece. You just
+need to get the concept across. And Paul
+made a very good point earlier. If you
+didn't cover something in what you
+wrote, you could say, "Oh, but I had a
+picture of it. I had a drawing of it. It
+was there. You could see that hinge
+right there." And so, that's a nice
+backup. So, you don't have to include
+any drawings, but I I definitely would.
+There in lies what I was talking about
+my Sharpie drawing versus one that's
+very precise, you might see details that
+were not obvious in a Sharpie drawing.
+And so the more professionally you can
+do it, I think it adds a little bit more
+power. uh whether it be the drawings,
+whether it be the how you do your
+specification, if you use the little bit
+more legal ease language versus just
+plain English, um I think there's always
+just a little bit of of more uh
+protection there, I guess, depending on
+what it is that's being written. So,
+>> I I I guess I don't know if we missed
+the boat here, Paul, but Frank said,
+"Happy National Inventors Day,
+everyone." There is National Inventors
+Day. I didn't realize that was today. I
+thought there was a month, too, and we
+would celebrate it when we know. But
+Frank, let thanks for letting us know.
+Paul, it's not on your calendar, is it?
+>> Not on my calendar.
+>> Okay. Well, no, it's not on most
+calendars, but it might be out there.
+There's national what everything day
+these days. It's kind of funny. Um, uh,
+will the sh slides be shared? We're
+going to put it up on, uh, on YouTube.
+We're going to put up the So, if you go
+to InventRight TV, Michelle, um you're
+gonna you're going to see it on there.
+So, you can do that. Um
+uh Cynthia said, "Uh Paul, aren't they
+charging extra to charge to do mail-in
+filings?"
+>> Nope.
+>> No. Okay.
+They do in copyrights, she wrote. Well,
+copyrights aren't even the same office.
+So, it's the patent and trademark
+office. Copyrights, you're shaking your
+head. Copyrights. I you I see you know
+that copyrights of the Library of
+Congress. But yeah, that's interesting
+that they charge you more to mail it in
+for copyrights. Um let's see. Um
+Jeremiah said, "I mailed my application.
+It took a while, but I got the filing
+date receipt back this week. Overseas
+applications are even more complicated
+online. Eventually, it took many emails
+and twice posting documents back and
+forth, but it's done and granted." So,
+Paul, do you have anything um any advice
+for our folks that are overseas? Um I've
+always said there's there's no
+prejudice. You pay the same fee as
+everybody. You can file electronically
+and that was easy breezy, but now you
+got this ID thing and all that and then
+mailing it's going to be a little bit
+more of a pain in the butt. They don't
+have the post office you gave a you know
+prior they don't have priority express.
+So, what's your
+>> we have the the equivalent of that in
+every country.
+>> Yeah. And I I think if they just mail
+it, you don't have to mail it that way.
+You could mail it with a regular
+envelope if you wanted to.
+>> I did mine back in the day. I just send
+it in an envelope and
+>> Yeah. Okay. So, they don't have So,
+don't let that sometimes like one little
+thing changes and it just throws the
+inventor off completely, which is what
+we're experiencing with electronic
+filing right now. which is why Paul,
+thank you so much for sharing this with
+everybody. Um,
+>> so I looked it up and it is uh Thomas
+Edison's birthday and National Inventors
+Day and it is also National Plum Pudding
+Day.
+>> Okay. [laughter]
+What?
+You just you just degraded the whole
+National Anything Day by saying it's
+National Plum Pudding Day, too. Plum
+pudding, huh? How old fashion is?
+>> I don't think I've ever had plum
+pudding.
+Oh my god. Type into the chat if you've
+had plum pudding and you like it or
+don't like it. Type in there. Um
+uh so can't so it seems if you do an
+express FedEx you get the next day. What
+do they restrict you from any services
+on how you mail it?
+>> No. Um, I read something about that that
+I read conflicting things because I read
+one about that certified
+um
+>> if they have to sign for it.
+>> Yeah. But if you did the FedEx or or UPS
+or any of those other services, it's the
+date that they receive it, which I read
+somewhere else that no matter what you
+do, it is the date that the USPTO
+receives it. So that's the safest I
+would go with is it is the day they
+receive it.
+>> Got it. But you can mail at FedEx if you
+want.
+>> Yeah.
+>> Okay. Got it.
+>> Yep. DHL. That's the other one I was
+thinking that they specified.
+>> Okay.
+Um,
+let's see. Eric says, "Uh, will a lency
+ask to see my PPA?" And so, yeah,
+sometimes they will. And that's a whole
+webinar in and of itself. Um, the first
+thing you do when a company shows
+interest is not show them your PPA.
+>> You you want to you want to talk to
+them. What do you like about the
+product? Do you have any concerns about
+the product? You know, have you licensed
+before? So whenever they do that, you
+redirect the conversation and see a lot
+of times Paul's said this, you've said
+this many times, Paul, sometimes the
+person in the company, they like your
+product, they don't know what to ask, so
+they just ask something. And you're
+falsely assuming they're all obsessed
+with the patent when they just wanted to
+ask a question to get the conversation
+going. When you redirect the
+conversation and start talking about the
+product, they're not asking about the
+PPA at all. On top of that, a PPA is not
+public and so you would definitely want
+to have an NDA in place to show a PPA.
+Whereas other than that, you do not want
+to ask a company to sign an NDA. They
+will shut the door on you super fast.
+>> Yeah. So,
+>> get to that point that you're showing
+non-public information, then it makes
+sense why you can justify having them
+sign a P an NDA,
+>> right? that we almost never do that.
+However, in fact, a lot of times we've
+even said, "Don't ever show them your
+PPA." But I know in reality, if it comes
+down to a company being interested, and
+if I won't show them it, it's the game's
+over, I'll show them my PPA. I
+>> Right. I I think it's just, you know, if
+you use the word intellectual property,
+you sound fancy, right? Intellectual
+property is just patents, copyrights,
+trademarks, trade secrets, but you sound
+cool, right? and you sound like you know
+what you're talking about. So you'd say,
+"I I'd be happy to get in the
+intellectual property or the IP at the
+right point in time, but I just want to
+know what are your thoughts about the
+product? Would you take it on? Have you
+done a licensing deal?" Again,
+redirecting the conversation. These
+types of skills are critical when you're
+licensing and to know that just because
+they ask you for the PPA, that's not the
+one thing they're obsessed about. It
+might be if they keep pushing for it and
+pushing for it. oftentimes they're
+worried about if it's something
+protectable. But the the funny thing
+with that is is most of the products
+they they have on the market are not uh
+patented and so they're just asking you
+for something that they don't have
+across the board. But it is nice for
+them to have something that's couldn't
+be easily knocked off. But um most
+things are knock you're able to knock
+almost anything off these days with or
+without a patent. So
+>> true. And one of the things we've said
+for forever, like 26 years, you're not
+selling a patent or a prototype. You're
+selling the benefit of your product. So,
+bring it back to that. And there's a
+right point in time for the intellectual
+property discussion. Um, Sharon wrote,
+"I applied for electronic leave for a
+PPA December 2025. It was horrible."
+Exclamation mark. Did not give up and
+finally with ID. Me represented off
+online, I was able to complete the
+process. So yeah, that's the reason why
+we're doing this webinar. We just found
+it was too difficult for too many
+people. We're not saying nobody's able
+to file electronically, but why not save
+you some hassle and just instead of you
+discovering all on your own that this is
+terrible experience like let us do a
+preemptive strike to let you know
+there's another option and show you how
+to do it. So we just wanted
+>> if you go through that and get snubbed,
+here's your backup plan.
+>> There you go. Yeah, you could try. Yeah.
+>> I've had enough people report that they
+filed theirs fine. It just is the
+majority don't.
+>> Yeah. And hopefully that's not the case
+six months from now or a year from now
+or whenever the patent office chooses to
+tweak things in and make it easier
+without these issues. You know, they um
+let's see, somebody Cynthia uh gave a
+link. It's in the chat. It's uh it can
+do a render. I think she's saying uh it
+could convert a picture to a line
+drawing. There's some software out there
+that will do that. Um you're you're not
+trying to impress anybody with how
+beautiful your drawings are. They just
+need to be easy to understand. Sometimes
+if you include an actual picture, which
+you can do with maybe you print it on
+your printer since you're mailing it in.
+Sometimes line drawings you get more
+definition where everything is. So
+that's why line drawings can be better.
+Um,
+let's see if we can pick some random
+here. Cynthy wrote, uh, you get about
+80% off as a microy. I'm just reading
+what she wrote. I didn't run the
+numbers. If you're a small entity, you
+get 60%. Used to be 50. You can't be
+listed as an inventor in more than four
+patents for a micro entity. So, yeah,
+there are some limitations for a micro
+entity, but they're not going to apply
+to most of you. So, look at those
+limitations. And if I'm not mistaken, as
+soon as yours is 12 months old, that
+doesn't count as one that you're on
+because it's as if it never existed
+unless you moved forward with a
+non-provisional. So
+>> yeah. Yeah.
+>> Don't think because you've done four
+that you're out of the game because
+>> most time people don't ever move forward
+with another one. So
+>> if you never file a full utility. Okay.
+On top of that, I don't know if this is
+accurate or not, but once you've done a
+non-provisional,
+I wonder if that resets your four, so
+you still could be on four more, if it's
+now down to three. That I do not know.
+>> Maybe you know this one. I think he
+Richard said, "If you accidentally paid
+that extra fee, do you get the money
+back?" I've had people that paid as a
+small entity and they paid, you know,
+whatever it is at the time, $300, $500,
+$800. They're like, "Why are you telling
+me I was supposed to pay 65 if was a
+micro entity?" And they they I kind of
+asked them a little bit. I don't ask
+people about their income or anything,
+but and I'm like, "It sounds like you
+might have been able to file as a micro
+entity. Have you known anybody to get
+the money back?" I don't
+>> I doubt it.
+>> Probably. Yeah, I don't think so. Um, so
+Richard, I don't know. You can try call
+them and ask.
+>> You could convert to a micro entity, but
+it would probably cost you to do that.
+And then at least from there forward,
+your maintenance dues or maintenance
+fees on the um patent would be at the
+micro entity level instead of the small.
+So, if you move forward with a
+non-provisional and you inadvertently
+filed as a small and you qualify as a
+micro, definitely have your attorney do
+that because that'll save you thousands
+of dollars uh by being a micro entity
+with a non-provisional.
+>> Man, Cynthia is just a a wealth of
+information like you, Paul. Um she's
+commenting on AI. Just put uh chat GBT
+on temporary mode or claude.ai in ghost
+mode. But I did it with chat today for
+the first time actually. That's not seen
+by anyone but you. If you close the tab
+or window, it diff disappears. Poof. So
+open up a word document and copy
+everything in. And you know that's what
+they say, but we don't know if that's
+true. Personally, I'm comfortable with
+that. So you can go in chat GBT in
+temporary mode, ask it all sorts of
+stuff. If any it's not part of the
+learning model, that's what they say.
+And it just disappears. if somebody
+subpoenaed your chat GBT or something,
+it wouldn't show up in there. Um, that's
+what I've learned recently. Don't quote
+me on that, though, because who knows
+what these Silicon Valley douchebags are
+doing. Making a joke there. I grew up in
+Silicon Valley. I moved uh God, what is
+it, 16 years ago to to Henderson,
+Nevada, and I'm never going back, but
+you can't trust them, man. They're
+they're worse than the suits. Um, but it
+is what it is. I'm just making a joke
+there kind of. Um, so if any Silicon
+Valley douchebags are watching, I didn't
+used to be one, but I grew up there.
+That was never one of them. Um,
+yeah. Okay. Well, I think we're about
+eight minutes over. We had a bunch of
+great questions. A lot of great folks.
+Thank you for joining us on YouTube,
+Facebook, and LinkedIn. And then
+everybody here
+on um on Zoom. Paul, thank you for
+contributing to the community. Basically
+what happened is Paul was telling me
+what he's doing for our students and our
+clients. I said, "Paul, why don't we
+share that with the whole community?"
+He's like, "Yeah, no problem. I'll share
+that." And he's like, "It's not going to
+be the most invigorating webinar, but
+it's going to be very helpful." So, even
+though it wasn't like
+>> just amazing the little things that make
+a big difference just by not knowing,
+you don't have to fill in that one blank
+or this little detail. Um, it just
+simplifies it a ton. So, I'm very happy
+to share the things that we've paid
+we've learned the hard way and we don't
+want you to have to do the same thing.
+>> Yeah. So, this will be up tomorrow or
+the next day at the very latest on our
+Invent TV YouTube channel. So, you'll be
+able to find it up there. So, if you're
+like, I need to take screenshots of all
+that stuff, great. You can just watch
+the video. If you want to just fast
+forward, screenshot what's highlighted
+in yellow and you should be good to go.
+you can watch the video again maybe just
+before you file one or hopefully they
+just fix the whole electronic filing
+system and it's not as clunky you know
+and uh nudge nudge to the patent office
+>> I think all it is is streamline the
+verifi the ID me is all that it really
+would take because the other part I
+think was working pretty decent
+>> oh you know okay good good no people
+don't have this embedded fonts issue
+anymore
+>> no I haven't experienced it
+>> okay Good. Yeah. I think I'm pulling
+from years back. So,
+>> it was a big problem for a long time.
+>> Yeah. Yeah. Okay. All right, everybody.
+Take care. Keep inventing. We'll catch
+up with you next time.

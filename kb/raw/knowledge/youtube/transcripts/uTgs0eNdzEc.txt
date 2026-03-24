@@ -1,0 +1,267 @@
+to my channel.
+In this video, I explain
+how to draft patent claims.
+In this video, I first talk about
+some general considerations
+when drafting patent claims.
+Then I talk about five essential steps
+when drafting patent claims.
+After that I talk about 12 common mistakes
+when drafting patent claims.
+And in the end, I give
+you my favorite strategy
+how to draft patent claims.
+First, some general considerations.
+How can you prove if a
+patent claim is infringed?
+Always have infringement in mind
+when drafting patent claims.
+For example, if you
+want to draft a complex
+mixture of polymers in
+your independent claim,
+then you have to be
+sure that you can prove
+this particular mixture of polymers
+in an infringing product.
+Otherwise the claim is basically useless.
+Then another general consideration is
+can the claims easily be circumvented
+or avoided by infringers?
+Always have the infringer in mind
+when drafting patent claims.
+What would you tell the infringer how to
+get around the patent claim
+that you're just about to draft?
+Now for the five basic steps
+how to draft patent claims.
+What is the invention?
+What are the pieces and
+parts of the invention?
+What are all the details of the invention?
+Are there multiple
+versions of the invention?
+First, you really need to
+understand the invention
+in great detail and
+understand how the invention
+works from the very start to
+the very finished product.
+Try to identify as many
+variations of the invention
+even if the inventor didn't tell you
+or give you a hint or clue about
+the different variations of the invention.
+Then the second step.
+Search for prior art.
+Do a really good, clever
+search for prior art.
+And try to identify as many differences
+of your invention to the
+solutions that are given
+in each of these documents.
+Then there is the two
+part form of the claims,
+which I recommend.
+There is the preamble.
+The preamble is the most
+generic form of your invention.
+For example, a car or a
+hair dryer or a composition
+or any generic form that best
+describes your invention.
+And then there is the body.
+Try to identify one
+feature that differentiates
+your invention from all the
+found relevant documents.
+Or at least try to find
+a combination of features
+as broad as possible that distinguishes
+your invention from the relevant
+documents that you found.
+And this feature goes into the body.
+For example, a car characterized
+in that, and then the body,
+it comprises wheels made of diamond.
+Of course I think useless invention,
+but nevertheless, the
+distinguishing feature
+would be the wheels made of diamond.
+Then a fourth step, make
+sure all that all features
+in the claims are connected,
+physically or logically.
+If the elements or features
+in your claims are not
+physically or logically connected,
+the examiner might object
+to your set of claims
+for not disclosing one uniform invention,
+and raise an objection with lack of unity.
+So you might have to elect
+certain set of claims
+to further prosecute that set of claims
+and you would be forced to
+file a division application
+for the other inventions.
+Then the fifth step.
+Did you make use of all
+different types of claims?
+Do you have a product claim,
+do you have a process claim,
+do you have a use claim?
+For example, you can
+claim a certain product
+then the process for the
+manufacturer of that product
+and then the use of that product
+in a certain application.
+Now let's go to the 12 most
+common mistakes in my view.
+Sometimes I see claims made
+of more than one sentence.
+Do not have more than one
+sentence in any claim.
+Otherwise it will be objected as unclear,
+and it will be difficult to enforce.
+Then there is the misuse
+of the word "and".
+If you have a list of
+different components,
+for example, you have a motor comprising
+this and this and this component,
+then you use the word "and"
+only before the last component.
+The third common mistake.
+There are different transitional phrases
+between the preamble and the body,
+for example, characterized in that,
+or consisting of, or comprising of
+or having, or being composed of.
+Characterized in that
+is the most common transitionary phrase
+and perfectly okay to divide
+the preamble from the body.
+If you use consisting
+of, then you have a very
+narrow scope because the
+following list will be
+a closed list and if the infringer has any
+additional elements,
+they might be out of the
+scope of your patent.
+Comprising, or being comprised
+of, on the other hand,
+is an open list.
+So you have components
+A, B and C in your list
+and even if the infringer
+has any additional
+elements they would still
+fall under the scope of your claim.
+So prefer comprising over consisting of.
+Then there are other
+transitionary phrases like
+having or being composed of,
+and these phrases at least in the US,
+and sometimes also in Europe,
+are objected to for being unclear.
+So just avoid them.
+Then a very important and common mistake,
+inconsistent terminology.
+Always use the exact same
+term for the same concept.
+For example, do not use car
+and automobile interchangeably
+to mean the same concept.
+Then another mistake
+is claiming the result.
+Try to avoid claiming
+the result as opposed
+to the components or the
+concepts to achieve the result.
+Why claiming the result may
+be allowable and exceptions
+typically it is objected
+to for being unclear.
+Then another mistake is too little detail.
+Don't leave anything out of the claim
+that is necessary to work the invention
+and distinguish the
+invention from the prior art.
+Then another mistake is too
+much detail in the claim.
+Try to avoid any features
+that are not necessary
+to work the invention and
+to distinguish the invention
+from the prior art.
+If you have more than these features,
+your claim will be more
+narrow than it should be.
+Another mistake, try to avoid claims that
+broaden the independent
+claim or contradict
+the independent claim.
+The next mistake.
+Try to avoid using
+trademarks in the claims.
+Then another mistake which
+is just a personal view,
+it is not a general recommendation,
+I typically try to avoid
+means plus function claims.
+Why?
+Some colleagues in the US recommend
+means plus functions claims because
+you can get a jury to decide
+on claim interpretation.
+However, sometimes courts interpret
+means plus functions claims
+in a very narrow sense
+limited to the options that are given
+in the description to reach the function.
+Then the last and twelfth
+mistake that I want
+to talk about, the antecedent basis.
+If you first introduce
+a feature in the claims
+use the indefinite
+article, like 'a' or 'an'.
+And if you refer to the same concept,
+the same feature later
+on in the set of claims,
+on the same claim, use the
+definite article 'the'.
+Now for my personal strategy
+how to get a good set of claims.
+First, do a very good
+search for prior art.
+For each of the these documents,
+try to identify as many differences
+to your invention as possible.
+And also try to identify the advantage
+that is connected with
+each of these differences.
+Then try to identify the broadest feature
+that you can find that differentiates
+your invention from all
+of the relevant documents
+that you found and use that feature
+in the body of the claim.
+I have some valuable resources
+and links in the show notes
+for drafting claims.
+I hope I was able to
+explain how to draft claims.
+If you are new to my channel
+and want to keep updated
+about patents, trademarks, and designs,
+subscribe to my channel.
+If you like my videos, hit like.
+I am answering questions in
+the comments below this video,
+and most importantly protect
+your intellectual property
+and go make it count.

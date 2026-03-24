@@ -1,0 +1,178 @@
+For an invention to be patentable, it needs
+to be new, useful, and non-obvious.
+But what does this word non-obvious mean?
+It seems like such a simple word, but
+it's actually pretty complicated.
+For example, what if I build a new
+bicycle, and my bicycle's just like all the
+other bicycles, except that I add colorful handlebar
+streamers to the handlebars?
+Now, the handlebar streamers make my bicycle more
+fun to ride.
+They look beautiful.
+In fact, I might even argue that my
+bicycle with handlebar streamers is even safer to
+ride because it's easier for traffic to see
+and avoid.
+Others might argue that my decorative streamers are
+an obvious improvement to a bicycle.
+They would say that decorative streamers and ribbons
+are well known, that they've been around for
+hundreds, if not a thousand or more years,
+and that merely adding streamers to the handlebars
+of a bicycle to decorate it would just
+be an obvious improvement to a bicycle and
+would not rise to the level of a
+patentable improvement.
+In this video, I wanna talk about the
+legal standards of obviousness with respect to patents.
+What does obviousness mean, and who gets to
+decide whether an invention is obvious or not?
+Hi, my name is John Farrell.
+I'm a Silicon Valley patent attorney.
+Welcome back to my channel.
+Now, as we said at the beginning, in
+order for an invention to be patentable, it
+must be new, it must be useful, and
+it must be non-obvious.
+Now, the usefulness standard is pretty low.
+It's a pretty low threshold to meet, so
+we're gonna set that one aside for now.
+What does new mean?
+For purposes of patenting, new means that others
+haven't invented it, known about it, or used
+it before you.
+New means that you're the first to invent
+it, and you haven't put it out in
+public more than one year since the filing
+date of your patent application.
+Now, the non-obvious requirement is a little
+more tricky.
+Non-obvious means that it would not be
+obvious to combine the known elements of your
+invention to produce predictable results.
+A simple example of this would be a
+chocolate chip cookie.
+If you started with a sugar cookie, sugar
+cookie dough, and you mixed in chocolate chips
+and nuts, and you baked it just as
+you would a sugar cookie, obviously and predictably,
+the results are gonna be amazing.
+It's gonna be like a sugar cookie, but
+with chocolate chips and nuts mixed in.
+We can predict what the chocolate chip cookie
+will look like and how it will taste.
+We would say that combining the known elements
+of this chocolate chip cookie would produce predictable
+results, a predictable cookie.
+But what if we replaced the water in
+our chocolate chip cookie dough with dark rum
+and xanthan gum?
+And after baking this new chocolate chip cookie
+recipe, we found that surprisingly, the chocolate chips
+didn't melt as they did before, and that
+the resulting cookie, instead of being crisp like
+a sugar cookie, was actually soft and chewy.
+We might also find that after the cookies
+cooled, they didn't crumble as much or produce
+as many crumbs.
+Now, I don't know anything about baking or
+chocolate chip cookies except that they're delicious.
+I don't know anything about xanthan gum, so
+don't rely on my recipe here.
+But the point is that if we combine
+these elements and they produce an unexpected result,
+it may be possible for us to get
+a patent on this invention.
+As a general rule, if we combine elements,
+either known or unknown, and they produce unpredictable,
+unexpected results, we would say that this combination
+is non-obvious.
+It wouldn't be obvious to combine the elements,
+and the results themselves are non-obvious.
+So this begs the question of who gets
+to decide whether the results are predictable or
+unexpected.
+We all come at problems with varying difficulties
+of knowledge, skill, experience, and training.
+And each of us looks at problems in
+different ways based on these.
+What might be impossible for me to comprehend
+might be self-evident to you or to
+others.
+The law solves this problem by making up
+a fictitious person.
+A fictitious person through whose eyes we can
+look at a problem and determine whether there
+is an obvious, predictable result or not.
+In determining obviousness, we ascribe certain skills and
+training to this fictitious person.
+We call this fictitious person the person of
+ordinary skill in the art.
+Sometimes it's referred to as the posita.
+This fictitious person is assigned the ordinary skill
+and general training of someone who practices in
+the art.
+If there's a dispute as to whether an
+invention is obvious or not, then a federal
+court judge would assign certain traits and skills
+to this person of ordinary skill in the
+art, and we would evaluate the obviousness based
+on what would be known at the time
+the invention was made.
+Let's say, for example, that I tried to
+patent a chocolate chip cookie with nuts and
+chocolate chips and dark rum.
+And let's say that I did get the
+patent and someone was infringing my patent and
+I decided to bring a lawsuit charging that
+infringer with patent infringement, trying to stop them
+or enjoin them from continuing to bake cookies
+using my patented recipe.
+The defense that they would raise in court
+is that my patent is not valid because
+everybody and their grandmother knew how to make
+chocolate chip cookies by combining chocolate chips, nuts,
+and dark rum.
+The judge in this case might decide that
+the person of ordinary skill in the art
+appropriate for evaluating this cookie recipe would be
+a bakery chef with two years of experience
+in a commercial kitchen or a commercial bakery.
+Then the question to be decided is whether
+this bakery chef, having ordinary skill in the
+art and two years of experience, at the
+time the invention was made, would this person
+believe that the invention was obvious?
+And if it was found that this person
+of ordinary skill would believe this would be
+an obvious invention, then the patent would be
+held invalid for obviousness.
+There's obviously a lot more to talk about
+when it comes to non-obviousness in patents.
+This has just been a high-level look
+at the topic.
+If you'd like to learn more about this,
+let me suggest two Supreme Court cases that'll
+be really helpful in diving deeper into the
+topic of non-obviousness.
+The seminal case is John Deere versus Graham
+where the Supreme Court discusses several key factors
+that should be considered when analyzing problems involving
+non-obviousness.
+And the second case is KSR versus Teleflex
+where the Supreme Court further discusses Deere versus
+Graham and provides some additional guidance on how
+to think about combining known elements.
+Non-obviousness is such a fascinating legal topic,
+but that's really all I have to say
+about it today.
+If you found this video useful, I'd really
+appreciate it if you'd like and subscribe so
+that the YouTube algorithm will help other people
+find this video.
+And if you have comments or questions, leave
+them in the comments section below.
+I'd love to read your comments.
+In the meantime, I'll see you over on
+the next video.

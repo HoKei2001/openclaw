@@ -1,0 +1,133 @@
+[Music]
+hello
+and welcome to inventors quick tips in
+this episode we will be talking about
+the situation where there is a utility
+patent application
+that claims priority to multiple
+provisional patent applications
+so keep away that writes can i write a
+follow-up provisional spec to include
+more features of the invention and in
+general
+the answer is yes and this is a fairly
+common occurrence
+let's take a look at an example let's
+say that on
+august 1st 2020 i file a provisional
+patent application on my invention
+and the invention has three features it
+doesn't matter for the purposes of this
+discussion what the invention is
+so let's just call the features a b
+and c and i'm continuing to work on my
+invention
+after i file that first provisional
+patent application
+i'm improving it i'm refining it and
+after a few
+months on december 1st 2020 i file a
+second provisional patent application to
+capture the improvements
+to do this i simply copy the first
+provisional
+patent application and then edit it to
+add two new features
+let's call the new features d and e
+so now i have five features
+a provisional patent application stays
+pending for one year
+and that cannot be extended in order to
+take advantage of the provisional
+patent application i need to file a
+regular
+utility patent application within one
+year
+since i'm not a last minute type of guy
+i file it on july 20th
+2021 which is just under a year since my
+first
+provisional of august 1st 2020.
+and of course i've been working hard on
+my invention
+so since the time of filing the second
+provisional patent application
+in december of 2020 i have come up with
+even more features
+let's call the newest features f and g
+and with this regular application in
+july of 2021
+i will claim priority to both
+provisional patent applications the one
+from
+august and the one from december
+just to recap my invention has seven
+features
+but they were not all introduced at the
+same time
+here are the dates that each feature was
+introduced
+in the regular patent application of
+july
+2021 i'll have some claims i might have
+a first claim that includes
+features a b and c
+a second claim that includes feature d
+and a third claim that includes feature
+g
+of course in a real patent application
+we'd have more claims with more
+combinations of the features
+but for the purposes of the example
+we'll stop at three claims
+the first claim is supported by the
+first provisional having
+a date of august 1st 2020. the second
+claim is supported by the second
+provisional having a date of december
+1st
+2020 the third claim is supported only
+by the regular patent application of
+july 2021.
+during patent examination these dates
+might come into play
+normally from my experience the patent
+examiner at the patent office
+will try to find prior art references
+that are from before
+august 1st 2020 so that there would be
+no
+ambiguity that they predate your
+invention
+but in some cases they may find a
+reference that is
+after august 1st 2020 but before
+july 20th 2021 to form the basis
+of a rejection of claim three
+and while this example shows two
+provisional patent applications
+i have encountered situations with three
+or four
+provisional patent applications filed
+over the course of a year
+when people are innovating quickly and
+they want to establish
+the filing date for their concepts every
+step of the way
+so to summarize since provisional patent
+applications are relatively inexpensive
+it can be feasible to file multiple
+provisional patent applications
+as innovation continues and then
+file a regular utility patent
+application before the one year
+anniversary of the first
+provisional patent application this can
+be an effective way to protect
+intellectual property as it is being
+developed
+so hopefully you found this video
+helpful if so please like share and
+subscribe
+and thank you for watching
+[Music]

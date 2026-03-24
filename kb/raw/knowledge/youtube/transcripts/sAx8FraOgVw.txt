@@ -1,0 +1,143 @@
+- Obviousness, what is
+obviousness or inventive step?
+I'm Rolf Claessen, patent
+attorney and partner
+with Freischem and Partner,
+and every Thursday, I'm
+publishing a new video
+about patents, trademarks, or designs.
+(dramatic orchestral flourish)
+First of all, something about the wording.
+The European Patent Office
+speaks of inventive step,
+whereas, for example, the
+USPTO speaks of obviousness.
+These are pretty much
+exactly the same concepts,
+and since I'm a European patent attorney,
+I will talk about inventive step.
+Just rest assured, I will
+always mean obviousness as well
+when talking about inventive step.
+In this video, I will show you
+how the European Patent Office
+assesses inventive step,
+or obviousness, and how
+to craft an ideal attack
+based on inventive step
+in opposition proceedings.
+First of all, you would
+find the closest prior art.
+This is, for example,
+a document that teaches
+a very similar concept to
+the concept of claim one
+to be attacked, and it should be in
+the exactly same technical field.
+Ideally, there's only single difference
+compared to the claim
+that you want to attack.
+Then you determine the
+objective technical problem.
+Does the patent application,
+the specification,
+teach any advantage for this difference,
+or with the prior art?
+If the description of
+the patent does not teach
+any advantage, or if there
+is no obvious advantage
+of the prior art, then the
+objective technical problem
+is just to provide an alternative,
+which is the weakest
+technical problem possible.
+So, idea for an attack,
+let's use an example.
+Let's imagine you want to attack a claim
+with a car with four wheels
+and the rear view mirror.
+Let's assume a car with four
+wheels and a rear view mirror
+is not known in the prior art,
+but there is a document that
+teaches a car with four wheels.
+So that would be your closest prior art.
+Then you have the rear view mirror
+as a differentiating feature,
+and the description might
+teach that the rear view mirror
+in a car has the advantage
+that there are less accidents
+because the driver can recognize
+dangerous or speeding cars,
+or any problems behind the car.
+So the objective technical problem
+would be to avoid
+collisions with other cars.
+Once you have defined
+the closest prior art
+and the objective technical problem,
+you have to find out whether
+the solution of this problem
+would be obvious to the
+skilled person in the art.
+So you would have to not only show
+whether this skilled
+person could have arrived
+at the invention by modifying
+the closest prior art
+to fit the invention, but
+also if the skilled person
+would have arrived at the invention.
+So for example, if the skilled
+person would have combined
+a second document that
+teaches a rear view mirror
+for avoiding collisions
+with the closest prior art.
+Ideally, you would find a second document
+that teaches how to avoid
+collisions by a rear view mirror
+maybe in other vehicles than cars.
+And then the skilled person
+would have an incentive
+to combine these two documents,
+because the first one doesn't
+teach the rear view mirror
+and the technical problem
+would be to avoid collisions
+with other vehicles, and then
+there is a second document
+that teaches how to avoid collisions
+by using a rear view mirror.
+So the skilled person
+would have an incentive
+to combine these two documents.
+Going back to our example, if
+we have the closest prior art
+that differs from the claim to be attacked
+only by the rear view mirror,
+and then you find a document with bicycles
+that have rear view mirrors
+to avoid collisions,
+then I think that would
+be quite an ideal document
+to combine this with the car
+document, with four wheels,
+to arrive at the invention.
+I hope I was able to explain
+how the European Patent Office
+determines the inventive
+step or obviousness.
+If you are new to my channel
+and want to learn more
+about patents, trademarks, and designs,
+then please subscribe to my channel.
+If you like the video,
+give me a thumbs up.
+And comments and questions
+are answered below this video.
+And most importantly, protect
+your intellectual property,
+and go make it count.

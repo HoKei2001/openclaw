@@ -1,0 +1,164 @@
+good morning in this video we're going
+to go over how to patent software you
+shall learn what exactly are software
+patents and how are they different from
+other types of patents and how to
+actually go about filing your software
+patent application and if you stick
+around and watch this video to the end I
+will show you exactly where you can
+download a free template and free
+information to get started writing your
+own software patent application my name
+is Brad flash I've been filing patent
+applications for over 11 years I'm a
+registered patent agent with the US
+Patent and Trademark Office I filed over
+500 different patent applications and a
+variety of areas including many software
+patent applications and I'm a certified
+licensing professional so Before we jump
+into software patents let's talk a
+little bit about the different types of
+patents you can choose from when you
+have a new invention if your new
+invention was a new type of plant you
+would file a plant patent if your new
+invention was a new design like a new
+coke bottle design you would file a
+design patent what we're going to be
+talking about here for software patents
+are called utility patents which mean
+they're something that has a unique and
+usefulness to them and so there's
+different types of utility patent
+applications so it's a provisional
+patent application a non provisional
+continuation CIP and divisional and
+that's just a few of them if you want to
+learn more about the different types of
+patent applications you can visit patent
+file org so software patents or software
+patent applications are a type of
+utility patent applications now utility
+patent applications are either
+compositions of matter so these are
+things like widgets or tools the
+traditional things you think of when you
+think of a new patent or a new invention
+but they can also include things like
+methods so in the past say a new
+chemical process our new biotechnology
+process those would all be protected as
+method patents and that's been you know
+around for 100 or so years here in the
+United
+States recently within the past you know
+a few decades people have been able to
+get patents on methods performed by
+software and so that's where the term
+software patents come from they're
+basically any methods that are performed
+by a computer and so software can be
+protected two different ways the
+software code is actually protected
+under copyright and so that's really
+easy to protect your software code by
+copyright but if your software code is
+more than just code you know it's more
+than just a website or more than just a
+blog it's actually a really neat piece
+of software that can perform a new and
+useful method or function then that
+would also fall under the patentable
+category and so you could actually
+protect it by software I mean by a
+copyright and by a software patent you
+should know that it's getting harder and
+harder to get software patents allowed
+you know ten or fifteen years ago you
+could probably get a really broad
+software patent allowed on say a method
+of purchasing an item online adding it
+to a shopping cart nowadays it's you
+know very hard to get those type of
+broad software patents and rightfully so
+I think a lot of people abuse the
+software patent system and so who uses
+software patents all the big
+technologies company all the big
+technology companies do and it's
+probably one of the most valuable type
+of patents you can have at least
+nowadays it's important to know the best
+time to file your software patents a lot
+of developers don't realize this but if
+you publish your software online or you
+make it available for sale you can
+actually block yourself from getting a
+patent if you don't already have your
+patent filed first so I always tell
+people you should really try to get your
+patent filed first at least file a
+provisional patent application it's very
+cheap and easy to do do that before you
+launch your product or launch your
+software because you might lose your
+patent rights if you don't follow it in
+that order now in the United States we
+get this twelve month grace period which
+means if you want patent protection in
+the United States and you did
+launch your software first that's okay
+you have 12 months from the date your
+software first went public to get your
+patent filed and so this is a typical
+timeline if you have your idea you
+should do a kind of basic patent search
+make sure no one else is doing what you
+think is novel build your prototype or
+your alpha or your beta version of your
+software then file your provisional
+patent before you show anyone or have it
+available to the public
+once your provisional patents filed then
+you can do your alpha or your beta
+launch or a soft launch to see how well
+your software is doing maybe find some
+customers find some investors build up
+some buzz about your software product
+then file your non provisional patent
+that has to be filed within a year from
+the date you filed your provisional
+patent and that's kind of the real
+patent that goes through the patent
+process and ultimately issues with a
+patent number and then your patent will
+expire 20 years from the date you filed
+it so there's only two ways that you can
+apply for a software patent or any
+patent for that matter
+in the United States you can hire a
+registered patent agent or patent
+attorney to write it for you on the
+cheaper end that's going to be about a
+thousand dollars we've paid all the way
+up to $40,000 at the University where I
+work for a very complicated software
+patent the second option is to do it
+yourself as the inventor you can write
+and file your own patent application
+yourself and I'll show you how to do
+that in video 2 which is coming up next
+if you do want to download a software
+patent template or see what different
+examples of software patents look like
+you can go to our website patent file
+org slash software so again a video 2
+will show you how to file a software
+patent and what the important things are
+that should be included in a software
+patent if you have any questions here's
+my email address please email me and if
+you like this video if it was useful to
+you please hit the like button thank you

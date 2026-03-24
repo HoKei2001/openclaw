@@ -1,0 +1,435 @@
+please share your thoughts on method
+claims
+sure
+so
+let's begin by discussing why we might
+use method claims
+um
+the primary reason is that they can
+recite less physical structure
+so
+for an apparatus claim of course you
+have to recite the apparatus itself
+as well as its constituent components
+for example
+in the computer implemented invention
+we'll need to recite the processor
+you know maybe a memory maybe some sort
+of network interface
+for computer readable medium claim
+we need to recite
+um
+you know
+probably a processor or an apparatus as
+well
+and those are on pretty
+abstract inventions like a computer
+or a computer implemented invention
+and therefore you know on more concrete
+um inventions
+involving for example robotics
+you know you don't need all the physical
+structure of the robot
+and this comes about because the machine
+or transformation test is no longer
+the clue to eligibility
+all right you know long-term
+practitioners um might remember
+that there was this machine or
+transformation test
+that arose from the federal circuit
+decision in bilski
+um
+and so for a couple of months there
+that's what all of the practitioners
+used was this machine or transformation
+test that's what the uspto used
+and then at the supreme court um they
+reversed the federal circuit they said
+the machine or transformation test is
+just a clue to eligibility
+and since that time of course we now
+follow the alice v
+cls bank case
+and so method claims can be brought
+again we don't have to recite a
+particular machine or transformation
+um
+overall i'd say it's maybe a little bit
+narrower
+than it was in 2007 to
+2008 um
+i don't know if that's alice or if it's
+um
+more more of a
+evolution
+of just patentability
+um but basically your method claims are
+going to be your broadest because they
+have less physical structure
+in addition your method claims are
+easily written
+they can easily reflect the boxes in a
+flow chart
+pardon me for a second
+so for example when you begin drafting a
+patent application
+a common way to draft is to you know
+first draft the claims and the flow
+chart
+it doesn't really matter
+which you're drafting
+first
+because frequently you'll work on one
+and then
+work on the other
+and go back and you know um
+incrementally improve both your flow
+chart and your claims
+but they'll very much track each other
+and so that's a great reason to begin
+your application with your method claims
+right you don't have to worry about all
+the different
+structures that might be involved
+in a
+again for as an example computer
+implemented invention
+in addition it can be difficult to
+incorporate timing into an apparatus
+claim
+a lot of practitioners both foreign and
+domestic struggle with
+how to
+create timing relationships
+between different operations
+so we're talking about language like if
+or in response to or based on
+and that is a lot easier
+with a method claim where
+um
+you know you can just refer you know the
+steps
+the operations themselves
+are the elements and so it's easier to
+create antecedent basis
+and to refer to previous steps
+yes
+sorry
+so
+you know another reason to use method
+claims is that you can also address
+other issues and apparatus claims
+um a common one might be that
+um
+the your examiner
+might insist that the apparatus claims
+have some recitation that uses
+functional language
+or reciting intended use
+and in a method claim
+they'll recite these
+operations as affirmative steps
+right
+and so examiners are more likely to give
+patentable weight to these elements then
+because they're
+uh because they are elements of the
+claim right it's not just some
+configuration it's not just some effect
+that's produced by
+the
+um
+by some other operation of
+a computer for example
+instead these effects
+are
+part of the method
+of
+all right so how do we actually use
+these method claims
+so when we define a broad step in terms
+of a narrow step
+we use the format of um
+the broad portion by the narrow portion
+and here
+this is
+eloquently produced by robert c faber
+in favor on mechanics of patent claim
+drafting
+um and as an example
+we can use um
+communicating
+by transmitting
+in this case
+transmitting is a specific type of
+communicating
+you know another form of communicating
+is receiving
+and so it's broad by narrow right so
+it's communicating by transmitting
+rather than saying transmitting to
+communicate you know narrow too broad
+for every rule though there's usually an
+exception
+and so one of the exceptions i came up
+with is um
+you know
+except for
+um
+to produce
+in this case
+we are
+um
+using this
+production
+of an element
+to establish antecedent basis
+um later in the claim
+and so this isn't quite the same
+situation as transmitting to communicate
+we're doing it for a different reason
+and so that's why we'll have kind of
+this
+um one exception where it's you know
+more like narrow too broad
+um
+this is completely consistent with my
+experience
+i had to learn this the hard way
+um
+you know by prosecuting real
+applications
+but this is
+i didn't know this was the rule this is
+the rule
+um in addition you know when we're doing
+this if we use the phrase like narrow
+to
+broad you know transmitting to
+communicate
+you can also run into issues with
+intended use or functional limitations
+and of course
+that's something we're trying to avoid
+with
+method claims
+[Music]
+next slide please
+so when we craft dependent claims
+dependent method claims
+um
+we have an option to limit either the
+method itself
+such as further comprising
+or some form of structure
+such as you know further defining the
+apparatus
+um you know like some sort of physical
+structure
+by physical structure we often mean you
+know the method
+uh i'm sorry the apparatus or the work
+piece on which the method is performed
+um the apparatus that performs the
+method or the work piece on which the
+method is performed
+we can also define other
+structures as well you know where in the
+packet comprises
+and when we're doing this when we have
+this kind of option as to whether we
+want to use you know further comprising
+and wherein in the same dependent claim
+we'll want to limit the method first
+right
+and so that's what this example is
+showing you know claim to the method of
+claim one
+further comprising
+wherein
+blah blah blah
+and
+you know this this kind of avoids an
+issue where an examiner might not give
+your wearing claws some patentable
+weight
+you know if you have the further
+comprising later in the claim it's a
+little bit risky
+and again this is an issue that
+even u.s attorneys struggle with
+sometimes
+you know they'll do where in further
+comprising
+and they shouldn't
+um
+in addition there's a related issue
+where
+although limiting a workpiece or an
+apparatus is proper in a dependent
+method claim
+frequently
+applicants phrase these claims in a way
+that does not receive much patentable
+weight
+so the issue is not that you cannot
+that an applicant cannot
+include this type of recitation it's
+that the recitation is too broad
+so what do i mean
+if your dependent claim just says you
+know where in the apparatus includes a
+transmitter
+your examiner doesn't have to give it
+much patentable weight because this is a
+method
+claim and so just adding a transmitter
+adding some physical structure to you
+know the apparatus that performs the
+method
+doesn't impact the patentability of the
+method
+and so
+it's really easy for your examiner to
+reject it it doesn't mean your claim
+isn't proper
+it means that
+it's it's it's you know at the uspto
+it's the broadest reasonable
+interpretation and that's the broad
+interpretation
+so we talked about prosecution let's
+talk briefly about enforcement
+um
+computer implemented method claims can
+be difficult or impossible to enforce
+if portions of the method are performed
+outside the u.s
+and this is just from the ntp versus rim
+case from 2005.
+i don't know anything that's addressed
+this issue head on you know the issue
+pertains to extra territoriality
+i don't know anything that's really
+address this
+in terms of a work around
+but what i try to do is to rewrite
+portions of my method claims into a
+wherein
+clause rather than an affirmative step
+if it's something that i think is likely
+to be performed in another country
+right
+so maybe
+you know some sort of data is
+transmitted from canada into the united
+states
+and
+you know if my method claim says
+transmitting
+you know maybe there's some issue where
+that's not actually transmitted
+in the united states the transmitting is
+performed in canada
+if we recite it in passive voice
+as you know wherein the data is
+transmitted
+we might have a stronger case for
+enforcing this patent
+i don't know you know i haven't i'm
+i haven't uh
+really seen anything on this issue
+but it's a possibility and certainly um
+there's an incentive to be a little bit
+creative
+when we
+um
+draft or translate our method claims
+is
+okay next slide please
+sure so what can patent agents do
+um
+you can start application drafting with
+your method claims
+um you know again this isn't going to be
+for every
+uh
+invention but particularly for computer
+implemented inventions or for similar
+things like telecommunications
+you know draft your method claims first
+usually in conjunction with your
+flowcharts
+be sure to present method claims in the
+united states
+uh remember that remember that you get
+three independent claims for free
+there's no government fees for your
+first three independent claims
+um you know that's different than
+in japan
+if we're
+talking about a case that's being
+foreign filed from japan in any
+countries not just the united states but
+also europe
+um
+you know these claims might be used to
+guide prosecution certainly
+when american applicants file in europe
+um
+you know where we have this sense of
+having three independent claims
+a lot of times our
+claim sets look like you know one
+through ten are
+method claims
+and then 11 through 15 are
+what americans call dependent claims my
+understanding is that they're
+independent in europe
+um but
+they're they're basically apparatus uh
+claims that depend from the method
+claims or computer readable medium
+claims that depend from the method
+claims and so again your method claims
+are kind of the center piece of the
+prosecution
+and there are tips on other slides as
+well um you know like the extra
+territoriality issue
+um
+for method foreign
+so
+what can translators do
+um we'll want to structure method claims
+as broad by narrow
+rather than
+you know performing the narrow step two
+or from the broad step
+we'll want to reorder our dependent
+claims to limit the method first rather
+than the uh wherein first if
+the dependent claim uses both
+types of limitations
+and if there's not already method claims
+in the application for some reason you
+know which is common in japan where
+applicants have to pay by the claim
+uh maybe suggest method claims to your
+clients if there aren't already those
+claims
+you know you're already in there you're
+already translating it you know
+translating the apparatus claim
+um i think a client would be thrilled if
+you offered
+um an additional method claim at you
+know
+no or small extra charge
+um
+because it's an unexpected service
+foreign
+foreign

@@ -1,0 +1,81 @@
+what is a software patent a software
+patent is a property right that protects
+computer programs unlike software
+copyright which protects the expression
+of an idea a software patent protects
+the invention itself in the United
+States software is considered patentable
+if it meets certain criteria to be
+eligible for a software patent the
+program must have a commercial or
+industrial application it should be new
+unique and not obvious to others in the
+industry it's worth noting that
+copyright protection for software is
+automatic in 151 countries under the
+burn Convention as such any software has
+automatic copyright protection in these
+countries this protection lasts for your
+entire life and potentially up to 70
+years after your death however patent
+protection requires a separate
+application in each desired country
+alternatively you can pursue
+International protection through the
+patent cooperation treaty Define your
+software before you can apply for a
+patent you need to specify various
+aspects of your software this ranges
+from the overall design to small details
+so you need to be thorough providing
+this to your software patent attorney
+will help them secure the best
+protection for you some questions you
+can ask to help with this include what's
+the overall purpose of my software what
+makes my software unique how does my
+software deal with information what
+problems does it solve what's the UI
+like what elements of it do I want to
+protect do your research research
+computer program similar to yours this
+will help you highlight what makes your
+software unique in your patent
+application This research should be
+extensive you might even find other
+existing patents that could view your
+software as an infringement on their
+patent you'll need to work with an
+experienced lawyer to do this research
+property work on the application your
+application should contain information
+on the system your software is for a
+flowchart showing how the software works
+and other flowcharts showing how your
+software achieves its purpose flowcharts
+make it easier to understand the various
+elements of your software machine or
+transformation if your software passes
+the machine or transformation test it
+will much easier to get a patent for
+this you need to show that it's tied to
+a machine or can turn one thing into
+another it's possible to get a patent
+without this but significantly more
+difficult so it's something you should
+aim for rely on your attorney working
+with a qualified lawyer will ensure that
+you get everything right throughout the
+process this is especially important
+when drafting your application having a
+patent attorney assist you will make it
+less likely that the US PTO will reject
+your application Berkeley law and
+Technology Group is an intellectual
+property Law Firm that specializes in
+turning Innovations into patents we can
+help ensure your software patent
+application is completed properly take a
+look at our software patent page today
+to find out more about how we can help
+you

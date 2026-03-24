@@ -1,0 +1,1708 @@
+here we go
+all right hello inventors and
+entrepreneurs my name is Andrew Krause
+and I'm one of the co-founders here at
+inventor groups of America
+Stephen key and myself co-founded a
+company called inventrite 23 years ago
+where we coach and Mentor inventors to
+license their products now through that
+company invent right we've spoken to
+inventor groups across the country for
+over two decades a really long time we
+realized that there was no one out there
+supporting inventor groups so we started
+IGA inventor groups of America to do
+just that then we decided to expand our
+help to include free educational
+webinars like this for inventors
+everywhere in the United States and
+around the world
+at IGA we provide individuals with
+options on how to best commercialize
+their product ideas as well as
+strengthen and support in better groups
+throughout the US and the world we have
+a directory of local and Regional
+inventor groups on our website
+if you are located near when we highly
+encourage you to join
+we would love to hear your name and what
+state or country you're from so open up
+the chat box right down there at the
+bottom click on chat and let us know let
+us know what state and Country you're
+from and also type in a note if you're
+new to IGA and this is your first time
+you're attending one of these meetings
+please do not disclose anything that is
+confidential and is not already publicly
+available even if it's in a private or
+to the entire audience in the chat just
+don't disclose anything that hasn't
+already publicly available that you want
+to keep confidential if you have any
+questions for the speaker please type in
+the chat as they come to you we'll
+choose a few questions or maybe quite a
+few questions to answer at the end or
+maybe even during so it's kind of a
+it'll be fun I think you guys are really
+going to enjoy this if you're new to
+this and hey if you're coming back you
+must have enjoyed it enough to come back
+at least one more time so now I'm going
+to turn things over to iga's director
+Madeleine key who's going to introduce
+our very special guest today Madeline
+thank you Andrew hello inventors and
+inventors groups of America I'm so
+pleased to see so many of your faces
+today it's wonderful to be gathering
+again I'm extremely excited for this
+meeting because we have with us The
+Talented Mr Eric Blatt uh today Eric is
+a patent attorney at scale LLP prior to
+becoming a patent attorney he reviewed
+patent applications at the USPTO for six
+years
+I'm particularly excited to have Eric
+with us to discuss everything you've
+ever wanted to know about patent
+examination because today as a patent
+attorney he advises emerging companies
+on intellectual property and strategic
+transactions he is fully aware that
+inventors don't only need to patented
+and prototype their ideas they need to
+have a plan for getting to Market and
+they need to think about their
+intellectual property with that plan in
+mind he serves as a mentor with several
+accelerators including the U.S Navy's
+sbir sttr transition program the
+department of energy startup studio and
+Georgetown University's Venture lab so
+although today we're going to be
+focusing uh mostly on patent examination
+there are so many things Eric could
+speak to and I highly encourage you to
+follow up with him on LinkedIn and
+follow his work that's where I got to
+know him on LinkedIn he's an extremely
+helpful person so Eric welcome to IGA
+and thank you so much for being here
+Thank you Madeline it's a pleasure to be
+here and I'm honored to uh to be invited
+to speak with your audience
+um I was thinking that I should do an
+introduction to myself for myself but
+you've covered all the bases so um thank
+you great job
+very glad to hear it
+um just so you all know Eric has
+prepared some slides so we're going to
+start there with kind of some basic
+information and we know you really would
+prefer to have your questions answered
+so we're going to start doing that after
+we've heard some of this basic info
+um and feel free to take it away or all
+right awesome
+um so it's nice to meet everyone and I
+apologize in advance I I went for a run
+like 20 minutes before this webinar so
+my face is a little bit flushed I don't
+normally look like this but um it's nice
+to meet everyone
+um so I'm I'm gonna I do have some
+slides that I'm going to
+um talk through just have a little bit
+of direct presentation so we can get a
+little bit of content out there
+um I would very much like for this to be
+um you know a live discussion if people
+have questions I'd love to answer those
+um as Madeline highlighted I have a
+little bit of an interesting perspective
+I worked at the patent office for six
+years I reviewed hundreds maybe
+thousands of patent applications I
+have done a lot of patent litigation for
+very high-end firms in in big cases I
+understand how patent patents operate in
+a business context how they operate in a
+federal district court how experts opine
+on them and then I also have
+um experience navigating patent
+litigation inside the patent office
+before the patent trial and appeal board
+I understand what sorts of issues tend
+to pop up there what types of arguments
+are persuasive and how to position
+um a patent for for optimal likelihood
+of success in that format um and then
+the final area is I work
+um you know a lot of patent attorneys
+really focus on surveying a small number
+of very large companies
+um and they're really optimized for
+receiving you know an invention
+disclosure in a standard format
+converting that into a patent
+application
+Prosecuting it before the patent office
+where the stakes are kind of low because
+it's patent number you know thirty two
+thousand one hundred and forty one
+um and they're just trying to you know
+get their numbers to the point that it's
+acceptable to the client
+um from my clients I tend to do patent
+number one or I tend to do patent number
+five or number ten
+um and that's that's a different
+framework
+um both because the stakes are higher
+um also potentially because the the the
+financial constraints are are more
+stringent
+um and then also because
+you know with the business model for
+patent number thirty thousand is pretty
+simple we're just trying to increase our
+patent count um every once while you'll
+get a high value patent where you know
+something is infringing uh or is going
+to cover a standard for example and
+there's some money there
+um but for a small business a solo
+inventor
+um for someone who's filing patent
+number one the strategy is is much uh
+more nuanced because a lot of times
+you're filing patents to serve your
+business objectives it's not necessarily
+about protecting something in the
+abstract sense where you know you can um
+you can go sue someone for a patent
+infringement but it's about projecting
+value and having a chip that you can
+trade at the at the negotiating table so
+I I understand all those issues I'm very
+attuned to working with with folks from
+that mindset and I like to think that um
+by working in that space and really
+specializing in that space I hope that I
+do a little bit better job
+um so with with that intro I'll I'll
+walk through the the content I have here
+this this slide deck is really kind of
+inside baseball how the US Patent
+Trademark Office Works from a practical
+perspective what are examiners doing
+what are they thinking and what kind of
+arguments can you make so that you're
+arguing downhill and that you're you're
+making arguments that are going to be
+maximally persuasive to your audience
+so hopefully the slide that okay here we
+go
+all right so um a lot of my clients will
+come to me and the first conversation
+they'll have is they'll say hey we have
+a cool idea we want to patent this cool
+idea that we came up with
+um or maybe they've been working with
+another firm and they've been patenting
+what they've been doing I think that's
+nice I don't think it's quite optimal I
+think what you should really be thinking
+about from a patent perspective is how
+do I get patents not only on the
+specific thing that I'm doing but how do
+I get patents that my competitors or
+that the the people that are the
+companies that are going to license my
+IP how do I get patents that cover what
+people are going to need to do to have a
+really effective product
+so that's a little bit of a different
+analysis because you're not thinking
+about the specific features in your
+product you're thinking about where the
+market is going and how the features
+that are in your product map to what you
+could get that's going to block you know
+that particular line of Commerce that
+you're that you're interested in in
+controlling the IP for
+um so you don't necessarily want to Pat
+and what you're doing you want to patent
+what your competitors are going to do or
+your license licensees are going to do
+um other things that you want to think
+about From patenting perspective you
+want to patent things that are
+detectable if you have something that
+lives on a back end maybe it's a
+manufacturing process maybe it's um you
+know some software and a SAS service
+those things can be good for patenting
+there are reasons to do that but ideally
+you want something where if someone does
+use that technology you could see that
+they're doing it where you can see what
+they're doing and have a pretty good
+inference that they are doing what your
+patent claims over under the hood
+because that allows you to approach them
+and say hey you're infringing my my
+intellectual property you know pay me a
+license or bring me into the table and
+let's do business together the other
+thing that um and that also works the
+other way right so if you're launching a
+product if something's on the back end
+and no one's ever going to see it it may
+be less important for you to have a
+patent on that um just because your
+competitors aren't going to know know
+that it's happening and you can keep it
+as a trade secret and protect the value
+that way
+um the other thing that I I encourage
+people to think about is a patent isn't
+good for one year it's not good for five
+years it's good for 20 years so if you
+can find something that's going to have
+value for the full length of that patent
+and it's going to be foundational not
+just for what you're doing but for
+future development
+um that's that's the the ultimate win
+obviously not every invention needs all
+these boxes so sometimes you file
+patents on the things that don't meet
+all those boxes but that's kind of the
+ideal case for patented Eric can you
+give us the the one minute talk of what
+a trade secret is advantages and
+disadvantages of course a trade secret
+is essentially secret information that
+that provides value for the by virtue of
+its secrecy
+um so you know people when people say
+Trade Secrets the the formula for Coke
+is is what everyone goes to I don't know
+that the formula for Coke is really a
+trade secret I suspect that if you're a
+chemist you could probably get a pretty
+good idea of what the formula for Coke
+is
+um but essentially
+you when you're thinking about do I want
+to patent this or do I want to keep it
+as a trade secret
+I suspect that I mean so with software
+if you can build software
+um and someone's going to license your
+software that's something where where
+potentially you can do licensing without
+a patent um if it's a product and you're
+you're really committed to
+um getting uh having the IP on that
+product and monetizing the IP you
+essentially I don't I never want to push
+people to patents because patent
+attorneys do that all the time and a lot
+of my clients don't file patents because
+I do other things than patents um but I
+do think if if the goal if you have a
+product and and you want to license it
+you almost have to you almost have to
+file a patent application on it because
+otherwise you're not going to have
+something you're not going to have a
+trading chip that you can bring to the
+table
+um does that answer your question Andrew
+yeah yeah that was good thank you
+I'm actually going to pop in with a
+quick question as well because this is
+already fascinating
+um so let's say that inventor comes to
+you they want to patent what they have
+what they've invented what they have and
+you're asking them to think about
+patenting a little bit differently
+specifically when you're saying okay
+what are your competitors doing do you
+have some tips and advice for how they
+should go about doing that research or
+if they really haven't been thinking in
+that way do you then become kind of
+their their business strategist in that
+sense or do you encourage them towards
+some external resources because to me it
+almost sounds like rather than that
+typical patent attorney who's like yeah
+I can get you a patent you're doing that
+advising to to really get the inventor
+to be like thinking about their business
+plan is what it sounds like to me uh
+that is absolutely true I mean I I want
+to stay in my Lane to some extent
+um both because people go to a patent
+attorney and they're looking for legal
+guidance they're not necessarily looking
+for business guidance and then also you
+know I realistically I don't have time
+to spend five hours on on business
+strategy for everyone but I do I do want
+in those initial calls I do try to put a
+genuine effort into figuring out does it
+actually make sense to file a patent
+here are you going to get the ROI on
+this that justifies the spend and if the
+answer to that question is we don't
+really have much of a business plan here
+it's just we're hoping to file it and
+hope
+um I generally I don't really want to
+file a patent application that the
+client is later going to regret so I
+sort of say you know if you want to file
+this I'm happy to help you you know my
+my job is to be a service provider but
+essentially you know I would I might do
+this Pro Se right I might file a quick
+and dirty provisional patent application
+just so you know you have something on
+file and then go talk to people and see
+if there really is interest in the
+market because it just it it doesn't it
+doesn't make anyone happy to file a
+patent where there's no business
+strategy behind it I mean in terms of
+kind of helping coach folks through that
+process of identifying where the market
+is going
+um my experience has been that most
+people do have a sense for which
+companies are likely to do X
+um and usually you can think through
+um if someone is going to move if the
+Market's going to move in this direction
+what are most likely people going to
+have to do
+um and so usually that just winds up
+being a conversation or I'll suggest you
+do a little bit more research I have had
+folks with it they come to me and they
+have sort of
+not fully formed ideas of what the
+market looks for and sort of what the
+state of the art is and in those cases
+I've suggested do a patent search
+um and I've you know a lot of times you
+can do a patent search on your own
+there's some tools that I recommend and
+I've I've done a whole lot of patent
+searching so I can do a little bit of
+coaching on that
+um and then there's also there's also
+vendors who will do a pretty good patent
+search for 500 bucks so that can be a
+good option as well to just kind of
+check what you're doing
+great info thank you
+all right so
+um what is the what's the expectation
+when you file a patent application what
+kind of timeline are you thinking about
+um you hire a patent attorney you're
+mostly like going to draft a patent
+application for one or two months
+sometimes it takes a little bit longer
+depending on you know how quickly the
+documents come in how quickly drafts are
+reviewed
+um then people are often surprised about
+this um you don't file it and then the
+examiner picks it up the next day you
+file it and you wait one to two years
+and then the examiner finally picks it
+up sometimes it's even longer than that
+um
+and most of the time about 80 of the
+time you're uh statistically the the
+first communication from the patent
+examiner is going to be what's called a
+non-final rejection
+um there's a whole bunch of reasons that
+examiners reject things most often in
+the first instance
+um one of the reasons is it's the
+examiner's job to review your patent
+application
+um do a priority search and come up with
+some sort of good faith basis to reject
+the patent application if possible and
+if they allow things to frequently it
+sort of looks like they're not doing
+their job so sometimes you know that
+first communication is reasonable as
+well reasoned they find good prior art
+then you have to figure out how to
+respond other times it's way off base
+they did a keyword search and they found
+some keywords in a prior reference that
+have while it's the same word it really
+has absolutely nothing to do with your
+technology so you receive that and you
+figure out how to respond
+um you know Eric I I just wanted to
+comment on that point right there
+it boggles my mind how infrequently
+attorneys explain the process to their
+clients
+because I talked to so many inventors
+where they're freaking out oh my God
+they rejected everything they came back
+they finally examined it they rejected
+everything why don't attorneys explain
+that to their clients and you're saying
+that's extremely normal I mean we're
+talking like what 95 of the time at
+least yeah
+yeah why why is that
+I can't I can't speak for her for why
+everyone is why everyone is doing that I
+I do try to set expectations and give
+people an understanding of what the
+pathway is
+um
+I don't I don't I I really can't
+speculate I think the attorney is like
+oh I'm gonna come in and save you but
+but what they're not telling the client
+is like this happens almost every time
+and then they're gonna come in and save
+it it's just like it's just I don't know
+just you don't have to comment on it it
+just seems so silly the USPTO doesn't
+share that either and so it you know
+there is that's not a fact that they're
+promoting as well and so I think this is
+exactly why we're having events like
+this is this this does need to be like
+common common understanding right
+yeah there's a flip side there too which
+is I I said that that examiners are
+supposed to do examiners want to look
+like they're doing a good job they're
+supposed to do a thorough priority
+search they're supposed to reject it if
+possible sometimes someone comes in with
+a patent claim that truly is patentable
+um and there's no reasonable basis to
+reject it so the examiner just allows it
+um and other times The Examiner really
+doesn't do a perfect job searching and
+you know it's they're up against the
+deadline and they got to make a decision
+they don't have a reason to reject it
+because they didn't they didn't quite
+search it quite thoroughly enough and
+sometimes they those slip through the
+cracks too and they wind up getting
+allowed when they really should have
+been rejected
+um and in in those situations the the
+patent D to some extent you're happy
+because you got the patent but in other
+respects you have a patent that might
+not be that enforceable
+um and you have there's a whole bunch of
+inventors out there who get a patent
+that's just really broad
+um and they're they're thinking you know
+this is the the patent certificate is on
+it the SP to seals on it um they're told
+that it's enforceable you get a
+presumption of validity but the reality
+is that the examiner just kind of messed
+up in that particular case and so that
+there's another kind of mismatch of what
+inventor expectations are to the reality
+because if you go and you try to enforce
+that patent a lot of times a lot of
+times you're going to lose
+um and so it's just I I think there's a
+lot of sort of information that's
+missing from from folks who don't work
+into space sure
+um okay so you get that first office
+action
+um about 80 of the time it's going to be
+a non-final rejection 20 of the time
+it's going to be an allowance
+um then if you get the rejection you
+basically write letters back and forth
+with the patent examiner you can also do
+phone calls the end goal is to get to an
+allowance the patent examiner says you
+know what you've persuaded me this is an
+allowable patent uh application I'm
+going to issue it then there's a little
+bit of lag and then finally at issues
+um note that um if you have something
+that really truly is valuable
+um you most likely should not consider
+this the end of the process the patent
+issuance
+um if if it's something quick and dirty
+and you just want to get the patent okay
+you're done you've spent enough money if
+you have something where it's really
+going to be your business
+um this is your foundational patent
+application for the business I would
+almost always encourage you to file a
+continuation keep another patent
+application pending at that point
+because for all sorts of reasons
+including the patent validity note that
+I just highlighted you're going to want
+to as long as you have a patent
+application pending you can go back and
+you get different claims you can get
+claims with different scope you can see
+how the market is evolving and you can
+get patents that are going that are
+covering where the market is moving and
+then you can also if you do want to you
+know enforce or or take a more assertive
+licensing posture
+you can say Hey you know this this claim
+is pretty broad we're pretty happy with
+it but we want a really validity proof
+it and make it much more robust to
+validity challenges so if we do assert
+it it's going to be much harder for for
+the infringer to escape you can do all
+those things if you have a continuation
+pending you can't do any of them if you
+don't file the continuation before the
+first patent issues Erica I want to
+share a cost-effective version I share
+with our invent right licensing students
+quite often people and I want to get
+your take on this people will file a
+full Utility Patent they're so proud
+that it got issued and if it's in a
+really difficult industry like it's a
+medical device or some in industry where
+they kind of beat you up in the patent
+area a little bit I go well that's great
+you know but you're in a difficult
+industry I would recommend filing a
+provisional patent for sixty dollars
+because they can take a look at your
+issued patent they can see what you got
+what you didn't get and if you have a
+provisional pending for just another
+sixty dollars can you say patented and
+patent pending you're going to keep them
+guessing because they can't see that
+provisional so there's an extremely cost
+effective way to keep them guessing for
+sixty dollars without even a
+continuation
+uh so the are you talking about so is
+that you're making that recommendation
+before they file the first patent
+application or no after let's say they
+have an issued patent they're really
+proud of it but they're still a little
+worried I'm still worried somebody might
+knock me off or or I'm they're so proud
+that they have this patent in it but
+what I tell them is pending patent
+pending is a great thing because people
+can't see what you got what you didn't
+get yeah but once it's issued you know
+exactly what you got so they know
+exactly how to work around you but if
+you file a provisional for 60 bucks in
+addition to that issued one it could
+have nothing significant in it you can
+say patented and patent pending and you
+can keep them guessing when you're
+Licensing in the licensing world yeah
+that's fair that's fair um that
+provisional for for 60 bucks I honestly
+if I had something that I thought was
+valuable I probably would just go ahead
+and pay for it for the the
+non-provisional continuation I think
+that's 664 dollars of filing fees
+um versus 60.
+um the reason is if if you don't do that
+then you can't continue to get claims
+off their original filing date you need
+to do the non-provisional to be able to
+preserve that that priority date and get
+get more patents the provisional it's
+true that it's it's non-public and it's
+also true that you can continue to say
+patent pending it's just not going to go
+you're not allowed to have the
+provisional go back to your original
+filing date so I understand yeah yeah it
+might be a new new material yeah exactly
+exactly
+anything that happened in that
+intervening two years is going to wind
+up being prior art unless you do do the
+non-provisional right sure just to be
+sure I I don't know
+that much very much at all about the
+continuation so if I understand that
+let's say you you would want you gave
+the example of this is a this is a
+broader claim we want to get more clear
+about that would you be able to add
+anything more to your application at
+that point or just make it more specific
+if you choose to continue it and is
+there how many times can you file a
+continuation as many as you want
+um it's just a so the rule is if I file
+my first patent application let's say I
+filed it in 2020 and now it's 2023 and
+my patent's issuing
+um I can I get the claims that are going
+to issue but if I want more claims I
+file a continuation so a new patent
+application is going to have its own
+patent application number before the
+first patent issues so patent one is
+issued now I'm filing patent application
+two patent application two because it's
+a continuation goes back to that 2020
+date so all the Publications and the
+prototypes and the market moving in the
+last three years none of that is prior
+art I get the best benefit of that 2020
+date
+you're not allowed to add new matter but
+what you can do is you can sift through
+your original disclosure and try to
+piece together
+um you know sentences and figures that
+you had and just kind of strategically
+pick the things that are most valuable
+and most important from a from a
+patentability validity and infringement
+perspective and sort of tailor a new
+patent that covers whatever your
+business goals are whether that's
+broader claim scope or whether that's
+more targeted to what where the market
+is moving and the other Advantage is um
+you get to go back to the same examiner
+and you probably have a pretty good feel
+for that at that point for what the
+examiner thinks is likely to be
+patentable so you wind up it winds up
+being pretty cost effective because you
+sort of know what you need to say to get
+the patent through oh I love that okay
+great thank you that's fascinating but
+all all along though we're paying an
+attorney to do all this so you mentioned
+a patent office fee that's never the big
+cost it's the past that's the patent
+attorney that's the cost yeah that's
+true although the continuation so you
+know if you want to file a brand new
+patent application you have to do a
+description
+um and figures and that market rates for
+that tend to be in the range of eight to
+twelve thousand dollars for for pet
+attorneys um the continuation all that's
+done um you're just doing the claims
+um so you know continuation might be six
+hundred dollars of USPTO fees and 800 or
+a thousand dollars of legal fees it it
+doesn't I mean
+at least for for most of the companies
+that I work with that that tends to be
+fairly inexpensive in the scheme of
+things sure
+it's got info
+so I think people we can probably skip
+over this slide you want to get patents
+um and you want to minimize your costs
+uh understanding your Examiner
+so let's say you you file your patent
+application your weight your your 18 to
+24 months um finally gets picked up by
+Pat examiner who's the person that
+you're dealing with
+um number one the patent examiner is
+highly motivated by something called
+it's called account system this is the
+way that patent examiners performance is
+measured by by their employer by the
+USPTO
+essentially what the count system is
+every time an examiner does an office
+action either rejection or allowance
+there's a certain number of counts that
+they get and basically time credits work
+credits um they need to get a certain
+number of work credits every two week
+period every quarter and every year so
+essentially they need to roughly this
+this says they need to get account
+roughly every eight hours or so it
+depends a little bit on the examiner's
+seniority and it depends a little bit on
+which group work group they work in
+however it comes out to about one count
+per day give or take
+the examiner's care a lot about this
+this is basically how examiners continue
+this is this is what examiners are
+trying to do when they're working
+they're trying to get counts and
+presumably This Is How They also move up
+in the ranks and yeah promoted and maybe
+even get bonuses things like that if
+you're at 110 of your production you
+have 10 more counts than you need for
+your seniority then you get promoted if
+you have 90 or 80 then you get a lower
+rating and you're potentially at risk of
+being fired so it's you just have to hit
+your quota
+got it
+um the examiner's job as I said the
+examiner's job
+it's very easy if you have signatory
+authority if you're a senior patent
+examiner that's gone through the process
+to sign allowances it takes almost no
+time if you just wanted to do a bad job
+to look at a patent application and say
+you know what I couldn't find anything
+I'm going to allow it right so that
+if an examiner we're not ethical they
+would just allow everything that's the
+easiest way to make their counts
+however the examiner's job is to find a
+sound basis to reject the patent
+application so they do need to do a
+priority search a priority search they
+might spend two three four five six
+hours somewhere in that range and then
+they so what the examiner does they pick
+up the patent application they look at
+the claims patent examiners I talk to a
+lot of people who who talk about how how
+great their patent specification is how
+great their figures are the patent
+examiners don't don't read the
+specification for the most part a small
+minority will spend a little bit of time
+reading it but specifications are very
+long and they're actually not all that
+relevant to patentability for the most
+part pretty much everything turns on the
+claims so the exam is going to turn to
+the claims make sure they understand
+what the invention is or do their best
+to understand what the invention is they
+have a question they'll go to the
+drawings and the specification for that
+but also they're going to look at the
+claims then they'll do a priority search
+that's a mix of of keyword searching and
+then something called classifications
+they'll find the the priority that they
+think is best and in five hours they're
+about and then they have to write a
+legal analysis
+um called an office action so all that's
+all that's pretty abbreviated to
+understand the invention do a priority
+search and do a sound level uh analysis
+um and if if they can't come up with a
+good basis to reject the patent
+application that's when that's when
+they're supposed to allow the patent
+applications
+you said there was about five hours for
+comprehending the claims researching
+them and deciding how to respond to them
+definitely yeah okay that's not a lot of
+time so you would that would really
+behoove those claims to be written in
+such a way that the patent examiner can
+understand I would imagine or understand
+quickly yeah
+um so that's that's true you want to
+make sure that patent examiner
+understands that when you're when you're
+drafting claims it's actually just as
+important to make sure you understand
+so a lot of a client a claim is
+essentially a series of bullets more or
+less you don't use bullets but use
+paragraph spacing but it's just a series
+of elements right and I would encourage
+people to try to draft those elements
+and so they understand which of those
+elements cover what's in the prior art
+and which of those elements are novel
+um just make sure you're spending a lot
+of effort with those elements that you
+think the point of novelty so that they
+really pop out for the examiner and that
+it's it's drafted in a way that's going
+to be hard for the examiner to find a
+prior reference that discloses just that
+it tends to be easy for an examiner to
+say here's five elements four of them
+are on the prior prior reference a and
+the fifth element is a private reference
+B I'm just going to combine those so if
+you just have all of your elements be
+something that these patent examiners
+going to find in the prior art you're
+going to walk into an obviousness
+rejection almost every time so for that
+limitation that element that it's
+supposed to be your point of novelty
+just put some time into drafting it in a
+way that the examiner is unlikely to
+find prior art for that okay I I have a
+quick question for you Eric I want we
+people are you typing a lot of questions
+here but
+um how do you this is such a broad
+question I'm going to throw it at you
+anyway how do you know your patent
+attorney is doing a good job
+so it's very very difficult from
+um I mean if if I were to look at that
+work I could tell whether the work is
+substantively good or bad
+um but if I I'm if I like hire an
+electrician I can't tell whether the
+electrician is doing a good job or not
+um it's just you know it's very um
+domain specific
+um I guess what I would what I would say
+is there's certain there's certain signs
+that you can look for
+um number one
+with all of my clients
+um I want to um
+make sure I understand the business case
+I want to have a conversation with them
+about what we want the patent to do make
+sure I understand what the claim
+strategy is with
+um and then I I always send to the
+client the claims for their because the
+claims are the heart of the patent
+application
+um the the specification and figures you
+have to have them they have to describe
+what it does but the patent examiner
+isn't really going to look at any of
+that stuff they're only going to focus
+on the claims and in a lawsuit it's
+really all the clients licensing it's
+all the claims the claims are 99 of the
+value of the patent application uh and
+so I I send the claims to the client
+first I tell them how to review the
+claims this is what you need to look for
+this is what doesn't matter so much I
+want your input on these things and I
+want I try to bring the client in on
+that drafting process from the start and
+so we have you know a joint vision of
+what that patent application is going to
+look like would it would it be fair to
+say that if your attorney isn't asking
+you questions and not involving you
+that there there's a chance there's a
+good chance they're not doing a good job
+oh they're going off on their own and
+they don't they don't yeah what they're
+going to give you is not going to be
+useful excellent okay
+very helpful
+but I again I I think it's I would be
+thinking about
+I mean if you can score if you can
+evaluate the subject of work that's
+great but I would just be thinking about
+you know the level of trust your level
+of comfort with the person is probably
+going to be the best marker yeah
+but the attitude well it's your this is
+my it's yours now you just do it I'm
+gonna go that would be a bad attitude
+for the inventor right like this yeah
+yeah so sometimes the inventors got a
+bad attitude about and attorney's like
+okay I'll do my best you don't want to
+be involved I'll still take your money
+I'll file it and I mean that happens too
+doesn't it I mean let's be honest
+there's a lot of ways for projects to be
+managed mismanaged and and
+sure
+okay so um
+examiners a lot of time pressure here
+um most everyone's working remotely at
+this point
+um they're mostly trying to do a good
+job but the reality is sometimes you
+know they don't actually understand the
+invention all that well I mean you need
+to do a little bit of explaining and
+that that's totally fine these are
+reasonable people for the most part
+um
+I wanted to highlight these are these
+are two of my friends from the uh
+from the I forget a training academy
+when I started at the patent office in
+2007. I just wanted to highlight this
+because myself and and uh Scott and Nick
+we were all in the same training group
+um we worked in similar technology areas
+and you can just see based on how patent
+examiners operate in sort of
+personalities and and where they um you
+know what who their supervisors are
+um you get very different results even
+even within similar groups
+um so Scott has is one of the more
+difficult patent examiners to get a
+patent through he your chances of
+getting a patent Allowed by examiners
+there within the first three years of
+back and forth or 37 so 63 you wind up
+not getting patented abandoning it um
+within that time frame or continuing are
+you back and forth Nick by by on the
+other hand you've got an 87 likely head
+of success so just different
+personalities both of these are good
+guys it's just
+um you know there's a signal again
+element of luck of the draw with the
+examiner and I would say you're also
+going to make different arguments
+um and and amend the clothes differently
+depending on the patent examiner your
+your assigned to so I would encourage
+everyone if you get an office action go
+on patentbots.com that's the best
+website for poem that the examiner
+statistics and look about look at who
+the person you're dealing with look at
+their Tendencies look how senior they
+are more senior patent examiners have
+more authority to allow patents and so
+that's all helpful information when
+you're trying to navigate the patent
+office
+um this is this is an element on on
+seniority this is a study that I did
+um in in law school and then and then
+later published with a friend of mine
+um who was also a patent examiner
+um what we found is
+um on the left is is it the allowance
+rate over time of a patent examiner says
+you're more as examiners are more Junior
+um you'd they have to persuade their
+supervisors to allow patents
+um and they don't allow very many that
+allowance rate creeps up over time as
+they become more experienced um and then
+on the right
+um that that tail is the when they're
+when they're gs14s primary examiners
+they can sign their own allowances then
+it becomes easier to allow obviously so
+their allowance rate continues to climb
+and then that portion in the middle
+um that's when they're up for review to
+become primary examiners and you can see
+that their allowance rate dips quite a
+bit when they're under that intensive
+performance review just to make sure all
+their quality is good so um just kind of
+a note here on on how patent examiner
+Tendencies evolve as they become more
+senior
+the question for you Eric
+um
+okay so let's say you're you're doing
+your due diligence you're you're go to
+patent Bots you get a sense of what's
+ahead of you and you're working with an
+examiner who is just it doesn't isn't
+allowing much it's it's a tough
+character what are some is there
+anything you can do what should you do
+you know is it time to freak out what
+you know what what what's running
+through what what do you think should be
+running through the inventor's mind when
+they're processing that information
+because that sounds kind of scary you're
+like oh my God this person doesn't allow
+any puns to come through
+yeah um you get insigned to a really
+tough patent examiner uh you so two
+things you should be thinking about when
+you get that first office action
+um I guess three things when you think
+when you get that first Alpha section
+um I would always look up the the patent
+examiner figure out what what the stats
+are um figure out how senior they are
+what kinds of arguments I need to make
+um the second thing I would look at is
+the thoroughness of the office action
+and whether the examiner has really
+understood the invention done a proper
+search and give me a technically and
+legally sound analysis
+um so a lot of times you'll see the
+patent examiner whether they're whether
+they're a difficult examiner or an easy
+examiner um some examiners do a great
+job and their analysis is sound others
+will just copy paste the claims and then
+they'll give you a paragraph citation
+and you look at that paragraph and in
+the priority examiner setting and it's
+absolutely nothing to do with with the
+with what your invention is um so you
+got to figure out is the examiner are
+the citations examiner citing in the
+reference Act actually disclosing what
+the examiner is saying that they're
+disclosing
+and then I guess and then third which is
+is the prior close even even if the
+examiner is doing kind of a half half
+baked job
+um
+is is there um is is the priority
+actually there
+um and do I need to make sensitive
+amendments because I really need to do
+that to get around the prior art once
+you have that assessment of what type of
+examiner am I dealing with and how how
+sound is this rejection
+um if you have a sound rejection you're
+going to want to think about what your
+amendments are going to be
+um if you have kind of a less than sound
+rejection you're going to be thinking
+about okay how do I educate the patent
+examiner and I would do all of that on
+the first office section I wouldn't wait
+till office action number five to get
+serious about this
+um a lot of patent attorneys by the way
+um patent attorneys make money on every
+office action response so if I were
+trying to optimize for my own
+profitability
+um I would want to do not a great job
+right I wouldn't I wouldn't want to get
+it through on the first pass
+um so
+it's it's pretty and and also patentors
+are often backed up right they you get
+three months to respond to an office
+action for the most part and extendable
+to six months and when I was a patent
+examiner all the time people would wait
+until that six month date um and just
+file the extension of time and get it in
+right before the time expired uh when
+you're doing that what that tells me is
+you're basically behind and you looked
+at it two days before you threw
+something together and you filed it
+um I I think that if I would encourage
+people to be a little bit more on top of
+things
+um review it up front while you still
+have time to conduct an examiner
+interview while you still have time to
+talk to the client about what the
+strategy should be
+um do it do it a little bit earlier in
+the process
+um and then also you know take figure
+out what your strategy is on office
+action number one
+um because don't don't just kind of
+throw something at the wall and see what
+happens
+um and do that four or five times and
+then and then be more assertive about
+strategy
+um in terms of how you can further
+improve your odds of success I think
+examiner interviews are by far the best
+tool
+um at an applicant's disposal an
+examiner interview instead of just you
+know writing a letter
+um my letters can work these replies can
+work particularly with the examiners who
+have higher allowance rates just filing
+written responses works well but for
+folks where you have a little bit of a a
+fight on your hands where you know
+you're going to need to do a little bit
+more persuasion examiner interviews are
+just by far the best tool what you want
+to do for those examiner interviews make
+sure that you have your strategy lined
+up are we arguing or are we making
+amendments for the most part in an
+examiner interview examiner is
+essentially almost never want to admit
+hey you know what I was I was totally
+off base let me withdraw the rejection
+that's not going to happen The Examiner
+is always going to give you some sort of
+reason for why their rejection was sound
+so you should expect that and you should
+figure out okay what are the bones that
+I can throw the patent examiner that
+don't significantly sacrifice my claim
+scope um so come in with your Arguments
+for why the rejection was misguided but
+also come in with you know settling you
+know ways to meet in the middle on the
+claim scope
+um and then what you're going to do is
+you're going to explain the invention
+tell a little bit of story uh that
+you're going to move to what the prior
+art is so you'd say here's here's what
+my invention is and you probably when
+you set that up you're going to be
+thinking about what are the specific
+features in the invention that really
+add value and are different that are
+that are missing from the priority then
+you walk through the priority and say
+this is not anywhere close to that it
+doesn't contemplate these specific
+problems it doesn't have any solution
+for those problems
+um then you're going to I don't want to
+I usually don't go immediately to the
+clan language I want to say here's the
+important technology difference um
+here's a technical contrast so my
+invention is directed to this specific
+problem here's the feature that it meets
+it the prior art doesn't contemplate
+that problem has no solution for that
+problem do you examine or do you agree
+that there's a technical difference
+between what the invention is and what's
+in the prior art usually the examiners
+will say yes I agree um that that is
+that is a difference that I that I see
+then you need to move to the claims so
+you've got your your technical contrast
+you move to the claims and you say so
+that technical difference that you
+agreed with
+um this is where it is in the claims
+it's in element three you know words
+three through six
+um that's where it is and you see the
+examiner agrees that that really that
+that technical contrast is properly
+captured in the claims almost always The
+Examiner is going to say no it's it's I
+think that I see what you're arguing
+with with that hook and the claims
+doesn't really persuade me that it's
+fully there
+um and that winds up being a perfect
+opportunity to say okay well we agree
+that there's a technical distinction
+here
+um you think it's not in the claims I
+disagree but either way let's just add
+it to the claims and overcome this
+reference usually instead of coming in
+and proposing the first amendment I like
+to give the examiner an opportunity to
+make their own suggestions I think that
+that if you can get the examiner to say
+why don't you do X and then you do X
+it's very very likely that the examiner
+is going to find X persuasive because
+they've already vouched for it
+um other sometimes the examiner will say
+that's not my job right um you're I
+review the claims you present the claims
+I don't have any suggestions for you
+um in that case you say okay so you know
+here's the great technical distinction I
+had actually thought of this before the
+call I have some language that I think
+would work what do you think of this and
+a lot of times the examiners are going
+to say hey yep that actually that that
+would work perfectly and then what you
+do is you package that up
+in your reply and your your entire reply
+just says we talked about this I
+explained the invention The Examiner
+said this might be helpful I put it in
+the claims this is allowable and you
+tend to get pretty pretty good success
+doing that wow that you really told a
+story there this slide was amazing I
+love that I mean you guys take a picture
+of this slide we'll put the recording up
+don't worry but that was really
+incredible Eric that really I felt like
+I was with you and the inventor and
+you're going through this process with
+an examiner and you're explaining a
+common path
+um that was incredible
+because people don't they don't want to
+say they're wrong they're not going to
+say they're wrong that isn't helpful to
+take that tack but I love that you're
+you know you're it's almost like you're
+playing a bit of a chess move a little
+bit and depending on you're anticipating
+what they're gonna do and you're using
+that background info to craft a solution
+which is just brilliant
+um we're getting a little short on time
+here so if it's all right I'd love to to
+hop in and ask pose to you some
+questions that we're hearing um Jesse
+asked a great one excluding cost billing
+hours isn't it advantageous to have an
+examiner who critically scrutinizes the
+application with prior art and claims
+yes it depends what your objectives are
+um
+a lot of companies I I think you there's
+two types of patents if I were a company
+um there's two types of patents I would
+want to get I would want to get patents
+that are get me the scope that I need
+the I cover everything and I can talk to
+investors I can say I cover everything
+and I go to a licensing discussion I can
+say you do this here's my super broad
+claim I would want that claim
+um it may not be valid it may be too
+broad I still want that claim I would
+also want the patents that are
+substantively reviewed and are honed and
+have much stronger much stronger
+validity case so that if I when I have
+that licensing discussion I say you fall
+within the scope of this broad claim and
+I also have five other claims and look
+at how narrow they are and those cover
+you too I would want both of those
+claims
+um so the answer is yes
+um I would want a strong substantive
+examination but I would also want some
+broad claims that come out of it as well
+as some narrower claims
+got it great answer uh Patricia asks is
+there a USPTO fee for an office action
+or is you just paying your attorney to
+deal with those
+uh you you get two bites at the Apple
+you pay your 664 dollar filing fee um as
+a small entity it's actually less than
+that as a Micro Entity
+um you I think half of that it's a 300
+400 bucks something like that you get
+two bikes at the Apple
+um so you you put the coin in the slot
+and then the examiner will give you two
+office actions after those two office
+actions you have to file what's called a
+request for uh continued examination
+which is about the same same level of
+expense and you get two more um you can
+keep doing that essentially and
+definitely until you get the pattern or
+give up it's you just pay roughly you
+know 600 bucks for every Prairie to
+office actions
+great I got one from Carl here
+um you know our our folks or everyone
+from beginners to very Advanced but I
+think and you kind of covered this but
+if you could cover it very briefly that
+would be great just so people could
+leave remembering this
+um Carl says I have a patent on a
+product and I have changes to my product
+is there a way to upgrade my patent to
+the newer design so you know some people
+are really new so what do you do you got
+a patent and now oh crap I have an
+improvement what do you do
+it's better options
+depends
+um ideally when you were doing the
+original patent you were thinking about
+where the market might go how the
+product might evolve and you got a
+patent on a feature that's still there
+um sometimes that doesn't happen
+sometimes you think a feature is going
+to be really important three years later
+it turns out it's not that important you
+can you can design right around it if
+that happens and you still want to have
+patents that cover your product because
+you think they're important for
+licensing or protection or whatever your
+business goals are
+um
+if you still have a continuation pending
+what you can do is you can go through
+your originally filed description and
+get the benefit of that date and you can
+put piece together features from your
+original description that are still
+patentable but cover what your new
+product feature is that's a good option
+if you have a continuation pending if
+you don't have a continuation pending
+you can't do that
+um and so in that case you're probably
+looking at either not having a patent um
+that covers the new product or you can
+file a new patent application
+um that's directed to inventive features
+in the new product
+got it
+sure I'm going to try to race through
+these and squeeze as much information as
+we can out of Eric
+um Eric have you ever heard of talk of a
+provisional design patent application do
+you think that idea is any Merit
+I don't can you do a provisional design
+patent application I don't think you can
+you can no you can't but people want it
+there's no such thing that's the thing
+that doesn't exist
+you can do a design patent application
+design patents are their own thing
+um probably not worth a ton of time um
+they they only cover the ornamental
+appearance right and this probably
+Gabriel we can answer your question yes
+utility patents are more difficult to
+obtain than a design patent like
+Gabriel's saying my Utility Patent has
+been rejected three times while my
+design patent for the same product has
+been granted how common is it for the
+patent office to overlook very common
+it's very common the design only covers
+the or the design pattern only covers
+the ornamental features um they're also
+very hard for patent examiners to search
+so you wind up getting I mean design
+pens are so narrow that if someone just
+does the the same concept which just
+makes it look slightly different but the
+design patent winds up being useless
+um and then Pat the design patent
+examiners
+it's very hard to do a priority search
+for designs um you know that's image
+searching you just have a look at a
+million images good luck
+um and then on top of that the the claim
+scope is very narrow so it tends to be
+pretty easy to get design patents
+through the patent office it's much
+harder to get the utility patents
+through the patent office but the
+utility patents wind up being much more
+valuable from a business perspective
+right and it's apples to oranges so if
+he was rejected with his utility but he
+got his design hits apples and oranges
+so it's not like why did that happen
+it's not the same thing at all right
+um I think we've got time Christopher
+fitzhardy is asking a great question so
+we've got to get to it obviousness
+objections can be very subjective do you
+find that U.S examiners combine too many
+pieces of prior art for plus mosaicing
+uh in in their in their issuing of um
+office actions
+that's too many is a loaded question
+right
+um it depends on the examiner
+um and it depends on it depends a lot on
+how your claims are written
+um if you write your claims in a way
+that's just here's a list of you know a
+recipe of the the elements of the pieces
+in my in my product that is a recipe for
+inviting in an obviousness rejection
+because the examiner will just find you
+know all the elements of your recipe and
+say it's obvious to combine them what I
+would suggest doing
+um in that in that scenario
+and this is a little bit hard to do if
+you're not someone who writes claims for
+a living but there are ways to write a
+claim so that instead of just having a
+recipe you have each of those elements
+tying together in a specific way so one
+feeds into the next and process it in
+this particular way or this feature
+touches this feature in this particular
+way that achieves that results and if
+you draft the claims in a way that the
+elements sort of tie together it winds
+up being you're most likely to get that
+type of kind of Mosaic rejection
+I got a great question from Joe here and
+I'm going to expand on it a little bit
+Joe says why does the patent office only
+contact the attorney and not the
+inventor also so my expansion on his
+question and why they contact the
+attorney and not the minerals so is
+what do you how involved do you
+recommend the inventor be and what are
+their options there and what is a good
+idea and what's a bad idea
+it doesn't do dual correspondence it's
+not going to write to two different
+people about the same time application
+um so if you if you want to be the party
+communicating with the patent office you
+need to remove your power of attorney
+from from your patent attorney and have
+the correspondence go to you
+um I think that's probably not a good
+idea
+um the patent attorneys tend to be add
+some value in the process I mean people
+can debate whether they add enough value
+to justify the cost
+um but that's that's the reason the
+patent office doesn't want to be talking
+to two different people who have
+different you know potentially can have
+conflicting Authority
+um in terms of what's a good idea what's
+a bad idea it really depends and if you
+want to control your own patent
+application and you're good at it God
+bless you
+um if you if the patent application is
+important to your company I think it
+probably does and you haven't done a
+whole lot of patent prosecution I think
+it probably does make sense to hire a
+patent attorney for that
+um the things that you can do usefully
+it let's assume you're in the world
+where you're you're happy to hire a
+patent attorney because you think the
+value is there the things that you can
+do to be useful in that process
+make sure that you are reviewing the
+claim so the the most likely if you get
+a rejection the patent attorney is going
+to say I suggest amending the claims in
+this way take a critical eye and make
+sure you're not giving up more claim
+scope than you need and make sure that
+the amendment really does capture a
+technical difference that you think is
+there between between your invention and
+the prior art
+um and then sometimes it's helpful for
+the the inventor to join an examiner
+interview it's not always helpful
+sometimes I recommend you know I can I
+used to work at the patent office I can
+just kind of you know
+small talk with the patent examiner make
+friends with them in a one-on-one
+conversation is going to be more
+effective than having the adventure it's
+not like the inventor is not included if
+the patent office gets back with
+something the attorney can go over with
+the inventor and they can decide
+together what they're going to do and
+the attorney might be reaching out but
+they've had a discussion with the
+inventor the attorney has so it's not
+like the the the the inventor is left
+out of the conversation at all
+the attorney is representing the client
+exactly yeah yeah and and they might
+tell the attorney do this and the
+attorney's like I don't recommend this
+but they might go ahead because the
+client said no I insist
+it's not like you're at a loss for any
+sort of control Madeline do we have any
+others
+no honestly I there are a few more
+questions but I want to be mindful of
+Eric's time and uh I've learned so much
+from this presentation I'm very excited
+to
+um quote you and share some of these
+insights I would really love it if um
+everyone if you could please write in
+your thanks to Eric in the chat while
+we're still wrapping up for a few
+minutes
+um Eric if people are just like so
+delighted with what you've shared they
+want to keep in touch with you what are
+what are some ways to follow your work
+um do you and if you have any other
+resources to recommend we'd love to hear
+you know who you pay attention to and
+how you learn too
+um if you want to stay in touch
+um I'd love to you know talk to folks um
+feel free to connect on LinkedIn I'll
+I'll drop the the link in the chat
+um
+I I'm happy to kind of send some more
+resources um probably the best way to do
+this by email I can just give some links
+um and then uh yeah if anyone wants to
+reach out I enjoy working with with
+inventors with startups with small
+businesses
+um also another note in addition to
+um we didn't talk about it a lot but if
+if your company is interested in
+government contracts government grants
+the US government does if you have
+something that's that's competitive for
+that um that's a that's a huge
+opportunity I do a lot of work in that
+space
+um and then
+um if you are in the position where you
+have patents that cover what folks are
+doing and you want to discuss sort of
+Licensing strategy business strategy or
+if you if you want to make patent
+infringement claims I'm happy to have
+those discussions as well
+let's do a group photo here if you can
+stop sharing your screen so yeah see
+everybody and is it as many people as
+possible want to go on camera for the
+group photo I'll unhighlight us
+remove the spotlight from all of us
+so we get a nice group photo here
+okay there we go okay so this is what
+we're gonna do guys um give give a
+thumbs up a wave a smile and I'll do a
+couple screens keep it keep it going
+keep it going there we go I got the
+first screen and we got the second
+screen
+and then by the third screen there's
+nobody on there anymore that's that has
+videos so thank you guys that was cool
+thank you for all the the Madeline did
+everybody write a thank you for um for
+Eric there I think so um Eric I will
+follow up and share with you all of
+these wonderful
+um comments um I definitely read that
+someone said um do you have a book out
+you should write a book if you haven't
+so there's a lot more that our audience
+wants to hear from you and
+um truly we I can't thank you enough for
+your time it really means a lot to us
+that you would you would spend it with
+us and be so Frank
+um about your your perspective on
+patents like uh there's just so much to
+learn it can be really difficult to to
+sort your way through all this
+information and and what you've provided
+is just Priceless so I I want to say
+something too I mean I think that
+um patent attorneys uh legal advisors in
+this area don't always have a business
+sense about them
+um and and Dev Eric definitely has that
+so that's very special that's a huge
+compliment Eric
+um he said so many things at on this
+session that the average attorney
+wouldn't have said
+which tells me he's he's different so I
+thought that was very powerful Eric you
+might be like oh that's just 2 A.M but
+um it is that's very important
+appreciate it thank you yeah
+yeah it was it was a pleasure being here
+um and great to meet everyone
+um and yeah if anyone wants to keep in
+touch I'd love to talk to you
+Brad
+thanks everybody and we'll see you again
+uh next month for our next IGA meeting
+appreciate your time bye

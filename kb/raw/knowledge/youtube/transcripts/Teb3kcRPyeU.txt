@@ -1,0 +1,851 @@
+well welcome everybody today we're going
+to focus a little bit on
+patentability or patentability searches
+um
+a lot of our clients ask us do you do
+searches to see if my idea is patentable
+uh
+how do you do it some people just want
+to know how to go about doing it because
+they want to do a little bit of that
+work on their own so before we start uh
+let's define what a patent
+ability search is
+um
+basically what you're doing is you're
+searching any public database
+for any information that would disclose
+your invention or that has parts of your
+invention disclosed in it and it could
+be any public source so it could be
+issued patents in the u.s it could be
+issue plans throughout the world it
+could be published pending patent
+applications throughout the world in the
+u.s it could be newspaper articles it
+could be
+anything as simple as
+uh you know technical journals journals
+that are existing in the world uh for
+different universities so anything that
+can be publicly found and searched
+whether through a library or through an
+electronic system is a fair game for
+patentability search because that's kind
+of what the patent office does they
+search for any public document to see if
+something is patentable and based on
+their analysis they'll let you know
+i also want to make a distinction
+between a patentability search
+and an infringement search or
+you know
+freedom to operate search
+so what an infringement search is or a
+freedom to operate searches
+is trying to determine if there's any
+issued
+active patents that you could
+potentially be infringing by making a
+product that you have come up with or
+thought of
+so there is a difference between
+patentability search because it looks to
+see if you can get a patent and a
+infringement search or a freedom to
+operate search which looks to see if
+there's any issue patents and the main
+difference is the database you're
+searching
+in the infringement scenario or the
+freedom to operate scenario you're
+looking at just patent
+databases so issued patent databases
+so the u.s
+patent and trademark office which i'll
+show you how to find that and how to
+search that so in an infringement search
+or a
+freedom to operate search what you're
+doing is you're looking at issue patents
+and then you're going to analyze the
+claims of those issue patterns to see if
+they cover the product or the service
+that you're going to provide
+in the patentability search you're
+looking for anything that discusses your
+idea and it could potentially have
+information in it
+that can be an issue or concern in terms
+of getting a patent claim allowed
+so that's the difference and so today
+we're going to focus just on the
+patentability search
+if you have questions as i'm going along
+feel free to put them in the chat
+i can you know address them uh in real
+time or uh will to address them at the
+end whichever seems to be most easy i'll
+just take it that way and move on from
+there
+um
+a lot of people also ask me do you do
+patentability searches
+and the answer is yes we can do them and
+then they ask well should you do them so
+the other question that is always out
+there and i'd like to address that a
+little bit and give you some thoughts
+and some pros and cons on doing a
+patentability search so let me start off
+at the very highest level which is
+the fees that you pay to the patent
+office
+for filing a patent application not what
+you pay the patent attorney but the fees
+that you pay for the patent office are
+broken up into three parts
+one part is called the filing fee
+one part is called the examination fee
+and the third part is called the search
+fee that's the fee that you're paying
+for the path office to do the search a
+similar search that you would do but the
+patent office has its own databases and
+it has access to its own set of
+information which could have been
+acquired through examining other
+applications or it could have been
+acquired through a knowledge shared
+among patent examiners
+in the context of the pros and cons
+remember that one of the things you're
+doing is you're paying the patent office
+to do a search so you may not want to do
+the search on your own you may want to
+just pay the patent office to do the
+search so then after you look at that
+and you say okay i'm willing to do the
+search myself even though i'm paying the
+patent office to do it the next question
+comes down to cost
+like i said there are many different
+databases that you can search for
+patentability search
+for example you could search the us
+patent office database you could search
+google patents and find anything you can
+search google in general for any
+newspaper article or anything
+so the more databases you search the
+more things you're unlikely to cut
+uncover so when you do searching one of
+your costs is the number of databases
+that you're going to search now some
+databases are private and you have to
+pay for those services other databases
+are public and you don't have to pay for
+them but the the bottom line is the more
+databases you search the higher the cost
+so this is going into the pros and cons
+of doing searches so as you drive the
+number of databases up
+you get more results
+which the cost goes up both in terms of
+the number of databases you search and
+in terms of
+what you're going to have to pay an
+attorney to look at and examine the
+search results so at the end of the day
+the search results are of no value
+unless you actually look through them
+and now you could look through them
+yourself
+if you have a comfort level of looking
+at patents or public documents and you
+understand the legal system well enough
+to know
+how these things would impact claim
+language and accountability
+so
+as you do more searches in more
+databases
+the cost goes up both in terms of the
+number of databases you do and in terms
+of what you pay the attorney
+to look at the search results um the
+average cost of doing searches can be
+anywhere from about 500
+for a professional searcher to search
+for you
+all the way up to you know six thousand
+dollars again depending on how many
+databases you have in search and how
+precise or how wide scope your search
+can be
+and we'll get to you know the precision
+of your search in a minute when we talk
+about how to formulate your search
+strategy
+so
+one pro is
+you do the search on your own
+and the con to that is you're already
+paying the patent office to do it
+another pro is if you don't do the
+search you save the money the con is if
+you do the search you pay the money now
+what is the advantage of doing the
+search well if you do the search you
+have more data points so when you go to
+write your patent you can be a little
+more selective and precise in the
+language and the way you write your
+claims based on your search results
+however again there's a cost associated
+with that so you have to kind of do the
+balancing act and the last thing that's
+important to note is
+what
+you uncover
+and the information you uncover you have
+to keep track of
+for the purposes of citing it
+once you file your patent application so
+if you do the search and you decide that
+your idea is patentable there's nothing
+out there that discloses it
+then you need to keep track of what you
+have so that you can cite it to the
+patent office because it's knowledge
+that you have and one of the
+requirements is that you disclose to the
+patent office in what they call
+an information disclosure statement the
+references and the things you found and
+looked at that you thought were relevant
+the last thing i'll say is when it comes
+to making a decision to do the
+patentability search
+is how familiar are you with the space
+of the industry i'm neither a fan of
+doing patent searches
+or patentability searches nor am i
+against doing patentability searches i
+think it's a fact-driven decision by
+that i mean
+if you're going into an area of
+technology that you're totally
+unfamiliar with and you really don't
+understand the field and you're going to
+hire some people to do the work for you
+it might be better for you to do the
+patentability search to see what's out
+there
+on the other hand if you're someone
+who's worked in that technology field
+for you know ten five fifteen twenty
+years
+and you're pretty familiar with what's
+in the field then perhaps maybe a
+poundability search is not worth the
+money because you're familiar your
+familiarity probably is just as good as
+any patentability search that's going to
+come back
+so again it's one of those things where
+you have to do
+uh some fact-finding on your own also
+keep in mind that when you do searches
+especially when it comes to patent
+databases
+a lot of patent applications don't
+become public
+until 18 months goes by from their
+priority or filing date so it's quite
+possible that something was filed six
+months ago and you'll search and you
+won't uncover it because it's not made
+public however after 18 months it will
+become public and it can be used as a
+reference against you going all the way
+back to its original filing date not the
+date it became public
+all right so that kind of in a nutshell
+is the patentability search what it
+entails what it enclosed it includes and
+what you need to do so bottom line keep
+in mind that paying for patentability
+search is a decision you have to make
+that's both financial and fact based and
+then you have to have the information
+ready
+for the patentability search now you
+need to have this information ready if
+you're going to do it on your own too so
+now we're going to focus a little bit on
+doing the patentability search on your
+own
+how do you go about formulating the
+search how do you go about formulating
+the
+language or the words or the things
+you're going to use uh to do the search
+so as you know when you go to do a
+google search or something like that you
+put in a couple of keywords and you
+search and you find some things that is
+sort of what you need to do here but in
+the context of having written some
+sentences or some thoughts as to what it
+is
+that you are going to be searching so
+i'm going to share
+my screen of a published patent
+application
+let me put it up here
+and
+you guys can take a look at it with me
+and i can tell you some thoughts
+if you look at the
+document that's on the screen and i'm
+going to make it a little bit bigger
+in the hopes that it is easier to read
+for everyone
+this document is a published patent
+application so
+someone wrote this patent and published
+it it has basically you know the names
+of the inventor the title of the
+invention and then the abstract so i
+highlighted the words
+automatically maps the paths so
+this thing is about a network on chip
+design tool
+and it talks about automatically mapping
+the paths listed in the timing report so
+these are the kinds of words that you
+would want to search so for example you
+might want to search the word network on
+chip you might want to search design
+tool
+you might want to include automatic
+mapping of paths
+and then you know listing a timing
+report
+and looking through the application and
+some of the figures so you know they've
+got you know configure a network on chip
+export and rtl so these might be terms
+that you would want to put in and search
+for again the more terms you put in the
+more precise your search will be
+so in this example they've got these
+figures and you can look through this
+and and this would be something you
+would have created on your own about
+your ideas so you may have created some
+figures but more importantly you would
+probably have written you know some
+paragraphs about your invention and your
+idea that way you can go in and write it
+so here is the application itself
+looking at the background this basically
+is the background of the inventions so
+these are kinds of things that you might
+want to look at so this one talks about
+a master
+a slave it talks about intellectual
+property core
+or blocks ip is what it's called but
+these are referencing
+things that are in a circuit or a
+computer not intellectual property as in
+patents trademarks and copyrights
+then you can based on the language
+that's here formulate your own search
+now
+if you look at this there are various
+different ideas that are being presented
+here pipelining is being presented
+uh area is being presented and then it
+goes into a summary again this summary
+looks a lot like the abstract
+and so if you look at this you can kind
+of see what it is that they're trying to
+do in this and that would be something
+that you would have had in advance of
+writing this patent application and this
+would be the information that you would
+formulate to form a search
+with that being said i think the most
+important thing here is to have some
+good paragraph explanations
+that talk specifically about the
+problem that you're solving and using
+those things
+as key search terms
+so for example
+here you see in the background it says
+it is desirable
+to limit or at least observe the area of
+a knock in order for the designer to
+control the trade-off between size speed
+and arc so this is the problem that
+they're trying to solve and then the
+solution is what's in this application
+so you know you're looking here and
+saying okay with regards to area timing
+uh
+and
+performance
+you have these various different ideas
+that your search so without getting too
+lost into the weeds
+i want to say that if you're going to do
+a search
+you need to have specific terminology
+that is important to your invention and
+use that terminology to find
+other things so for example in this
+scenario i think network on chip design
+tool is an important terminology looking
+at the idea of area
+speed
+uh performance those are language that
+you would want to do or search for
+again
+this application has already been
+written so the patentability search
+would be irrelevant at this point
+because it's been written and filed and
+it was back in 2012 so it's been around
+for a while
+so
+if i had this information in front of me
+before i filed the patent application i
+would then be looking at certain things
+like if you again look here it says
+network on chip design tool
+and what it's doing and they have all
+these different figures that explain the
+process and then they also talk a little
+bit about as we go through here
+the claims so in the claims are very
+specific language which if you can write
+the claim before you do your search it
+would be great because you would then
+take the exact language that's in the
+claims and begin to search
+around
+these different things so we're looking
+at displaying the area we're looking at
+a network on chip we're looking at a
+graphical user interface and we're
+looking at these two steps
+that is probably something that you're
+going to do a search on so now you've
+prepared what you're going to use as
+your search terminology or your search
+parameters and you can do one of two
+things at this point you can hire a
+professional searcher and give that
+information to them and they go off and
+do the search and bring the information
+back to you
+or you can go do the search on your own
+so now let's assume that you're going to
+go do the search on your own the
+question then becomes
+what is it
+that i can use as a database or where do
+i go to make the search happen
+one of the things that i want to make
+clear here is that there are various
+databases there any database is a
+database that you can use to collect
+information
+i'm going to focus on
+three
+databases uh the first one being the u.s
+patent and trademark office database
+the second one being
+google
+using google patents as a way to search
+or google in general
+to search for different articles or
+publications
+and the third one being various
+third-party databases uh there are
+various databases that are private that
+are subscription based that you can sign
+up for and some of them are month to
+month so you can sign up for one month
+do all your searching and then cancel
+your subscription and from there you can
+go there is
+numerous of those things so
+that being said let me begin by
+looking at a specific a specific
+database
+which is the u.s patent and trademark
+office database
+i'm going to again share my screen this
+time it's going to be much harder to
+read
+the information on there because it's
+such fine print however
+it is
+the patent office database so how did i
+get to this page so let's start from the
+beginning so if i go to uspto.gov
+i come to this page
+on this page there's a heading called
+patents and then underneath this heading
+there's one thing called search for
+patents
+so if i click on that it'll bring me to
+this page so this page has various
+different databases that you know i can
+search
+they give you a seven step uh strategy
+for
+how to proceed with patent searching
+they have details on how the system
+works
+and then here it says patent public
+search so you can go into here you can
+do searches by all different kinds of
+parameters but
+you can search published sequences by
+the way that's for
+sequences in terms of formula and things
+like that
+you can search international patent
+offices by clicking here so i'm going to
+click public
+patent public search
+when i click this one of the first
+things that comes up on the screen is
+the patent public search and again i was
+here i clicked on it it took me to here
+and then it says welcome to patent
+public search i click start search
+and it brings me to this screen
+oh um it's saying it's already open so i
+apologize let me get rid of that so it
+brings me to this screen i put in this
+word here
+knock
+just to do a quick search and show you
+but you can put anything on here so if
+you recall we said for example uh
+you know
+network
+on
+chip
+design
+tool
+so i can have these words connected by
+or or i can have them connected by and
+or all this i'm going to have them
+connected by and
+and i'm going to tell it to search for
+singular and plural i can tell it
+to search for british equivalence and
+there's various other options but once i
+click the search it'll go off and do a
+search for me
+and here's all the different things it
+found
+now one thing that's important to note
+is that this document id number
+if it starts with something that looks
+like a year like 2022
+these are published applications
+on the other hand if it starts with a
+number that's in the millions like 11
+million three hundred twenty seven six
+hundred seven that's an issue packed so
+if i click on this
+that's this document right here it gives
+me basically the name of the inventors
+it gives me the name
+of the company
+if i click on the next one
+it gives me the document number again
+this is a published application so
+published on may 5th so just recently
+published
+the company name is apple which we're
+all familiar with and again look at when
+this application was filed
+2020 february 7th so as you can see
+a fair amount of time has gone by
+between when it was filed
+and when it became published and
+remember
+this document can be used as a reference
+as of this date
+not as of this date when it became
+public
+and then of course if you scroll through
+the document this idea of network on
+chip design tool
+should appear and it's highlighted and
+as we scroll through it you'll see
+so it's got the word tools highlighted
+and as you read through this you kind of
+begin to notice wait a minute this is
+not really related to what i'm looking
+for because it again it used the word
+tools and found it
+so we can further refine our search by
+saying these words have to be near each
+other
+and near is typically within 10 words
+so or within the same sentence
+so once we tell it to do a search
+it found no results
+with that
+so let's take out the word
+design
+tool
+and let's just look for network on chip
+near tool
+and again it found nothing that's
+because this word network on chip may be
+a word that is not written out
+it may need to be replaced with the word
+knock and again if you're familiar with
+the area of technology you understand
+how these terms are used
+and as a result you're better off when
+you go to create your
+search and i'm guessing that i'm not
+misspelling anything the uh design let's
+search for this to see what comes back
+all right it found two things
+so let's see if now the word knock and
+design and tool appear near each other
+and here it is right here so for example
+uh it says knock design tool and so i
+would read through this and i would say
+okay does this seem to be teaching the
+invention of looking at
+performance speed and size
+in terms of various paths remember the
+published application i showed you
+that's the one that we're going to write
+a patent on and file to see if this is
+related to it and as you read through
+this you can see that there's a detailed
+description maybe one place you can
+start is by reading the
+abstract it says comprising a knock
+fabric
+plural to your routes
+does it talk about this is that this is
+more focused on a built-in self-test
+um
+so this may not be relevant to what i'm
+doing or what i'm going to be filing a
+patent application on so i might allow
+this to go
+now jumping onto a different search tool
+let me show you google
+so here's google patents
+and if you search here again it's the
+same thing you can put
+knock
+design
+tool
+and it'll bring you back a whole bunch
+of list of things you can even you know
+if you don't want to search just in the
+patent database you can actually go
+to google itself
+and
+search for
+knock design tool
+and now you should be getting all
+different kinds of websites and articles
+and publications that you can look at
+that relate to your invention
+and the last of course is
+you know the third-party databases
+there's a bunch of different third-party
+databases
+by the way i misspelled design
+so here's you know for example if you
+look at desktop application
+for network on chip design
+then here's you know someone who's
+selling the product and you can see
+that their
+information is listed here this may not
+be the best source to look at because
+you're probably looking for something
+that is a publication or an article
+that you can look at
+so
+all that being said let me open the door
+um
+to the following so let me do a quick
+recap patentability searches are looking
+at different things that are made public
+um not the same thing as an infringement
+or a freedom to operate search
+there's pros and cons to doing a search
+and the more familiar you are with the
+field
+my personal opinion is the less the need
+to create a search or do a search on the
+other hand if you do a search and you're
+familiar with the field you can write a
+patent application that's more precise
+and presents a better story because
+you're anticipating what the patent
+office might use as a reference against
+you
+and finally there's various different
+databases that you can use you can do
+the search yourself or you can go to a
+third party and hire them to do search
+and that in a nutshell kind of sums up
+patentability searches so now the
+questions uh if there are any we can
+take them uh nicole is here with us she
+can help field questions and brian and
+uh daryl you're both here welcome thank
+you for joining if you have any specific
+questions uh feel free to unmute or
+throw your questions into the chat and i
+will do my best to answer them
+we have all of three minutes to answer
+questions
+nicole are there any questions that came
+in through the live feed
+yep i just popped some in the chat for
+us okay
+gibbon have you had any experience with
+like a claim ip or a patent optimizer
+those kinds of analytics programs for
+doing searching
+um
+there are
+tools that
+optimize your patent application
+are you saying suggesting those tools
+could be used to do a search or are you
+asking about something different
+uh yeah a claim ip
+i did a trial run on that and found that
+to be uh
+pretty effective
+and patent optimizer has a way of kind
+of taking um
+claim length both of them can kind of
+take claim language that you think might
+be where you want to be at and
+run those off in a search and kind of do
+some analytics on it and so forth they
+can be quite costly uh and it's been a
+while since i've used them but
+an interesting experience in using them
+yeah those are um those are private
+tools that again you pay for the service
+and the idea of having your clean
+language i think which is one of the
+things we talked about is you know in
+having your search terminology could be
+the claim language that you that you
+want to use and then you can run that
+through a search or give it to a
+searcher and they can come back with
+some tools and analytics yeah yeah
+there's a there's one question that says
+are there particular sectors of
+innovation
+where a search may or may not be most
+beneficial
+i think that kind of depends on the area
+of art and how crowded it is so
+the more that has been done in that area
+of art
+the
+better
+it is to do a search
+as opposed to an area of art that's very
+new so for example
+right now there's a lot of filings
+happening around artificial intelligence
+training in these models ai models and
+these kinds of things so there's not
+going to be a lot of
+data out there on it other than
+published articles and journals and
+things like that so perhaps maybe that's
+a sector where it's not as valuable to
+do a search versus if you're going to do
+a new semiconductor chip design
+you know and doping process for making a
+semiconductor chip
+you might want to do some searching
+because that's a very crowded area that
+art has been around since the 60s
+there's been a lot of developments so i
+would say that the more
+you have in terms of the age of the
+technology the
+better it is to do a search because
+it'll help you uncover things that may
+not be known to you
+on the other hand if you're very
+familiar with the area and the field you
+may know exactly what's out there or
+very precisely with a very good idea
+what's out there
+another question came in
+should i only be
+concerned with a search
+if i'm filing a non-provisional
+application that's a very good question
+so the difference between a
+non-provisional and i'm assuming the
+other thing that they're thinking about
+is a provisional application
+provisional applications are never
+examined
+and they sit for a year and then expire
+so i would say that if you're going to
+file a provisional you're probably doing
+it to do cost savings
+as opposed to filing a non-provisional
+so it's probably not worth doing a full
+search
+on a idea that you're filing for
+provisional because
+you know again it's not going to be
+examined when you get ready to file the
+non-provisional you might want to think
+about doing your search at that time so
+i don't think you should do a search uh
+when you're doing a provisional i think
+when you're doing non-provisional that's
+when you really need to think about the
+options of doing a search and a
+patentability search
+okay we're right at our time um i
+appreciate all the questions thank you
+for joining us
+i would really welcome you to reach out
+to us
+we have a channel on youtube that
+provides a lot of this information it's
+called the patent guru
+if
+there are
+any questions or follow-up things that
+need to be done please reach out to us
+thank you

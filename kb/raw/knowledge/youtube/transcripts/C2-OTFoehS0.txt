@@ -1,0 +1,73 @@
+Have you ever wondered how inventors
+ensure their brilliant new ideas are
+truly unique before investing
+significant time and money?
+Finding relevant prior art on the United
+States Patent and Trademark Office
+website or USPTO primarily involves
+using their comprehensive patent search
+databases and applying systematic search
+strategies. This crucial step helps
+confirm the novelty of your invention.
+A thorough prior art search is essential
+because it directly addresses the
+patentability requirement set by the
+USPTO.
+Patents are granted for inventions that
+are novel, useful, and non-obvious.
+Prior art includes any public disclosure
+of an invention before a certain date,
+such as existing patents, published
+applications, or other technical
+literature, and it helps determine if
+your invention already exists or is
+obvious in light of what is already
+known. To begin your search, start by
+brainstorming keywords that describe
+your invention and its function,
+components, and intended use. Next,
+identify relevant cooperative patent
+classification or CPC codes which are a
+powerful way to categorize inventions by
+technology area. You can find these
+using the CPC scheme on the USPTO
+website.
+Once you have your keywords and CPC
+codes, navigate to the USBTO's patent
+full text and image database or PFT ID.
+Here you can conduct searches using
+boolean operators like and or and not
+combined with field searching to target
+specific parts of a patent such as the
+abstract, claims, or detailed
+description. Analyze your results
+carefully, paying close attention to the
+claims and drawings of similar patents.
+Remember to also expand your search
+beyond patents to include non-patent
+literature like scientific papers,
+technical journals, and product manuals
+as these can also constitute prior art.
+Leveraging the cooperative patent
+classification system or CPC is an
+insider tip for powerful searching. The
+CPC is a detailed hierarchical
+classification system used by both the
+USPTO and the European Patent Office to
+classify patent documents according to
+their technical features. Using this
+system can significantly narrow down
+your search and reveal highly relevant
+documents that might be missed with
+keyword-only searches.
+By systematically researching prior art,
+you empower yourself with knowledge,
+saving valuable resources and
+strengthening your potential patent
+application. This proactive approach
+ensures your innovative ideas stand the
+best possible chance of being protected
+as truly novel contributions to the
+world.
+[music]
+2.1s · 3m 7s YouTube · 380 words · text via transcript/captionTracks

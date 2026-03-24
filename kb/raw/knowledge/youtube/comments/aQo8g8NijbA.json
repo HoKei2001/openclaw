@@ -1,0 +1,37 @@
+{
+  "video_id": "aQo8g8NijbA",
+  "total": 2,
+  "fetched_at": "2026-03-12T08:24:03.055626+00:00",
+  "comments": [
+    {
+      "id": "UgxRdwmOZoVT98GHBDN4AaABAg",
+      "author": "@workingTchr",
+      "author_id": "UC-QoaytIy80yAtuEDV-8-wQ",
+      "author_url": "https://www.youtube.com/@workingTchr",
+      "author_verified": false,
+      "text": "While a provisional patent can't be extended once its year runs out, you COULD file a new one at the end of that year, and if your invention has not yet been publicly disclosed, you have another year to work with, right?",
+      "likes": 2,
+      "published_at": "3 months ago",
+      "timestamp": 1765497600,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    },
+    {
+      "id": "UgxKMFC7ZpUhoLz4zhp4AaABAg",
+      "author": "@miinimarble",
+      "author_id": "UCILNDLCWK5lhTB2UH5NBHkg",
+      "author_url": "https://www.youtube.com/@miinimarble",
+      "author_verified": false,
+      "text": "Hot take: you can file a U.S. provisional pro se, sure. But in practice, strong provisionals are usually drafted/filed with a patent attorney. Why? Priority only sticks if the disclosure actually enables the invention. Thin write-ups get picked apart when you convert or go foreign. Startups sometimes roll the dice to save cash, but if you want solid figures, embodiments/variants, and parameter ranges, professional help is necessary.\n\nBonus: a good practitioner often expands your ideas and embodiments while drafting :)",
+      "likes": 1,
+      "published_at": "5 months ago",
+      "timestamp": 1760227200,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": true
+    }
+  ]
+}

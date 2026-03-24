@@ -1,0 +1,36 @@
+this feature extracts any searchable
+bibliographic terms for patent or
+publication for further research
+check the box enter patent or
+publication number and select extract
+Biblio all the bibliographic searchable
+terms for that patent will be extracted
+from the pull down menu select any of
+the searchable fields let's select the
+inventor name there are three inventors
+select one of them and search for all
+the patents for that inventor
+you can explore further by selecting any
+of the patents from the search results
+and extracting searchable bibliographic
+terms from the prior art searches check
+this box to get back to the starting
+patent and its searchable terms
+you can extract bibliographic terms for
+a patent or publication in search
+results from any search screens for
+example let's go to the search screen
+and search for patents select the patent
+that you want to investigate further we
+can extract all these fields so you can
+perform further research from prior art
+searches select extract and search
+biblio terms which will take you to the
+biblio screen searchable Biblio terms
+are extracted for your patent so you can
+investigate further
+for example we can search patents issued
+to any one of these inventors
+you
+you can go back to any screen that you
+came from by clicking here

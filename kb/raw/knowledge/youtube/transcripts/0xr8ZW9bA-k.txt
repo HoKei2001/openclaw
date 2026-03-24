@@ -1,0 +1,82 @@
+Welcome to patentproctor.ai,
+a revolutionary AI powered platform that
+turn your ideas into patents in minutes.
+To commence, click the get started
+button to sign up and begin creating
+your patent draft.
+Afterwards, click the continue with
+Google button to begin setup with
+Google.
+Else, click the create account manually
+button to begin setup without Google.
+Then click the check box to agree to the
+terms and privacy policy.
+Click the create account button to
+complete your registration.
+To draft a patent, click start a new
+patent draft button to begin creating
+your patent application.
+Now, enter your first invention details
+in the text field to begin the
+disclosure process.
+Following this, click the send button to
+submit your invention description to the
+AI assistant.
+Following that, enter your second
+invention details in the text field to
+proceed.
+Enter your third invention details in
+the text field to continue.
+Click generate provisional patent to
+create patent documentation for your
+invention.
+View and edit file. Invention draft can
+be enhanced using editing tools as
+required.
+Patent AI assistant can be used to
+enhance or generate sentences.
+Click the patentability button to
+analyze your patent draft for potential
+issues.
+Following this, click analyze patent
+draft to get AI powered insights on your
+patent's patentability.
+Review the overall score and
+patentability analysis on the panel.
+Scroll down to see more analysis.
+After preparing the document, click the
+save document button to store your
+patent draft.
+Click the file patent draft button to
+file your completed patent application.
+From here, enter the inventor's full
+details.
+Next up, click the next button to
+proceed to the next step of your patent
+application.
+Following that, you can click copy from
+inventors to populate applicant details
+from existing inventor information or
+else fill it up manually.
+Click the next button to proceed to the
+final step of the application.
+From here, select a plan as required.
+Now, click proceed to payment button to
+complete filing your patent application.
+Finally, after drafting and review, you
+can manage your application from the
+dashboard.
+For prior art search, click the start
+searching button to begin your prior art
+patent search.
+Enter your search terms in the patent
+database search field to find relevant
+prior art.
+Click view full details to access the
+complete patent information and
+specifications.
+Here is the details of the patent.
+Click the view source button to access
+the original patent document source.
+To conclude, after filing patent, status
+is visible here.

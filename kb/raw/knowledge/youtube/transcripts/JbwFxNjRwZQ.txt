@@ -1,0 +1,108 @@
+Hi there this is Kristen. I'm the Science and
+Engineering Librarian at Miami University,
+and this is one in a series of videos we have
+on patents. Today we'll be reviewing the steps
+to searching for U.S patents.
+Alright before we go too far,
+I need to be clear and say this video is just a
+very general overview. If you are doing research
+to actually submit a patent application, you
+need to be very thorough and seek help from
+a Patent and Trademark Resource Center and or
+legal assistance. The library staff at these
+centers are trained experts on searching but are
+not attorneys and cannot provide legal advice.
+Miami University libraries are not a Patent and
+Trademark Resource Center and currently don't have
+specialists of this kind, nor are we attorneys.
+Alright where to start? The US Patent and
+Trademark Office is an agency of
+the U.S Department of Commerce,
+the USPTO for short, and they're the ones who
+grant patents in the United States. Their main
+web page [www.uspto.gov] has a lot of useful
+information on it including a multi-step search
+strategy and this will be our guide today.
+Alright so this is our roadmap. First is to
+brainstorm terms describing your invention.
+This is a great initial step when looking
+for scholarly articles as well. Then we'll do a
+keyword search in Patent Public Search and review
+those documents we find. The remaining steps are
+about expanding your search and you can do this
+with CPC classifications, reviewing the cited
+references, and by looking for foreign patents,
+non-patent literature, and or getting
+help from a patent professional.
+So, looping back now to step one – brainstorming.
+This is the same first step as we take when
+looking for articles. Think about your invention
+or product, including the purpose, composition,
+and use, and some of the synonyms, or component
+parts of it. The example I’ll be using is a
+unicycle frame. Other terms that might be helpful
+include, bicycle (those are pretty familiar),
+frame, wheels, pedals, and a seat are component
+parts to a unicycle, and those might be helpful
+too. Most of the time we aren't really sure
+what will return helpful results at this stage,
+and that's okay we'll likely find other
+terms once we start poking around.
+Step two is using Patent Public Search - that's
+the name of their search interface - to do a keyword
+search. This is a screenshot of what the web page
+looks like and the address is at the bottom of the
+screen [www.uspto.gov/PatentPublicSearch]. This
+interface allows you to search with keywords or
+with CPC codes, which I’ll mention again later.
+It's through here that you can access the full
+text of the patents, and I have a separate
+video on demonstrating an example search.
+Step 3 - conduct an in-depth review of
+the documents found in your search. This
+is essentially reading over what you have found.
+I have a video on reading U.S. patents that goes
+into more detail on this. Very briefly, the main
+parts of the patent to look over are the drawings,
+the specifications - which includes a description
+of the invention, and the claims - which that the
+limit for what the patent does and doesn't cover.
+If you'd like to hear more about reading patterns
+I have another video where we'll discuss this.
+Step four - expand the search with relevant CPC
+classifications. The CPC stands for Cooperative
+Patent Classification. I have a separate video on
+finding these, but briefly they group like things
+together in a hierarchical structure. You can use
+these as keywords for searches and help identify
+similar inventions that might be helpful for you.
+Step five. Similar to when you are researching
+scholarly articles, looking at what the author
+or inventor used as a basis for their work is
+a great way to find similar research. These
+are very easy to find on U.S. patents - they're
+right on the front page and when you have those
+patent numbers searching for them is very simple.
+Step six - broaden your search even further. The
+European patent office is one of the largest
+in the world and it's a great place to look
+for international patents. Espacenet is the name
+of their search interface. This is of course not
+the only other patent office in the world, there
+are others to explore. You can also search for
+non-patent literature in library databases,
+and there are some that actually allow you
+to search by patent number to find articles that
+discuss that patent. For patent applications, there
+are also patent searching professionals that
+can provide additional guidance or services.
+Super quick review now to wrap up. We have
+six steps that we can break down into three
+stages. The basic searching and reviewing
+and then if necessary expanding the search
+with CPC codes cited references and Beyond with
+international patents and non-patent literature.
+Thanks for watching this video. I hope
+it was helpful to you. There are other
+videos in this series about patents,
+so please check those out as well.

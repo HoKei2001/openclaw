@@ -1,0 +1,757 @@
+around your end
+but it worked I can do it I didn't know
+I could do that
+awesome
+um okay well let's Dive Right In I guess
+oh I need to share my screen so please
+enable that okay
+um yeah I mean we can't do it either way
+so you can share your screen and play
+around with the app or maybe it's easier
+for me to run a few examples on my end
+as well so we'll start with that yeah
+I think it's enabled for you to share
+now oh it is okay perfect
+yeah that works
+all right here we go
+um yeah so uh you've created accounts on
+our website so
+um you know I think you've already kind
+of played around with it a little bit
+um kind of a and feel free to jump in
+with questions at any time as well
+um high level overview is just like you
+write the claims
+um and then it generates an initial
+draft for you specifically it generates
+claim support language
+um so one of the kind of formal
+requirements of a pattern application uh
+is that
+um whatever it is that you're claiming
+needs to be supported in the
+specification
+um and so I guess to use kind of an
+analogy like claims are sort of like
+your fences right like you're claiming
+territory you're building a fence around
+the intellectual landscape to protect
+what is yours
+um and the patent office requirement is
+that in order for you to build any
+fences at all you need to have some real
+estate to build the fence on so I tend
+to analog the specification is kind of
+like the land underneath your fences
+right like this is the subject matter
+that you're sharing with Society
+um and if you're going to claim any
+intellectual property you need to First
+share that underlying subject matter
+with other people
+um and so you cannot uh under section
+112 you cannot claim anything that you
+haven't disclosed in the spec
+um in practice what that ends up being
+tends to be just like kind of a formal
+requirement so in order to make sure we
+don't get a section 112 rejection when
+we're Prosecuting a patent application
+we make sure that whatever it is we
+write in the claim is at least literally
+like recited in the specification and so
+as part of that we end up having to
+write a lot of mechanical language that
+just makes sure that we have claim
+support
+um and so we would basically copy over
+the claims and work with the claims to
+rewrite the claims and kind of limiting
+non-leveling prose format so in the
+brief summary it looks like pros like
+full sentences and paragraphs in the
+detail description we have like these
+kind of Fairly conceptual generic
+abstract diagrams and we discuss those
+diagrams as well
+um and so the the summary basically
+recites each individual claim element
+one at a time and then the figures and
+the detailed description together
+recites this particular arrangement of
+claim elements that the claims are
+describing to make sure that both the
+individual elements and the arrangement
+of elements have at least literal narrow
+support in the specification
+um
+does that make sense so far
+yes
+um so this is just one of the example
+ones that are on your website typically
+when we are doing something we need to
+we need to write up the claims ourselves
+and then what it does is it it automates
+it into the figures and specification in
+just a that sort of a generic box
+structure you have there
+yeah exactly so the input is the claims
+and then what it gen the outputs are the
+figures and spec
+um and so we recommend that you do your
+claim drafting in the app
+um and then if you hit command enter on
+the Mac or Ctrl enter you'll generate a
+new spec so you can write your claims
+one element at a time and see what it
+renders right so uh like I'm saying a
+computer comprising a processor you know
+a memory device you know wherein the
+device
+includes a module
+um you know the we do a good job where
+you know we recognize the device refers
+to the memory device
+um you know I didn't put in semicolons
+and it still works so it's very robust
+to natural language inputs uh and then
+if you give it like uh say a first
+memory device and then a second memory
+device uh you know by default It'll
+recognize this refers to the most recent
+concept but of course we recommend
+proper antecedent basis so you should
+give it the global match it'll identify
+that reference as well as the first
+memory device so it knows to put the
+module inside the first memory device
+and the same thing with the detailed
+description it'll say the first memory
+device may include a module
+um so so yeah to answer your question
+that's basically how you would use this
+app you put in the claims you get your
+draft it's really kind of that simple
+but of course there is you know it's
+easy to learn but hard to master so like
+you know there are nuances about how you
+should write your claims so that even a
+software can understand it without
+ambiguous ready so law students tell us
+that this is a really great tool to
+teach them good practices about claim
+Drafting and also you know as they get
+better and better at claim drafting they
+can then leverage this tool as an
+automation tool to get you about four to
+six hours of mechanical writing that is
+now done with the click of a button on
+every patent application so that it
+frees up your time to really think about
+the parts of the pattern that matter
+like writing good claims writing good
+key embodiment descriptions writing
+alternate embodiment descriptions so
+that you don't have to worry about
+mechanical writing like claim support
+more of a technical question at this
+point because I'm curious
+um I taught computer science for six
+years what programming language to use
+to automate all this
+yeah so the uh that's cool is done in
+Python yeah uh front hand is we use
+vue.js for the user interface but the
+back end is written in Python yeah
+cool
+um feel free to go ahead with uh what
+you were doing before interrupting the
+question oh yeah so feel free to jump in
+um so yeah like you can download it back
+into word and visual and PowerPoint for
+the figures uh so if you don't have
+Visio you can just use PowerPoint uh but
+but the specification will be in
+Microsoft Word you know um you can open
+this up and then you can just keep
+editing as as you do
+um and it's already kind of nicely
+formatted with paragraph numberings and
+all that so that's kind of the flow like
+you write your claims in here you
+download it into word to keep working on
+it
+um you know so
+um
+um there's like various uh other
+features to watch out for as well I
+think try to think what so
+um I'll I'll run through a few more
+examples
+um so if you give it a method claim uh
+it's going to generate a flowchart
+um so we think about the universe of all
+claims us either being a method which is
+like a process right like sequence of
+steps or sequence of events right that
+that's one dimension of all claims and
+then the second one is a thing that
+exists right so it could be a computer
+system it could be a chair it could be a
+medical device uh it could be a protein
+a composition of matter whatever thing
+entity that exists you know we consider
+that to be some kind of a system you
+know at a very high level
+um so if if it's a method claim we
+generate a flow chart and that basically
+gives you a series of steps
+um you know and then if it's anything
+that's not a method it'll create a block
+diagram
+um so of course we do recommend that you
+read through the specification and make
+sure it is you know same what you wanted
+to say you know it gives you a pretty
+good initial start and a good outline
+um you know and then you can further
+expand and on it you know one thing to
+know about what this software doesn't do
+is to ensure enablement
+so enablement just means that whatever
+it is you're trying to claim in your
+patent uh you need to make sure there's
+enough context that someone else who is
+also a technologist in this field
+can read your specification and
+reproduce the technology right so
+um you know so if we think about the
+pattern as like layers of the onion the
+claims is the core intellectual property
+right that's the fence that you built to
+say like I'm claiming this part of the
+intellectual landscape the next layer
+around the claims is the claim support
+language right it's narrowly written to
+basically recite the claims you know
+both the individual elements and the
+arrangement of the elements to say like
+you know these claims are Now supported
+right so it's the next layer of the
+onion and then you have like the
+additional contextual language are
+outside of just pure claim so support
+that gives the enablement so if you read
+the context then you have enough context
+to know how I can reproduce The
+Invention if I go into my garage and try
+to build it right so that's the
+requirement from the U.S pennant office
+so as part of getting intellectual
+property that you now have a monopoly on
+um in exchange for that you need to
+provide enough context to society to
+tell them how they would otherwise build
+your technology
+um
+so uh so so that's what the tool doesn't
+do right the tool generates language for
+claim support but it doesn't generate
+the additional language for enablement
+and that's for you the drafter to you
+know generate the claim support with one
+click you know proofread it review it
+and then further expand on it to make
+sure there's enough enabling context
+all right so I'm looking here at the
+claims you have on the left and uh a
+method for capturing determining
+positions receiving the motion based on
+the sensor so these different I'm just
+wondering are there certain key terms
+that are used to help it to identify
+that this is another step or another
+piece of the of the machine or you know
+whatever is there certain key terms we
+need to use or is it the formatting that
+helps determine whether or not it's a
+separate piece of the claim
+to create that figure specification
+yeah great question
+um so it's a combination of many things
+um so uh it is looking at segmentation
+segmentation is important uh so it is
+looking at the claim one segment at a
+time
+um to figure out like is that another
+step is that another step right or
+flowchart tool is relatively
+straightforward at the moment it's just
+looking for a sequence of steps to
+generate the flow chart
+um and then the block diagram is a
+little more complex because it's also
+looking at a lot more of the uh
+relationship the comprising the
+containment relationships between higher
+level Concepts and then lower level
+concept and then sub-concepts beneath
+that so it's more like a tree structure
+to get a block diagram
+um to provide a bit more context on how
+this technology Works
+um is very grammatically driven very
+syntax driven so what the software does
+when it's analyzing your claims is it
+needs to figure out what all of these
+words are it needs to figure out uh it
+uses a machine learning model to figure
+out you know what's a noun what's an
+adjective what's a article uh what's a
+determiner you know what's a preposition
+uh and then it builds a map of the
+grammatical units and then it goes from
+grammar to then a Knowledge Graph right
+so what are the concepts you know which
+words make up a concept which words make
+up a relationship and then once it
+builds a Knowledge Graph then it becomes
+really powerful because it basically
+knows uh very discreetly down to
+individual Lego blocks individual units
+like what your invention is and then
+they can use that Knowledge Graph to
+reconstruct
+um you know flowcharts block diagrams
+specification writing that are very
+mechanical
+um so uh you know so what it doesn't
+know is like for example it doesn't know
+what a semiconductor device is at the
+moment right it doesn't know you know
+what what a computer is right it just
+knows that that's a concept and that
+based on your description it has some
+relationship to the other Concepts in
+your claim
+okay and then this is again probably
+more curiosity I don't know that the
+project we're going to be doing for the
+competition is this complicated or that
+I don't think it's even a method but can
+methods have split
+um
+flow charts that then recombine or can
+they start from multiple branches
+combining to one or start from a single
+splitting into multiples
+yeah that's a great question so you say
+like a method comprising let's see
+receiving data analyzing data
+um you know right now the flow chart is
+pretty simple so you have a dependent
+thing that says like the method of claim
+one further comprising
+Rising comprising uh performing let's
+say I'm just going to make it generic a
+third action
+performing a fourth action right
+um so it's gonna so by default what it
+does is that it creates a a figure for
+just an independent claim because that
+considers that to be the most basic
+embodiment it then creates additional
+figures for chains of dependent claims
+if they introduce at least two or more
+elements so it created here there's two
+more actions so it feels that it will
+always recite everything in the detailed
+description but because there's two more
+elements you'll create another flow
+chart
+um in terms of branching right that's
+what you're asking like if then right
+like you know maybe there are conditions
+maybe there are uh you know some a
+dependent claiming have additional steps
+that need to be inserted right now the
+flowchart 2 is not that sophisticated it
+will still recite what you say in the
+claim in the detailed description uh in
+false non-limiting Pros uh but the
+flowchart will just be a series of steps
+and then it's up to you to download it
+and rework it and then add in those
+condition blocks and you know rearrange
+the order as you see fit all in the
+either visual or PowerPoint
+awesome
+um and then follow up on uh machines and
+and objects physical objects I guess I I
+don't know if that's necessarily the
+right way of putting it
+um
+how complicated can some of those boxes
+get I mean how many Slayers can those
+things sort of develop
+in in a system
+yeah so let's say we have a machine
+comprising you know a widget
+you know let's say a first widget you
+know a second widget you know comprising
+uh a module uh first module you know a
+second module comprising you know a
+first sub module
+um
+right something like that right so so
+you can add in quite a bit of nesting to
+it and then it'll understand that
+structure
+um you know one thing to pay attention
+to like one of the questions I had was
+like is a claim a English sentence a
+claim it's not an English sentence um
+that's just empirically true a claim
+rather it's a tree is an outline
+um so something like tabs do matter so
+let's say I have uh something comprising
+a first sub module and then a banana
+um whether I have a tab character here
+uh or not uh matters right like that's
+meaningfully different right if I have
+an indentation there then the banana is
+now inside the second sub module if it's
+here then it's inside the second widget
+if it's here it's inside you know the
+the machine right so so whether or not
+you have proper indentations do make a
+meaningful difference so the semicolons
+themselves are not sufficient to be
+unambiguously clear about what the
+structure is
+um so yeah that was my next question was
+through the indents matter
+yeah
+yeah one thing to watch out for is if
+you have ruler indentations in microsoft
+word and you try to import it into the
+app ruler indentations are not text uh
+and so the text doesn't get imported and
+so everything collapses into like flat
+list sometimes
+um so make sure like either there's
+actual tab characters inside the word
+document or manually add those tab
+characters back in once it's important
+all right so I say we have and does it
+do any other with things like or
+um I I
+any other sort of I guess
+can uh I don't control I don't know not
+good with the English word there
+uh like a Marcus group like a
+disjunctive
+um sequence
+um yeah so uh it doesn't do those very
+well right now
+um we don't directly support Marcus
+groups at the moment uh we don't support
+disjunctive
+um sequences at the moment uh so that's
+something just to watch out for like for
+example here it says like you know the
+second module may include the first
+module of banana and an apple
+um you know so you may wanna you may
+want to change that and when you do Post
+editing and just make sure it says like
+or an apple right if you want to make a
+disjunctive
+and then looking at that specification
+does it use the term May as a uh is that
+is that kind of the default or does it
+ever have a shell
+um does that matter
+um so may is kind of like I would say
+like 80 of practitioners are in the May
+School of thinking uh and then the
+minority are in something like can or I
+haven't really seen that many examples
+of shall
+um uh but you can create different
+profiles right now this only applies to
+a brief summary in the future we're
+going to add it for the detailed
+description too but you can change the
+phrasing we used to say like say if you
+prefer like implementations or aspects
+you know can
+you know you know uh additionally or
+alternatively include right uh and then
+this all gets updated in real time and
+you know in the future if you generate
+again it would still use the same
+profile
+unless you switch back to say like the
+default
+um
+did I answer your question
+yeah you did no that's that's actually
+great so I I mean using that same
+uh editing technique you could use an or
+if that were ever necessary
+um I don't know that it is but I'm just
+asking questions so yeah you've actually
+answered everything I can think of Cole
+do you have anything
+I was going to say that uh Jack you've
+been kind of hammering home every every
+question I've thought of before I could
+even get it out so and then Charles
+either asked it or thought of it too so
+nice
+um I'll run through another example here
+and just to show like another feature we
+have so let's say we have like your
+standard home desktop system right a
+computer system comprising computer a
+monitor a keyboard you know and a mouse
+right so that's going to get you like a
+very basic block diagram and that's
+enough for providing 112 written
+disclosure support certainly
+um you know but sometimes you want to
+work with an illustration that the
+impendor gave you for example or you may
+draw your own illustrations so you can
+just replace the background image with
+an illustration like this and then use
+the same reference numbers to label the
+image so 100 being the computer system
+you know it's it's you know recited here
+as well
+um you know 110 is the computer one uh
+sorry this is 420 is the is the monitor
+um you know this is the keyboard and
+then you can change the call out
+Direction
+um so that's the keyboard and then this
+is the mouse right and that that took me
+a couple seconds and that all
+corresponds to the language we generate
+um so that that would be how you work
+with illustrations
+um if you have other figures and you
+want this to be say figure say eight
+right you can just change the figure
+eight and then all of the numbers update
+to like 800 820 830 right looks like
+there's a little bug there but you can
+just change that
+um
+so that's that's another thing to watch
+out for if you want to work with the
+illustrations instead
+um
+so Jack when you do that you just right
+clicked on on the screen to
+yeah right click to upload the image
+um you know command enter to generate a
+new draft that's the keyboard shortcut
+there uh click on this to edit that we
+don't currently have
+um editing for uh individual elements so
+you'll have to do that uh in in
+post-processing I believe Pat emboss has
+a tool for doing that you know more
+efficiently but um but that's not too
+hard of a fix in the future we'll
+introduce that yeah
+nice now I'm curious
+um just the fact you can import an image
+made me think
+is it possible when creating one of
+these charts that the figures that are
+naturally created in this in patent pal
+so you have a computer system comprising
+a computer a monitor keyboard of a mouse
+is it possible to say a computer
+connected to a monitor keyboard and
+mouse not that they're inside of it but
+that they're connected
+yeah and then that would show up in the
+figure
+uh so that's that's a great point so I'm
+gonna create a new example if I say
+claim five you know computer uh
+comprising so let's say a system
+comprising you know a processor
+connected to a memory and I actually
+wrote a post on LinkedIn just yesterday
+on this
+um so if you write it like this it's not
+going to generate a block for the memory
+uh because you haven't explicitly said
+that the memory is comprised inside the
+system
+um so uh the broader interpretation is
+that it may be in the system or it may
+not be you know this is still recited in
+the same way in the detail description
+right it says in some embodiments the
+system may include a processor did
+um did um Co get disconnected
+um
+I think Brady got disconnected there
+oh I've got this recording so okay it
+must have been his internet all along oh
+there he is close back
+um
+yeah so uh so I still reset the system
+may include a processor connected to
+memory so it provides that claim support
+regardless uh but it's not going to
+render it in the figure because it
+doesn't know that the memory is inside
+the system so if you replace this with
+say like an external server right based
+on our knowledge of the world uh you
+know we wouldn't typically think the
+server is inside a local computer for
+example right
+um so um so this is the correct uh
+interpretation is the broader
+interpretation
+um so um it's not going to try to commit
+to an assumption about where the
+external server is located so if you
+wanted to render that in the figure
+you'll have to write it
+um more explicitly so a memory connected
+to the processor by segmenting it like
+this yeah it would know that
+um the computer comprises the memory
+right
+um
+so yeah so it's about making it explicit
+um that she at the end of the day cannot
+is very syntax driven is not
+semantically driven and doesn't know
+what what what you mean with respect to
+your common knowledge of the world
+okay so uh this right here the one that
+you got shown on the screen there shows
+that the processor and memory are both
+inside of the computer
+um
+and while the claim says that they're
+connected and the specification says
+they're connected does the system ever
+draw a line between the two and the
+figure or is that something we want to
+do post-processing on the download is
+that something that's even necessary in
+patent drafting I don't I honestly I
+don't know
+but is preferable in pattern drafting uh
+you you should draw a line if you want
+right I mean the figures are you know
+meant to be
+um visual aids right like they're meant
+to help the reader kind of get a sense
+for what this is about
+um you know at the end of the day it's
+still your specification that needs to
+be a bit more specific in that figure uh
+and there's always going to be a
+limitation on just how many likes you
+can draw you know especially in a block
+diagram if there's too many elements uh
+but but yeah currently you would
+download this and then you would draw
+the line manually in the future we'll be
+able to generate some of those lines as
+well um
+foreign
+I can't think of any other questions
+right now Cole you got anything
+yeah that's great um I was looking at
+the like the custom entry like the
+I can't remember what I was
+where it's at and then like the top left
+that little tab up there
+um yeah
+so can you just like insert like those
+like wherever kind of like in for the um
+for the specification or
+uh right now there's no kind of like
+drag and drop uh you know Arrangement at
+the moment it's more just like we put in
+those phrases to make the sentences
+non-limiting uh and then you can
+customize the wording and the phrase
+choices we use
+um and then you can create different
+profiles uh one thing to watch out for
+is make sure you uncheck because by
+default this is checked uh you want to
+uncheck it otherwise it's going to show
+dot dot dot when something overflows and
+you don't want that
+um and then verbose steps so a verbal
+step is interesting so I'll show what
+that does so
+um if you have like a flow chart like
+this
+so this is an example of a verbose flow
+chart that's what we call it which is
+means it just basically tried to capture
+the whole segment in there if you
+uncheck that it's going to cement
+um like you try to semantically tries to
+elegantly capture just a snippet of it
+to make it a bit more illustrative and
+so Some people prefer this style
+um but but I find that most people
+wanted to be more verbals yeah
+that's great thank you
+yeah
+um I recommend
+um you know especially the other members
+over your team too like as people start
+playing around with this uh that we have
+a follow-up training for another 30
+minutes a bit further down the road when
+people have kind of played around with
+the two or more uh I think that would be
+interesting because then you've had
+tried it you're going to have examples
+in your mind that you want to go over
+and ask you know certainly you're
+welcome to just email me as well and
+I'll provide support in that way too but
+uh will be interesting to kind of have
+be as a group walk through some of these
+examples together that otherwise might
+like either trip up the tool or like be
+kind of confusing for the user
+yeah I definitely appreciate it
+um probably
+it'll be a month or so because they they
+don't even come out with the competition
+challenge until November
+um but we'll be we'll be playing around
+with it a little bit and you know I'm
+sure we'll have some fun but that will
+help us to get some questions for you
+that might be more specific to an issue
+we run into or whatever so
+nice yeah and if you can send me a link
+to this video that I can download I'll
+put it up on YouTube so other people can
+benefit from this too will do awesome I
+really appreciate Jack uh thank you so
+much absolutely yeah anytime thanks so
+much Charles
+have a great day yeah me too take care
+right

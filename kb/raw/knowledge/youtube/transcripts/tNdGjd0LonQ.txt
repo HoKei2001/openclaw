@@ -1,0 +1,390 @@
+you're listening to the patenting for
+inventors podcast with a registered
+patent attorney dr. Adam diamonds
+founder of diamond patent law the number
+one source for securing your
+intellectual property needs now here's
+your host Adam diamonds hello and
+welcome to the patenting for inventors
+podcast episode 46 how to respond to a
+novelty or anticipation patent
+application rejection my name is dr.
+Adam diamonds a registered patent
+attorney and founder and owner of
+diamond patent law in Los Angeles
+California
+I can be contacted through my website at
+diamond patent law Calm that's D I am
+ent patent law comm or if it's hard to
+remember you can get to it through
+patenting for inventors com that's
+patenting fo our inventors comm or call
+Mia for twenty four two eight one zero
+one six two and while most attorneys can
+only practice in states where they're
+members of that states bar patent
+attorneys are actually allowed to
+practice patent law in any state so if
+you'll free to contact me regardless of
+where you live so far I've covered
+generally what a patent ejection is what
+an objection is what an office action
+looks like which is the official
+document that a patent examiner will
+send to you and in the last episode I
+talked about the general formatting of
+what's called the response to the office
+action in this episode I'm going to go
+into a little more detail about
+responding to a certain kind of patent
+rejection called a section 102 or a lack
+of novelty or anticipation rejection the
+word anticipation has a different
+meaning in patent law than it does an
+ordinary language when you think of
+anticipating something you usually think
+about wanting something to happen really
+soon but that's not what it means in the
+patent world anticipation means that
+what you're claiming your invention is
+already exists now I talked about this
+in a previous episode but I thought I'd
+dedicated a specific episode for this
+type of rejection let me give you an
+example if I say that my invention is a
+mechanical pencil having a launce
+long cylindrical body an eraser a button
+on the side to make the pencil head come
+out and a hole at the tip of one end of
+the launce long cylindrical body and the
+examiner finds a mechanical pencil that
+has all these things you will get in
+anticipation rejection the examiner will
+usually say that under Section 35 USC
+102 your claim lacks novelty
+because it is anticipated by patent X
+and patent X is going to be some patent
+number that the examiner believes is
+something that shows all these features
+it doesn't have to be a patent it could
+be patent application it could be
+something on Amazon anything the
+examiner can find this in the public the
+examiner is going to go limitation by
+limitation and what a limitation is
+essentially is each individual part in
+your claim
+so the examiner might say something like
+patent X discloses a long cylindrical
+body in paragraph 1 and in Figure 1
+reference number 5 and the reference
+number will just be the number that
+points to the part that is in your claim
+the eraser is shown in patent acts in
+paragraph 15 and shown in Figure 2
+reference number 10 and a button on the
+side of the cylinder is disclosed in
+paragraph 20 and in figure 3 and they
+hold the tip is disclosed in paragraph
+25 I'm just giving you an example of
+what it might look like I just kind of
+making up paragraph numbers and figure
+numbers so what you do first is you find
+the patent that the examiner is
+referring to and you get it at the
+Patent Office website or somewhere else
+and read that patent and see if what the
+examiner is saying is true is it really
+true that the patent that the examiner
+cites really does disclose all these
+things you might be surprised to find
+out that the patent doesn't actually say
+what the examiner says it says so I'm
+going to go through a couple scenarios
+one is that the patent doesn't actually
+disclose what easy I'm under says it
+says and the other is that the patent
+does disclose what the examiner says it
+discloses let's take the first scenario
+let's say you read the patent and you
+look at the button that clicks to make
+blood come out in your claim let's say
+you said that the button was on the side
+of the long cylindrical body but you
+read the patent that the examiner cited
+and the button is at the end of the
+pencil not on the side does the prior
+art disclose each and every element that
+you claims no it doesn't now you might
+be thinking who cares a button on the
+side is just the same as a button on the
+tip and you might be right
+putting the button at the end tip is
+just a simple design choice and it
+really isn't important but that's not
+the rejection that the examiner gave you
+if the examiner wanted to reject your
+application because your invention was
+obvious he could have done that and
+that's called the section 103 rejection
+but in our example he rejected based on
+section 102 which is anticipation
+anticipation again means that each and
+every limitation is found in one prior
+art reference exam
+as you have a written now it's possible
+and also likely that when you
+successfully argue to the examiner that
+the prior art doesn't anticipate your
+claim then the examiner will just come
+right back and give you another
+rejection based on obvious Ness
+but we'll deal with obvious sense
+projections later the first step is to
+get rid of the anticipation rejection so
+how do we actually respond the shorter
+the response the better
+you'll want to make it clear and concise
+I talked about formatting the office
+action in the last episode when it cups
+comes to the substance part of your
+response you're gonna want to make a
+heading that says something like
+rejection under 35 USC 102 and view of
+patent X you might want to do a line
+under that that says patent tax does not
+disclose each and every elements
+required by the claims people have
+different ways of writing it as just one
+simple way of doing it now you'll want
+to say what the actual rejection was you
+might write something like the office
+rejected claim one under 35 USC 102 as
+being anticipated by patent X next you
+can quote the rule about this the patent
+rules that the examiner uses are
+something called the MP ep also known as
+the manual for patent examining
+procedure so the next sentence might be
+something like to reject the claim as
+anticipated by reference the disclosure
+must teach every element required by the
+claim under its broadest reasonable
+interpretation npep section 21 31 you
+can also cite cases but in general you
+don't need to go overboard
+the examiner probably knows what the
+rule is but you can cite a case called
+Richardson v Suzuki Motor Company that
+says the identical invention must be
+shown in as complete detail as contained
+in the claim there's another case called
+verdeo Gaul brothers V Union Oil of
+California and it states the claim is
+anticipated only if each and every
+element as set forth in the claim is
+found described in a single prior art
+reference and there's also another case
+called Rockwell interned Corp versus
+u.s. which says that for anticipation
+each and every claim limitation must be
+found in a single reference believe me
+you don't need to remind the examiner
+too much that for a section 102
+rejection each and every limitation must
+be found in a single reference so you
+might just want to cite the npep or a
+single case after citing the rule make
+your case about why the cited prior art
+the salmon are cited does not disclose
+each and
+every element in your claim and the
+example I just gave you can say
+something like this on page three of the
+office action
+the examiner asserted that patent X
+teaches a button on the side of the
+pencil body however patent X does not
+disclose a button on the side of the
+pencil body as shown in Figure five or
+whatever figure shows the button in the
+patent patent acts only discloses the
+button at the end of the pencil
+applicant respectfully submits the prior
+art does not disclose or teach each and
+every element to the satisfaction of the
+npep and accordingly
+it's respectfully submitted that the
+rejection is withdrawn that will be a
+type of bare-bones response you have a
+concluding paragraph that I talked about
+in the last episode and you submit your
+sponsor through the Patent Office
+website now as I said even if you're
+right in this case it doesn't mean the
+examiner is going to allow your patent
+he might now give an obvious rejection
+he might also find a different patent
+out there that has all the limitations
+of your claim but you generally can only
+respond to the rejection that's been
+given to you might also want to say in
+that case you could say no prior art
+reference has all these features and
+then let the examiner prove you wrong so
+that's how you might answer a novelty or
+anticipation rejection
+if a single prior art reference doesn't
+show each and every limitation but let's
+do the other scenario now you look at
+the patent at patent X and turn off the
+patent discloses a long cylindrical body
+and eraser a button on the side and a
+hole of the tip for Ludd to come out so
+now what do you do remember in the
+previous episode I talked about the
+three things you can do with a rejection
+three A's which are am and argue or
+abandon if you don't want to abandon and
+there's no use in arguing that the
+examiner is wrong that you have to amend
+but you can only amend by including in
+your claims something you already talked
+about that's in your application so
+let's say in your application you talked
+about a variation of your pencil that
+had these same features but included an
+additional feature of the pencil such as
+maybe a compartment inside that holds
+right out so besides just an eraser the
+pencil user can push a button and
+whiteout will squirt out from the tip I
+know it's just this little example but
+I'm just trying to include something
+that might not be anywhere in a patent
+what you do is you amend the claims to
+include an additional limitation or two
+so the amended claim might say that it
+comprises
+liquid storage compartment within the
+long cylindrical body you might consider
+adding a limitation of a second button
+or a second hole the tip of the pencil
+where liquid can be expelled it can be
+really anything but the more things you
+include remember the narrower your
+patent protection will be so unless you
+need to
+don't start adding lots of loot new
+limitations you only want to put as many
+new limitations or elements into your
+claim to get you over in anticipation
+rejection and also make your invention
+non-obvious over the prior art and
+combination so how do we respond to this
+you start out with the same heading
+rejection under 35 USC 102 and view a
+patent X under that you might want to do
+a line that says as amended patent X
+does not disclose each and every element
+required by the claims it's always good
+practice to thank the examiner from the
+comments so you can say applicant thinks
+the examiner for the comments applicant
+has amended claim 1 2 now require a
+liquid storage compartment patent X does
+not disclose all the quick storage
+compartment and therefore does not
+anticipate amended claim one applicant
+request reconsideration of the claims
+and withdrawal of the rejection you can
+if you want you can put in the rule-bot
+anticipation but the main focus really
+is that there's a new limitation that
+the examiner has to could be consider
+one practice point that I would suggest
+is that you don't omit anything you
+don't want to say the examiner is right
+in that patent acts discloses each and
+every element but now I'm amending
+claims don't say the seminar is right
+and that the patent disclosed something
+because that can be used against you
+later what if in the future you actually
+discover the patent use against you
+really didn't say what you thought I
+said you don't want anyone finding
+something where you admitted that your
+claims were not new or non-obvious
+that's called patent prosecution
+estoppel which means that anything in
+your patent application file can be used
+against you just amend your claim and
+ask the examiner to reconsider the claim
+to protect yourself a little bit often
+in a response I'll write something like
+applicant disagrees of the examiners
+assertion that patent X discloses XY and
+Z but to further prosecution and receive
+a notice of allowance applicant has
+amended the claims applicant reserves
+the right to file continuation
+applications with the original claims
+now this might not do that much legally
+because you always have the right to
+file a continuation application which I
+haven't talked about those yet but at
+least you can put on the record that you
+disagreed with
+examiners understanding the prior art
+but you're going to amend that claims
+anyways also I've talked about amending
+the claims a lot but haven't gone into
+details about how you actually amend
+your claims how do you dry tehm to show
+the Patent Office what you're actually
+amending and I'm gonna leave that for a
+future episode so that's the bare bones
+type of anticipation response which is
+considerably easier to write compared to
+an obvious in this rejection response
+which will take several episodes to go
+through anticipation responses are
+easier because it's much more
+black-and-white the prior art show XY &
+z yes or no for obvious Ness it's harder
+because there's lots of subjectiveness
+on whether it's obvious to combine parts
+XY and z from different patents to say
+that your claim should be rejected on
+obvious grounds and we're gonna go into
+a lot of those scenarios later now if
+you want help with drafting your patent
+application you can contact me through
+my website at patenting for inventors
+com that's patenting fo our inventors
+comm or called diamond patent law at
+four to four to eight one zero one six
+two I'm Adam diamond and until next time
+keep on inventing thanks for listening
+to the patenting for inventors podcast
+with host Adam Diamonds if you enjoyed
+the show
+please rate and review on iTunes the
+contents of this podcast are intended
+for general informational purposes only
+the facts of every legal matter are
+unique and the content of this podcast
+should not be construed as offering
+legal advice for your specific legal
+situation for more information and help
+with your own intellectual property
+needs contact Adam diamonds at patenting
+for inventors calm that's patenting f-o
+our inventors calm or call diamond
+patent law at four two four two eight
+one zero one six two the proceeding
+information may be considered an
+attorney advertisement and does not
+establish any attorney-client
+relationship

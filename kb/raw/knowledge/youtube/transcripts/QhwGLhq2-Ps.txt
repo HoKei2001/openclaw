@@ -1,0 +1,667 @@
+A couple of years ago I made a
+video for startups and entrepreneurs on how to
+file your own provisional patent application.
+The video was super popular and just from
+the feedback I know I probably had several
+thousand people who used my video to file
+their own provisional patent applications.
+One of the problems though of making a
+video that gives step-by-step instructions on
+how to use a specific platform is that
+it's easier to change the platform than it
+is to change the video, especially on YouTube
+where the videos can't be edited unless they're
+taken down and reposted.
+Well, enough of you've asked, enough of you've
+complained that I finally got around to redoing
+the video.
+Okay, before I jump on the computer and
+start walking step-by-step through the filing
+process, let me leave you with a little
+bit of a pep talk.
+I believe that filing your own provisional patent
+application is something that you can do.
+It's very satisfying to file your own, to
+file it yourself and at the end of
+the process get that receipt back that says
+you're patent pending and that you're an inventor.
+But it's not unlike changing the oil on
+your own car.
+It can be a little messy.
+Sometimes stuff just comes up like the drain
+plug gets stuck and you can't get it
+out and it takes a little bit of
+patience to work your way through it.
+Well, filing a provisional patent application is like
+that.
+If this happens to you, I'll leave contact
+information in the description section below to the
+help desk for the patent office.
+Give them a call or send them an
+email message.
+Usually they can help.
+And if the drain plug really gets stuck
+or you just decide life's too short to
+get covered by oil, you can always reach
+out to a patent attorney in your area.
+And of course, drop me an email at
+the email address below.
+If you'd like to contact me, we'd love
+to help you as well.
+Okay, enough of the advertorial.
+Let me show you now how to do
+it yourself.
+Before we get into the procedural part of
+filing a patent application using the Patent Center,
+let's take a look at the sample provisional
+patent application that we're going to be filing.
+The title is Systems and Methods for Detecting
+and Removing Jitter from a Video.
+Now this is a pretty simple invention, but
+the idea is that if you're hand-holding
+a movie camera or a video camera, there's
+a tendency for the camera to shake.
+And so we want to use some digital
+signal processing techniques to remove the jitter or
+the shake from the video.
+And that's what this invention is about.
+Now there may not be enough detail in
+this application to actually enable one of Ordinary
+School in the Art to practice the invention.
+But the idea here is just to give
+us an example document that we can use
+to file an application, a provisional patent application
+using the Patent Center.
+Now this particular patent application consists of 10
+pages.
+There are five pages of specifications.
+There is a patent claim.
+Now a patent claim is not required for
+a provisional patent application, but I do like
+to include a claim so that a year
+from now when I go back and convert
+the provisional application to a non-provisional application,
+I'll have some better understanding of what I
+intended the original invention to be.
+Now in addition to the five pages of
+specification and claims, I've included five pages of
+figures.
+And so that's pages 6 through 10 consist
+of figures in the invention.
+Okay, now that we've taken a look at
+the patent application that we're going to be
+filing, let's jump over to the USPTO website
+to get this application, this provisional patent application
+actually filed.
+Into your browser, type the address patentcenter.uspto
+.gov and that will take you to the
+Patent Center website.
+Now I want to add here that I'll
+be using the Apple Safari browser.
+That's the browser that comes with Apple computers.
+However, in the past, I have had problems
+with the Apple Safari browser in some of
+the patent office functionality.
+And when that happens, I found that Firefox
+or Chrome typically will work well.
+I know that this was an issue when
+the Patent Center first launched its website some
+years ago.
+Now when we land on the USPTO Patent
+Center webpage, we note that this is a
+sign-in page.
+And this leads us to probably the most
+complex part of filing a provisional patent application.
+Prior to September 2025, it was possible to
+register as a guest and file your provisional
+patent application as a guest user.
+And in my last exemplary video on how
+to file your own provisional patent application, I
+just signed in as a guest.
+And then the whole thing broke in September
+of 2025 when my inbox was inundated with
+people writing me saying, I tried to sign
+in as a guest in the patent office
+would no longer allow me to file my
+patent application.
+This is one of the main reasons I'm
+redoing the video now.
+Okay, there's a couple of steps required to
+register as a user at the USPTO government
+website.
+Now the first step is to create a
+Patent Center account.
+So scroll down and find Obtain Patent Center
+Account.
+Click on this.
+This will take you to a Getting Started
+page.
+And you'll find that there are three distinct
+steps required to create an account.
+The first step is to create your USPTO
+.gov account.
+And that's going to require you to verify
+your identity with ID.me. Now, if you're
+a user of nearly any other confidential government
+services, you probably are familiar with ID.me.
+If you've applied for a passport or Social
+Security or Medicaid or an IRS account, you've
+used ID.me and you probably already have
+an account.
+If you haven't, then you're going to need
+to go to ID.me and set up
+an account.
+And this takes about 30 minutes.
+It actually goes a little bit faster.
+But you're going to be asked to provide
+some identification, some documentation proving your identity.
+This can be a passport.
+It can be a government-issued ID.
+In some cases, it will take bank statements
+that are mailed to your address.
+There's a variety of different options.
+And so you'll just need to go through
+the options at ID.me and figure out
+how you can create identity verification.
+Okay, once that's complete, then you can go
+back to the Patent Center and you self
+-enroll in an account.
+And when you enroll in that account, they're
+going to give you a customer identification number.
+And that's really important because we're going to
+use that later.
+Okay, once you're set up with an account,
+then go to the top right-hand corner
+and sign in.
+Once you're signed in, scroll down the page.
+And there's a box that's super interesting called
+Search for a Patent Application.
+And this box is sort of hidden, but
+I want to bring it to your attention
+because when you select the application number, you
+get a variety of different choices, a drop
+-down menu that gives you lots of searching
+capability on this website.
+I just think it's important to know that
+that exists so that if you're looking for
+your application or a future patent number, you'll
+be able to easily find it.
+Now, just below that, there's a box called
+Activities.
+And this Activities is where we're going to
+start the application process.
+And in the case of our application, we're
+going to select New Submissions.
+This New Submissions allows us to file our
+provisional patent application at the patent center within
+the PTO.
+Now, once New Submissions is selected, we go
+to a File New Submission page, which gives
+us a variety of choices, filing a utility
+non-provisional, utility provisional.
+If we scroll down, we'll see that design
+patents are possible.
+There's a variety of different applications that we
+can file from this page.
+We're going to be filing a utility provisional
+patent application.
+This is the initial provisional patent application that's
+going to give us entry into the patent
+office, into the patent system with 12 months
+of priority protection.
+From the Provisional Utility Application hotlink, we go
+to the Application Data Sheet, the ADS.
+Now, this is an extremely important document that
+is the cover letter for our patent application.
+Now, you may have heard or you may
+have read, and we're going to see in
+this workflow that a cover sheet is required
+when filing a provisional patent application, any application
+in the patent office for that matter.
+This ADS, this Application Data Sheet serves as
+this cover.
+Now, there are three ways to file this
+ADS.
+One is through the Web ADS, which we're
+going to be doing in this workflow.
+There's an uploading the ADS as a PDF.
+That is, you complete the ADS as a
+PDF and then attach it to your patent
+application as you file it.
+Or you can defer the ADS until later
+and attach the ADS at a later time.
+We're going to use the Web ADS, where
+our workflow is going to allow us to
+prepare the ADS, the Application Data Sheet, as
+we go.
+So we're going to select that.
+Okay, once selected, we go to the Provisional
+Application page.
+And below the Provisional Application header is the
+Web ADS column.
+And that's the column on the left-hand
+side.
+This is our outline for preparing the ADS,
+the Application Data Sheet.
+The titles include inventors, application details, representatives, first
+inventor to file, and so on.
+And we're going to go through each one
+of those sections and fill that page out.
+If you lose your way through this process,
+just go back to this table of contents,
+this column, and it will allow you to
+select the appropriate section that you need to
+work on next.
+The first thing that we're going to do
+is we're going to add a new inventor.
+And in this case, I'm going to be
+the inventor for this particular application.
+So I go over to the Add New
+Inventor tab, the hotlink, and I click on
+that.
+And it allows me to enter my information
+as a new inventor.
+The usual information will be required.
+Your name, a mailing address.
+It wants residency information as to which country
+you're located in.
+The city, state, and country.
+Now, once we click Add, then we're going
+to be taken back to the inventor page
+where we'll get a chance to review the
+information that we've just added.
+Next, we're going to go to Application Details.
+And the first piece of information that's going
+to be asked for is our customer number.
+Now, we were given a customer number when
+we enrolled.
+And so we enter that customer number here.
+Or in my case, I'm going to enter
+a physical address because rather than use a
+customer number, I'm actually going to use my
+patent attorney registration number in order to access
+or to file this application.
+I'm going to add my correspondence information, including
+my address, my physical address, my phone number,
+and my email address.
+It's then going to ask me for the
+application information, the title of the invention, which
+I'm going to type in, systems and method
+for detecting and removing jitter from video.
+It's going to next ask me for entity
+status.
+And by the way, you can skip attorney
+docket number.
+If you're an attorney and you have lots
+of clients, you can enter a docket number
+there.
+Under entity status, note that I've entered this
+as a small entity.
+Now you can also claim micro entity status,
+but micro entity status for purposes of this
+checkbox is a subset of small entity.
+So if you're a micro entity, you would
+enter small entity here and we'll have a
+chance later to claim micro entity status when
+we pay.
+Now the application type is a provisional application.
+It's a utility application.
+This is pre-filled in.
+And then I have the option of entering
+the number of drawing sheets.
+Now I'm going to leave this blank because
+this will be calculated for me later.
+There's another box below called filing by reference.
+And if this is a provisional patent application,
+we don't check this box because this box
+does not apply.
+This relates to applications that were filed previously
+for which this current application is claiming reference.
+And since this is a brand new application
+with a specification and set of drawings, there's
+no reference to prior applications.
+We don't check this box.
+Now we can click next section.
+Otherwise, if you can always go back to
+the table of contents, the selection box, the
+left-hand column, and jump to the next
+section there.
+But in this case, we're going to go
+to next section, which is representatives.
+Now there are a couple of sections that
+we're not going to be filling out on
+the web ADS form.
+One of those is representatives.
+Now I'm going to fill out the representatives
+forms because I'm an attorney and I'm using
+my registration number rather than the customer number
+to register this application.
+In this case, I'm going to add my
+practitioner number and type it in in the
+box below that pops up.
+And then once that's done, I'm going to
+go to next section, which is the first
+inventor to file.
+Now the first inventor to file section, this
+particular section doesn't relate to provisional patent applications,
+but rather for utility patent applications that claim
+reference to another application that was filed prior
+to 2013.
+So we can select next section and go
+on to authorization to permit access.
+The authorization to permit access can be skipped
+when filing a provisional patent application because this
+relates to access granted to non-provisional patent
+applications by foreign entities.
+Now the question comes up, well, why do
+they have all this extraneous stuff in the
+ADS section?
+And the reason for that is that the
+application data sheet, the same data sheet is
+used both for provisional patent applications and utility
+applications, non-provisional utility applications.
+And thus there are some extra sections that
+are contained in the ADS, which are only
+used by non-provisional applications.
+And this is one of those sections.
+The applicant information section is generally not used
+in provisional patent applications, but it might be
+used when you're filing a patent application on
+behalf of someone who is deceased.
+Or for example, if you're filing a patent
+application, a provisional patent application for which you
+have been assigned rights by the true inventor,
+by the original inventor.
+In those cases, you might be the applicant
+and not the true inventor, and you'd fill
+this section out.
+Otherwise, you can skip this.
+The assignee information section is used to collect
+the name of the assignee for the patent
+application for purposes of listing it on a
+published document, such as the publication of the
+patent application or the actual published issued patent.
+The provisional patent application is never published, so
+the assignee information here is not required.
+The next section is the summary of your
+ADS, of your application data sheet.
+It contains all of the application information that
+you've entered so far.
+So you'll want to go through this carefully
+and just make sure that everything is correct,
+especially your contact information, because this is how
+the patent office is going to reach out
+to you to contact you with a receipt
+and also if there are questions that relate
+to your application.
+If everything's okay, we'll go to the next
+section, which is the signature page.
+The signature page is super easy to miss,
+so we're going to want to make sure
+that we take care in going through this.
+The patent application cannot be filed unless your
+application data sheet has been signed.
+We sign the document by entering our full
+legal name between two forward slashes.
+I got the name of these slashes wrong
+in my last video.
+I called them backward slashes, and I very
+helpfully had a number of people reach out
+to me and say, hey, John, you screwed
+up the names of your slashes.
+These, I think, are called forward slashes.
+It's forward slash, your name, followed by a
+trailing forward slash.
+That's how we sign the document.
+If there are multiple inventors on this application,
+then you can add more signatures.
+Okay, once the application data sheet is completed,
+then we can go to the actual uploading
+of the patent application documents.
+I'm going to pause the workflow here to
+discuss what to do if you're a micro
+-entity filer, that is, if you're eligible for
+micro-entity status in filing your patent application.
+This is very poorly described on this Patent
+Center website, and it's important, it's essential that
+if you are a micro-entity filer, that
+you include a form called the SB-15
+-A, which is a declaration of your micro
+-entity status.
+Now, there are some variations on the SB
+-15-A.
+For example, if you're working for a university
+or if you're an educator in a higher
+education institution, then you're eligible to file an
+SB-15-B, which is a different form,
+and I'm not going to go through that
+in this video.
+But if you are a micro-entity filer,
+you need to fill out and upload an
+SB-15 document into this section along with
+your patent application.
+I'm going to show you how to do
+that here.
+If you're not a micro-entity filer, then
+you can skip this section and go directly
+to the part where I'm uploading the patent
+application specification.
+Okay, the first challenge in filling out the
+SB-15-A form is to find it.
+And the easiest way to do that is
+to type USPTO SB-15-A into your
+website browser, and it should take you to
+the form at the USPTO website.
+And the second easiest way is to go
+down into the description and copy the link.
+I'll paste the link for the SB-15
+-A form into the description.
+Once you find the SB-15-A form,
+filling it out is pretty simple.
+First of all, go up to the top
+right-hand corner and make sure, in fact,
+that you are filling out the SB-15
+-A.
+And it should say PTO slash SB slash
+15-A.
+And there will be a date in parentheses.
+And in this particular case, this form was
+updated in July of 2014.
+The title is Certification of Micro-Entity Status,
+Gross Income Basis.
+The first entry box is to fill out
+the application number or control number.
+If this is a new provisional patent application,
+then this remains blank.
+If you fail to submit this and you've
+been asked by the Patent Office to go
+back and submit an SB-15-A, then
+you type in the application number here.
+And that's the application number that you got
+when you file the provisional patent application.
+Next, enter the name of the first named
+inventor.
+In this case, that's me.
+Title of the invention, I've typed that in.
+The applicant hereby certifies the following.
+Now, this is a declaration under penalty of
+perjury, so you want to be very careful
+about this.
+The declarations are this, that the applicant qualifies
+as a small entity as defined by 37
+CFR 1.27. The application filing limit, you're
+entitled to file as a micro-entity so
+long as you haven't filed more than four
+U.S. non-provisional patent applications previously.
+Provisional patent applications do not count against this
+limit of four previously filed non-provisional patent
+applications.
+Okay, the next requirement, number three, is the
+gross income limit on the applicant.
+And this refers to the maximum gross income
+in the prior calendar year that you're entitled
+to make and still claim micro-entity status.
+This applies to you and to any co
+-inventor on this application.
+It's not the sum of your incomes, but
+you look at your individual incomes and so
+long as no one has exceeded the maximum
+gross income for the prior calendar year, then
+you can claim micro-entity status under this
+section.
+Now, to figure out what that current income
+is, you can click on the link provided
+in section three, and it will give you
+for the current time what that maximum income
+is.
+And at the time of the recording of
+this video, that maximum qualifying gross income was
+$251,190.
+It's a pretty high maximum income threshold.
+And so long as you haven't exceeded that
+threshold in the prior calendar year, and so
+long as you haven't previously filed more than
+four non-provisional patent applications, you're entitled to
+micro-entity status so far under these guidelines.
+The final requirement for micro-entity status is
+that you or none of your co-inventors
+have assigned their rights in this application to
+an entity whose gross annual income has exceeded
+that maximum income for the prior calendar year.
+So, for example, if you are an independent
+inventor and you earned $150,000 last year,
+this is your third patent application that you
+filed.
+However, you're in contract.
+You have an obligation to assign this patent
+application to another company, and that other company,
+say, for example, last year earned $500,000,
+then this application no longer qualifies for micro
+-entity status.
+However, if the assignment is to a brand
+new startup that had no income last year,
+then you would still be entitled to file
+this as a micro-entity.
+Next, we add our signature, and this is
+the signature style of the USPTO.
+Forward slash, your name, another forward slash, add
+your name, the date, your telephone number, and
+if you're an attorney and you're filing on
+behalf of someone else, the registration number.
+Otherwise, there's no registration number required.
+If there are additional inventors, each inventor needs
+to fill out one of these forms and
+check the box at the bottom.
+As soon as you've completed the SB-15
+-A and had a chance to review it,
+then save this document as a PDF, and
+we will upload this PDF into the workflow
+in our next step.
+The uploading itself is pretty simple, but it
+can be a little finicky here, and so
+we'll need to be patient, and you may
+need to do this a couple of times
+to get it right.
+The question that came up frequently in the
+last video I did on filing your own
+provisional patent application was specifically what documents need
+to be uploaded into this section.
+Generally speaking, there are three documents that need
+to be uploaded.
+The first document is the SB-16.
+This is the patent application cover sheet.
+Now, if you followed my workflow in this
+video, that application data sheet, the ADS or
+the SB-16, has already been uploaded.
+You don't need to upload that again.
+However, if you chose to fill out the
+SB-16 or the ADS yourself as a
+PDF and have saved it as a PDF,
+then you will want to upload it in
+this section.
+The second document that we need to upload
+into this section is the SB-15, and
+this is the micro-entity status declaration that
+we just saved as a PDF.
+We'll want to upload that now into this
+section as well.
+And finally, the third document that we'll need
+to upload is the provisional patent application that
+we also have saved either as a DOCX
+file or as a PDF.
+Now, you can either drag and drop your
+files into the drag and drop window, or
+in my case, I just click browse files
+and selected the file that I wanted to
+upload.
+Now, after uploading the files, it'll take about
+10 seconds or so for the patent center
+to ingest your file.
+And as we scroll down, we note that
+the application data sheet has already been entered.
+It's part of the packet that's already included.
+We just finished it.
+We signed it.
+It's now part of our application packet.
+I uploaded my file, Specification and Figures, System
+and Method for Detecting and Removing, and it
+was a total of 181 kilobytes, 10 pages.
+Now, there's something here that's very important, super
+helpful.
+There's a line called view feedback document.
+Now, it may well be that you upload
+a DOCX file and there are errors in
+the DOCX formatting.
+For example, when I initially uploaded my document,
+I was using the Palantino font for my
+footers in the document, and it turns out
+that the patent office does not allow Palantino.
+I think I changed it to New Times
+Roman and it took it just fine, but
+it didn't like the Palantino font.
+The view feedback document is very helpful because
+if there are problems in the document, it'll
+help you find these very quickly.
+And I know that document errors are very
+common just based on the feedback I got
+in the comment section for my last video.
+And just by viewing the feedback document here,
+it's pretty easy to decode what the errors
+are and how to fix them.
+So, if you have trouble uploading, check the
+view feedback document.
+Now, I have a message here that all
+of my artifacts, smart art, drawings, charts, et
+cetera, have been replaced with images.
+So, my figures have been replaced with images.
+And there were some bookmarks that were found
+in my document, and these bookmarks were for
+my own use, but the patent center has
+removed the bookmarks for purposes of the document
+it's uploaded.
+Now, what's interesting is that the patent center
+software has parsed this particular application and noticed
+that there's a specification section, there's a claim
+section, and that there are drawings in this
+application.
+Now, once successfully uploaded, we can click continue
+and go to the next section.
+Now, once the application is uploaded, we go
+to the fee calculation section.
+And this is where we determine what fees
+are appropriate for us.
+There are regular fees, these are undiscounted fees,
+and these are for large entities, sometimes called
+large entity fees, for businesses and organizations that
+have more than 500 employees.
+Or, as we discussed before, if you satisfy
+the requirements for micro-entity status, you can
+also check the micro-entity status box.
+But remember that if you do file and
+pay as a micro-entity, you have to
+upload the SB15 form in the upload section
+that we just completed.
+Because I'm filing this as part of my
+law firm, and our law...
+
+0.0s · 36m 23s YouTube · 4.5k words · text via transcript/captionTracks

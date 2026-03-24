@@ -1,0 +1,37 @@
+{
+  "video_id": "IUCHDZyhKgg",
+  "total": 2,
+  "fetched_at": "2026-03-12T08:35:00.871688+00:00",
+  "comments": [
+    {
+      "id": "UgyHUfrEDePcdgrdjBt4AaABAg",
+      "author": "@ESSARGEE",
+      "author_id": "UCtmwiCSwoaddbUAMZJoVi5g",
+      "author_url": "https://www.youtube.com/@ESSARGEE",
+      "author_verified": false,
+      "text": "first",
+      "likes": 1,
+      "published_at": "3 years ago",
+      "timestamp": 1678579200,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    },
+    {
+      "id": "UgweiWsOSK31m7LATud4AaABAg",
+      "author": "@Summontamer",
+      "author_id": "UCi8JTtW8Hsa1ZoqME8j8lVQ",
+      "author_url": "https://www.youtube.com/@Summontamer",
+      "author_verified": false,
+      "text": "Super excited about this opportunity to interview.",
+      "likes": 0,
+      "published_at": "2 years ago",
+      "timestamp": 1710201600,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    }
+  ]
+}

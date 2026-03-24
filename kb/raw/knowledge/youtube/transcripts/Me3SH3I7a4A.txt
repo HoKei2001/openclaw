@@ -1,0 +1,181 @@
+in this tutorial I'll be showing you how
+to apply for a patent application using
+our online filing platform wi
+profile the first requirement to file a
+patent application using Y profile is a
+y profile account if you do not have a y
+profile account you can email us at info
+ato.gov.au
+on how to request and complete the
+registration process for a y profile
+account so I'll commence this tutorial
+by logging
+in to my yile
+account once logged in the first screen
+you will see is the
+workbench the first step requires you to
+hover over submission in the menu to the
+top and select
+patent once selected it takes us to the
+patent application web page right the
+first step is to select the application
+type there are five options the first
+four relates to patterns and the fifth
+option is a utility
+certificate you would select the option
+that is relevant to your application for
+demonstration purposes we'll be using
+PCT chapter
+2 we will now enter the primary
+title since this is just a
+test we will use pattern
+test now we will enter the
+abstract next the number of claims for
+the patent
+application for demo purposes I'll just
+put two but you would put the relevant
+amount page count I'll simply put five
+but you would put once again the
+relevant number of
+pages for the main drawing you simply
+click on choose file and you upload an
+image of the main drawing all right
+please note that the image must be of
+jpeg format or BMP
+format once selected you simply click
+add and you would see a small preview of
+your
+drawing Next Step requires us to enter
+our applicant and inventor
+details we simply click on ADD
+applicant and for demo purposes we'll
+simply be adding
+in the mandatory Fields
+only select the
+country
+as well as a
+nationality enter the phone number
+info and for zip code we can simply use
+5
+zeros once
+completed we can either hit
+save which will save the applicant and
+prompt another window to enter another
+applicant or we can hit save and close
+which will close the window and end the
+process of enter in applicants or
+inventors if you wish to have this
+applicant as an inventor as well we can
+simply tick this checkbox to copy as
+adventor and we can
+click save and
+close once completed we would see the
+information appearing in this table
+below we can also if you want proceed to
+add more applicants by simply clicking
+here add applicant and fill out the
+information and we can do the same for
+add
+inventor so for demonstration
+purposes I'll quickly add another
+inventor hit save and close and as you
+can see this record that has been
+entered only has a check mark under the
+inventor color
+we can also
+delete information we have
+added by simply take in this check boox
+here
+and you click on delete selected you'll
+get a prompt to confirm the deletion
+click yes and as you can see that record
+has been
+deleted the next step will be to add
+representative or your agent this
+information would be already completed
+to due to the information you filled out
+while registering for your y profile
+account so we'll simply click save and
+close next we have priority
+details not all applications may require
+this but if it does we simply select the
+country from which the parity will be
+coming from we put the number as well as
+well as selecting the relevant filing
+date and for uploading documents we have
+a number of options you can upload
+authorization of asan if it's a
+divisional patent we can upload the
+letter to indicate such and for PCT
+applications it is mandatory for the PCT
+publication page to be uploaded since we
+selected
+PCT we'll be uploading this so we select
+PCT publication page
+and we choose
+file our pattern P
+page and we H save and
+close if you wish to attach other
+documents we can simply click attach
+select the relevant document we would
+like to attach and then choose the
+file but we would not be adding any
+further
+documents once
+completed we have a number of options
+we can validate the application we can
+save the application or we can submit
+the
+application saving the application
+allows it to save it as a draft and we
+can leave wiper file and come back in
+the future to edit the application
+before
+submitting validate application allows
+us to ensure all the information was
+entered
+correctly and once you click on validate
+as you can see invented details email
+cannot be empty representative details
+zip code cannot be empty so we'll
+proceed to correct
+those so the first one inventor we'll
+click on the pencil to edit the
+information and we must have an email so
+we'll put an email save and
+close and for the representative you'll
+click the pencil icon under this
+table and uh the ZIP code is missing we
+put that information save and
+close all right if we validate the
+application again we can see application
+is successfully validated and can be
+submitted clicking save
+application allows for the application
+to be
+saved and as I said we can come back to
+edit it in the
+future and as you can see application
+draft
+successfully was
+saved all right and if we click on
+workbench because the application is Sav
+we can
+see that it has been saved here and the
+status of it is
+stff if we would like
+to edit we simply click on the wiper
+file number and as you can see it open
+back the
+application and we can also delete this
+application if we
+like now I'll simply click on the button
+to demonstrate submitting the
+application and as you can see
+application submitted successfully we
+click okay it takes us back to the
+workbench and as you can see p test
+status says
+submitted and that's it that's all you
+need to do to use yo file to apply for a
+pattern

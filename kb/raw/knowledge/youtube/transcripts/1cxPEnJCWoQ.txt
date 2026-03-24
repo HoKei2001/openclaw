@@ -1,0 +1,278 @@
+Welcome to IP Australia's introduction
+to patent searching. My name is Matt and
+in this video I'll show you some of the
+reasons why you'd want to do a patent
+search, some of the free online tools you
+can use to do patent searching as well
+as a few basic techniques to get you
+started. If you need to re-familiarise yourself
+with the basics of intellectual property,
+we suggest you have a look at our
+website or check out one of our IP 101
+webinars. There are links in the
+description. Firstly some assumptions. The
+Australian patent system can be an
+uncertain and daunting journey for the
+uninitiated. For first-time applicants
+engaging an attorney can greatly
+increase your chances of success. So for
+the purposes of this video I'm going to
+assume you want to search in preparation
+for meeting your patent attorney. Let's
+say you've invented something or you've
+come up with a new business idea.
+Searching is a great initial step to
+take to make sure your idea is new. If
+you're considering protecting that
+invention with a patent, searching is
+also a great way to save time and money
+by giving your attorney an idea of how
+your invention fits into the marketplace.
+And if you find existing patents or
+patent applications that are similar to
+your product or service you can consider
+your options for patent protection.
+There are generally two reasons why
+people would want to do a search. To see
+whether your invention or idea is
+actually new and to make sure you're not
+going to infringe on someone else's IP.
+After all, the last thing you want to do
+is invest in an idea that's owned by
+another business. That could be an
+expensive mistake! The kind of search a
+patent examiner or patent attorney will
+do is a specialised function that takes
+training and experience. These searches
+are intended to be the legal basis for
+arguments for, or against, a patent
+application. But the kind of searching
+you are going to do will be aimed at
+giving your attorney an idea of how you
+believe your invention sits alongside
+competing products or services. So where
+are you going to search? Before we move
+to searching patent databases, we suggest
+starting with Google. Search broadly as
+though you were looking to buy your
+product.
+That might mean key words describing
+your product or service, or even
+searching around the problem your
+invention solves. Look for promotional
+documents or research or and scientific
+literature relevant to your product.
+Search your competitors and see how they
+describe what they do, this will also
+come in handy in a minute. Remember,
+you're basically trying to find search
+results that show your product or
+service isn't new. When you're happy
+that your invention isn't already being
+made or sold by someone else, it's time
+to focus your searching on patent
+databases. One of the easiest tools you
+can use is Google Patents. Google Patents
+has the same basic interface as the
+normal Google search, so all it needs is
+a few keywords to begin. One thing to
+keep in mind is that Google Patents will
+not include results from IP Australia's
+database. So, if you're interested in
+finding Australian based results then
+Google patents isn't going to be the
+option for you. However, if you're looking
+to get a global view of the market
+you're entering it could still be worth
+for search another website. I want to
+highlight is Lens.org. As with Google
+Patents, this is a free tool which allows
+you to search databases across the world.
+Where Lens.org really differs is
+it does include Australian results. The
+interface is a bit trickier than Google
+Patents however because it covers all
+the databases across the world. It is a
+very powerful tool and well worth a look.
+And finally there's AusPat produced by
+IP Australia as a dedicated search tool
+for the Australian patent database. While
+you'll only find Australian patent
+applications, it does have the advantage
+of being able to look at the entire case
+history for all of those results. Put
+basically when an examiner reviews a
+patent their search history is made
+available for you so you can follow the
+trail if it's of interest. This can be
+especially useful if you're searching to
+see how the local market looks. You'll want
+to keep an eye on your competitors to
+see how the applications are fed. But
+what are you going to be looking for
+when searching?
+Usually when you do a search you'll be
+searching for the thing that makes your
+product unique more special compared to
+everyone else's. This is known as the
+inventive concept. The inventive concept
+is what you should be focusing your
+search on so you get the most useful
+results. Again, you're looking for
+anything which proves your invention
+isn't new. Look for results which
+contains something that is same or
+similar to your invention. Look for
+results where the products or service
+solves the same or similar problem to
+your invention. Patents or patent
+applications that are pending or in force
+will be the most relevant to avoiding
+infringement, and I'll tell you how to
+check that shortly. Location is also
+important, it can indicate which
+countries are or aren't covered by the
+patent. And finally, pay attention to the
+claims of these patents and patent
+applications, as they will set out the
+legal boundaries which will help your
+attorney determine whether infringement
+may occur. But let's step back to your
+inventive concept and think about how to
+describe it in words. Time to get
+creative with synonyms. Make a list of
+different ways your invention can be
+described. Just take this example. This
+could be a soft drink can, but there are
+many other ways I could describe the
+same product. It could also be a beverage
+container or a liquid holding receptacle.
+Because there is no guarantee that other
+people have used the same words that you
+have the more alternatives that you can
+come up wit,h the better chance of
+finding relevant results. Remember to
+think about other cultures too, like how
+Americans might call soft drink, soda. Now
+let's have a closer look at Google
+Patents and see what you can expect when
+you start searching. Let's say that I've
+invented a new product, a soft drink and
+holder with coolant inside. To begin my
+search I'll go to Google Patents and
+type some keywords. The first keyword set
+I'm going to try is soft drink can
+holder as well as coolant.
+You can see that there are not many
+results because I've only asked for a soft
+drink can, a holder and the coolant. It's
+pretty restrictive. Remembering what we
+said earlier about using synonyms, let's
+try a few alternatives and see what
+happens.
+Let's try beverage container coolant as
+well as sleeve holder or pocket. Now you
+can see we've got plenty more results
+because we've used a broader set of
+words. Now I just want to pause there and
+talk about the mechanics of what I just
+typed. You'll notice that I use some plus
+quotation marks or and bracket operators.
+These have special meanings when you're
+using Google, I won't go into all of them
+now but there's a link in the
+description below to a useful Google
+help page. Now let's click on one of
+these results to see what info you can
+expect. The first thing that you will
+notice is a title and an abstract. The
+abstract will give you a brief summary
+of what this result is all about and
+it's usually enough to explain the
+invention. Next you'll find some images
+which you can click on to expand for a
+better look, followed by a classification.
+We'll get back to the classification in
+a moment. The other area I want to
+highlight here is on the right-hand side
+which is what we call the bibliographic
+information. In simple terms it's like
+the admin info that every pattern or
+application has to have. It starts off
+with the application or patent number
+followed by the status which in this
+case tells us that the patent has been
+granted in the United States. It also has
+information on inventors or owners and
+some important dates including the
+priority date. If we scroll down the page
+you'll see the description. This is the
+meat and bones of the application which
+details exactly what the invention is
+and does. It's here you'll find the
+excruciating detail on how the invention
+works. And here on the right we have the
+claims. The claims set out the legal
+boundaries of protection for a patent.
+They have to be clear concise and
+distinguish the invention from what is
+already known.
+So that's what the result looks like. Now
+we've had a look at that let's go back
+to the search results to see how we
+might refine our search. In Australia we
+use a scheme called the IPC or
+international patent classification. If
+you go to Google and search IPC patents
+you'll find more info. There's also a
+link below to info on WIPOs website. The
+IPC is an index of about 70,000 entries
+sorting panels into different areas of
+technology by using the IPC reference.
+You can whittle down your results to
+those which are more relevant and if you
+use in conjunction with the synonyms we
+covered before you should be able to
+find the results you're after. Now it's a
+little hard to navigate initially so a
+good place to start again is Google
+Patents. By looking at our search results
+we can see what IPC references are used
+for similar inventions. In this result
+you can see the IPC reference - B 65 D. If
+we then go back to our search screen and
+refine using our IPC reference we get
+just 313 results much more manageable
+compared to the almost 5000 results we
+had before. The other way you can find
+your IPC mark is by using the search bar
+on the IPC page. So hopefully I've given
+you enough to start your own patent
+searches. But then what do you do with
+what you find? To put it into context
+these search results are going to be
+useful when you meet with your patent
+attorney. To get the most out of this
+meeting you want to take a number of
+things. Firstly take all the details
+about your invention. This will give you
+attorney the best understanding of what
+your invention is all about. Take along
+your search results all the things you
+think are relevant. This will give your
+attorney a head start to understand what
+your industry looks like and how your
+product fits in that landscape. Finally,
+take along your business plan. Your
+patent is only one part of your overall
+business operation. By looking at your
+business plan, your attorney will be able
+to give you advice to best meet your
+business expectations and your business
+objectives. Thanks for watching
+and make sure to check out our YouTube
+channel for other videos like this. If
+you want to find out more information on
+intellectual property matters don't
+forget to have a look at our website at
+IPaustralia.gov.au.

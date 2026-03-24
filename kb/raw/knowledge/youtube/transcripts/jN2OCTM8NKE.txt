@@ -1,0 +1,100 @@
+We have developed patent searching
+capabilities that also use generative AI
+that are also being used by the Ornite
+team. And what we are trying to do is
+get away from the complex keyword
+gymnastics that a lot of us who have
+been doing patent searching for a while
+are used to like using class codes,
+using keywords, using concepts, all
+those types of things have to give way
+to something a little more intuitive.
+And so we have built a generative AI
+based patent searching capabilities.
+I'll show you a very quick glimpse of
+our platform from a search perspective.
+So here is a very simple prior search
+that actually was done developed by my
+son. He basically searched for mag
+related technologies and of course mag
+has been around forever. We got a bunch
+of search results here and as you can
+see the search is based the search is
+really smart. You provide an your
+invention disclosure. IP author
+automatically interprets what the
+problem is, what the solution is that is
+being developed, what the novelty is for
+the for this invention. And based on all
+of that, it automatically comes up with
+the top pieces of prior art, how similar
+they are to the invention, how different
+they are from the invention, explains
+why it believes that these this is
+relevant or why this isn't. It
+highlights the relevant text from the
+document and shows you what is really
+going on with respect to this whole
+field. So, it's all done in a very
+transparent way. So you don't have to
+worry about what are called
+hallucinations from from large language
+models and things like that. The
+practical benefits of these are are
+tremendous. For example, one of the one
+of Europe's preeminent patent offices
+recently compared a bunch of Genai or AI
+based patent search engines and they
+identified IP author as the best
+performing engine because we generated
+the highest number of X and A references
+for each of the 20 searches that they
+had conducted across various domains.
+And as you can see, pretty much 100% of
+the time, IP author was able to produce
+at least an A reference, if not an X
+reference. And an X reference was
+produced about 2/3 of the time. This
+gets about 70% as good as human
+searching, but in a fraction of the time
+it takes for a human to do this search.
+So again, this technology is also being
+used at Ornite and John can tell you a
+little bit more about how he is using
+his team is using this technology and
+the types of benefits they get from the
+technology as well. John. Yeah, thank
+thanks Samir. Yeah, I think as I
+mentioned before, it was quite a manual
+effort to find prior art for new
+invention disclosures that come in.
+Somebody on my team is going to have to
+search the patent literature to see if
+an invention is novel. And that's a very
+laborintensive process and could take
+somebody anywhere from a couple days to
+a week to determine if a new invention
+disclosure that came in is novel and
+inventive. And so what what the platform
+does is it it helps identify what the
+potential prior art is in that space
+like Samir mentioned in a fraction of
+the time. So it certainly cuts down
+significantly on patentability searches.
+So we can move to uh patent drafting
+sooner in the process. And that's
+certainly very helpful. And as he demoed
+there, you can put in what you envision
+as your main claim. It'll go out, it'll
+search based on your based on the claim
+that you put in there, and it'll
+identify any potential prior art that's
+in that space. And that'll be listed on
+an IDS, of course, whenever you go out
+and you file your application. But I
+think obviously the major benefit there
+is time. Time is very valuable for the
+folks on my team. It helps us get to a
+decision on whether or not to file a
+patent application quicker. And that's
+really the big benefit there.

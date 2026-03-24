@@ -1,0 +1,303 @@
+It is possible to prepare and file your
+own provisional patent application. In
+this video, I'm going to show you how to
+do that step by step. Hi, my name is
+John Ferrell. I'm a Silicon Valley
+patent attorney. Welcome back to my
+channel. A provisional patent
+application is a placeholder
+application. It preserves the filing
+date of your patent application for one
+year and it differs in two important
+respects from a nonprovisional patent
+application. First of all, it's very
+informal. It can contain misspelled
+words. You can handwrite it. You can
+include pictures and sketches and
+figures and scans. Really, whatever you
+want. Take a picture of a back of a
+napkin. you can include that in your
+provisional patent application. It's a
+very informal document. The second
+important distinction of a provisional
+patent application is that it's never
+actually examined. There's no patent
+examiner that's assigned to look at it,
+to open it up, to perform a patent
+search to see if you've actually
+included inventive material inside of
+your application. And for this reason,
+we can file an informal patent
+application. we don't have to worry so
+much about the formalities, the
+punctuation, the spelling, and the
+perfection of our figures and drawings.
+Now, one thing that's important to
+understand is that if the patent is ever
+litigated, if your non-provisional
+patent is ever litigated, the courts may
+go back and take a look at the
+provisional application to determine
+whether you've actually included
+sufficient description of your invention
+in the provisional application. So, we
+do want to include enough detail in the
+provisional patent application to show
+that we had the invention as of the
+filing date of the provisional
+application. Now, while it's true that a
+provisional patent application has no
+formal requirements with respect to how
+to prepare the application, I think it's
+important to have a framework, a solid
+framework on how to build the
+application just so you make sure you
+include everything that you need in
+order to prove your filing date. So, the
+five elements that I suggest, number one
+is a strong inventive title, [music] a
+descriptive title. The second element is
+a summary of your invention, followed by
+number three, which is a description, a
+more detailed description of your
+invention. And then finally, [music] it
+I suggest putting in a simple claim, a
+patent claim, a plain English [music]
+English patent claim that describes the
+novelty or lists the novel elements
+[music]
+of your invention. And then finally, and
+perhaps most importantly, in a
+provisional patent application, [music]
+it's important to include figures and
+drawings and sketches and photographs if
+if appropriate of your invention. And
+I'm going to describe each one of these
+in more detail. Every great invention
+deserves a patent with a great title.
+Take some time in thinking about your
+title, not just some broad collection of
+generalized words. For example, if you
+have three patents on a dog leash and
+each of the individual patents is
+entitled is titled [music] dog leash,
+dog leash, dog leash, well, that really
+tells you nothing. You can't you can't
+distinguish them. Better to have a title
+something like dog leash with integrated
+ultrasonic whistle or a smartphone app
+for color matching ties, neck ties and
+[music] shirts or for example a golf
+club with a whiskey reservoir in the
+shaft. These are titles that you can
+read and understand and get a sense of
+what the true invention is that's being
+described and that later will be
+claimed. Now, not required for a
+provisional patent application, but I
+think very helpful is to have a summary
+of the invention. This is just a plain
+language summary of what the invention
+is about. [music] It tells the reader
+generally what to expect in the
+invention. What's the point of novelty?
+What's the point of the invention? For
+example, a dog leash that has an
+ultrasonic whistle. The whistle has four
+tones and you can train the dog on some
+combination of the tone the tones. How
+[music] to construct the the leash with
+the whistle, how it's how it's
+constructed, how it's assembled, and
+then how you use it. So just a short
+summary of the invention. It might be a
+few sentences or a paragraph or two. Now
+the next section is the specification.
+[music]
+Again, this is a provisional
+application. It can be informal. There's
+no exact requirements as to what the
+specification contains, but what I like
+to do is I like to discuss the figures.
+I like to have an outline containing my
+figures or drawings, and I like to talk
+generally about each of the figures. For
+example, my invention might be a
+smartphone application that allows me to
+take pictures of my shirts and my ties,
+and it helps me match the ties, the
+colors in the ties with the hues of the
+shirts. Some people have difficulty with
+colors, picking out and distinguishing
+between certain shades of colors, and
+also in matching colors, what colors go
+together, what ties go with what shirts.
+So my application, my [music] smartphone
+application will help people select ties
+that go with a specific shirt. For
+example, in my application, I'll have a
+camera module somewhere in the block
+diagram, and there'll be a database that
+might store [music]
+all my various shirts and also another
+database that contains pictures of all
+my ties. And then there'll be some kind
+of matching engine that compares the
+ties with the shirts. And once I pick a
+shirt that I like, it will then provide
+me a list of the various ties that might
+be [music] appropriate to wear with that
+shirt. But you get the idea. The point
+is that have components in your
+application that describe the various
+functional units, how they work
+individually and how they work with each
+other. Now after discussion about the
+block diagram on how the system is built
+and how it's put together and how it
+works together within itself I think
+it's important to talk about the process
+the steps of using the application. So
+for example step one might be take a
+picture of your shirts. Step [music] two
+might be take a picture of your ties.
+Step three might be determine which
+shirt it is you want to wear that day or
+maybe determine which tie you want to
+wear that day and then this the next
+step may be provide a list of possible
+shirts to match the ties or ties to
+match the shirts. Anyway, you get the
+idea. The point is it's a stepbystep
+sequence of how you'll use the
+invention. Now, in this invention of a
+shirt and tie matching application, we
+probably need to go into a little more
+detail about the algorithm that's used
+for matching the shirts and the ties.
+How does the app determine which ties go
+with which shirts? Well, there might be
+a wide range of methods that that the
+app uses. For example, it may just go
+with your own personal preferences. What
+have you worn in the past? Which matches
+have you worn in the past and enjoyed?
+It might actually the app might go into
+the internet and look at cataloges and
+how certain ties are worn with certain
+shirts. What's popular? There may be a
+color wheel or some kind of color
+science that's used to match contrasting
+colors. But whatever it is, whatever the
+algorithm is that you use in your
+application to match shirts and ties,
+you should discuss it. Talk a little bit
+about it. Explain the flow and the
+process of how that matching algorithm
+works. Now, the fourth element may be a
+little more controversial for a
+provisional patent application because
+it's not required, but I like to include
+a plain English patent claim. An a
+patent claim that anyone can understand,
+but that lists the elements, the
+important elements of my invention. For
+example, let's say that my invention is
+a windshield washing fluid for
+dissolving bugs on an automobile
+windshield. It's dispensed from a
+windshield washer and the windshield
+wipers come and they wash the bugs off
+of the windshield. And this particular
+fluid is very good at dissolving bug
+parts. So I my claim is going to be
+really simple. It's just going to be a a
+windshield washing fluid for dissolving
+dissolving bug parts that [music]
+contain and it might contain uh 10%
+water and 5% glycerin and 60%
+uh hydrofluoric acid and whatever else
+is needed to get to 100%. [music] And
+it's just a list of components that
+would go into my patent claim to
+describe the basic essence of my
+invention. Again, [music]
+not a true patent claim in the sense
+that the parts fit together nicely. I
+just would like to have a listing of
+what I believe is novel [music] about my
+particular invention. And I don't know
+whether this this bug washing fluid
+would work or not, but since
+hydrofluoric acid etches glass, maybe
+maybe I would frost the glass and I
+wouldn't notice the bugs anyway.
+Although a patent claim is not required
+in a provisional patent application, I
+think going through the exercise of
+listing [music] the important parts,
+those essential parts of your invention
+in in a patent claim in a listing of the
+elements. I think it helps organize your
+patent application and and it helps it
+act as a check just to make sure you've
+included description on all the [music]
+important stuff. Finally, the most
+important part I believe of your patent
+application framework for provisional
+patent application is the figures. It's
+said that a picture is worth a thousand
+words, and that's never been more true
+than in a patent application, a
+provisional patent application
+especially. And remember that the
+requirements are informal. We can
+include handwritten drawings and
+screenshots, photographs, [music]
+sketches, photographs of napkins where
+you've sketched inventions, [music]
+PowerPoint decks, really anything that
+you want that you think help will help
+describe your invention should be
+included. And this is a place where we
+can put a lot of inventive description
+without actually having to write stuff.
+You can just take pictures or add
+figures in lie of having to write a lot
+of written [music] description about
+your invention. Again, I would say be
+overinclusive with respect to your
+figures and your drawings. Okay. Once
+the patent application is [music]
+completed, once you're ready to file, go
+to the USPTO website, uspto.gov,
+and [music] there's a portal for filing
+your provisional patent application.
+Now, this just follow the steps. It's
+very straightforward. If you would like
+me to make a video in the future about
+how to use the portal to file your own
+provisional patent application, please
+leave me a comment in the section below.
+If I get enough interest, I'll be happy
+to make a video on how to how to use the
+portal to file to file your provisional
+patent application. Now, I have lots of
+videos on provisional patent
+applications in my YouTube channel. So,
+just about any question you probably
+have on provisional patent applications
+is answered somewhere in one of those
+videos. But if you can't find it or you
+just have a unique question or a
+question that you'd like to have
+answered, post it in the comments
+section below. I'd love to take a look
+at it. Would love to read it and I'll do
+my best to answer it. Okay, that's
+really all I have today to say about
+provisional patent applications. If you
+again, if you have comments, put them in
+the comments section below. Otherwise,
+looking forward to seeing you next time.
+2.9s · 12m 20s YouTube · 2.0k words · text via transcript/captionTracks

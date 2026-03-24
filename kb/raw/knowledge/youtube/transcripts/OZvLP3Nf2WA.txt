@@ -1,0 +1,196 @@
+Hello there,
+and welcome to another Open Data Portal
+product tutorial.
+The Open Data Portal is a centralized
+platform that empowers users to discover
+and easily extract USPTO data in one
+place.
+In this video,
+we will go over the basics when it comes
+to the ODP's new Patent Trial and Appeals
+Board, or PTAB for short.
+In this video,
+we'll review how to search for a patent
+trial, information on PTAB,
+how to view detailed information on a
+trial or appeal,
+and how to download trial and appeal data
+to your computer or application.
+We have a lot to cover, so let's begin.
+First,
+we'll navigate to the PTAB product by
+either clicking the link in its
+description on the home page or clicking
+the Products drop down in the top
+navigation and selecting PTAB.
+At the top of the page are the three
+categories of PTAB Data, Trials, Appeals,
+and Interferences.
+Both the tabs for Appeals and
+Interferences show a single table,
+while the Trials tab has three subtabs
+within it, Trial Proceedings,
+Trial Decisions, and Trial Documents,
+each with their own individual table.
+To the right of the top main tabs,
+you'll see a toggle to activate a global
+search tool.
+Global Search allows you to search across
+all tabs and sub tabs on the P tab
+application.
+Just click the toggle to activate the
+search bar and enter your search into the
+parameters.
+Click the toggle again to remove the
+global search bar.
+Below that and at the top of the search
+results table is the table search bar.
+In this search bar you can search for
+certain titles, terms,
+or specific data that a particular tab
+may contain.
+If you want to do a more advanced search
+within the tab you can click the How do I
+Improve my Search results link.
+This provides a drop down with search
+syntax instructions and examples.
+On the left of the table you'll see a set
+of filters that you can use to customize
+the results in the table.
+These filters are specific to the tab
+that is active in the P tab on your
+browser.
+As you add different filters,
+you'll see both the table contents update
+and the filter added to the filter
+section.
+You can remove a filter by clicking the X
+next to the individual filter in the
+filter section,
+or click Clear All Filters to clear all
+the applied filters and take the table
+back to its default state.
+If you want to see more data columns
+within the results table,
+click the Edit Columns button.
+Here you can customize the columns of
+data that you want to see within the
+table.
+You can exit the column model by clicking
+the X at the top right of the model.
+As you add more data attributes,
+the table scrolls farther to the right.
+In order to download the data shown
+within a table,
+you first check the rows you want to
+download.
+You can also click the top check box to
+select all the items within the table.
+You'll then click Download Table Data to
+pull up our download modal.
+In this modal you can select what data
+attributes you'd like to download.
+These are the same attributes that are
+available within each tabs table.
+You can also select the file types you
+want to download,
+either a CSV which is a plain text file,
+or Jason which is a programming language.
+Once you've made your selections,
+you can download the data by clicking the
+download button at the bottom of the
+model.
+You can exit the model by clicking the X
+at the top right of the model.
+Please note we only allow a maximum of
+3000 downloads at once.
+If you are interested in pulling the same
+data shown in the table into your own
+application,
+you can click the API Query button to
+view the code necessary to pull the PTAB
+data from our servers.
+Please note the Open Data Portal's API
+requires that you have an approved ODPAPI
+key.
+To learn how to set up a My ODP account,
+verify it using ID ME and register for an
+ODPAPI key,
+please view our How to Get your Open Data
+Portal API Key tutorial video.
+You can exit the API Query modal by
+clicking the X at the top right of the
+modal.
+To find more detailed information on a
+certain trial, appeal or interference,
+you can either use their individual table
+search bar or the Global search tool.
+In this case,
+I'll use the Global Search tool.
+Remember,
+this tool searches across all tabs and
+subtabs of PTAB data.
+For this search,
+I'm going to look up a common Tech Center
+identifier 2800 and I'll hit search.
+As you can see,
+it searches or applies a global search
+filter OF2800 across all tables of PTAB
+information.
+Pretty neat.
+Once you find the trial you want more
+information about,
+click on its number in the table to pull
+up its detailed slide out window.
+In the detailed slide out window,
+we list a lot of PTAB data.
+With trials,
+we list things such as the trial status,
+the latest decision date,
+and the trial last modified date.
+In appeals, we list the decision outcome,
+who made that appeal,
+and the appeal information.
+And in interferences,
+we list data such as the senior party
+information, decision outcomes,
+and the style of interference.
+Each detail panel also offers tabs that
+contain other related data sets,
+such as the application's information,
+documents,
+and transactions associated with the PTAB
+data.
+You can expand the detailed slide out
+window by clicking the Expand icon at the
+top right.
+You can also jump between different
+tables using the Previous and X button
+and close the window by clicking the X at
+the top right of the window.
+If you want to include the PTAB detailed
+data into your own projects,
+you can download the Jason using the
+Download Jason button.
+You can pull the PDAP data from the API
+using the API Query button.
+In this modal,
+you can copy the code needed to pull this
+data using the ODP API.
+Remember,
+using the ODP API requires an ODP API key.
+We have instructions on how to get an
+ODPAPI key in our support pages and also
+in our How to get your Open Data Portal
+API Key video.
+To exit the API modal,
+just click the X at the top right of the
+modal and that concludes this video on
+the PTAB product within the Open Data
+Portal.
+If you want more information on PTAB,
+you can visit the PTAB section of our FAQ
+page.
+If you have any questions,
+please reach out to us at Data at USPTO
+Gov.

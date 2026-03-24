@@ -1,0 +1,2050 @@
+OK, Welcome everybody.
+I am Bill Baumeister and today
+is the claim drafting webinar
+portion of the 2025 National
+Patent Application Drafting
+Competition.
+Thank you all for taking time
+out of your day and showing up.
+Let's see, yeah, before we get
+into this, I just say that my
+understanding is that there's
+some people here today who've
+never drafted a claim before,
+and there's others here who have
+more experience keeping the
+broad audience in mind, where
+we're going to try to make sure
+that we have some good tips for
+everybody.
+So if you haven't ever drafted a
+claim, this might be a lot to
+absorb, but you got to start
+somewhere.
+You'll get a lot out of it.
+And even if you're pro, want to
+always learn something new every
+time.
+About myself, as I said, I am
+Bill Baumeister.
+I am an administrative patent
+judge of the Patent Trial and
+Appeal Board.
+For anybody who's not familiar
+with the structure of the PTO,
+when an applicant and an
+examiner disagree as to the
+allowability of the claims, they
+can,
+the applicant can, appeal to the
+Patent Trial and Appeal Board,
+and the administrative patent
+judges sit in panels of three,
+and we decide whether the
+examiner's rejection is proper
+or not.
+Anyway, I've been here at the
+board about 16 years.
+Before that, I was an examiner
+and a supervisory patent
+examiner in the area of
+semiconductors for about a
+decade prior to coming into the
+office, I worked for a little
+while on the outside drafting
+patent applications.
+I'm also supervising the law
+firm, search department, patent
+search department. Here at the
+office,
+in addition to my day job, I
+also teach a course in patent
+drafting for patent examiners
+who want to get some experience
+to see what it's like on the
+other side of the table.
+So hopefully I have collected
+enough experience over these
+last three decades to have
+picked up some tips that are
+worth passing along.
+We do have a question box, I
+think it's a Q&A box for
+questions and I can't see it,
+but we do have other people
+online who will be letting me
+know what the questions are and
+we can answer them that way.
+If there's anything I can't
+answer or if the questions come
+later, we you can e-mail your
+questions to the mailbox
+NPADC@uspto.gov.
+This is being recorded and
+presentation should be available
+hopefully next week, but that's
+not within my control.
+OK, so down to the subject
+matter.
+Here's the overview.
+Basically four parts to the
+presentation.
+As you can see, the questions
+asked regarding the invention,
+you know what you're thinking
+about before you start.
+Then we're going to walk through
+a lot of the law because that's
+what controls and dictates
+everything we do.
+Then we'll go through some
+example claims because all the
+theory is all well and good, but
+nothing like actually seeing
+some concrete examples to have
+it all make sense.
+And then we'll go back to a
+little more theory and strategy
+for how to approach a patent
+drafting problem as it arises.
+I'm not sure if you can see this
+multimedia viewer.
+I'm I'm just cleaning up my
+screen.
+OK, one disclaimer, I know
+nothing about the patent problem
+that you are going to be
+assigned for this competition.
+So if I say something that gives
+something away, one it's purely
+accidental and two, you're
+welcome.
+OK, with that first part,
+reviewing the information about
+the invention before you even
+start trying to draft your
+claims or your specification,
+these are all really valuable
+tips.
+I don't know if I'm going to
+read through all of them.
+Since you have the screen in
+front of you, you can read them
+yourself.
+But I think the point is, you
+know you're going to be asking
+your questions like what is the
+invention and what is it made up
+of?
+The reason is you got to have a
+target or a goal.
+Know what property, your
+intellectual property, you're
+trying to protect.
+You, your inventor is going to
+give you a big disclosure of a
+lot of relevant things and a lot
+of less relevant aspects.
+You're going to have to have a
+interaction, discussion,
+communication with your client
+to find out what is it you're
+trying to protect?
+What do you want to do with your
+invention?
+Are you trying to make, sell,
+and use yourself?
+Are you trying to license it?
+What are the important aspects
+of you know, what is your
+competition doing?
+And we're going to get more into
+this little later in the, in the
+discussion towards the end, but
+you have to figure out what's
+kind of background noise and
+what is the, the crucial I need
+to have this ID to concept
+elements protected in order to
+maximize my profits.
+And, and we'll get back to this
+later.
+So now let's turn to the law.
+And boy, in one hour, we cannot
+teach you all of the patent laws
+and, and, and strategies that
+are out there.
+This is just enough to get the
+sponge wet so you can go and
+soak up water with that sponge
+later.
+But OK.
+A nonprovisional patent
+application must have at least
+one claim particularly pointing
+out distinctly defining the
+invention.
+You'll be seeing references to
+35 USC 112, 102, 103, 101
+throughout this presentation,
+but that's part of 112.
+A claim may be written in
+independent or dependent form.
+We'll be getting into the whole
+concept of writing claims out
+completely and writing them in
+shorthand form.
+An independent claim is a
+standalone claim that contains
+all the limitations necessary to
+define the
+invention. We'll be focusing on
+the fact that your specification
+covers a whole lot of
+information.
+You don't get protection for
+what's in your written
+specification.
+You only get patent protection
+for what your claims define the
+metes and bounds of the claim
+protection being sought as set
+forth in your claims.
+A dependent claim must refer to
+a claim previously set forth and
+must further limit that claim.
+And we'll do some examples later
+on of of how you can properly
+shorthand your recitation of
+your invention and your claim
+without having to go back and
+recite everything over and over
+and over again for your 20
+claims that you are allotted. A
+claim in dependent form
+incorporates by reference of the
+limitations of the claim to
+which it refers.
+We'll talk about dependent
+claims.
+The claims must be supported and
+enabled by the disclosure.
+112(a) is written description
+and enablement.
+We'll be talking about how the
+language you use in your claims
+has to also be in your spec.
+And you really ought to be using
+the same language and not be
+using synonyms or, you know,
+making up different words.
+You're going to want
+consistency, but we'll get to
+that.
+Claims must be drafted as a
+single sentence.
+Don't shoot me. I'm just the
+messenger.
+I didn't make up that rule.
+Whether you like it or not,
+that's just a fact of life.
+And if there's one thing you
+want to do when you're filing a
+claim and you're going for that
+job, make sure it's one
+sentence.
+If you're writing multi sentence
+claims, someone's going to ask
+you how you passed the patent
+bar.
+Claims should be arranged in
+order of scope so that the first
+claim presented is the broadest.
+Notice the laudatory language
+should, it's not mandatory
+language shall, but it just
+makes life easier when
+everybody's going through these
+examinations and appeals.
+You just look at claim one
+first.
+That's where you're first
+focused on and it's just and
+what's expected.
+I've had cases before, I've
+looked at reexams where the
+examiner was giving all the
+reasons for allowability for
+claim one.
+And looking through the
+application claim set further, I
+saw, oh, lo and behold, claim 5
+is broader than claim 1.
+So all these reasons he said for
+reasons for allowance had, they
+weren't relevant.
+You know, he allowed stuff that
+was broader than what he said
+was the reasons.
+So it just makes life easier.
+Things get strange during
+prosecution when you amend
+claims and weird things happen
+to the the claim set, but start
+out at least trying to make
+claim one
+your broadest one. Consistent
+terminology should be used in
+both the patent disclosure and
+the claims.
+I think I already mentioned
+that.
+And so of course the the the
+whole application includes not
+only your specification and your
+drawings and your abstract, but
+also the claims.
+And as we said, they define the
+invention and what specs, what
+aspects are legally enforceable,
+must conform to the invention is
+set forth in the remainder of
+the specification, comprises
+terms and phrases that must find
+clear support or antecedent
+basis in the description so that
+the meaning of the terms is
+clearly understood by reference
+to the description.
+This is a lot easier in the
+biochemical arts where benzene
+is always benzene.
+And when you have a chemical,
+there's a common agreement on
+what that chemical is called.
+You get into the electrical arts
+and you're talking about
+computer and internet network
+systems, and they have novel
+functionalities and people are
+making up their own terminology.
+And yes, you can be your own
+lexicographer, but you know, it
+makes it kind of tricky for the
+examiner to search, but you
+know, there's not an answer.
+It's not like you're able to use
+well defined terms because
+you're the one who invented
+them.
+Well defined terms don't exist
+because this is a new invention.
+But you do want to be as clear
+as reasonably possible just so
+people know what you're talking
+about.
+Nobody can read your mind, and
+if you know what you're talking
+about but you haven't explained
+it well in your spec, then the
+examiners not really going to be
+sure.
+What is it you're trying to
+protect?
+OK, so types of claims.
+This kind of breaks down product
+claims into a whole bunch of
+different synonyms, whether it's
+active, like a pair of scissors
+or, you know, a nuclear reactor.
+They they might call them a
+device or an apparatus.
+Nonactive.
+I'm thinking my coffee cup.
+It's, you know, ceramic.
+It it's a composition or an
+article on manufacture.
+Parts don't move relative to
+each other.
+Quite frankly, you know, these
+are terms composition, article
+of manufacture that appear in 35
+USC 101.
+There is no real legal
+significance of, you know,
+you're never going to get to a
+legal dispute of wait, is your
+invention a device or a
+composition?
+It's a thing that's a tangible,
+concrete thing that you can see,
+touch, feel, manipulate.
+That's what we're looking to get
+patent protection for, as
+distinguished from abstract
+ideas.
+I invent a paradigm or or math E
+equals MC squared.
+If you come up with something as
+earth shaking, as earth
+shattering, as E equals MC
+squared, the good news is you
+might win a Nobel Prize.
+The bad news is you don't get
+patent protection, but that goes
+to enable patent eligibility
+under 35 USC 101.
+That's a whole discussion for
+another day.
+We're going to be focusing on
+what you're typically
+envisioning when you think of a
+utility application, some sort
+of tangible thing.
+But you're not limited to
+claiming things.
+You can also claim methods or
+processes either of making that
+thing or using that thing.
+And it's an important
+distinction.
+And again, going back to when
+you have your discussion with
+your inventor, what is it you
+are trying to protect?
+Sometimes I got a new widget.
+The old, you know, old
+televisions were only in black
+and white.
+I figured out how to make a
+color television.
+People are going to flock to
+mine because it's better there.
+You want protection definitely
+on the product, maybe on the
+method of making the product,
+who knows?
+You know, it depends.
+Sometimes the final product is
+completely known.
+The destination is no big deal.
+Yeah.
+You know, we, we, we have this
+sort of semiconductor device,
+but what we have figured out is
+a new way of making it.
+And instead of doing the steps
+in the order of ABCDE, we've
+come up with a different method
+where we flip a couple steps and
+then we get to take a couple
+steps out.
+And the benefit is it's a much
+cheaper manufacturing process.
+It saves time and money.
+So we can sell ours for less
+than the competitor.
+And it in that sense, you're
+definitely want to get a claim
+for the method of making the,
+the product or the apparatus,
+whether you know if it's, if the
+final product is already known,
+you're not going to get a patent
+for it.
+You know, just the fact that you
+get a product by a better
+method.
+Are you claiming the method of
+the path to get to the end
+result or are you claiming the
+end result?
+These are things to keep in the
+back of your mind when you're
+strategizing on how to draft
+your claims.
+In addition to whether it's a
+product or method.
+The next applies to both.
+Your claim can be written in
+independent form or dependent
+form.
+I think I alluded to we'll,
+we'll see some examples, but a
+common one you'll see.
+I claim a network system
+comprising a server and a router
+and a modem and peripherals and
+XY and Z.
+You know, and you'll have a
+whole laundry list and, and, and
+sometimes these claims can go on
+for a page.
+This single sentence goes on for
+a page, sometimes more.
+And then as you know, you get
+for your base filing fee, you
+get to file, you get to have
+three independent claims and 20
+claims total, which you can
+infer means 17 dependent claims.
+You don't want to write out a
+whole page over and over and
+over when you're just adding one
+little thing like I'm I'm
+claiming an ABCD. I also want to
+claim an ABCDE. I also want to
+claim an ABCDEF.
+You don't want to have to say
+that whole thing over and over.
+Dependent claims are a
+shorthand, so you can just say
+claim two.
+I'm claiming the claim of claim
+one further comprising something
+additional.
+And it's a much shorter way.
+You get it in two sentences
+instead of a page and 1/2.
+A very valuable tool.
+A thing to remember about
+dependent claims is that they
+include all of the elements of
+the independent claim from which
+they depend.
+OK, so an independent claim
+refers to a stand alone claim
+that contains all the
+limitations necessary to define
+an invention.
+And a dependent claim refers to
+a previous claim and must add a
+further limitation to the
+previous claim.
+And and a claim in dependent
+form incorporates by reference
+all the limitations of the claim
+to which it refers.
+That part I already mentioned.
+So adding a further limitation,
+we'll get into this a little bit
+further.
+Just a heads up, there's two
+ways you can add more
+information for your dependent
+claim.
+It's you either add an
+additional element.
+Your independent claim says I
+have elements ABC and your
+dependent claim says the claim
+of claim one further comprising
+or the invention of claim one
+further comprising a D.
+And so now your invention covers
+AB, the combination of ABC and
+D, which is narrower than just
+ABC.
+The other way you can limit a
+claim is you don't have to add
+an additional element C, but you
+can say, oh, you know that
+element A I mentioned before?
+I want to tell you more about
+it.
+Here's something more specific,
+and we'll get into it more in a
+minute, but the more you say,
+the narrower your claim coverage
+is. For engineers and scientists
+and people who've taken logic
+classes,
+when we start using abstract
+concepts, like a claim comprises
+AB and C, people are suddenly
+thinking Venn diagrams.
+Don't be thinking Venn diagrams.
+Venn diagrams, and that's sort
+of Boolean logic, is different
+and we'll explain that in a
+minute.
+But in the patent world when you
+say AB, the the more language
+you put in your claim, the more
+that has to be there.
+So the less that it covers if
+people, if you say I invent an
+AB and AC, you're not stopping
+people from selling, making or
+using an A or selling making or
+using AB or AC individually.
+You're just stopping them from
+doing the combination.
+So a big strategy component as
+we go forward is thinking about
+say what you mean and say only
+what you need to.
+The more you say, the less
+valuable your patent protection
+is.
+So here are the formalities your
+claims have to start and, and
+you know, and why, why do we
+have these formalities?
+That just makes life easier for
+the examiner.
+So when you draft your claims,
+you start on a separate sheet
+with a heading claim listing.
+And it's nice for an examiner
+because then when they go and
+look at the claims, they can
+print it out and they don't have
+to like start with claim one
+overlapping half of the page of
+the end of your spec.
+And you know, it's just, it's
+just easier.
+It's cleaner facing the 1 1/2 or
+double spaced.
+I think that mattered a lot more
+in the old days when we
+annotated and marked it up by
+hand and we printed it out.
+You know, whether, whether
+you're going to get an objection
+for doing it single spaced, who
+knows, That's up to the
+examiner.
+But but don't do it.
+Just do it 1 1/2 or two.
+It's just easier for everybody
+to read.
+Don't worry about it going out
+for pages and pages.
+We're, we're familiar with it.
+That's what claims do.
+Structure is a single sentence
+per claim beginning with a
+capital letter and ending with a
+period.
+I know this seems basic, but
+we're all a bunch of engineers
+who went into engineering
+because we didn't want to go
+into being English majors.
+But yeah.
+Make it a complete, proper
+English sentence, following
+grammar rules, Number
+consecutively in ascending
+order, Original number and
+preserved throughout
+prosecution.
+As I said, you get 20 claims for
+your basic filing fee.
+You can pay more for additional
+ones.
+But what happens during
+prosecution is you're going back
+and forth, the examiner and the
+examiner says, you know what,
+claim 1 is not allowable because
+here's some prior order, but
+claim 3 looks allowable.
+I can't find that.
+So what you then do is you take
+all the limitations of claim 3
+and you cancel that claim and
+you put all those limitations
+into amended claim 1.
+And so now your amended claim
+one
+says everything that was in
+claim one plus everything that
+was in the now
+canceled claim 3.
+After you do that, you still
+have claims 4 through 20.
+Do not renumber them.
+Three has been cancelled.
+Let let's just make this tidy
+and move it all from 4 to 20 up
+to 3 to 19.
+No, don't do that.
+You have 1, 2, 3 is indicated as
+cancelled 4 and 20 just as they
+originally were.
+Keep the same numbering
+throughout prosecution.
+OK, so now we're going to get
+into the more fun part of, you
+know, what is a claim?
+For those of you who haven't
+actually drafted a claim before,
+it has three parts: the
+preamble; the transitional
+phrase; and the claim body.
+And this is just a little
+precursor screen to tell you
+what we'll be talking about in a
+second.
+The preamble kind of tells you
+whether it's going to be a
+product or a method.
+The transitional phrase tells
+you, you know, whether it's open
+or closed.
+We'll explain what that means.
+And then the claim body, that's
+the meat and potatoes.
+Those are the elements of your
+claim that you're trying to seek
+patent protection for.
+Every claim needs a preamble,
+which is an introductory phrase
+and generally.
+OK.
+Now we're getting into a little
+intermediate patent drafting
+advice here.
+The preamble of the claim does
+not limit the scope of the
+claim.
+So let's look at this example.
+And again, the full claim would
+probably be a shovel comprising
+a scoop, fingers, a handle.
+But so at this point, we're
+looking at the preamble a shovel
+and they say do do it broadly as
+a shovel instead of a shovel for
+digging.
+Stay away from using this
+functional language.
+And there's a couple reasons for
+that.
+There's a whole preamble
+doctrine of, you know, do you,
+you know, what counts as your
+claim protection or, or the
+elements that you're seeking
+claim protection for?
+Clearly all of the elements of
+the body you're seeking claim
+protection for and they are
+limiting.
+But you have all this language
+in the preamble.
+And the question is, are you
+trying to claim that language or
+are you just kind of describing
+its field of use?
+So we have a picture in our mind
+of, you know, when I say a
+widget and a gadget depending
+based on a hinge or something
+like that, that we're like, what
+ballpark are we in?
+What are we talking about?
+And so a lot of examiners and a
+lot of attorneys get bogged down
+in the weeds of what kind of
+patentable weight should be
+afforded to all this extra
+language in the preamble.
+And I don't want to get into the
+nuances of, you know, does for
+digging raise the intended use
+doctrine that there's a lot of
+advanced patent interpretation
+doctrines that are just way too
+involved for an hour webinar.
+But let's make it even more
+interesting.
+If instead of sitting a shovel
+for digging, it said a shovel of
+a backhoe.
+And it raises the question of
+does the examiner have to find
+an entire backhoe or does the
+examiner only have to find the
+elements of the shovel that are
+in the body of the claim?
+There is different cases on
+this, but but the long and short
+of it is it's really murky and
+it's unclear, you know, the test
+is does the language of the
+preamble breathe life and
+meaning into the claim?
+What does that mean?
+I don't know what that means. As
+an examiner and as a SPE
+training other examiners,
+I just told them don't start
+this argument just go find it.
+On the outside,
+what I tell people who are
+drafting claims is don't put
+that claim language in.
+You're not getting anything
+extra.
+It's only confusing the matter.
+So make it clear and the less
+said the better
+when it comes to preambles.
+Transitions,
+you have an option after you say
+that that shovel comprising a
+scoop and fingers and a handle.
+Do you say it comprises those
+elements,
+it consists essentially of those
+elements, or it consists of or
+is consisting of? And these
+matter a lot.
+Comprising it is an open-ended
+transition phrase.
+So when you say I have a shovel
+that comprises AB and C,
+comprising tells the reader and
+the courts it has to have at
+least AB and C but it can have
+other things.
+So if I go out and I try to make
+seller use a shovel that has
+ABCDE, you got me because you
+claimed a shovel having ABC. I
+would be infringing your claim.
+The fact that it has D&E
+doesn't matter because
+comprising is open-ended and it
+means what you're you're
+claiming a stake to is at least
+AB and C. At the other end,
+and and comprising is what
+you'll see and a vast, vast
+majority of of the time because
+it's because you want to keep
+people from doing your thing
+plus other things. Consisting of
+that's closed.
+So when I say I have a widget
+comprising A, consisting of A B
+and C, that means it has to be
+only A B and C.
+If somebody makes a widget that
+includes ABC and D, it's not
+infringing and you'll say why on
+earth would somebody want to do
+it closed and used consisting
+of?
+That seems so limiting.
+It comes up a lot in the
+chemical and the bio arts.
+So let's say I want a light
+emitting diode that has an anode
+and a cathode and it might have
+other things like wires and
+electrodes.
+But the important part of this
+is that I have an active layer
+that emits light and it is made
+of gallium nitride.
+I don't, you know, my invention
+is gallium nitride.
+It's not gallium Indium nitride
+or aluminum gallium Indium
+nitride, phosphide or anything
+else.
+It's just very specific
+composition.
+And I and I want to stop people
+from using that.
+So by saying consisting of
+gallium nitrate, I'm excluding
+the coverage from these other
+things, these other compositions
+that aren't what I invented.
+You're like, well, why wouldn't
+you want to be broad?
+Well, one, you didn't invent it,
+you know you're not allowed to
+claim it if you didn't invent
+it.
+And two, the broader you claim,
+the more available prior art the
+examiner can use against you.
+So you don't want to be claiming
+your invention so broadly that
+the examiner can apply art
+against you that you didn't
+invent and you're wasting time
+and prosecution. "Consisting
+essentially of" that's just a
+weird in between one and I, I, I
+can't even think of the the term
+the law uses that it I wrote
+this down. "Consisting
+essentially of limits the scope
+of a claim to" not to "those
+materials that do not materially
+affect the basic and novel
+characteristics of the claimed
+invention."
+If you have an objective
+definition of what constitutes
+materially or basic or novel,
+please share.
+I, I, I think you're asking for
+$1,000,000 in litigation to
+argue that stuff.
+But if you find a reason why,
+for example, you might want in
+the chemical arts, we know that
+they have impurities and you
+can't avoid, you can't have
+something that's 100% pure
+aluminum.
+So if I say consisting of
+aluminum, someone's going to go,
+mine's a little dirty and it has
+some of these pollutant
+additives in it.
+Not really enough to change the
+basic structure, but you know,
+it's, that's just a fact of life
+in minuscule amounts.
+You might want to use consisting
+essentially of in that sort of
+term or situation.
+But if you do, please define in
+your specification.
+When I say consisting
+essentially of, I mean this, it
+can only help define your claim
+and reduce ambiguity and
+problems.
+OK, so let's see, we still have
+1/2 hour.
+OK, now that we got all the
+parts of the claim, we're how do
+you say those things that you're
+claiming those elements?
+Let's take an example.
+I asked one of you, hey, can you
+go down to the oh athletic store
+and and buy me that ball?
+You'd say, what ball are you
+talking about?
+We haven't had a discussion
+before and I don't know what's
+going on in your brain.
+That's the same thing for patent
+claims.
+When you say it's a widget
+having elements, an A, a B and a
+C, I am affirmatively reciting
+the A, an A, a B because you
+know a widget. They haven't been
+described. The first time you
+set forth an element, set it
+forth affirmatively, they call
+it here in the slides with
+primary antecedent basis, we're
+talking about the the little
+words "a," "A" and "the" that
+come before the noun.
+So first time you use "a" or
+"an" and then when you're
+referring back to something that
+you've already set forth, that's
+when you can use either "said"
+or "the." I claim a balloon
+claim 2.
+You know, the balloon of claim
+one.
+And and so it it, you know, it's
+just common English and the
+point goes towards
+indefiniteness of do we
+understand what you're talking
+about?
+I think we have some examples a
+little further.
+So I'll, I'll stop beating that
+horse for now.
+Oh yeah.
+And here are the examples.
+So it might be, I claim a
+machine that has two levers, a
+right lever and a a left lever.
+And then my next element is
+where in the lever you're like,
+wait, which lever are you
+talking about?
+So wherein the right lever or
+wherein the.
+So use the language that you
+used up before, you know, and we
+get into some various
+situations.
+You know, I I claim a widget
+comprising an elongated wooden
+lever, and my claim has no other
+levers.
+Later I can say the lever.
+And some examiners will say,
+wait, you didn't say the
+elongated wooden lever, you only
+said the lever.
+Well, yeah, but you know what
+I'm talking about because that's
+the only lever I talked about.
+But it's safer to use the full
+term sometimes it's OK what?
+Look, today's not the day to get
+into all the little nuances of
+when you can shorten it, when
+it's inherent for these
+purposes.
+Just be aware of "a" versus
+"the."
+The last thing I'll say about
+that is do not say we're in the
+said lever.
+It's either the lever or said
+lever.
+It's never the said lever or
+said the lever.
+Pick one or the other.
+In the former days, one is much
+more formalistic.
+It was expected that you used
+said instead of the.
+Nowadays, it's from the past
+decades.
+Nobody cares.
+Just use either one of them and
+use them properly.
+OK, so we've moved away from the
+the law and now we're moving
+into some examples to make this
+a little bit more concrete.
+I stopped asking why people
+invent what they do.
+I just show up to see what's
+going to happen the next day.
+So today we have this multiple
+component headgear system.
+I won't be caught dead wearing
+it in public.
+But to each their own.
+And here is an example
+independent claim.
+So it sets forth in full and you
+see the preamble, "a headgear
+apparatus," you see the
+transition phrase "comprising"
+which as you remember it means
+it has those three elements, the
+headband, the visor and the eye
+shield.
+Plus it could have other things.
+And you'll find when we get to
+the dependent claims, it does
+include other things.
+One thing I let's point out a
+headband member having a frontal
+portion.
+Again, good antecedent basis.
+They didn't say having the
+frontal portion.
+This is the first time they've
+talked about a frontal portion
+and they use the appropriate
+antecedent basis.
+Later we're going to talk about
+cleaning up your claims and
+going back through it and
+getting rid of any unnecessary
+words that you can.
+I'm not really clear if I mean,
+this is a great claim.
+I'm throwing down my ideas and I
+put it all out there.
+Then I stop and I'm analyzing it
+when I'm going to edit it and
+I'm like a headband member.
+What is the difference between a
+headband member versus a
+headband having a frontal
+portion?
+Am I protecting anything more or
+less by saying a headband member
+as opposed to a headband?
+I might be raising confusion by
+adding the word member.
+What is that?
+Why is it there?
+What is it signifying?
+I would be making an affirmative
+conscious decision whether I
+want to say a headband or a
+headband member.
+Same with visor member and eye
+shield member and the headgear
+apparatus.
+You could have just said a piece
+of headgear or a headgear
+comprising. OK, so now we get to
+the dependent claims.
+Again,
+these are your shorthanded where
+you didn't have to go and set
+forth those three elements.
+And you'll see also they use
+said because they talked about
+an eye shield number before.
+So you want to say an eye shield
+number, it would make beg the
+question, Wait, is this a new
+one?
+You're you're using said because
+you're referring back to the one
+you set forth before.
+You notice claim 3 is another
+dependent claim and there they
+both depend from claim one.
+That means, you know, claim one
+had elements ABC and claim 2
+added element or or it's further
+specified something more
+specific about the eye shield.
+So we still have ABC.
+Claim 3 adds a different
+restriction or further limits
+it, but it doesn't include the
+restriction that was in claim 2.
+So you know, claim 2 might be
+ABC specific and claim 3 might
+be A specific, BC, but you get
+the idea.
+Claim 3, just because claim 3 is
+bigger than claim 2 doesn't mean
+that claim 2 has anything to do
+with claim three.
+We're looking at that portion
+that says as in claim one, which
+is more important because as you
+start getting down into your
+claims, it gets more and more
+confusing.
+So now claim 4 is dependent from
+claim 2.
+So that means we have all the
+limitations of claims 1, 2 and
+4, not 3.
+Claim 5 depends from claim 3,
+which means we have all the
+limitations of claims 1, 3 and 5
+and not claim 2 and not claim 4.
+That's how dependent claims
+work.
+There is also a thing called
+multiple dependent claims.
+That's beyond the scope of this.
+Short answer is they're more
+commonly used in Europe and
+other parts of the world.
+Don't use them.
+Just no good can come from it
+and save it for another day.
+Don't worry about that.
+So, OK, let's get into another
+concrete example and you'll see
+that this is what happens.
+Your inventor goes, hey, I got
+this, ain't this cool?
+And you're like, great, what is
+it?
+He might say, well, I call it a
+doohickey and a thingamabob.
+And you're sitting here going,
+how am I going to describe this
+using words that a third person
+will objectively agree with me
+what it means?
+And I got to come up with
+terminology and be my own
+lexicographer because this stuff
+didn't exist before.
+And they don't have words for
+anything I'm seeing in front of
+me.
+That's where the fun part comes
+in.
+That's why you get paid the big
+bucks.
+So this is as good as anything.
+OK, we're going to call the
+whole contraption of boot and
+you notice the night.
+This is really indicative of
+what happens when you get this.
+You're going to have a picture
+and you're going to start coming
+up with your own labels and and
+you're going to be marking this
+up because you want to be sure
+that you are consistent from
+your drawings to your claims to
+your spec that you're using the
+same words that you're using
+boot to mean the whole entire
+combination and frame to mean
+everything that is not in the
+propagation mechanism.
+So we have two sub combinations
+of a frame and a propagation
+mechanism that together form the
+combination of a boot.
+That's great.
+You can do that no problem.
+Just make sure whatever you call
+it, you're calling it that
+consistently throughout.
+And then we have different
+buckles, straps and laces and
+you can call them that or Bob
+for all we care.
+But the point is use it
+consistently.
+And again, we have a boot which
+is the whole combination and it
+comprises an open-ended
+transition phrase, a frame, at
+least one fastening mechanism,
+Oh, so we can have what we're
+indicating that it can have one,
+two or three, and a propagation
+mechanism.
+And that's the body of your
+claim.
+And, and so notice how a, it's
+not a boot for skating or a boot
+for inserting your foot or a
+boot for propelling yourself
+with a propagation mechanism.
+They just said a boot.
+The less said, the better.
+OK, so let's just start wrapping
+this all together.
+When you write a claim, you want
+to introduce all of the
+components and characterizations
+of the components that are
+necessary for the invention to
+work and for it to be different
+from what was already in the
+public domain.
+And we've already used examples
+of AB or C. The important thing
+is you're having your
+conversation with the attorney
+at the beginning of the or with
+your client.
+You know what was known what,
+what are you adding?
+Typically we don't come up with
+aha, I had a dream and I came up
+with everything in here.
+Typically something was known.
+It might be the conventional
+roller skates that had four
+wheels in the two by two
+arrangement and I came up with
+the idea of having them inline
+for and it's a rollerblade or
+rollerblades were known, but
+they were really lousy at being
+fastened.
+I came up with that buckle.
+None of the other ones had a
+buckle.
+You want to know what the
+inventor, you know all
+inventions are "midgets standing
+on the shoulder of giants."
+You want to know what the midget
+is that your inventor invented.
+OK.
+And again, they're just giving
+examples of dependent claims,
+how you want to have connections
+between your elements and you
+know, connecting it either to
+the the a different element or
+the entire structure or else
+you're going to further
+specify a characteristic about
+the element that was set forth
+previously.
+You know, so these are the two
+ways that you're going to narrow
+your claim.
+Add more limitations or be more
+specific about an A limitation
+that was already there.
+What you don't want to do is
+have claim one that says I claim
+an A, B and a C. Claim 2, the
+combination of claim one where
+in the A is omitted, it only has
+A, B or C. That's bad.
+That's wrong.
+That's broadening your claim.
+It's not narrowing it.
+135 USC 112(d) says you can't do
+that.
+They have to be narrower.
+Dependent claims have to be
+narrower.
+There has to be something that
+dependent claim infringes that
+the independent claim does not
+necessarily infringe.
+So big take away when you're
+let's see further comprising.
+Let's see if there's anything
+else.
+I think we've already covered
+all of this slide and we are
+running short on time.
+So focus on the inventive
+concept and how it distinguishes
+over the prior inventions.
+Identify funnel fundamental
+elements.
+If it's not your inventor's
+invention, see if you can omit
+it.
+Do you have to be in there?
+You know, there in the old days,
+we're talking decades ago, there
+were issues about if you didn't
+claim an entire structure, you
+were claiming a disembodied
+portion and it might not be
+complete and you might get
+rejected.
+Those days are gone.
+I have a computer system and the
+important thing is that the
+router has this little fancy
+widget in it.
+You know, widgets were known,
+but they weren't known to be put
+in the routers.
+So I can't just claim a router
+or a widget because they were
+known independently.
+So I want to claim it in
+combination with the router to
+give an environment so that it
+makes sense.
+And this is something that was
+not known before.
+It's not the element, but the
+combinations of these specific
+elements is what is new and what
+I'm contributing.
+But what you don't want to do is
+start claiming the whole entire
+network system and you know, and
+the servers and the
+communication towers.
+You're just narrowing your claim
+unnecessarily.
+Omit unnecessary elements,
+select broad terms and identify
+their relationships carefully.
+Every word in your claim
+matters.
+If you haven't picked this up in
+the last 40 minutes, please do
+so now don't just I can't really
+think of the right word to use.
+So if I just say it three or
+four times, you know, like in
+law how they say "do not fold,
+spindle or mutilate."
+And they just want to throw a
+whole lot of synonyms and figure
+out capture it that way.
+And you know, if I say enough,
+they'll get the general idea.
+Don't do that in patent claiming
+because then you're just going
+to beg the question of what do
+all these different terms mean
+and what how do they differ from
+each other?
+And what, you know, does it have
+to have all three take precisely
+what you want to say, don't say
+anymore.
+And it's hard.
+It's really hard.
+It's really hard.
+And you'll find yourself when
+you're drafting claims, just
+sitting there going way off in
+space and you can drive yourself
+crazy.
+That's normal.
+That's part of the process when
+you take a good stab, set it
+aside, just like proofreading a
+term paper or a brief, then pick
+it up again, see what if it says
+what you thought it says and
+you're not gonna be able to do
+it right.
+That's why we have examiners cuz
+you're so focused on saying, how
+do I describe this thing?
+It doesn't even occur to you
+that it also reads on something
+else.
+That's like, that didn't occur
+to me.
+That's not what I intended.
+And the examiner goes, yeah,
+that's why I'm here.
+I'm telling you it also reads on
+that and I know that's not what
+you intended and that's why I'm
+rejecting it.
+Go back and try again.
+OK, Novel, non-obvious and
+utility.
+These are 35 USC, 102, 103 and
+101.
+We don't have time to go into
+that.
+We did mention for utility
+there's only certain types of
+things that a that are eligible
+for patent protection, but
+that's a whole rabbit hole, OK.
+A patent is not a marketing
+brochure.
+Sometimes, I mean, it shouldn't
+be, but sometimes people go, I
+don't care if I actually get a
+patent.
+I just have to be able to say
+patent pending so that I can get
+my investors involved.
+We're not worried about those
+sort of commercial games.
+What you're interested in is
+actually a valid patent that
+actually has legal
+enforceability, which, you know,
+yes, there are marketing aspects
+and yes, you're going to have to
+be savvy and you don't want to
+say things in your spec that
+make it sound like your
+invention isn't really the best
+thing since sliced bread.
+But that's all the icing on the
+cake.
+It's not the cake itself.
+And OK, so we've already talked
+about the last bullet and as
+part of your having discussions
+with the inventor, I mean this
+it's that's an art in and of
+itself because the inventor does
+not understand patent
+prosecution.
+You are their counselor, you are
+their shepherd.
+You are helping them through the
+the dark woods to get to the
+promised land of having a issued
+patent.
+So you have to ask them
+questions that they'll tell you
+things, but they don't even
+think of telling you certain
+things.
+And you have to know what to
+ask, you know, like what are the
+competitors doing?
+You know, and then you know,
+what's, what's your backup plan
+if I can't get patent protection
+on this?
+Are there any bottlenecks?
+Are there any ways that you can
+claim something additional in
+combination?
+It's narrower, but still, you're
+going to forestall your
+competition from being able to
+do this.
+But doing a patent search,
+seeing what's out there,
+everything sounds great when
+they tell you, did you?
+Oh, I've never heard of anything
+like this before.
+You know how many people have
+gone, oh, you're a patent
+attorney.
+I had this great idea and I go
+good news and bad news.
+The good news is that's a really
+great idea.
+The bad news is it's such a
+great idea.
+There's a whole subclass of that
+invention at the Patent Office.
+Heated steering wheel covers,
+automatic toilet seat lifters.
+You know, you know, it's like
+everybody comes, you know,
+doesn't mean it's a dumb idea.
+It's a great idea.
+Everybody thought it was a great
+idea.
+So do a patentability search
+before you start drafting your
+claims.
+Alternative embodiments.
+You don't want to limit it to
+buttons only to have your
+competitor use snaps and totally
+avoid your patent claim because
+you didn't think you had to use
+a generic term like fasteners.
+So part of your and you're not,
+you're the patent attorney,
+you're not the inventor, you
+don't know, understand this
+technology.
+You're the translator that
+translates really good ideas
+into patentese that the Patent
+Office understands.
+But you have to be thinking,
+asking the inventor, how else
+can you do it?
+Are there other ways?
+Are there benefits to the other
+ways?
+Are there drawbacks?
+And then you decide, you know,
+what do you want to cover?
+What do you want to drop out?
+Do you want to have them in
+multiple applications?
+Do you want to have one big
+application that covers a whole
+bunch of embodiments?
+And you might have to worry then
+about is the office going to,
+I'm going to clean everything
+and see if the office restricts
+it into multiple inventions.
+That's all strategy that comes
+down the line.
+But you have to be thinking
+about these things now.
+Here's a nice graph of the
+Goldilocks principle.
+As I mentioned earlier, the more
+elements you have in a claim,
+the narrower it is.
+If I claim a substrate, anything
+that has a substrate is covered
+by my claim.
+The good news is that covers
+basically everything from a
+roadway to a desk to a
+telephone.
+The bad news is it's too general
+and it's not going to be
+patentable.
+So if I start claiming really
+narrowly, I'll probably get a
+picture claim, but that picture
+claim is useless because my
+competitors can draft around it,
+so I don't want it.
+Not too hot, not too cold, I
+want it just right.
+A very valuable piece of advice
+I got when taking the patent bar
+review course was if you are
+drafting patent claims for real,
+you're going to want to have
+some claims that, you know,
+probably are too broad and some
+that you know are probably too
+narrow as safety backups.
+Just like when you apply to law
+school, you apply to some that
+your safety schools too general,
+the ones you know you'll get
+into and you apply to some dream
+schools that are reached that
+you know you won't get into, but
+you never know.
+And then you focus your
+attention on what you think is
+just right, you know, and, and
+the reason you do that for
+patent claiming is if you get a
+first action allowance, you did
+something wrong, you gave up
+white space, something of you
+might have possibly given up
+some, you could have gone
+broader, but you don't know.
+So if you start with really
+broad claims, some medium scope
+claims and some narrow claims,
+you're kind of expecting, you're
+not admitting it to the Patent
+Office, but you're expecting
+that those broad claims are
+probably going to get knocked
+out in the first round of
+prosecution.
+No, and and probably a good idea
+to warn your client, let them
+know that this is what your
+strategy is so they don't get
+upset when you show them that
+first office action with some
+rejections in it.
+Yeah, I know they were coming.
+We talked about this.
+The point was we thought claim 2
+or claim independent claim 11
+was really the the medium one
+that we're really going for.
+And then you can gauge based on
+what the office found.
+It was I right?
+Was I wrong?
+Did I have to go to plan C and
+go to the specific one?
+But you have options to discuss
+with your client by using a a
+whole range.
+And so I, I saw a bit of a, a
+comment, I think it was can you
+claim apparatus and method
+claims?
+I don't know if we covered that
+or if I skipped over that.
+But yes, in the same patent
+application claim set, you have
+20 claims.
+They can be any combination.
+Claim 1 can be a product claim.
+Claim 2 can be a method claim,
+and they have things product by
+process claims, and it gets a
+little more weedy and we don't
+go there.
+But what you do not want to do
+is have a claim that is a hybrid
+claim where one single
+individual claim has one portion
+that says, you know, a preamble,
+I claim a widget comprising a
+handle, a substrate and a method
+of using these to dig a ditch.
+Then you're you're mixing
+statutory classes of products
+and methods.
+You can't do that.
+It raises indefiniteness
+questions of you know, what were
+you intending to cover?
+Are you?
+The statute says you can claim a
+product or a method.
+You know, one statutory class
+per claim, so don't mix and
+match, but you can have and you
+should, you definitely should.
+And and part of your whole
+strategy of being brought in
+specific have some claims to
+products, some claims to to
+methods because they're gonna
+claim different things.
+The path to the final product
+and the final product are two
+different scopes of of coverage,
+as we discussed before, why you
+can infringe one without
+infringing the other.
+So yeah, that's your your
+strategy.
+See what you can cover and head.
+And so here we have an example
+of you're trying to claim all of
+these and what kind of claim
+language should you use that
+will cover all of these?
+And so the example they have is
+a boot comprising a frame, at
+least one fastening mechanism
+and a propagation mechanism.
+And we've used generic terms
+that covers all of these.
+And then the examiner comes and
+he finds the, you know, the CCM
+hockey skate as prior art.
+And now you have to amend the
+claim and get rid of that.
+So you can change it and narrow
+it by adding your limitation
+wherein the propagation
+mechanism consists of four
+wheels attached to the frame
+that excludes a blade.
+You know, you don't want to go
+narrower, but you have to in
+order to overcome the prior art.
+Here's another option.
+You might have to go even
+narrower because you know, in
+the 20th century, both the old
+roller skate quads and the and
+the ice skates were known.
+Mine's an inline skate.
+So we're in the propagation
+mechanism consists of four
+wheels attached and the four
+wheels are arranged in a
+straight line.
+If we had more time, we could
+get into a an example of how
+would you do both the hockey
+skate and the rollerblade,
+excluding the quad skate.
+That's up for you to think about
+and it raises questions of how
+would you define that and and if
+you now you hadn't thought that
+might be a possibility and
+you're trying to claim it now.
+Where's the support in your spec
+for the language that you want
+to use to define it?
+So these are things that you
+want to be thinking about before
+you even start drafting because
+once you file that
+specification, you're kind of
+stuck with what you got.
+You can't be adding things later
+on because your goal is to show
+that the inventor had possession
+of the invention at the time of
+the filing, not two years later
+when the examiner gives them a
+rejection.
+OK, so we're coming to the end
+and these are just some, you
+know, reminder do's and don'ts.
+I think we've covered everything
+here.
+Point out, distinctly claim the
+subject matter reviewed and
+reconcile the claims.
+You want them to say the same
+thing so that you have support
+and not adding new language.
+What's common like after you do
+your file, your amendment and
+you're trying to overcome your
+claim and you're trying to come
+up with a way to distinguish
+those skates from the prior art.
+And you want to say something
+new based on the drawings or and
+and and the examiner's like, I
+don't see that in the spec.
+And then you get into issues of
+well, is there is the do the
+drawings provide sufficient
+support?
+You want, you want to avoid
+that.
+You may win, you may lose.
+Ensure that each term has proper
+in antecedent basis.
+Look at the claims and patents
+issued in your field of
+technology.
+That can really help because it
+gives you an idea of what people
+in the field are using as
+terminology.
+And when possible, it might be a
+good idea to use the same
+terminology or at least consider
+using it because that's what the
+examiner and the public are
+going to expect.
+And I had back as an an examiner
+once I had an inventor just
+making up his own.
+He said X.
+And when he said X, he meant
+really, really, really narrow X.
+But the whole industry, when you
+said X, it was so broad.
+He he tried to put this claim
+and I didn't even find an art.
+I just gave him a rejection
+saying this claim is so broad.
+It reads on every piece of art
+in this particular subclass that
+has a good date.
+I wasn't even going to go waste
+my time.
+I wanted him to know, look this,
+you're using a term badly.
+Come back.
+You know when you want to be
+serious and and start thinking
+about the words you're using.
+Think about legal protection you
+need for your invention and you
+only know that by talking to
+your inventor and sure dependent
+claims further limit.
+We talked about that and the
+don'ts as, as we mentioned in
+response to that question, do
+not use claims covering two
+statutory classes.
+Do not use terms inconsistently.
+Do not use terms in the claim
+that are unsupported.
+Do not write multiple sentence
+claims.
+Please don't do that.
+You're just asking for somebody
+to raise an eyebrow.
+Do not use functional language
+that is unconnected to the
+structure or steps.
+That's getting a little advanced
+and getting into what
+constitutes functional language
+versus a description of
+structure.
+We can have philosophical
+debates about that till the cows
+come home.
+Yeah, let's just leave that
+aside for now.
+Do not replace a claimed element
+as a limitation of a dependent
+claim.
+Like we said, you can't take an
+element away and you can't swap
+or substitute a different
+element.
+Do not refer back to only a
+portion of another claim.
+Oh, you know I you know claim
+one is to a whole system,
+including a widget.
+And you can't say I'm claiming
+claim 2, the widget of the
+apparatus of claim one.
+No, it has to be the whole
+entire kit and caboodle the
+whole claim 1 trademarks and
+trade names.
+Don't use Velcro.
+Use hook and fastener.
+Because trademarks denote a
+provider or a source of a good
+or service.
+They do not define.
+Think of Coke and New Coke.
+You know who makes it, you don't
+know what's in it.
+And people are allowed.
+Trademark owners are allowed to
+change the composition or the
+concoction or you know, what
+Coke means can change over time.
+If you use a trademark, it's a
+relative term and it does not
+have objective meaning.
+And the examiner, if they're
+paying attention, should give
+you a rejection for being
+indefinite, for using relative
+terminology, which means you
+have to know what's actually,
+you know, is a copier machine as
+opposed to Xerox, you know,
+Kleenex, that's, that's a proper
+term.
+So you have to be a bit familiar
+with trademarks and make sure
+when you're talking to your
+inventor that they're using,
+they'll say I'm using Velcro and
+you say OK, and you write it as
+hook and loop fastener.
+You're not using language that
+merely suggests or makes
+optional a feature, an A and a B
+and optionally a C.
+That's a way to get an
+indefiniteness rejection because
+you can't do it optionally.
+You can do things conditionally
+a a circuit so that which does X
+upon a precondition of Y.
+There's a difference between
+being conditional and being
+optional.
+Avoid optional.
+Avoid using negative limitations
+unless clearly supported by the
+written disclosure.
+There's a whole body of case law
+when you can say an A, a B but
+not including a C.
+It has to be expressly or
+disclosed in the spec and it
+gets really messy and it
+typically happens when you're
+not thinking of that and you
+want to add it later.
+Try your best to avoid that
+situation.
+That's going to take some legal
+research.
+So to summarize and right at
+4:00, the questions you need to
+answer before claiming your
+invention is one of the things
+you should understand.
+Also the format and structure of
+independent and dependent claims
+and possible methods of drafting
+your claims.
+Here is the the QR code for the
+survey.
+And with that I'm ready to open
+it up for questions.
+Thank you for your time.
+I hope you found it informative.
+I'm not sure if Yoon or somebody
+else online has questions or if
+I'm supposed to be looking
+somewhere.
+Yeah, there's, there's one
+question about if the invention
+disclosure talks about process
+or feature that does not
+describe how the process or
+feature is actually carried out.
+May we provide prophetic
+explanations to address any
+enablement issues with regard to
+like the invention statement in
+the competition?
+OK, I'm not going to tell you
+what you can or can't do for the
+competition because I don't know
+what the rules are and I don't
+know what the problem is and I
+don't know what the expectations
+are.
+And I don't want to get you in
+any trouble and have you blame
+me.
+In real world, it's common that
+the inventor will not tell you
+everything.
+And you might have to do that
+little fleshing out of Well, you
+said this, I don't quite
+understand how that works.
+You're the expert.
+Can you explain it to me?
+Because, you know, inventor, we
+have to make sure that we
+disclose your invention in a
+manner that shows the public how
+to make and use it.
+And if we don't, your patent
+will get invalidated.
+So please tell me how to do
+that.
+But I'm a guessing, and this is
+don't hold me to this, but you
+have a closed record for
+whatever your problem is.
+And if it's not in there, you're
+definitely not allowed to.
+You know, there's, there's a
+line between describing
+something that is already
+disclosed and you can use
+synonyms that don't change the
+meaning.
+I can say 12 or a dozen, but if
+they say 12, I can't change it
+to a bunch.
+And you can't be changing the
+scope of the disclosure after
+the ship is sailed after your,
+your file has your, your, your
+application has been filed.
+Other questions.
+No, that's the only question
+there.
+Awesome.
+OK.
+Well, I do hope this has been
+useful.
+And if other questions come to
+you in the future, I believe we
+gave you the e-mail address,
+which again is NPADC@uspto.gov.
+And if any more questions come
+in, we'll find a way to have
+those answers made available.
+Again, this recording should be
+available maybe next week, but
+I'm guessing at that.
+Don't hold me to that.
+So with that, thank you all very
+much.
+Good luck with the competition.
+I hope you all do great.
+Expect it to be hard and expect
+to learn a lot.

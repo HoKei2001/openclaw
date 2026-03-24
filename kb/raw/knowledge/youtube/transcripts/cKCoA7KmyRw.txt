@@ -1,0 +1,236 @@
+[Music]
+hello and welcome to inventors quick
+tips in this episode we will be covering
+the basics of patent drawings or
+illustrations and what they need to show
+note that this episode covers drawings
+for regular patent applications for
+provisional patent applications there
+are no formatting rules most any drawing
+is accepted for regular patent
+applications there are rules and also
+some best practices a short episode
+doesn't give time to cover everything
+but the goal here is to give you some
+insight into what those drawings need to
+show and first and foremost two drawings
+need to cover what you have claimed but
+beyond that they need to show how to
+make and use the invention basically
+that is called enablement in general
+there are lots of different ways you can
+show something in a patent figure and it
+all depends on the invention some
+inventions won't require all these types
+of drawings but most inventions will
+utilize at least one of the types you
+see here and yes it is true that some
+patents out there do not have any
+drawings at all but that is the
+exception rather than the rule so let's
+take a quick look at some examples let's
+say I invented this food cart now I
+could show a perspective view like this
+and note these are not patent drawings
+but rather just illustrations of my
+invention however I could give these to
+a patent attorney or patent drafting
+service and they could easily turn this
+drawing into a formal patent drawing and
+we'll get into what a formal patent
+drawing looks like in a few minutes but
+for now let's identify a few parts of my
+food cart we have some legs over here we
+got shelves on each side a roof cover
+thingy and some wheels
+now with those parts in mind let's look
+at some other views we may want to show
+if we were going to prepare a patent
+application for this cart here is a top
+view as if looking down at the cart from
+above
+here's a bottom view as if I was
+underneath a glass floor looking up at
+the cart a left side view in the right
+side view and note in cases where the
+right view and left you are identical
+it's a common practice to just include
+one side view however if the left and
+right sides of something are not
+identical then showing both sides is
+advisable here's the front view where we
+see the cart legs and the back view
+where we see the wheels of the cart so
+as I mentioned these are not patent
+drawings but just to give you an idea of
+the angles or views we typically need to
+show and when in doubt show the drawing
+view as a matter of practice for most
+any mechanical thing I include that all
+those use because you never know what
+you're going to need as you try to get
+your patent application through the
+Patent Office
+so in general I'd rather have a few
+extra drawings and not enough drawings
+but this is a simple food cart let's
+take a look at some other drawings that
+a patent may use if we have important
+internal components let's show them some
+inventions especially software
+manufacturing processes and then the
+other kinds of processes will likely
+benefit from flowcharts inventions that
+do something to something else benefit
+from before-and-after drawings here as
+you see in Figure 6 we have this little
+vertical structure and then as part of a
+process we add a coating on to that
+vertical structure this is part of a
+semiconductor patent application so it
+involves adding a coating of material
+onto that little vertical piece and in
+the patent application as you're
+describing how the structure is made you
+want to show each step of layers being
+added or removed so this covers certain
+types of drawings now let's take a peek
+at what actually goes into a patent
+drawing so here is a basic patent
+drawing of a bicycle shoe on a bicycle
+pedal and let's just take a look at a
+couple key parts arrows such as
+reference 12 here are used to designate
+a group of parts in this case the entire
+shoe
+lead lines are the black lines that
+extend from a number to apart so here
+for number twenty one end should be very
+close to the number without touching it
+and the other end touches the part so
+the reference here number twenty refers
+to the petal that the shoe is on top of
+the lead line should never be mistaken
+as part of the invention so I preferred
+the lead line style here that shows the
+lead lines with a slight curve you
+notice each of these lead lines such as
+that of number twenty are slightly
+curved sometimes lead lines are dotted
+such as when they point to a dotted line
+or shape in a patent drawing the dotted
+lines typically refer to things that are
+not visible some internal components
+basically showing what is inside or
+behind an object numbers with an
+underline refer to the object that they
+are actually on in this case the rear
+portion of that shoe this technique is
+used sometimes when the lead line is not
+practical such as due to limitations in
+space each figure should be labeled a
+plain arial font is good for that
+although in some older patents it's not
+unusual to see very ornate figure now
+here's another drawing example for a
+portable boxing heavy bag for training
+and it's an older patent as you can see
+it has a very ornate figure eight at the
+bottom but the key things I want to show
+you for this drawing are first the
+shading the shading can be done with
+lines close together or dots here it
+serves the purpose of helping identify
+object number fourteen as a solid
+cushion the shading helps us understand
+that it is of a cylindrical shape also
+let's take a look at what isn't shown
+the rules are that you need to show
+enough detail to enable somebody skilled
+in this field to make an easy invention
+we don't need an illustration on par
+with a Norman Rockwell painting for the
+person that's using the punching bag all
+we need is enough detail to show how
+somebody uses the punching bag
+so the actual person that's punching the
+bag here in this figure is a pretty
+basic detail here's another example
+using and exploded you
+so this is some kind of pliers and the
+exploded view is very good for showing
+internal parts that may not be visible
+in the completed pliers and also helps
+show how they go together in the
+completed product so here we see all
+these little washers and Springs and how
+they actually would be as fit together
+to make the pliers here it's an excerpt
+from a flowchart of a patent and these
+are easily done on a computer with a
+PowerPoint or Visio or so let's do a
+quick utility patent drawings recap and
+by the way utility patent basically
+means a regular patent so let's recap
+some key facts usually they are black
+and white line drawings every feature
+specified in the claims must be on a
+drawing and you want to have a reference
+number for it so all necessary views
+remember we went over some of the most
+popular views in patents you don't need
+to have all the parts aren't exactly to
+scale and you typically don't indicate
+dimensions now the drawings in most
+cases are black and white line drawings
+but in some circumstances photographs
+can be used here's an example of an
+informal drawing versus a formal drawing
+for the same thing on the Left obviously
+is the informal drawing for an invention
+and on the right is the corresponding
+formal drawing
+the one on the left was a digital photo
+taken by the inventor and then some
+crude numbers and lines were overlaid on
+it to point out the important parts that
+drawing on the left is fine for a
+provisional patent application but for a
+regular patent application it should
+look like the one on the right and again
+unnecessary details can be omitted from
+the formal drawing so those items
+circled in red on the informal drawing
+did not make it over to the formal
+drawing why because they were not
+relevant to this invention finally again
+I'll mention that normally photographs
+are not allowed the exception is when a
+photograph is the only way to really
+show something so the example I'm giving
+you here this patent relates to a patent
+on a digital zoom
+effect for a digital camera say in your
+phone or tablet so of course for
+explaining how a digital photo
+processing effect works photos are the
+best way to do that to show what the
+photographic effect is so in this case
+the Patent Office accepted the photos
+and note that they are black and white
+photos there's an extra hurdle if you
+want to use color photos color photos
+can be done but there's a special
+procedure where you basically have to
+stipulate that only color can possibly
+show the invention so in most cases when
+you do need a photograph it would be a
+grayscale photograph like what you see
+here anyway if you want to dig deeper
+into what goes into drawings you might
+check out this book it is well-written
+and covers many nuances of various
+drawing types so thanks again for
+checking out this episode of inventors
+quick tips and we'll see you again soon
+[Music]

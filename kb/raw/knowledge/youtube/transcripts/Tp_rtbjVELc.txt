@@ -1,0 +1,642 @@
+okay this is Stephen key welcome back to
+invent right TV and today I get to
+interview a patent attorney that just
+happened to be a patent examiner at the
+USPTO and he shares his secrets on how
+you can almost guarantee your patent
+will be issued at the USPTO so please
+watch this video
+[Music]
+okay everybody Stephen ke here with
+invent
+right invent right TV we're going to
+talk a little bit about patents and
+we're going to talk about how to
+actually get a better patent and I saw
+this article on LinkedIn by this amazing
+Pat you're you are a patent attorney
+right Brian yep correct okay and he
+wrote something that I have never seen
+anybody write about and we're going to
+talk about it so Ryan before we get
+started you're a patent attorney let's
+talk a little bit about you where do you
+live let's give a the audience your your
+background a little bit okay we're based
+in New York City and I am a patent
+attorney I've worked at a variety of
+firms before founding my own firm
+schneir IP law a couple years ago and
+before that notably I was a US patent
+examiner at the patent office for a
+couple years where I really learned
+about how the patent office works from
+the inside and sort of what works and
+what doesn't work from The Examiner
+standpoint and I'm still pretty active
+in terms of I I'm a member of the New
+York ipla the New York intellectual
+property law association and we
+frequently have dialogue with with
+senior people at the patent office where
+they share their wisdom as well so I've
+I've continued to keep a dialogue with
+them through with people from the patent
+office throughout my entire career and I
+still have some friends who work there
+that I speak with and we we talk about
+our experiences either as as former
+patent examiners or there some of them
+are current patent examiners to the
+extent that they can of course um
+there's limitations on what they can and
+can't say but my former patent examiner
+friends that are practitioners we
+definitely have uh there's quite a few
+of them that that I've either worked
+with in the past or um never worked with
+in the past but I'm friends with um we
+talk a lot about how our experiences at
+the patent office has helped us as
+practitioners so that's a big strength
+of
+mine well you you have an Insight I
+think it's really kind of interesting
+since you worked at the USPTO as a
+patent examiner and now you're a patent
+attorney so you wrote something on
+LinkedIn and I want to talk a little bit
+about this because your title was how to
+get a better patent by making the
+examiner's life
+easier yep so what do you mean by that
+tell tell us what do you mean by
+that
+so it's a common Viewpoint and this is
+based on my experience at the patent
+office that the merits are what rules
+getting a patent and what I've learned
+over the course of my career is that's
+not quite the case at all
+that the patent examination process more
+so than any other even agency or
+judicial
+process gives a lot of leeway to The
+Examiner to make decisions based on
+certain things that
+are and maybe this isn't the way it's
+supposed to go or the political correct
+way of saying it but that are somewhat
+subjective that there are certain
+incentives that patent examiners are
+under both in terms of how examiners are
+graded in terms of what's called The
+Examiner count system and also just
+based on examiner personalities that can
+get you a better result and a lot of the
+time your attorney either won't tell you
+about this or unless you're on an
+interview with them you won't be privy
+to how your attorney interacts back and
+forth with the examiner like you'll see
+the patent application you'll see the
+responses that were filed but you won't
+really understand how the strategy that
+your attorney takes impacts the the
+ability for the examiner to understand
+where you're coming from in as a human
+being you know at the end of the day
+these examiners are human beings just
+like you and me and they are not like
+judges where they're constrained to you
+judges are of course also human beings
+but the the the system of the patent
+office back and forth is more informal
+so that examiners can have a little bit
+more leeway to decide in your favor or
+not in your favor based on certain
+things that some people might consider
+subjective
+wow so wait a minute wait a minute so
+you're talking about they're just
+people and yeah treat them might affect
+if you get a patent or not
+yep oh yeah okay all right that's kind
+of interesting because I have learned
+through all the applications I have
+filed that I like to have a patent my
+patent attorney or patent
+Agent H I I need for them to have a a a
+great bedside manner meaning they can
+they could work with the patent examiner
+or when they do the interview if you
+have an office action that they can
+actually get things done they've got a
+great personality and they know how to
+speak to the exameter without making
+them mad is that am I right about that
+that's 100% right so a lot of attorneys
+will come in and treat it like it's a
+court proceeding and as a result they'll
+say oh the attorney's wrong or the I
+mean the the examiner's wrong or the
+examiner misapplied the law or the
+examiner ered and I don't know if judges
+like that either I was reading an
+article recently about how you shouldn't
+say the judge aired or the lower court
+aired in your Appel at briefs but um
+examiners certainly don't like it
+because they're not lawyers so they're
+not familiar with the way lawyers
+operate so um and at the end of the day
+the examiner is not really an adversary
+that the examiner actually gets the most
+credit for allowing your case so
+examiners are actually incentivized by
+the system system to allow your case you
+get two points for an allowance on first
+action and you get 1.25 points for a
+first action rejection so the question
+always Rose in my mind and it was
+interesting when I was at the patent
+office why don't examiners always allow
+the case on first action and the answer
+is a lot of them used to uh but um over
+the last 10 15 years there have been an
+increase in emphasis on patent quality
+and getting a good search done and there
+have been these there these quality
+assurance Specialists that work at the
+patent office that make sure that the
+best art has been best prior art has
+been cited and as a result examiners can
+become fearful that if the if they don't
+have a rejection first and they don't
+force the applicant to respond or file
+information disclosure statements that
+they might Grant an invalid patent but
+it presents an opportunity for the
+practitioner if you're good with the
+examiner to respond to these initial
+rejections which you get according to my
+standing 85% of the time you get a
+non-final rejection um on anything so a
+lot of there's a lot of false negatives
+but the office is more concerned about
+false positives than false negatives so
+if you could convince the examiner that
+there's no way this is going to be a
+false positive there's no way that
+there's going to be something that
+didn't come up after the fact there's a
+clear indication of why this is
+patentable over the prior art chances
+are unless you have a very difficult
+examiner which they exist you'll get a
+patent in right co-founder Andrew Krauss
+here this break will only take a second
+consider joining or become a
+professional inventor program it is only
+$349 a month we'll make sure everything
+is done right on your project you have
+great marketing materials you're getting
+in the top companies not only that we'll
+guarantee that you can get into
+companies and our negotiation coach will
+provide unlimited negotiation support
+during your membership with us so if
+you'd like to close that lucrative
+licensing deal at only $34 $9 a month
+please book a call with us go to invent
+write.com and book a call now back to
+the show I want to talk a little bit
+about you know it's interesting you said
+there's a point system and they
+incentivized to to allow these patents
+to be
+issued what talk about the P what's the
+point system what does that
+mean so all of the examiners are graded
+based on because there's a large amount
+of applications that examiners have to
+process so like a lot of other jobs in
+the government in other areas there's a
+quota and you get graded on how fast you
+push these cases off your docket but
+there's also what the patent office also
+understands
+that because we need quality that
+there's also other checks in place to
+make sure examiners aren't just churning
+out lowquality work because there's
+hundreds of thousands of patents filed
+every year and the office needs to get
+them off their desk um even with this
+system there's a now a record high
+backlog going back a couple of years and
+they've had a lot of problems with
+backlog in the past so there needs to be
+a way to push these out but then there's
+the trade-off to make sure that they get
+examined properly so that's what this
+point system accomplishes so if they get
+more points do they get more do they get
+a bigger bonus is that where that kind
+of leads or
+not sometimes yes but it's not really
+sustainable they also get graded on how
+they manage their docket and they also
+get graded on errors so especially when
+you get to a senior level examiners
+actually get to sign their own cases at
+a certain level and if they make too
+many errors it will impact their ability
+to get promotions and bonuses as well so
+the the examiners are also required to
+push these cases out but do it in a way
+that's thorough and there was a lot of
+when I was at the office there was a lot
+of emphasis put on putting cases out
+without errors that didn't get pulled
+because if you did then you would get
+you would also get reprimanded as well
+but the carrot was always sort of the
+production and the stick was always sort
+of the error so and fear sometimes
+motivates people more than reward so
+that's why a lot of the time it's safer
+for an examiner to reject your case to
+take the
+1.25 and not have to worry about getting
+potentially reprimanded for pushing
+things out too
+quickly okay let's talk a little bit
+about um you can look up a certain
+patent
+examiner issuing rate is that true and
+you can kind of tell if they're going to
+be tough or they're going to be a little
+bit more easier to work with is that
+true yeah and there's a lot of platforms
+out there that have examiner statistics
+and you you don't just see their overall
+allowance rate you could sometimes see a
+breakdown of before an interview after
+an interview uh how many rounds there's
+there's another statistic it's called
+disposals per allowance which is how
+many office actions that the examiner
+will give you before you can expect to
+get an allowance on their case so
+there's all these different statistics
+out there on the examiners about How
+likely you are to get a patent how long
+it's going to take um whether you need
+to file what called a request for
+continued examination which is what you
+have to file after two different office
+actions so all of those statistics can
+inform how difficult it is and sometimes
+that can affect your strategy if you're
+examiner is too difficult you might want
+to plan to file an appeal because you're
+going to have an uphill battle but
+sometimes there's oh there's also other
+statistics that compare what your
+examiner's allowance rate is compared to
+the overall art unit so the area of
+technology so if you find your examiner
+has a poor allowance rate but then it
+turns out the whole art unit has a poor
+allowance rate you might not succeed on
+appeal because the appeal goes to an
+appeal board in that art area and
+usually the reason the whole art unit
+has a low allowance rate is because it's
+a hard art to get a patent in so all of
+those factors can be very relevant in
+terms of working with an examiner and if
+you try the wrong strategy on the on the
+wrong examiner then you're going to get
+a suboptimal result if you try to appeal
+everything but the examiner's got a high
+allowance rate you're going to just tick
+that examiner off and maybe get the
+examiner to act in a in a way that's not
+in accordance with their usual Behavior
+but and if you don't appeal against an
+examiner that has a low allowance rate
+you might end up wasting a lot of time
+and money going back and forth or
+interviewing with someone who's
+uncooperative who doesn't like to Grant
+after interviews who who will give you
+the runaround I've seen that before Oh
+I'll take a look at it in an amendment
+file it after the interview you think
+you're going to get it and then they
+just give you another rejection or find
+a new reference so all of those
+statistics can be very important and
+they have nothing to do with per se the
+merits of the case it's all strategic
+procedural um ways of it's almost like
+if you follow I don't know if you're a
+baseball fan but it's like Moneyball for
+for patents a little bit um like the
+teams that didn't have the highest
+payrolls that can't afford to have the
+best overall players like if you can't
+afford to have
+the patent that's drafted for an
+enormous amount of money with 50
+drawings and all this disclosure and all
+this money behind it from a top Law Firm
+Sometimes the best thing to do is to to
+do Money Ball which is to to fill to
+just like the the Oakland A's did in
+that movie which was to you know get a
+couple of players that are really good
+at what you know really good at getting
+on base are really good at hitting home
+runs and then just find the best
+strategy for that particular moment so
+um and tailoring that to the examiner so
+if you don't if you don't can afford to
+spend an enormous amount of money in an
+application but you have an examiner
+that's amendable to interviewing then
+you might be able to use interview
+strategically or you might want to
+appeal quickly and win on appeal so
+there's a variety of routes that you
+could take depending on the case and you
+could look at the statistics that are
+there's a couple of of places that sell
+them online that a couple of uh
+resources that you could look at to see
+the statistics to see what results would
+be
+best you also mentioned that if you've
+got
+multiple uh inventions in your
+application
+that makes it a little bit more
+difficult too right and that you might
+want to you know focus on one and maybe
+keep the other ones make them make them
+a different application is that true
+right I mean you have to be mindful of
+course of the filing date requirements
+but it's common for inventors to want to
+put everything in one
+application and a lot of the time the
+patent office wants to file a
+restriction requirement so they actually
+are allowed to split it up so you you
+might have to split it up anyway and a
+lot of the time you can file the The
+Examiner would be a lot happier of
+course there's additional cost
+associated with it but filing multiple
+upfront with similar applications and
+similar and different claims with some
+changes to each one of them and you
+could basically get the same cost but
+you would have to you would have to pay
+for them a little bit up front rather
+than splitting them up but examiners
+don't usually like to issue these
+restriction requirements because it it
+delay the examination and prevents them
+from examining the whole thing uh they
+do like them after so once you once you
+file the divisional application after
+with the other set of claims then the
+examiners do like those because it's
+easier for them to get the points
+because they've already looked at
+something similar but a lot of the time
+it might be better to file multiple so
+that each of them could get the
+treatment it deserves and a lot of the
+time the the claims on the other ones
+that you put in at the end are not as
+well thought out so you might end up
+with a situation where you basically get
+the second set of claims allowed for the
+same reason you had the first set of
+claims allowed which could just mean
+multiple patents on basically one
+inventive concept even though they
+consider them different inventions so
+those are all things to keep in mind I
+don't know if there's a clear-cut answer
+but sometimes examiners don't like to
+see multiple inventions in one
+application because is they they wonder
+whether one of them is the real
+invention and then the other ones are
+sort of just throwaway but if you filed
+three different applications you might
+be able to get three different scopes of
+coverage
+potentially hey Ryan what you're talking
+about you know I've been filing
+applications for years but I I don't
+think I ever asked my patent
+practitioner about how they handle the
+patent Examiner
+or the strategy is that something I
+should be
+asking or or can I just tell by their
+record of how many patents are getting
+issued they're doing a good job what's
+the best way to make sure that if I'm
+going to hire someone they have that
+level of experience to really navigate
+those Waters it's hard to say about what
+to ask them but I would say if you're if
+your attorney is recommending different
+strategies to you that's usually a good
+sign so if your attorney is saying hey
+we should file a response and this is
+the strategy we should take in the
+response or and if we don't get it we
+could appeal or we should file this
+response and then if we don't get it
+let's have an interview or we should
+interview this examiner and if their
+reasoning is informed by statistics so
+it's a very good sign if the if the
+attorney goes I looked at this
+examiner's numbers and the examiner has
+a 80% allowance rate so let's see if we
+could argue without amending the
+claims and see if we could just persuade
+The Examiner because they might be more
+amendable to that whereas or they might
+say this examiner's got a 10% allowance
+rate let's put our best argument forth
+and prepare to appeal right away those
+are usually good signs but it's hard to
+know as an inventor exactly what how to
+ask the
+attorney are you good with the examiners
+or not it's more that you would see that
+the ex attorney is Savvy and I know
+quite a few attorneys that are in my
+network that are that I'm I'm colleagues
+with that are very good at that that do
+ADV and I've done that with my clients
+as well where I've said this is this is
+our best strategy based on this examiner
+it doesn't look like this examiner is
+going to be very favorable they so we
+should plan on appealing or I've said it
+looks like this examiner is going to be
+amendable so we should keep trying or
+this examiner's got better numbers after
+an interview so we should interview so
+all of those things are good things to
+look for as for your question about
+sorry I just want to answer your other
+part of your question about the track
+record if the examiner gets a lot of
+patents granted what it doesn't say is
+how long how many times it took and then
+what are the claims that they got so
+that's never going to show up so good
+point um so that's one of the that's the
+big value ad is that you could get
+better claims and you could do it uh
+cheaper and faster because there's also
+20 years of patent term
+so um if you the longer you go on back
+and forth unless the office made a
+mistake it could eat into your patent
+term which could be very valuable
+towards the end so you don't want to
+waste any time so all of those things
+matter I'm curious I just had a patent
+FasTrack and it got issued or allowed
+within four
+months no office actions
+and we were kind of surprised and the
+examiner uh if you looked at his record
+it was very poor that he allowed
+anything it's like 80 8 over
+80% so we were pretty happy that it went
+through with someone that was so tough
+am I reading that right when I under
+when they told me that that this guy is
+tough as nails but we still get it
+through yeah the fast track program has
+an enormous amount of boost and success
+so if you can file the petition and are
+willing to spend the extra money but
+then also there's the other types of
+FastTrack programs where they don't cost
+extra money there's one that a lot of
+people don't know about for firsttime
+filers that they just renewed through
+the end of the year where the first if
+you're if it's your first time filing a
+patent you could do it without an
+additional fee to get into the FastTrack
+program so those programs for whatever
+reason I have a couple of theories one
+is that I think examiners subjectively
+see that it's more
+important um they think if the
+applicants willing to spend the time and
+money that they are willing to that
+they're that the applicant is has
+invented something important whereas if
+they're not willing to wait that they're
+sort of seeing what the patent office is
+doing but the other reason is from the
+internal perspective is that the
+FasTrack cases show up on the examiner's
+um what's called the special docket and
+I know this from when I was an examiner
+and they have to get to those cases
+before all of the other cases and they
+have to get to them right away and a lot
+lot of the time the examiner will will
+focus all their time and energy on
+searching it to move it off their docket
+and they don't like cases coming back on
+their docket as amended special because
+they only get 0.25 and they have to push
+those really quickly so they would
+rather do a really really really good
+search and allow it right away got it
+interesting so that's that's probably
+why and I've seen in my career that the
+track One cases get a lot of better
+treatment than the other ones it's not
+just that it's faster you get a more
+thorough examination and they get
+allowed
+faster that's
+amazing hey Ryan thank you so much for
+coming on in vent right TV and sharing
+your knowledge I think it's opened my
+eyes up a little bit about how important
+to understand the temperament uh this
+the attitude and of that examiner and to
+make sure you're kind of managing that
+correctly because they're just people
+too exactly exactly and just like
+everyone they're under different incen
+Ines and incentives are what drive
+people to act in different ways the
+other thing is I would encourage
+everyone who watches your channel to go
+on the USPTO website they always having
+these webinars and educational things
+about like one of them they have is how
+to think like an examiner and all this
+other sort of stuff to learn how the
+patent office works it's not this stuff
+is not and there's also blogs and tons
+of information out there on the internet
+about patent examiners and don't you
+know it's easy to get outraged about oh
+this is how this works and it's not fair
+and you know the government and this and
+that but it's sometimes more beneficial
+to learn how it works and then use it to
+your advantage because that could get
+you a better patent and it doesn't
+really it's not going to cost you any
+time any extra money in fact it's going
+to save you time and money and to find
+an attorney that's Savvy on this stuff
+it's easy to find an attorney that wants
+to commiserate with you and look I I've
+done it plenty of times the patent
+office is ridiculous this and that
+there's so many different rules that
+I've been practicing for a decade and
+every single day I come across a
+different section of what's the p m
+manual patent examining procedure that I
+I didn't even think of before there's
+it's a it's a labyrinth but if you're
+willing to work with somebody who's
+saying let's navigate this rather than
+let's commiserate together you usually
+get a better result so um that's been my
+experience wonderful Ryan thank you for
+coming on event right TV we'll have you
+back again great information everyone
+please subscribe down below if you
+haven't already so we can bring on great
+guests just like we brought on Ryan
+today so thank you so much Ryan and I
+want to thank everybody for watching and
+bent right TV
+[Music]

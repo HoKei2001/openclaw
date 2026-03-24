@@ -1,0 +1,37 @@
+{
+  "video_id": "kgYo2Vhu2zA",
+  "total": 2,
+  "fetched_at": "2026-03-12T08:31:14.614301+00:00",
+  "comments": [
+    {
+      "id": "UgwYOCdRAzorncA5U8l4AaABAg",
+      "author": "@HeatherBerea",
+      "author_id": "UCKZXXxwNu8URllgmqYgn1qQ",
+      "author_url": "https://www.youtube.com/@HeatherBerea",
+      "author_verified": false,
+      "text": "Thank you 🎉",
+      "likes": 0,
+      "published_at": "4 days ago",
+      "timestamp": 1772928000,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    },
+    {
+      "id": "Ugy_mIMRX0HfgrjEjod4AaABAg",
+      "author": "@roberthoople",
+      "author_id": "UCrlmZPYFVa0vAMzlqdtLiOg",
+      "author_url": "https://www.youtube.com/@roberthoople",
+      "author_verified": false,
+      "text": "Loving these videos!",
+      "likes": 0,
+      "published_at": "1 year ago",
+      "timestamp": 1741737600,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": true
+    }
+  ]
+}

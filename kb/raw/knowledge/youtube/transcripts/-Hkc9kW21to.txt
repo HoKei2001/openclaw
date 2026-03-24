@@ -1,0 +1,179 @@
+whoo oh do some core workout oh oh man I'm
+here to talk to you about the core of Patents!
+[Music] [Applause] hello my name is JD Houvener
+registered USPTO patent attorney I'm the managing
+partner here at CEO and build patents law
+firm today I want to dive deep and helping
+you better understand patent claim drafting and
+the six core principles you need to know before
+we get started I want you to know there are time
+stamps right down below you can fast forward to
+a specific subject matter that you're looking
+for but if you have time I highly encourage
+that you watch the whole video now this is also
+recorded in our blog article boldip.com/blog,
+I've written a full detailed 3,000 plus word
+article that goes into this in much more detail
+if you want to supplement this video let's go
+through the six core principles of patent claim
+drafting part 1 understanding patent law and
+USPTO rules on patent claims so the first rule
+about patent claims is that for some reason the
+law is structured such that the claims themselves
+they're not up front go to Google patents in the
+search the most recent patent that's been issued
+it's not on the first page you've got to scroll
+away at the bottom of the specification to find
+the numbered set of claims typically one through
+twenty and again their number you'll see that it
+starts out with the words I claim or we claim
+this is part of the rule now as you break down
+each claim let's say claim one which is usually
+in what's called an independent claim it has to
+be one sentence that's just a rule each claim
+must be only one sentence long the reason for
+that is the Patent Office wants to keep it limited
+so you're not going on and on talking about what
+you've invented you've got to be somewhat concise
+the true term is you've got a particularly claim
+your distinct invent now this is gonna make it
+much more difficult to read if you've ever read
+run-on sentences that's what claims are okay
+semicolons colons comma breaks and and what's
+interesting is that they can go on with multiple
+breaks in almost a non comprehensible way where
+there's line breaks several paragraphs all great
+made up into one sentence so let's talk about how
+the format of the claims goes and the different
+words that you're gonna see when you start to
+read the claims the formatting is important there
+has to be of course this this title section which
+is we claim or I claim and then you come to
+jump into what's called the preamble alright
+the preamble sets up the claim and it uses the
+terms comprising or including you'll save the
+foam football for play sports comprising okay the
+foam place for football comprise so they're gonna
+be describing as you know at football but they're
+that's just the preamble and the word comprising
+tells you that okay well it's gonna be including
+these things but comprising is an interesting word
+that's actually going to be able to include other
+things later it says well it's at least gonna be
+including the following elements so they're gonna
+probably describe how the structure right what
+that football looks like the angles the specific
+angles of incidents the drag maybe some little
+arrows they've got on the football I'm picturing
+one of these nerf balls right and they're going
+to go through all their from elements of
+how that football is shaped and what the
+functional benefits are for it but you can also
+use different terms that might limit you you can
+say including so that usually is a closed term
+it's going to limit you in terms of what sort of
+elements you're going to put down there the last
+section about formatting the claims is you must
+make sure you have what's called an antecedent
+basis an antecedent basis means you must always
+talk about words that you've introduced before
+so if I'm talking about this foam football and
+I later start talking about rubber specifically a
+rubber or nylon plastic if I haven't talked about
+that before in the structure that's going to be
+an antecedent basis issue and the examiner is
+going to reject it for that reason part three
+drafting an apparatus claim so much like any
+other claim apparatuses are probably the easiest
+to kind of get your arms around I mean literally
+their devices you can put your fingers and
+hands on them it's a similar structure we've
+got a preamble elements the key for apparatus
+is that you have support in the specification
+the specification is a fancy term for the written
+description of your invention the spec for short
+is going to cover lots of different structure ways
+that you're for our example this foam football
+is constructed right if you cut it in half what
+is it paint is there a common core what kind of
+adhesives would you use with the different plastic
+liners for the angle and then overall feathers on
+it no this support in the spec must be there if
+you're gonna be claiming it so let's say in the
+dependent claim you're talking about a dorsal fin
+on this football well if you don't talk about how
+a thin is attached to the football in the spec
+you're in big trouble alright so let's talk about
+process claims process claims are a different type
+of invention right this is the fourth category
+typical for software or for chemical processes the
+outcome of it is supposed to be beneficial right
+you're supposed to be providing that functionality
+and how do you do that by walking them through
+verbiage you're gonna instead of showing them
+structure in elements you're going to be using
+verbs creating crafting articulating storing every
+single one of those elements is gonna help you
+roll up and create a process what's interesting
+is you have the control over whether you want to
+make them require to be in a sequence or if they
+can change the order if you use words like then or
+before or after now you're locking yourself into
+a specific order of operations in order to prove
+that someone else is infringing that claim you
+have to show that they're not only performing all
+of those steps but they're doing them in that
+order makes it more challenging and it limits
+your scope of rice so it's a careful point to make
+compositions of matter claims these are elements
+much like pharmaceuticals materials like metals
+where you're putting multiple elements together
+to form one molecular structure so composition
+of matter claims do tend to be more intricate
+in terms of their percentages they're going
+to mention percentage by weight we're gonna
+talk about the proportion of materials compared
+to the other substrate they'll talk instead of
+about structure and not really about the order
+of operations but what is the matter composed
+of right how is it structured now in addition to
+this I should also mention that there are usually
+more than one independent claims set and so it
+is possible for example in our apparatus claim
+for the football to talk about the structure
+apparatus claim an independent claims one and
+have a separate independent claim ten that goes
+into the method of construction all right so
+both of these can be put together in the same
+claim set last but not least our design patent
+claims totally different from utility patent
+the claim is only one there's only one claim
+and what it says it's typically this it's standard
+language that says the ornamental drawing as shown
+below that's it the claim itself is actually the
+drawing it's the black lettered drawing outline
+of whatever you're actually claiming and so it's
+all about the drawings when it comes to a design
+pattern and the quickly summarized part one make
+sure you understand the laws and rules of how to
+structure the claim where to put it in the spec
+how long to make it and to make sure you keep
+it one sentence long formatting the claims and
+understand the difference between the preamble
+and the type of whirring you're using whether
+it's open or closed an antecedent basis is being
+addressed when you're drafting apparatus claims
+you've got to make sure you've got support in
+the specification process claims you've got to
+make sure you're using the right verbiage walk
+in through active claiming and deciding whether
+you're going to be narrow in scope and showing
+them the precise order of operations or letting
+those change hands composition of matter claims
+discussing the right proportions of material
+the last but not least design patent claims
+focusing on the drawing I want to also make
+sure you know you can get your free copy of
+bold ideas the inventors guide to pets today go
+to boldip.com/free to get your free pdf download
+[Music]

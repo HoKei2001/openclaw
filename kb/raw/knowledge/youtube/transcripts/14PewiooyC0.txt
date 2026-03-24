@@ -1,0 +1,252 @@
+I've gotten a little behind on my YouTube
+questions, so we're going to do questions and
+answers today.
+First question asks, with respect to my video
+on how to use the Patent Center website
+to file a provisional patent application, is that
+patent application just for the USA?
+So when using the Patent Center portal at
+USPTO.gov, yes, this patent application is just
+for the United States.
+The patent application that you file here is
+not useful in other countries.
+That is to say, when the patent issues,
+your patent is only going to be valid
+for stopping infringement in the United States and
+not in other countries.
+However, the good news is that you can
+use the USPTO.gov website to file your
+patent applications from anywhere in the world, at
+least that is, anywhere in the world that
+will allow you to get access to domains
+in the United States.
+I do understand that there are some locations
+in the world that don't allow access to
+some domain servers located in the United States.
+However, anecdotally, I do know that some of
+those users have been able to get access
+to the USPTO.gov website by using a
+VPN, that is a virtual private network.
+Now, just beware that some countries have criminal
+laws that prevent users within that country from
+using VPN to gain access to domain servers
+outside of the country.
+Next question, Fan of North asks, John, do
+you practice bird law?
+I didn't even know bird law was a
+thing.
+What kind of legal problems do birds have?
+Not trusted source leaves a comment.
+Set the playback speed to 1.25x. Thank
+me later.
+Okay, not trusted.
+I'm from Texas and slower is just the
+way we learn to speak.
+I've got a better suggestion for you.
+Why don't you put the speed at 1
+.5x and watch my video twice?
+Frederick Meadows asked the question, can I file
+a provisional patent application on a device that
+I haven't yet built?
+Do I need a working prototype or actual
+product in order to file a provisional patent
+application?
+The answer to this question is no, you
+do not need to have a prototype or
+a working model or product of your invention
+in order to be able to file a
+provisional patent application or even a utility application.
+The only requirement for you to file a
+patent application on your invention is for you
+to understand the invention, how to make the
+invention and how to use the invention and
+to be able to describe the invention in
+a written description and set of figures.
+Next question, I had filed a provisional patent
+application and then a year later converted the
+provisional patent application to a utility patent application.
+When the patent issues, how long does the
+patent last?
+Well, this is an interesting question and it's
+often confused because a patent lasts for 20
+years from the filing date of the regular
+utility patent application.
+So when you file your utility patent application,
+that is the non-provisional patent application, your
+patent that eventually issues will last for 20
+years from the date of that utility patent
+application filing.
+Plus any extension dates that you might get
+called term extension days that might accrue because
+of some hold up in the patent office
+or some delay that wasn't your fault.
+Now what's interesting about this is that you
+file a provisional patent application and then a
+year later you file a non-provisional patent
+application and the patent expires 20 years from
+the filing of the non-provisional patent application
+or 21 years from the filing of the
+provisional patent application.
+So in essence, if you file a provisional
+patent application, you get an extra year of
+being able to say that you're either patent
+pending or patented.
+I just think that's an extra bonus you
+get when you file a provisional patent application
+first.
+RCmob73 asked the question, I filed a provisional
+patent application in 2013 and it expired because
+I didn't have the funds to file for
+a non-provisional patent application.
+Now I've improved my invention.
+Is it too late to file a provisional
+patent application to improve my original invention?
+There are two considerations that you need to
+think about when refiling a provisional patent application.
+The first question you need to ask yourself,
+has there been a public disclosure since the
+filing of the original provisional patent application?
+That is, have you demonstrated or used your
+invention in public?
+Have you written something or published something about
+your invention to the public?
+Have you been to a trade show for
+example and exhibited your invention or have you
+offered your invention for sale to others?
+So long as you haven't disclosed your invention
+to the public, it may be possible for
+you to refile your provisional patent application.
+The second consideration is the existence of intervening
+rights by other inventors.
+If you file your provisional patent application and
+it expires and then five years later for
+example, you decide to file your provisional patent
+application again because you haven't made your invention
+public during that period.
+It's possible that an intervening inventor could have
+come in and filed their own patent application
+for the same invention not having copied it
+from you but having independently invented the same
+idea.
+Since we have a race to the patent
+office system in the United States, that is
+the first person to file a patent application
+gets the patent and your provisional patent application
+has expired.
+If someone comes along later and files a
+different patent application for the same invention, then
+it would be possible for that person then
+to get credit and rights to the patent
+that would be granted on that invention.
+But assuming that you haven't disclosed your invention
+to the public and assuming there's been no
+intervening inventor filing their own patent application for
+that invention, then it would be possible for
+you to refile your provisional patent application and
+get a new priority date based on the
+filing date of this new provisional patent application.
+To be clear, you don't get the filing
+date of the originally filed provisional patent application
+because that one expired, but you do get
+the priority date or the filing date of
+the refiling of the provisional patent application.
+Now you mentioned you made some improvements to
+your invention and this would be an ideal
+time to include those improvements in the refiled
+provisional patent application.
+Michael Schuller asked the question, if I have
+two-dimensional drawings or photographs and they're clear
+and sufficiently detailed, would it likely be judged
+as adequate evidence of disclosure if I leave
+out the reference numbers on the drawings?
+So Michael, what I understand that you're asking
+is you have drawings or photographs of your
+invention and you also have a written description
+of your invention, how your invention works, how
+it's made, and how it's used.
+But what you're missing in your provisional patent
+application is you don't have the reference numbers
+identifying each of the parts in your photographs
+or drawings and tying those to the text
+in the written description as you would normally
+do in a formal utility application.
+Well, the answer to your question is that
+reference numerals are not required on your drawings
+or photographs as they are in a formal
+non-provisional patent application or utility application.
+Provisional patent applications are informal.
+We just need to be able to understand
+if and when we go back and look
+at your provisional patent application later that you
+owned the invention and you understood the invention
+at the time that you filed the provisional
+patent application.
+We can look at the drawings, we can
+look at the specification, if you have photographs
+we can look at those as well, but
+the point is do you have an understanding
+and ownership of the invention that's being described.
+Thomas Stevens writes, I've invented a perpetual motion
+machine that finds golf balls.
+Well, that's awesome.
+If you could just find my lost golf
+balls and resell them you could probably make
+a fortune.
+Good invention.
+The next question is from Ron Young.
+Ron writes, what if your product is easy
+to duplicate and someone copies it and sells
+it for two to three years before you
+have any patent rights?
+Well, Ron, I have two suggestions in dealing
+with this problem.
+First of all, it is possible to get
+patent rights that predate the issuance of your
+patent.
+In an earlier video, I talk about patent
+rights that can accrue following the publication of
+your patent application and following actual notice given
+to an infringer.
+Now, this is a little technical and you'll
+need some help from your patent attorney, but
+if you give actual notice to a patent
+infringer once your patent publishes, it may be
+possible to collect damages all the way back
+to the time of the actual notice, so
+long as the patent issues and the claims
+have not substantially changed from the time that
+you gave actual notice to the time when
+the patent actually issues.
+A second category of patent applications that the
+patent office will consider taking out of turn
+include patent applications that are especially useful or
+important to the public, and these might be
+related to energy savings or environmental protection or
+inventions in support of counterterrorism.
+These are just a few of the examples.
+A second way that you can accelerate your
+patent application in the patent office is to
+file a track one accelerated application, which involves
+the payment of some extra fees.
+By paying the track one acceleration fees, your
+patent application gets moved to the head of
+the line and can often be very quickly
+examined with a patent issued often within a
+year of filing your patent application.
+Okay, that's all the questions and comments for
+today.
+My name is John Ferrell.
+I'm a Silicon Valley patent attorney.
+If you need help with your company's patents
+or your company's patent portfolio, I'd love to
+hear from you.
+You can reach me at the email address
+below.
+If you have comments or questions, leave them
+in the comments section.
+I love reading them and I'll try to
+answer as many as I can.
+Thank you for liking, subscribing, and staying to
+the end of this video.
+I'll see you on the next one.
+3.2s · 11m 47s YouTube · 1.7k words · text via transcript/captionTracks

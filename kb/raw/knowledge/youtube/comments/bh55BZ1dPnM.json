@@ -1,0 +1,37 @@
+{
+  "video_id": "bh55BZ1dPnM",
+  "total": 2,
+  "fetched_at": "2026-03-12T08:32:45.768794+00:00",
+  "comments": [
+    {
+      "id": "UgxV39hJIU70eqqrdY94AaABAg",
+      "author": "@rashadramzan6800",
+      "author_id": "UCYLfeVxuwGlzRUs17YdCOEw",
+      "author_url": "https://www.youtube.com/@rashadramzan6800",
+      "author_verified": false,
+      "text": "Excellent ~",
+      "likes": 1,
+      "published_at": "3 years ago",
+      "timestamp": 1678579200,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": true
+    },
+    {
+      "id": "Ugy9g_A9zw1vJBq3P354AaABAg",
+      "author": "@ahlamibrahim6914",
+      "author_id": "UCJs4wHApjjD1ST9iC-3AbrQ",
+      "author_url": "https://www.youtube.com/@ahlamibrahim6914",
+      "author_verified": false,
+      "text": "This is great thank you!!",
+      "likes": 0,
+      "published_at": "2 years ago",
+      "timestamp": 1710201600,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    }
+  ]
+}

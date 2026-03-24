@@ -1,0 +1,182 @@
+software patents are among the most
+difficult of all patent applications to
+get allowed there are some patent
+examiners who hardly ever allow software
+patents in this video I'm going to share
+with you my secrets for getting software
+patents granted and for starters when
+referring to your new software invention
+don't refer to it as a software patent
+you need to speak in code hi my name is
+John Farrell I'm a Silicon Valley patent
+attorney welcome back to my channel it's
+no lie that in the past 10 years it's
+been pretty difficult getting software
+pens allowed in the patent office the
+problem started with a 2014 Supreme
+Court case of Ellis Corp versus CLS Bank
+in which Alice Corp filed patents
+covering the verification by computer of
+Bank payments now prior to Alice's
+patents this process had been going on
+in Banks without the use of computers
+for more than 100 years years but it was
+the verification of the payment by a
+computer which was determined to be
+allowable subject matter in the Alice
+patents the Supreme Court said these
+patents were not allowable because the
+subject matter was too abstract that is
+the idea of verifying a payment was well
+known and merely adding a computer to
+verify the payment was not sufficient to
+arise to the level of patentability now
+the patent problem that was being
+addressed in the Alice decision was
+really a problem that arose in the late
+1990s under a number of federal circuit
+cases that were very permissive with
+respect to patentability and these
+decisions combined with the Clinton
+administration's liberal view on
+software patents during the.com era led
+to the proliferation of a number of
+patents that probably should never have
+been issued some of the ideas that were
+the subject matter of patents during
+this period included the alphabetizing
+of a mailing list using a computer using
+a computer to buy and sell stocks
+organizing a Dutch auction on a computer
+and probably thousands more the problem
+that was created was that inventors were
+merely taking well-known ideas using a
+computer to implement these ideas and
+filing blocking patents on the use of
+these ideas using a computer
+consequently even the simplest of
+processes in many cases were being
+blocked by trivial patents and in much
+the same way that the.com bubble was
+really a land grab in which
+entrepreneurs took brick and mortar
+businesses and implemented them on the
+Internet there was a rush to the patent
+office to file patents on these
+otherwise well-known ideas this
+proliferation of really basic and
+fundamental patents led to the creation
+of a cottage industry in which
+enforcement companies sprung up bought
+up some of these unused patents and
+began broadly enforcing these patents
+against existing businesses expensive to
+fight in court these companies that were
+being sued for patent infringement on
+these frivolous patents would often
+settle for five or six figure sums just
+to avoid expensive patent litigation in
+the prospect of potentially losing their
+case in court these enforcement
+companies came to be known as patent
+trolls and were thought by many to be
+stifling business growth and true
+Innovation and so what this is a
+backdrop in 2014 the Supreme Court
+stepped in with the decision in Alice
+versus CLS Bank to try to eliminate
+these frivolous abstract idea patents
+and in doing so they developed a
+somewhat calm complex two-part test for
+determining whether an invention was
+patent eligible now in its simplest form
+the two-part test first check to see
+whether the subject matter of the
+invention was itself patent eligible
+that is was it merely a mathematical
+algorithm or a law of nature or some
+other idea that just clearly wasn't
+patentable and the second test was
+looking at the claim elements
+individually in an ordered combination
+do the claims become or transform into
+patent eligible subject matter now in
+many respects this was a baffling test
+not only for inventors and their
+attorneys but also for the examining
+core in the U.S patent office in the
+early years following the Alice decision
+the patent office seemed to really
+tighten down finding abstract ideas in
+almost every software patent application
+that was being submitted it was really
+difficult during these dark days to get
+a software patent application allowed
+fortunately in the patent office the
+interpretation of the Alice case and the
+application of the two-part test in
+examining patents has relaxed quite a
+bit but we did learn a lot of lessons
+about how to optimally and efficiently
+file patent applications and write
+patent claims related to software
+patents and I want to share with you a
+couple of ideas that I've learned and
+I've applied in the patent applications
+that I've worked on to begin with when
+writing the patent application and
+thinking about the software invention
+it's really helpful to think of a
+general purpose computer as being
+Specialized or defined by the software
+steps that are programming the hardware
+for example the software May identify a
+certain section of computer memory to
+open or create a database and that
+database is used to receive information
+to send information and to store
+calculations so I think it's important
+to reference that specialized Hardware
+when thinking about the steps of the
+computer application likewise there may
+be calculations in the software that
+create special processes in the hardware
+and being able to identify these
+processes and tie them to the specific
+Hardware is really helpful in
+mechanizing the program and making it
+feel a lot less abstract think of your
+software program as a customized machine
+rather than just an abstract sequence of
+code another tip I can share is that I
+try to emphasize the value and advantage
+of executing the process on a computer
+that is the software program does things
+using a computer that only a computer
+can do an example of this is detecting
+malware on a network only a computer can
+really be used to detect computer
+malware this explanation reinforce
+forces the idea that this is more than
+merely just an abstract idea being
+implemented on a computer and a tip I've
+shared in others of my videos I think
+it's very helpful when you can find a
+feedback loop in your software program
+that is where a data set or a prior
+result is used in creating a new result
+and that new result then is used to
+update the data set and used in the next
+calculation that is calculations
+continually improve because of this
+feedback loop this really is the basis
+of learning systems and artificial
+intelligence systems and I found these
+elements to be highly patentable now if
+you found some of the ideas in this
+video useful I know you'll find this
+next video on software patents helpful
+as well thank you so much see you in the
+next video
+[Music]
+3.7s · 7m 48s YouTube · 1.2k words · text via transcript/captionTracks

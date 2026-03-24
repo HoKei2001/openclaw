@@ -1,0 +1,221 @@
+[Music]
+hello and thank you for joining us for
+another exciting episode of inventor
+quick tips today we are talking about
+the basics of patent claims patent
+claims are a very important part of the
+patent to a large extent they give the
+patent its value so here we are going to
+describe some of the basics about how
+claims work even if you don't write your
+own claims as an inventor you have an
+interest in getting a better
+understanding of how claims work so you
+can ensure that your patent applications
+are covering the important aspects of
+your
+invention so what are patent claims
+anyway think of a patent as a deed to
+some real estate just as the deed will
+recite the geographic iCal coordinates
+of the land parcel the patent claims
+will state precisely what the invention
+is that is what exactly is it that
+someone else is not allowed to do
+without getting your permission
+first when someone makes uses or sells
+the invention you have claimed in a
+patent without permission it is called
+infringement when examining a patent for
+infringement it is the claims that will
+be checked against against the
+infringing activity this is important to
+note in your patent application you can
+write and describe anything you want in
+the written description or specification
+as it's called of the patent application
+and you can and should describe all the
+details and all the cool features of
+your
+invention however when it comes time to
+determining infringement that is
+determining if someone else is using
+making selling your invention without
+permission it is the claims that are
+looked at to determine this now a
+regular patent application has claims at
+least one claim provisional patent
+applications do not require any claims
+but many patent professionals include at
+least a few claims in provisional
+applications so here we are going to
+discuss a set of very trivial sample
+claims these are not real claims and the
+purpose is simply to show how claim C
+coverage works with multiple claims so
+in our example claim one we claim a car
+with a roof made out of vinyl that means
+while we are not claiming that we
+invented the car or even that we
+invented the concept of a roof on a car
+we are claiming that we have invented
+the concept of a vinyl roof on a car and
+that gives advantages in styling
+flexibility because the vinyl can be
+fabricated in different colors and
+textures for a unique
+look now we add a second claim claim two
+which recites that the roof is black
+claim one is referred to as an
+independent claim it stands on its own
+and does not refer to any other claims
+claim two is a dependent claim it
+depends from claim one in this case
+claim two is a further limiting claim it
+basically says take everything you have
+and claim one
+but further restrict it to a particular
+color of roof in this case black note
+that normally claiming objects of a
+particular color is not done and keep in
+mind that this is just an example to
+show you how claim 2 is more restrictive
+than claim
+one so now thinking about claim coverage
+if someone else had a car with a green
+vinyl roof that would be covered under
+claim one which pertains to all vinyl
+roofs no matter what color they may be
+but it would not be covered by claim two
+which only pertains to black vinyl
+roofs and now let's say someone had a
+car with a black metal roof what happens
+then while claim two recites a black
+roof it depends from claim one which
+means that claim two has all the
+limitations of claim one and claim two
+together so claim one says the roof must
+be vinyl claim to further recites that
+the roof must be black so the car with
+the black metal roof is not covered by
+any of the two claims shown here since
+each of these claims must have a vinyl
+roof furthermore in addition to further
+limiting an invention a dependent claim
+can include additional structure that is
+not present in the independent claim
+here CLA clim three includes a rain
+guard attached to the
+roof so that rain guard which is a thin
+rail that goes along the roof Edge to
+keep water from dripping into slightly
+opened Windows is the additional
+structure since claim 3 comes from claim
+one which says the roof is vinyl but
+doesn't specify the color then claim 3
+is drawn to a car with a vinyl roof of
+any color and including the rain guard
+now to make an even more limiting claim
+we could have claim three depend from
+claim two which depends from claim one
+now our claim three has the limitations
+of claim one roof is vinyl the
+limitations of claim two the roof is
+black along with limitations of claim
+three itself the rain guard is also
+included so dependent claims further
+limit or narrow the scope that is they
+cover something more specific than the
+top level independent
+claim now you might be wondering why
+have dependent claims at all after all
+if I invented a car with a vinyl roof
+why not just have one claim to a car
+with a vinyl roof and then be done with
+it that is a good question and there are
+various answers but the basics are that
+typically not every claim in our patent
+application survives some claims are
+removed during the course of the patent
+examination in our case if the Pat
+office found out that someone else had a
+car with an orange vinyl roof before we
+filed our application then we would lose
+our claim one the broader more General a
+claim is the easier it is to disqualify
+that claim the more specific claims like
+claim three of the example are harder to
+disqualify but the tradeoff is they
+cover something that's more specific so
+in general it is considered good to have
+a range of claims going from Broad to
+specific the United States allows up to
+20 claims which includes three
+independent claims for the basic filing
+price more claims can be added for
+additional cost if it's necessary but in
+most case 20 claims does the
+trick so in summary I'm going to give
+you a couple of key points here that
+will help you in Reading claims and are
+things to keep in mind when proofreading
+your own patent applications even if you
+are using the services of of a
+professional to write your patent
+application you still want to be in a
+position to review the claims and know
+some things to look for the claims
+should not be introducing new terms that
+that did not appear in the written
+description any term that has been used
+in a claim should have been explained in
+the text and in most cases also shown in
+at least one drawing so in our example
+when we have the claim with the rainard
+we should be mentioning that rainard in
+the written description and have at
+least one drawing showing the
+rainu now we also want to give some
+thought to what is verifiable or
+discoverable that is how will we know if
+someone is making using or selling our
+invention let's take another example
+let's suppose I invented a hand operated
+penil sharpener with a special ergonomic
+handle to crank it I could go to Walmart
+look on the shelf and instantly see that
+someone was selling my invention because
+I could just look at the handle it's
+external and it's
+visible so it's easily verifiable and
+discoverable now let's say that my
+claims are to a specific gear
+Arrangement internal to the pencil
+sharpener it gets a little harder to
+verify I probably have to buy one of the
+pencil sharpeners and take it apart to
+see if they are using my
+invention now let's say that my claims
+are to a specific metallurgical alloy in
+the cutting teeth of the pencil
+sharpener then it gets even harder to
+verify now now I have to take the pencil
+sharpener apart and get the cutting
+teeth analyzed to determine if the other
+party is using my
+invention now this is not to say that
+you should not claim those things it's
+merely to make you aware that when you
+review your claims you should ask
+yourself the two-part
+question who would infringe this claim
+and how would I know when they are doing
+so what answers can you come up with for
+this question in your situation so now
+you have been exposed to some basics of
+patent claims that hopefully will serve
+you well as you develop your own patent
+applications once again thanks for
+joining us on inventor quick tips and
+we'll see you next time
+[Music]

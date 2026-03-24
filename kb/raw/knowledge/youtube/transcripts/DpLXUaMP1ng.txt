@@ -1,0 +1,70 @@
+foreign
+I'm going to talk about software patents
+now patents have been around ever since
+the Constitution of the United States at
+least in the United States it's the
+protection patent protection is
+guaranteed in the Constitution
+now software in the United States can be
+protected by patents this isn't true in
+every country but it is true here
+I want you to understand why we have
+patents and these and why we have
+patents not just for software but for
+any creative invention
+the reason we do that is before patents
+inventors would create wonderful things
+and then they would keep them Secret
+and the what happened is when these
+inventors died oftentimes they took
+their invention with them and we really
+didn't have the progress in society that
+we needed the technological progress
+so in the United States we decided that
+what the government decided that they
+would give a monopoly to an inventor
+that if an inventor thinks of something
+really great and creates an
+implementation it's really terrific that
+the government would say for a certain
+number of years you can be the only one
+who produces that invention
+or you can license it to other people
+but it's all under your control you
+control that invention
+now in return for this Monopoly the
+government said you have to tell us
+exactly how it works so after 17 to 20
+years we're going to take that Monopoly
+away from you and everybody else can use
+it
+and this resulted in really a growth of
+Technology because now people had
+protection they didn't have to keep
+things secret they could tell everyone
+how their ideas worked you can go to the
+patent office look up how patents work
+you can create a better invention or
+wait 17 to 20 years and and reproduce
+that invention
+and this applies to software too now
+methods were always patentable if you
+have an engine a steam engine for
+example not only is the physical device
+patented but the method of taking steam
+heating it driving Pistons is patentable
+and patented and since software is
+basically a method in perhaps its purest
+form I see no reason that a software
+program as a method can't be patented
+and I strongly recommend that you apply
+for patents for your software some
+programmers underestimate the amount of
+skill it takes we're kind of a humble
+bunch and we think that if we thought of
+this great thing this great solution
+that really it couldn't have been that
+unique but take my word for it a lot of
+software is unique and one strong way to
+protect it is through patents
+all right

@@ -1,0 +1,311 @@
+today's video aims to deal with the
+provision of addition of inventors in
+patent applications under the indian
+patents act of late i've been receiving
+queries regarding how to add inventors
+in a patent application and as a result
+i started reading about the provision
+and also read about the provision on on
+the internet and there are various
+approaches that have been suggested some
+of the articles suggest that edition of
+inventor under section 28 of the patents
+act is only to add the name of the
+inventor in the patent certificate so
+let us now explore whether this is the
+case or what does the provision related
+to addition of inventors encompass so
+before we go into the provisions let us
+first see what are the situations that
+warrant addition of inventors so maybe
+the first situation could be where you
+are converting your provisional
+application to complete specification so
+there may be some additional
+contribution by new inventors so when
+you filed a provisional application it
+was only in the concept stage and then
+few other inventors came through and
+they developed the invention so as to
+give it the final form for which you
+have filed the complete specification so
+obviously they would like to claim their
+rights also on the editions that they
+have made so if you are converting the
+provisional specification to the
+complete specification the additional
+inventors could be added at that time
+also sometimes it may happen that there
+is a late recognition of a contribution
+that has been made by a person regarding
+the development of the invention so
+someone came to know about it at a very
+later stage that this person was also
+one of the inventors or a person who
+contributed towards development of a
+particular invention and then you may
+want to add that particular person's
+name in the list of inventors also it
+may happen that some person may dispute
+the fact that his name has not been
+included in the name of inventors even
+though he contributed to the invention
+and thus he may also want to add his
+name in in the list of inventors and the
+provisions under the patent site provide
+him with an opportunity to get his name
+added in the patent as one of the
+inventors so let us now go through what
+are the provisions that are available by
+way of which a name of inventor could be
+added to the list of inventors already
+existing in the records of the patent
+office so first of all let's see section
+10 6. the section provides that a
+declaration to inventorship is required
+to be filed along with the complete
+specification or within one month of
+filing of the complete specification as
+per rule 13 sub rule 6. so this
+provision takes care of the aspect which
+i was referring to the first situation
+wherein there has been some additional
+contribution made by an additional
+person in respect of the invention that
+was filed in the provisional
+specification so now you have added some
+more material it was conceptualized by
+someone else and developed the invention
+in its final form which was being filed
+in the complete specification so if you
+filed a provisional application with say
+five inventors and now there is an
+additional inventor that has contributed
+to the invention you have the option of
+adding the name of the sixth inventor
+into the list at the time of filing the
+complete specification so you file a
+form 5 where you mention the list of all
+the six inventors so if you closely see
+the format of
+the form file that has been provided
+under the indian patents rule paragraph
+4 has a statement which is to be signed
+by an any additional inventor which was
+not mentioned in the application form so
+when you are filing a provisional
+specification you file the application
+form listing out say five inventors and
+then at the time of the complete
+specification you have a name of an
+additional inventor to be added so you
+file a form five with the name of all
+the inventors and the sixth inventor
+signs this declaration or statement
+which has been given under paragraph
+four of the form five so this is how you
+add inventors when converting your
+provisional specification to the
+complete specification another provision
+for adding of inventors is provided
+under section 28 which provides for
+mention of inventor as such in the
+patent and i believe this wording as
+such is the cause of confusion because
+of which some people believe that this
+only enables the name of the inventor to
+be mentioned as such in the patent
+certificate that is issued so let us see
+whether that is the case and before i go
+into the procedure for adding inventor
+under section 28 i want to mention that
+this provision is for addition of
+inventor at a later stage once you have
+already filed the complete specification
+and you don't have the option of filing
+a revised form 5 then you go ahead with
+this provision so as to add any
+additional person as the inventor so
+section 28 subsection 2 provides that a
+request for addition of inventor is to
+be made by the applicant or the
+applicant and the person who is intended
+to be added as the inventor if that
+person is not the applicant this request
+is made on form 8 along with the
+official fee which could be inr 800 2000
+4000 depending on the type of entity
+which is filing the request the
+provision provides that before the name
+of the person could be added as the
+inventor the controller has to satisfy
+himself that the intended inventor made
+contribution to the invention or a
+substantial part thereof and dependent
+application is a direct consequence of
+him being the inventor so in a way he
+contributed towards the innovation and
+that particular innovation is being
+covered in the patent application and
+relevant facts and evidence regarding
+this particular aspect may have to be
+provided by the additional inventor or
+the applicant so as to help the
+controller satisfy himself that all
+these conditions are met section 28
+subsection 3 takes care of a situation
+where the inventorship of a person is in
+dispute so in case the applicant is not
+willing to add the name of that
+particular person who claims to be the
+inventor then a request could also be
+filed by that additional person because
+he is not covered under section 28 too
+so the applicant is not filing a request
+on his behalf he can file a request all
+by himself and that request is to be
+made on form 8 along with the fee and
+also he has to submit a statement of
+claim wherein he brings out the facts
+and circumstances related to his
+inventory also he may have to provide
+the relevant evidence in respect of that
+upon receiving such a request the
+controller sends the statement of claim
+to the applicant of the patent
+application and also all stakeholders in
+the patent application so before
+deciding such an application for
+addition of inventor the controller has
+to hear both the claimant as well as the
+persons who are on notice and then
+decide whether the name of the
+additional person could be added as the
+inventor or not an important aspect
+about the requests under section 28 is
+that you can only make this request
+before the grant of the patent so once
+the patent has been granted you cannot
+make a request for addition of inventors
+and this is provided under section 28
+subsection 4. section 28 also provides
+for provisions to rectify the records so
+as to remove name of any person who has
+been added as an inventor under section
+28. so if the name of a person has been
+added by following the procedure under
+section 28 another person could also
+make a request so as to get this name of
+additional person removed this is
+provided under section 28 subsection 7 a
+request in this respect is to be made on
+form 8 along with the requisite fee and
+also a statement of claim where which
+specifies the facts and circumstances
+regarding the request why that request
+is being moved and what is the relevant
+evidence in respect of that again the
+statement of claim is sent by the
+controller to the notice of the
+applicant or the stakeholders in the
+patent and also the person whose name
+has been added and after hearing the
+claimant as well as the persons who are
+on notice the controller decides whether
+the name of that particular person who
+has been added should be removed from
+the records so you might have noticed
+that a principle of natural justice is
+followed even when name of a person is
+being added or where the name of a
+person already added is being removed so
+all persons are given a chance to put
+across their case so rule 69 of the
+patent rules provides the procedure that
+has to be applied for the purpose of
+hearing in respect of the notice on
+statement of claims so it says that rule
+55a and 57-63 which pertains to the
+notice of opposition or the pre-grant
+and post-grant oppositions the same
+process needs to be followed while
+deciding any application under section
+20a so this means that there is a
+specific timeline for filing the
+statement of claims and evidence and
+then a reply statement by the opposing
+side plus evidence and then the first
+side is given the chance to file a reply
+evidence and then a hearing is appointed
+by giving not less than 10 days notice
+to both the sides so far we have only
+only seen what are the legal provisions
+that are there in the patents act but
+have we answered the question whether it
+provides for addition of inventors name
+only in the patent certificate for that
+i think we need to look into the
+legislative intent before that i'd like
+to say that in my opinion that is a very
+restrictive reading this provision helps
+to add the name of the inventor in the
+entire records of the patent application
+or the patent so as to recognize that
+person as the innovator for that
+particular invention so the provision of
+edition of inventor finds reference in
+justice anger committee report of 1959
+and it recognizes that any person has a
+moral right to be named as the inventor
+in respect of a patent application so
+even though he may not be able to derive
+any economic benefit out of the patent
+application or the innovation or
+commercialization of that because he may
+have assigned his rights to his employer
+but he has the right to be named as the
+inventor so that it gives him a mental
+satisfaction and gives him a prestige
+and helps to increase his economic worth
+so how does that happen because his name
+is added in the patent application
+and patent applications are published so
+people would get to know that this is
+the person who is an innovator and does
+his economic work would increase in the
+society or in the relevant technical
+field so neither the i anger committee
+report nor the patents act specifically
+mentions that this provision only helps
+the name of the additional person to be
+added in the patent certificate so i
+think that is a very restrictive reading
+of the provision and nothing like that
+is actually intended by the legislature
+so finally to conclude what the
+provision finally does is it helps you
+to add the name of an additional person
+who has contributed towards the
+innovation in the records of the patent
+office and you can add that name that
+person's name in respect of the patent
+application so this is all i had in
+respect of addition of inventors in
+patent applications in case you have any
+specific comments regarding what i have
+opined you can add your comments in the
+comments box and i'll be happy to
+address those so over the time in case i
+make any amends to this opinion i'll
+make the changes in the description
+section so please do watch out for that
+refer to the description section always
+when whenever you watch this video
+because
+it is not possible to amend the video at
+times so i'll be making all those edits
+in the description section i hope you
+like the video as i said in case there
+are any questions or any comments please
+drop them in the comments box thank you
+very much for your time

@@ -1,0 +1,87 @@
+so in this video I'm going to talk
+briefly about the two main areas of the
+law that patent examiners use to reject
+patent claims
+now when you first file a patent
+application and I'm going to for this
+video I'm going to limit discussion to
+United States patent application so
+patent applications filed in the United
+States patent and trademark office at
+USPTO so when you initially file a
+patent application it's inevitable
+almost guaranteed uh that the First
+Response the First Communication you'll
+get from the USPTO which is called an
+office action will be a rejection of
+your claims and most likely more likely
+than not it's going to be a rejection of
+all all of your claims now that doesn't
+happen in all cases there are some road
+cases where some of the claims may be
+found allowable initially but usually
+they're going to be rejected
+the patent Examiner we'll usually use
+one of two or a combination of two legal
+rounds to reject your patent claims the
+first one is 35 USC Section 102 which is
+novelty the second one is 35 USC section
+103 which is obviousness so your claims
+if they're not new if there's if there's
+prior art what's called prior art that
+exists that shows each element of your
+claim then your claim is going to be
+rejected under Section 102 as being that
+novel not new
+um and then
+obviousness is usually based on a
+combination of references
+so let's first talk about
+novelty what makes uh patent claims new
+or not new pan claims consist of what
+are called limitations
+so one example claim if I make a generic
+claim uh for an apparatus called a
+widget generic a generic term for an
+apparatus some type of imaginary
+imaginary thing the widget can consist
+of
+a widget comprise comprising uh
+limitation a limitation B and limitation
+C we can also refer to those limitations
+as features
+and sometimes in communication with the
+patent office I'll refer to those
+limitations as features but the proper
+uh legalistic patent attorney language
+for elements of a claimer for sections
+of a claim are limitations
+so these limitations a b and c any one
+of a b and c isn't found in What's
+called the prior art then the claim
+would be novel now what is prior art
+prior art means either a patent a
+printed publication some type of a
+technical paper that was published
+before the date that you filed your
+patent application so if the examiner is
+able to locate a patent that describes
+those features those limitations that
+are part of your claim then the examiner
+can use that as prior art provided that
+the date is is before the date that you
+filed your patent application in the
+case of a novelty rejection a 102
+rejection Section 102 patent law The
+Examiner has to show that all of the
+limitations are present so if you have
+limitation a b and c The Examiner has to
+show that in the reference that they're
+citing so let's say that they're citing
+a patent the examiner would have to
+point to the sections of that pattern
+specification that describes the
+limitations a b and c and then could
+reject your claim as being non-novel
+based on that reference
+foreign

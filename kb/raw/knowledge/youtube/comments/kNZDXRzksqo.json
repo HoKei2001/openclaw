@@ -1,0 +1,52 @@
+{
+  "video_id": "kNZDXRzksqo",
+  "total": 3,
+  "fetched_at": "2026-03-12T08:25:33.259906+00:00",
+  "comments": [
+    {
+      "id": "UgycQyzDQkL8vkP8e6J4AaABAg",
+      "author": "@rahulbhosale5468",
+      "author_id": "UC7hFEpgSPLl1a0yYwEZJoEA",
+      "author_url": "https://www.youtube.com/@rahulbhosale5468",
+      "author_verified": false,
+      "text": "Thank you for this great explanation...",
+      "likes": 1,
+      "published_at": "3 years ago",
+      "timestamp": 1678579200,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    },
+    {
+      "id": "UgyNSIf9DJ2XvFcUYmx4AaABAg",
+      "author": "@roberttaylor6617",
+      "author_id": "UCl8BV2sikWgmEjGsuV928bw",
+      "author_url": "https://www.youtube.com/@roberttaylor6617",
+      "author_verified": false,
+      "text": "Fundamental info and professional, clear, detailed presentation that espacenet fail to provide. Excellent vid.",
+      "likes": 0,
+      "published_at": "11 months ago",
+      "timestamp": 1744416000,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    },
+    {
+      "id": "Ugz5x9HHo9royfhy4JV4AaABAg",
+      "author": "@chinesir",
+      "author_id": "UC9STTi8I1RIGMBmtVlhEkKA",
+      "author_url": "https://www.youtube.com/@chinesir",
+      "author_verified": false,
+      "text": "Hello, could you clarify the notary requirement for foreigner to apply a US patent, I did my best unfortunately unsuccessful, I also want to know the signature requirement, since my native language is not English, highly appreciated.",
+      "likes": 0,
+      "published_at": "3 years ago",
+      "timestamp": 1678579200,
+      "is_reply": false,
+      "reply_to": null,
+      "is_pinned": false,
+      "is_favorited": false
+    }
+  ]
+}

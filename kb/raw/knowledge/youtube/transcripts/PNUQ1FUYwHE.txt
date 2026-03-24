@@ -1,0 +1,1344 @@
+hello everyone and welcome to this
+webinar on filing a provisional or
+non-provisional Utility Patent
+application this is the second of our
+business learning Lab Winter webinars on
+intellectual property in partnership
+with the US patent and trademark office
+I'm your moderator Jenny Alton from the
+New York Small Business Development
+Center central office today's presenter
+is Monica Shin Outreach our assistant
+Outreach coordinator and primary
+examiner we also have her colleague gam
+ubal who is also an assistant Outreach
+coordinator and primary examiner to
+answer questions
+today this webinar is brought to you by
+the New York Small Business Development
+Center network of 20 campus space
+centers and many more Outreach offices
+which are located across New York State
+along with a central office based in
+Albany the nybdc is a US small business
+administration resource partner our free
+advising education research and advocacy
+services are made possible by funding
+from the SBA New York State and our host
+campuses so you know this session is
+being recorded we will share it with
+attendees in the next few days along
+with a PDF copy of the slides in a
+follow-up email attendees are muted and
+will not be on camera if you have any
+questions during the presentation please
+don't hesitate to type them in the Q&A
+box as they come up
+you can open zoom's Q&A box from the Q&A
+button at the bottom of your Zoom window
+gam will be answering questions through
+that Q&A box throughout Monica's
+presentation to help us keep track of
+all of your questions and make sure that
+we get everything answered we do not
+have the chat turned on for attendees
+today so please make sure that you
+locate that Q&A box and open it up so
+that uh we're able to help you get all
+of your questions answered during
+today's
+presentation for very specific questions
+that may take more time in detail to
+answer or if we run out of time to
+answer all questions today you will be
+able to get in touch with the USPTO
+through the contact information that
+they will share in this presentation you
+can also reply to the follow-up email to
+get further assistance from us at the
+sbdc and now I want to turn a few
+minutes over to my colleague Liam
+McMahon who is a certified business
+advisor and uh our technology special
+for our Network he is out of the
+Binghamton Center and uh so I just
+wanted to allow him a few minutes to be
+able to tell you about how we Assist
+Technology clients here at the
+nybdc thank you thanks Jenny so as Jenny
+said my name is leam McMahon and I'm one
+of the technology and Innovation
+advisors here at the New York Small
+Business Development Center nybdc offers
+a wide range of services for people
+interested in commercializing their
+technology um including but definitely
+not limited to helping develop pitch
+decks um creating and vetting Financial
+models and frequently helping you
+connect with other resources both in New
+York state and around the country um I
+generally always tell people if you need
+help with something reach out and ask us
+and we if we can't find the answer we
+will find you the people that can so if
+you're not already a client please don't
+hesitate to sign up for services and we
+can see how we can help you develop your
+new tech um if you're already a client
+feel free to reach out to your advisor
+we can set up a meeting or set up a time
+to discuss what needs you need uh
+fulfilled so with that I'll turn it over
+to the USPTO and um again don't hesitate
+to reach
+out great thank you all right I will go
+ahead and share my
+screen
+all
+right so as Jenny had mentioned today
+we'll be talking about how to file a
+provisional or a non-provisional Utility
+Patent
+application the objective for today's
+presentation is to go over the contents
+of a Utility Patent application
+disclosure learn about the enablement
+requirement understand that the
+limitation of Claims can be modified
+based only on what was disclosed at the
+time of filing and the importance of
+capturing the invention using clear and
+consistent language throughout the
+disclosure now there are two types of
+applications that you can file for a
+utility application a provisional
+application and a non-provisional
+application so you have the option of
+first filing a provisional application
+which establishes a filing date for your
+invention there are no claims requir for
+a provisional application and
+provisional applications are not
+published and they are not examined
+so a provisional application itself will
+never result in a
+patent now provisional applications are
+valid for one year so it essentially
+gives you one year to decide whether or
+not you want to pursue a non-provisional
+application on your
+invention now the non-provisional
+application is what actually gets
+examined by a patent examiner uh like
+myself and gatum and it gets published
+18 months uh from the earliest filing
+date and there are statutory
+requirements that must be fulfilled for
+what gets filed now it's important to
+note that in order for your
+non-provisional application to get the
+full benefit of your provisional
+application's earlier filing date the
+provisional application must fully
+support whatever subject matter that is
+claimed in the non-provisional
+application and with regards to the
+patent term the patent term is measured
+from the filing date of the subsequent
+non-provisional
+application now I mentioned earlier that
+provisional applications do not get
+examined by a patent examiner so it will
+never result in a patent so why file a
+provisional um a provisional application
+can provide provide you with a 12mon
+window to decide whether or not you want
+to pursue a non-provisional application
+it can give you time to investigate the
+market potential of your invention which
+may um contribute to your decision of
+whether or not you want to pursue a
+non-provisional application and it
+provides um time to obtain counsel if
+you would like to work with an attorney
+to file your non-provisional
+application now when you're filing a
+provisional application the law requires
+that the following must be present a
+clear indication that the applicant is
+filing a provisional application a fee
+which can be found on the uspto's
+website a description of the invention
+which enables someone uh to make and use
+the invention and drawings if they're
+necessary to understand the
+invention now that clear indication that
+you're um filing a provisional
+application is provided by submitting a
+cover sheet of the provisional uh patent
+application um and that form is PTO
+sb16 and that's what's going to provide
+that clear indication that the applic
+applicant is filing a provisional form
+and it includes uh information such as
+your inventor's name the residents uh
+title of the invention the correspondent
+address attorney information if
+applicable and US Government interest if
+um if
+applicable now requirement of your
+provisional application is that it
+includes a description of the invention
+which enables someone to make and use
+the invention uh the written disclosure
+must meet the same requirements as a
+non-provisional
+application so in a non-provisional
+application the written disclosure must
+meet the requirements of 35 USC
+112a which essentially requires that the
+applicant provide a full clear and
+concise written description of the
+invention so as to enable any person in
+the art or U that Technology field to
+make and use the
+invention now we're going to get into
+the components of the non-provisional
+application a non-provisional Utility
+Patent application must include a
+specification including a description in
+at least one claim drawings if they're
+necessary to to understand your
+invention an oath or a declaration and
+the prescribed filing search and
+examination fees which can be found on
+the uspto's
+website now the first link on this slide
+is an online filing guide that provides
+the basic information about how to file
+a Utility Patent application and the S
+second link will take you to a patent
+application information retrieval site
+where you can look up file wrapper
+images of published or patent patented
+applications um and this may be helpful
+uh a helpful place for you to see real
+examples of the components of a utility
+non-provisional
+application now in the next several
+slides I'll be referring to specific
+sections of the MP which you can take a
+look at to get more detailed information
+the MP is the manual of patent examining
+procedure and it sets forth all the laws
+and regulations that must be followed
+during examination of patent
+applications and the full text of the MP
+can be found on the uspto's website
+so before we dive into the more
+specifics I just wanted to do a quick um
+anatomy of a patent um so here you're
+going to have the title of the uh patent
+uh the title of your patent the
+inventor's name um here you have uh the
+prior art citations that were cited by
+The Examiner during examination or
+provided by the applicant for the
+examiner to look at uh the issue date of
+a patent is up here
+the abstract which is a short summary of
+The
+Invention uh and then if you have a
+drawing a drawing that's most
+representative of your invention will be
+uh seen here on the front page as well
+now there's also the written description
+in the claims which are on the following
+pages and we'll be getting into more
+detail about how what components make up
+a specification and what uh how toite
+claims
+so now let's take a uh first take a look
+at the
+specification uh the specification
+should provide a written description of
+the invention so this means that it
+describes how to make and use the
+invention it should be set forth in
+clear full concise and exact terms to
+allow any person skilled in the art or
+that Technology field of the invention
+uh to make and use the
+invention uh the specification should
+include at least one specific embodiment
+which is like one uh example of
+Representative example of your invention
+and it concludes with at least one claim
+which must begin on a new
+page now this slide lays out the
+formatting of the specification which
+are discussed in mp section
+60801 the specification including the
+abstract and the claims must have lines
+that are 1.5 or double space in a single
+column of text it must be written on
+only one side in portrait orientation
+the page must be 8 1/2 by 11 in with
+margins of at least 3/4 in except for
+the left side margin which must be at
+least one
+inch the application Pages must be
+numbered consecutively starting with
+page one and the page numbers must be
+centrally located either above or below
+the text and the specification must also
+be written in non-script font preferably
+with a font size of
+12 now we're going to take a look at the
+specific sections that make up the
+specification the specification includes
+a title of the invention which should be
+short and
+specific and some of the more common
+applicable sections include a background
+which discusses the state-of-the-art
+before your invention a brief summary of
+your invention a brief description of
+the drawings which is a listing of all
+the figures by number with a brief
+statement of what each figure depicts
+and a detailed description of the
+invention
+on a separate sheet you must also have
+at least one claim and then on another
+separate sheet you must have an abstract
+which is one paragraph that is less than
+150 words and MP
+60801 a discusses the arrangement of the
+application elements and lays out the
+order of the sections of the
+specification now these are some of the
+less commonly used sections of the
+specification and they're applicable
+only in uh certain applications
+um I do want to point out that a cross
+reference to related application should
+be included if you are filing for
+example a provisional
+application so now we're going to get
+into a little more detail about the
+required and more common sections of the
+specification so starting with the title
+of your invention the title should be
+short and specific and be descriptive of
+the invention you should think of the
+title as a quick description of your
+invention and it should allow a reader
+to readily ascertain what your invention
+is so you should try to avoid generic
+language such as system or method
+for now the background of the invention
+section would be where you can describe
+at a high level the areas or fields that
+are pertinent to your invention you can
+also describe the prior art that's
+related to your invention such as what
+you know has been done before problems
+that led you to come up with your
+invention and descriptions of the prior
+art that you know about
+now the brief summary of your invention
+section is where you would provide a
+high Lev description of your invention
+and what it does you should describe the
+problems you solve using your invention
+and describe what makes your invention
+unique or
+different so this would be a section
+essentially where you flush out that
+abstract that you
+wrote now if you submit drawings with
+your application your specification must
+also include a brief description of the
+drawing section now if you have drawings
+the section must be provided before your
+application is considered complete and
+released from the initial processing uh
+stage and dock it it to an
+examiner the brief description of the
+drawing section includes a listing of
+all the submitted figures and a brief
+statement of what each figure
+depicts now the drawings are a required
+part of the disclosure of your invention
+only if they are required to understand
+the invention all drawings necessary to
+understand the invention must be
+submitted with the initial filing of
+your application as they will not be
+allowed to be introduced after the
+filing
+date the drawings must show every
+feature of the claimed invention and
+they must contain as many views as
+necessary to show the show and
+understand the
+invention 37 CFR 1.84 sets forth the
+standards for drawings and black and
+white drawings are normally required for
+utility and design applications and
+color drawings are permitted in design
+applications color drawings may be
+accepted in utility applications um but
+only after a granting of a petition
+explaining why the colar drawings are
+necessary and more details about the
+drawing requirements can be found in
+mppp 68.0
+2 so these are the requirements for
+drawings um and again drawings are only
+required Reed if they're necessary to
+understand your invention um so black
+and white drawings are normally required
+and the lines and numbers must be heavy
+enough to permit adequate
+reproduction each figure must be labeled
+and reference characters should be used
+to denote specific components of the
+figures now each reference character
+should be used consistently uh no single
+reference character can be used for two
+two different parts uh each reference
+character used in the drawings must be
+described in the description
+specifically in the detailed description
+of the invention section which we'll go
+over in a few slides from now and you
+should also avoid using descriptive
+words in the figures um in the detailed
+description of the invention section
+you'll have a chance to describe the
+figures uh in more um descriptive uh
+words so the abstract uh so the abstract
+must start on a separate sheet with the
+heading
+abstract the abstract is a single
+paragraph in narrative form and it must
+be 150 words or less uh 1.5 or double
+space the abstract should not be a
+repeat of the claims or the brief
+summary of the section uh brief summary
+section um but rather the abstract
+should point out what is new in the
+technology and it's written to enable
+the public to quickly determine the
+nature of the technical disclosure of
+your
+invention uh MP section 6 8.01 b as in
+boy discusses the requirements of the
+abstract so now we're going to talk
+about the detailed description of the
+invention section and this is a very
+important part of the
+section uh sorry the application um so
+if we think of your patent claims as a
+fence that defines the legal boundaries
+of a physical property the specification
+is where your materials to build that
+fence lies and much of the material or
+potential material that you want to use
+to build your fence are going to be in
+this detailed description of the
+invention section of your
+specification the detailed description
+of the invention section is where you
+explain your invention in process of
+making and using it in full clear
+concise and exact terms you want to
+focus on explaining the structures the
+processes or the the compositions of
+your
+invention and if you have drawings in
+your application uh you want to
+figures and explain the different parts
+of the uh figures by use of reference
+numerals shown in the
+figures if you have any experimental
+data this is also the section where you
+would discuss uh those in detail and MP
+section 60801 g provides more
+information regarding the detailed
+description of the invention
+section now the detailed description
+should provide clear support or an aant
+basis for all terms that are used in the
+claims so that the meaning of the claims
+in the terms may be ascertainable by
+reference to the
+description this is now this is more of
+an opinion or a suggestion but it can be
+helpful to draft your claims first so
+going back to that fence analogy where
+your claims are the fence and your
+specification is the bag of materials to
+build your fence it may be easier to
+determine what materials you need to
+build your fence once you have a visual
+of what you want your fence to look like
+so by drafting your claims first you can
+decide on the terminology that you want
+to use because the terminology that you
+use must be consistent throughout the
+specification you can also figure out
+what terms need to be further defined or
+explained in more detail in the
+specification the claims can also serve
+as a checklist to make sure that the
+detailed description provides support
+for each element of the
+claims you also want to keep in mind uh
+what direction you may want your claims
+to go in throughout the examination
+process so for example if you want want
+to amend your claims to overcome prior
+art rejections um by adding new
+limitations to the claims those
+limitations must have support in the
+specification so what that means is that
+those limitations must come from
+somewhere in your specification as
+originally
+filed now again this claim to
+specification order is just a suggestion
+and a matter of personal preference you
+may find that it's more helpful for you
+to write your specification first then
+derived your claims from that but in all
+cases this is an iterative process of
+going back and forth between the claims
+and the specification to iron out all
+the differences and ensure support
+consistency and an A and basis between
+the two
+sections I know we went through a lot so
+we're just going to go uh review
+everything that we've just talked about
+with regards to the specification
+components with some dos and don'ts so
+things that you should do uh you should
+describe your invention clearly so that
+anyone uh any person skilled in the art
+uh which is that Technology field um can
+make and use the invention without undo
+experimentation if you have drawings in
+your specification when referencing the
+drawings be sure that each reference
+numeral is used only for one part
+depicted in the drawing and that it's
+used consistently and that each
+reference numeral shown in the drawings
+is also mentioned in the
+specification you should provide at
+least one specific embodiment including
+the best one known to you at the time of
+filing
+if you are submitting drawings with your
+application and again drawings are only
+necessary if they're uh necessary to
+understand your invention uh you want to
+make sure that there is a brief
+description of the drawing section that
+includes each figure referenced by its
+full
+label and if you're going to be using
+figure labels such as 1 a 1 B and 1 C
+they should each be individually
+mentioned and described and not
+collectively referred to as figure one
+in the uh brief description of the
+drawing section you also want to make
+sure that there is proper an AED and
+basis for all the terms in the claims
+and finally you should focus on the
+technical features of your
+invention now some things to watch out
+for when writing your specification you
+should not use trademarks in the title
+or to describe the structure or uh use a
+Mark that you intend to register for a
+commercialized product so for example
+you should not use velcro to describe a
+hook and loop Fastener but rather
+actually explic L describe or recite a
+hook and loop
+Fastener the background of the invention
+section does not need to State how the
+inventure conceived The Invention so for
+example you do not need to state that
+you came up with the idea while you were
+jogging um you should avoid making
+claims of possible future success so for
+example um statements such as this
+invention will sell and make millions uh
+or that this invention will
+revolutionize the field sorry
+see sorry about
+that
+um uh you should not include a do not
+include a detailed discussion of the
+figures or refer to the reference
+characters in the uh brief description
+of the drawing section that should all
+go into the detailed description of the
+invention
+section and also finally do not forget
+to proof read your specification to look
+for grammatical and typographical
+errors now for some examples of
+specifications you can do a patent
+search on your database of choice of
+patent applications in your inventions
+field to get a better idea of what terms
+or wording are generally used and what
+types of features are talked about in
+the specification um to get a uh to get
+you
+started so now we're going to move on to
+the claims uh it's important to remember
+that what is written in the claims must
+be described in the specification so the
+claims essentially Define The Invention
+and Define what aspects are legally
+enforceable so they essentially
+Encompass the legal boundaries of your
+invention so claim defines the invention
+but must be supported in the
+specification so what does that mean it
+means that the terms and phrases that
+are used in the uh claims must find
+clear support or anent basis in the
+description so that the meanings of the
+claims meanings of the terms that are
+used in the claims are clearly
+understood by reference to the
+description now this is a sample claim
+um so we'll go into more detail about
+what the parts of the claims are but for
+as like a uh General reference um a
+chair is the preamble of the claim which
+will'll essentially be describing what
+you are what you are about to claim um
+what the actual invention is uh
+comprising is a transitional phrase
+which will indicate whether the claim is
+open or closed uh which means open means
+that um any United elements are still
+able to be added and still be within the
+claims boundaries whereas a closed
+transitional phrase means it is limited
+to exactly what is written and nothing
+more and the bullet points you see here
+is the body of the claims and
+essentially uh lays out the elements of
+what the claims
+are now some so what are some of the
+specific details about the form of a
+claim uh you should start your claims on
+a separate sheet with a heading called
+claim listing and the claim sentences
+should be 1.5 or double space each claim
+is a single sentence that begins with a
+capital letter and ends with a period
+uh you can use commas or semicolons in
+each claim sentence to clearly claim or
+uh describe your invention and separate
+out the elements but each claim must
+only have a single
+period now keep in mind that there are
+additional fees required if you have
+more than three independent claims or
+have more than to 20 total
+claims you must number your claims
+consecutively in ascending order so for
+example 1 2 3 and so forth and the
+original numbering of the claims must be
+preserved throughout the prosecution so
+for example if you originally filed
+claims 1 two and three and then you
+decide to rewrite claims 1 two and three
+completely what you can do is cancel
+claims one two and three and then add
+claims four five and
+six what you shouldn't do is first CL
+cancel claims one two and three and then
+add again those one two and three uh
+claims one two and three back basically
+once you cancel a claim you cannot add
+those same claim numbers back but you
+can add new claim numbers which
+essentially uh with essentially the same
+claim language as the canel
+claim now some of the claim requirements
+um again a non-provisional application
+must have at least one claim and the
+claim must particularly point out and
+distinctly Define your invention the
+claims are written in independent or
+dependent form and there must be at
+least one independent
+claim a dependent claim necessarily
+incorporates by reference all of the
+limitations of the claim of the
+independent claim or the dependent claim
+that it refers to so in other words a
+dependent claim incorporates all of the
+elements of the independent claim for
+which it
+depends a dependent claim must refer to
+a proceeding claim so that the reader
+knows what the dependent claim is
+depending from and the dependent claim
+must further limit the claimed invention
+so in other words the independent claim
+is going to be broader than a dependent
+claim so if for example we have an
+independent claim that says it's a car a
+dependent claim May further Define what
+that car is by saying it's a car with
+four doors or a car with two doors so
+that it's more narrow in scope than the
+independent
+claim
+so how do you plan to write a claim that
+best reflects your invention so drafting
+a claim is an art so not only do you
+need to claim the uh not only do you
+need to write a claim that is reflective
+of your invention but also that protects
+your idea from being stolen by a quick
+workaround so when a claim is too
+specific it might not provide as much
+value because others can easily work
+around it however on the other hand if
+the claim is too general or too broad it
+might not be patentable because it's
+possible that your general claim might
+already be known in the field and
+Encompass things that are already in the
+field so you want to think about finding
+that balance between an invention that
+is too general or too broad and one that
+is too
+specific so when you draft a claim you
+should think about what are you trying
+to invent is is your invention a
+tangible thing or product like a
+composition of matter or an apparatus or
+is it a machine or an equipment
+or um an equipment that's uh needed for
+a particular purpose um or is your
+invention a method of making the
+tangible product or using that tangible
+product um if you're claiming a tangible
+product you should claim the components
+or the pieces that compose The Invention
+and how they're
+interrelated you are allowed to um claim
+multip multiple inventions uh so one
+comp one independent claim may be uh
+directed to a composition whereas
+another independent claim uh in that
+same claim set may be directed to a
+method of using or method of making that
+composition you should also try to think
+strategically um think about what goals
+you want to accomplish do you want to
+obtain the broadest valid claim do you
+want to uh obtain claims with a variet y
+of types and scope in one application
+filing um keep in mind that your goals
+could change so the strategy might also
+change with it so for example uh maybe
+at the time of filing you have a
+different goal but during prosecution
+after seeing what prior art or has been
+cited um by the patent examiner you
+might want to adjust your goal or
+strategy because what you claim might
+not be patentable based on the prior art
+that's been cited so you may for example
+want to adjust your fence to make it
+smaller and more
+narrow you might also want to consider
+your budget you are allowed to file
+three independent claims without an
+additional fee um however additional fee
+uh um and the fees can be found on the
+uspto's website uh but we do ask that
+you regularly check the USPTO website
+because it could be um updated at any
+time uh you are also allowed to file 20
+claims without any additional
+fee um so the the fees that are shown on
+this screen are for the Micro Entity um
+and to uh qualify as a Micro Entity um
+you must qualify uh as a a small entity
+as defined by the
+USPTO uh which is fewer than 500
+employees you must not be named as an
+inventor on more than four previously
+filed applications and your gross income
+of the previous year from which the fee
+is is paid must not be more than the
+maximum qualifying gross
+income uh you must also not be under any
+obligation to assign Grant or convey a
+license or other ownership interest to
+another entity that does not meet that
+same uh Micro Entity
+status so in general a claim should have
+three parts um so the Preamble which is
+the introduction of what type of claim
+that you are about to recite um so for
+example it could be a meth an apparatus
+or a
+composition um next you will need a
+transitional phrase which is uh
+generally comprising or consisting of
+and we'll go into uh more detail about
+what that means in the next slide and
+finally a body that recites the elements
+of the invention so be the elements and
+how they're
+interrelated um so the transitional
+phrase comprising versus consisting of
+now what's the difference between these
+two uh comprising is an open-ended
+phrase um so it does not exclude any
+unre sited elements or um method steps
+so if you have for example a car
+comprising um four doors uh even though
+it doesn't mention anything about an
+engine or um steering wheel it still
+encompasses all those unre sited items
+and may include more
+however a consisting of a transitional
+phrase is a Clos statement and it
+excludes any elements or steps or
+ingredients that are not specifically
+recited in the claims so if we take that
+same car for example if you say a car
+consisting of four doors it'll only be
+the that Rel uh recited element it can't
+include anything else that you have not
+recited
+explicitly so taking um this example of
+a shovel um the shovel would be the
+Preamble it introduces what that
+invention is um comprising which is the
+transitional phrase um here comprising
+it's the open statement so it indicates
+that anything that's in the body of the
+claims uh it is not limited to that but
+it can also include other additional
+United elements and then the handle and
+the blade having a point there on that's
+the body of the claim which essentially
+lays out the elements that make up
+your uh
+shovel and so now we're going to go into
+some dos and don'ts in claim
+drafting so some dues uh look at the uh
+you should look at your claims in the
+patent issued in your field um as a
+guide or an example so one way to do
+this may be by using your search engine
+of choice uh to look at some and uh
+patent applications and patents that
+been granted in your field to see how
+they draft
+claims um when writing the claim you
+should particularly point out and
+distinctly claim the subject matter
+regarded as the
+invention consider drafting your claims
+first and then using the specification
+um based on the terms that are used in
+the
+claims uh you can review both claims and
+specification uh you should review both
+claims and the specification to make
+necessary additions and Corrections so
+that the claim terms find support in the
+specification and ensure that each term
+has proper and aent basis and their
+consistency throughout your
+application should also think about the
+legal protection you need for your
+invention and tailor your claim
+accordingly and you should uh repeat
+this thought process to uh refine your
+claims in
+specification so things to watch out for
+when drafting your claims uh do not
+write your claims that cover two statute
+classes of invention um so you should
+not be combining a method and apparatus
+in one claim um do not use terms in
+consistently between the claims and
+specification um so if for example you
+want to use the term visor
+um uh instead of having like three
+different uh versions of that word use
+the use a single term consistently
+throughout the entire uh
+application do not write uh
+multi-sentence claims remember each
+claim is only one sentence but you can
+um separate out elements of the claim
+for clarity using commas and
+semicolons do not refer back to only a
+portion of another claim in a further
+dependent claim so for example you
+should not write the widget of the
+apparatus of claim one uh what you
+should do instead is write the applica
+the apparatus of claim one where in the
+widget is made of
+iron and do not replace elements from
+another claim with in a dependent claim
+um there should be consistency in the
+terms used uh throughout the
+specification and throughout the
+claims so now we're going to go over
+some usbt resources that maybe have
+helped to you while you are um crafting
+your provisional or non-provisional
+application and going through the pent
+application
+process so starting with the inventor
+Assistance Center um the inventor's
+Assistance Center or IAC provides patent
+assistance and information to the public
+the inventor Assistance Center is
+staffed by former supervisory patent
+examiners and primary examiners who are
+available to answer questions and help
+you uh help make filing a patent
+application simple and
+efficient so the inventor S A sensus
+Center can answer general questions
+regarding patent examination policy they
+can answer questions concerning
+necessary formatting and items that are
+needed for your application um they can
+assist you with the forms needed um and
+with uh filling out the forms
+they can provide you with general
+information concerning patent examining
+rules procedures and drawings and fees
+um and they can send you information via
+uh and forms via email uh USPS mail or
+fax now the inventors Assistance Center
+provides you with useful information and
+non-legal patent advice the information
+Assistance Center cannot uh provide any
+opinion on whether the invention is uh
+patentable or not they cannot conduct a
+patent search for you um or any other
+intellectual property research um and
+they cannot provide a specific line by
+line completion of the form but they can
+provide you with Direction and
+guidance now we also have the uspto's
+patent propono program uh which is a
+nationwide Network that assists
+financially under resource independent
+inventors and small
+businesses in order to participate in
+the patent perona program uh the
+participant must have an income of 300 %
+below the federal poverty guidelines pay
+the USPTO filing fees and costs
+demonstrate that they have knowledge of
+the patent system which may be
+demonstrated for example by having a
+provisional application already filed
+with the USPTO or through completion of
+a certificate uh training
+program um you must also be able to
+describe the particular features of the
+invention and how it works so
+essentially having the application uh
+pre pre-screen to ensure that there's
+more than just an
+idea um there is coverage in all 50
+states in uh this next slide will'll
+show you a map of this uh which program
+covers which state and this map can also
+be found on the uspto's
+website the USB's law school Clinic
+certification program allows law
+students that are enrolled in
+participating law school Clinic programs
+to practice before the USPTO under the
+guidance of a law scho fac faculty
+Clinic supervisor uh who is a uh uh Bard
+attorney um so essentially it's a
+win-win in that students get the chance
+to um get real world experience and
+clients or the inventors get uh free
+legal
+assistance um so there are over 60
+participating law school clinics um that
+provide Legal Services pro bono to the
+public and the list of schools can be
+found on the uspto's website now each
+participating law school has
+requirements for accepting new clients
+and um uh some service certain areas um
+some only do patents or trademarks some
+do both so it's recommended that you uh
+look on the website and contact the
+specific Clinic um for a school that is
+able to work with you and uh able to
+serve your
+needs now the patent and trademark
+Resource Center are a nationwide network
+of public State and in academic
+libraries and they're designated by the
+USPTO to disseminate patent and
+trademark information and to support uh
+the intellectual property needs of the
+public um you can find this map on the
+usp's website to see where the closest
+library is to you um and again they
+provide resources such as um access to
+the public search tool um and can
+provide uh can provide um training and
+resources
+and finally here's a compiled uh list of
+links that may be helpful for you while
+you're going through this uh application
+process and also if you go on to the
+uspto's events page we have a list we
+have um free events that you can attend
+to um get more uh get more information
+uh educational experience
+and um and yeah uh so feel free to check
+those out and sign up for um sign up for
+a notification on when when new training
+and information uh events come
+out um thank you so much for your
+attention I know that was a lot uh but
+if you have any questions please feel
+free to reach out to us at Eastern
+Regional Outreach office at uspto.gov
+thank you so much Monica that was an
+amazing amount of information in a very
+short amount of time we've had a few
+questions about whether or not
+uh there will be access to recording and
+uh the slides the the answer is
+absolutely because so much information
+you definitely want the ability to come
+back and review this so we will have the
+recording available along with a PDF
+copy of the slides we'll send that out
+in a follow-up email in the next few
+days here uh so I did want to bring up a
+few questions that have been asked and
+galam has done an amazing job answering
+them in uh the the Q&A box and so if you
+do have any questions that you would
+like us to address now please do pop
+those in the Q&A box at this time so we
+can make sure to get them answered for
+you uh one question that I thought was
+an interesting one and I would love to
+have you talk about it out loud is are
+patent attorneys generally recommended
+versus an inventor trying to file by
+themselves so a so patent attorney or
+patent agent is not required to file a
+um application however um we do
+recommend that you at least think about
+working with the patent attorney because
+this is a very uh very uh involved in
+complicated process and so especially if
+this is your first time if you have a
+complicated invention um it may be it uh
+we do advise uh working with an attorney
+um to get you through that it is very
+involved process uh so we don't want you
+to miss out on you know um getting the
+best protection possible for your
+invention so that's why we recommend
+that we do that and um the USB's website
+has a uh database of patent attorneys
+and patent agents that are in good
+standing with the USPTO um you can
+search by location um and if you do
+decide to work with an attorney we
+recommend that you do your due diligence
+to just make sure that you are um
+working with an attorney who understands
+your invention has a good rapport with
+you has good communication with you and
+you know a lot of patent attorneys and
+patent agents have their information
+online like a biogra a
+biography uh uh on their either the law
+firm's website or their own website so
+you can see what their educational
+background is what their experience is
+so that you're working with somebody who
+understands your field and your
+invention thank you yes go ahead
+I was going to add to that was if you
+also visit our usb. goov um there is a
+whole link on the right side you'll see
+access to free resources and if you
+click on that you should be able to
+filter you know patent attorne is
+related to you know doing patterns
+utility patterns or trademarks so you
+can um it's a great resource you should
+be able to check that out too and if you
+want I can put that link in here so you
+guys can uh in the chat that would be
+wonderful thank
+you and I will also uh pop in the chat
+the uh database searchable database for
+um patent practitioners fantastic thank
+you um so another interesting question
+that was brought up uh was in relation
+to an invention that is an app and what
+the uh quote unquote drawings would be
+for that invention so I know gab you had
+a great response there and like I said I
+just want to do some of these out loud
+to make sure we capture them in the
+recording to help others so if you want
+to go ahead and talk about that gon that
+would be
+great let's see oh we lost him hang on
+hopefully he'll come
+back gu um so goad start off real quick
+um yeah so I am in the chemistry field
+so I'm not 100% certain on this but with
+apps maybe it could be like the the user
+interface like you know what the screen
+looks like and um just components of it
+but again drawings are really only
+necessary if they're necessary to
+understand your invention so not all
+applications will have drawings um but
+it looks like Gotham's back online so
+may crashed so I had to but but yeah I
+think mon I heard you a little bit
+you're right um you know drawings are
+definitely helpful but you know
+flowcharts and visuals uh as I mentioned
+in the chat is a great way um but yeah
+you know that gives an examiner to
+understand that really do you have
+something that you're trying to claim
+right because the more you give uh it's
+better for us as an examiner to really
+validate what you're trying to
+do and you can do a p you could do a
+quick search of patents in your
+technological field so if you are trying
+to you know patent an application uh
+patent an app you can maybe do a patent
+search on those kind of apps to see what
+kind of drawings are provided uh in
+those types of applications to kind of
+get you going in the trainer thought of
+what to keep in
+mind excellent that makes
+sense we had another question that was
+about what what you can do around
+testing and um and such you know public
+access to something before all of these
+uh filings go through so gam I would
+love to have you talk about what you put
+there in the uh Q&A box as
+well oh let's see you're muted still
+Kon so I think what I mentioned was um
+it completely depends right you you
+that's why this non-provision of the
+original
+application um is so helpful because if
+you think that you want you have a let's
+say Presentation tomorrow that you
+wanted to attract some investors or
+whatever so it's better to do a prior
+filing with just provisional and
+provisional really takes um you know you
+could do it yourself it's that easy um
+and you get the filing date and then you
+go do your presentation next day because
+now that cannot be used against you so
+so it depends right again that's why we
+highly recommend inventors small
+businesses to really go for provisional
+and then do any public presentations or
+exposure and then you have a year's time
+to basically go and um file for
+non-provisional where you you know uh
+get the patent rights if you get
+allowed excellent anything you wanted to
+add on that Monica yeah so a little bit
+to add on to I think I see the question
+that you may be referring to so if for
+example while you are doing your testing
+or you're doing your you're kind of
+searching to see what's out there you
+find something that is very related to
+your invention um so this is where the
+claims are very important of how you
+craft it um so you want to either craft
+around what's already known so that
+you're not um imposing on what's already
+been publicly disclosed um but also
+before you file your application you
+should also be doing a patent search
+yourself um or not even and the patents
+are just a search in general uh yourself
+to show the to show The Examiner what is
+out there already um and to also for
+your own knowledge of what is out there
+already so when you're crafting your
+application you're not uh kind of
+getting into what's already publicly
+disclosed so that'll give you a way to
+craft your claims around what is already
+publicly
+disclosed and this is EXA essentially
+what patent examiners do as well we do
+the search um to see what's out there
+and help kind of narrow your or tailor
+your claim scope to be non-infringing of
+publicly disclosed
+information thank you we have a question
+from someone who does have a provisional
+Utility Patent um so this person is
+under the impression that they will need
+engineered drawings of their invention
+in order to file the
+non-provisional uh Utility Patent and so
+uh do you have recommendations on how to
+get those engineer drawings any
+resources to
+share oh so that's a good question but I
+think there are a few options you could
+consider I think um you know first you
+could hire a professional draft person
+or a patent illustrator who specializes
+in creating this accurate detailed
+technical drawings or another option is
+to kind of reach out to an engineering
+firm who uh you know specializes in
+patent applications and that's what I
+can think of my head right
+now hope that
+helps yes it is it is a very specialized
+question did you have anything to add
+Monica um I don't think I have anything
+to add to that but yeah I think if you
+are working with an attorney I think I
+would assume that they would take care
+of that okay hopefully yes they might
+have some recommendations
+there um okay so we have another
+question that's come in so some patent
+attorneys like to prep the provisional
+in with all the details needed for the
+non-provisional for an easy transition
+before that first year is concluded do
+you think that this is helpful as
+examiners oh yes so it'll be helpful for
+you in the sense that um you want to get
+the earliest filing date possible and so
+that's something that the provisional
+will help with but in order to get
+benefit of that provisional
+application's filing date in your
+non-provisional application everything
+that you put in the non-provisional must
+be from the PRI the provisional
+application so making sure that your
+provisional application is as complete
+and um clear as possible will help you
+get the benefit of that provisional
+application as much benefit as possible
+when you actually file your
+non-provisional
+application
+excellent and we've had uh several thank
+yous come in for all of the information
+so I want to convey those to you and uh
+let's
+see okay uh we have first a thank you
+for taking the time to explain all of
+this
+uh
+so this person's question is can you
+have an awesome rest of your Thursday
+absolutely so much
+thank
+you all right um so I think that
+concludes any of the questions that we
+have at this time and I'm just taking a
+look through
+here yeah so thank you so much to Monica
+and to gam we are grateful for all of
+this like people have said so much
+information and going through and
+explaining it in detail it's wonderful
+to have Somebody explain it uh rather
+than just try and read it and imagine
+what that might mean it is very very
+helpful to have somebody go through and
+explain it so we really really
+appreciate you both and uh thank you to
+everyone who has attended today some
+great questions uh we appreciate those
+so much and uh we do have a a survey
+that will display when we shut the
+webinar down if you're able to take a
+moment we'd love getting your feedback
+and so I'll uh turn it here over to
+Monica and gam for any parting words of
+advice help Etc that you would like to
+share well um I was just going to add to
+was um if you right now after the
+presentation if some questions arise
+after this um you know session you're
+most welcome to email us at um eastern
+regional Outreach office uh at uspto.gov
+I think I'll I'll put it into the chat
+the email address and you can always um
+ask the questions and we could get your
+answer question answers that way too
+excellent I will pop that into that
+follow-up email that uh people will
+receive along with the recording and the
+slides so that they know exactly where
+to go to ask their questions Monica
+awesome well thank you so much for
+having us I mean I think that's all I
+had to add um echoing Gotham's uh words
+if you have any questions or like a
+followup you know please feel free to
+reach out to us uh chat I put the email
+in the chat and Jenny will also be
+sending it out but thank you so much for
+your attention and having us all right
+have a lovely rest of your Thursday
+everyone and we hope to see you on an
+upcoming webinar soon
+bye-bye

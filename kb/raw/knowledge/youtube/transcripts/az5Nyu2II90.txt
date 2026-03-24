@@ -1,0 +1,233 @@
+[Music]
+[Applause]
+[Music]
+hello and welcome to another exciting
+edition of inventor quick tips today
+we're going to be talking about software
+patent claims and considerations for
+protecting software based inventions
+so one question that comes to mind is is
+software patentable and the short answer
+is yes it is possible to protect
+software-based inventions with patents
+now recent Court decisions such as the
+Alice decision have continued to change
+the legal landscape and so the best
+practices are continuously changing in
+this field however there are a few
+fundamental things that I'd like to
+point out to you in this
+video
+so let's think about how software
+operates in the world software typically
+performs methods I.E it does something
+and software is typically contained in
+some computer readable medium such as a
+CD ROM flash USB stick Etc and software
+is typically executed by something a
+processor a computer system a server and
+so
+forth so let's take a look at an example
+that most of us should be familiar with
+which is your typical voice assistant on
+your mobile device such as a cell phone
+so there's multiple voice assistants out
+there Siri Alexa Google has one and so
+forth we're just going to use a
+simplified example here to illustrate
+some key concepts with software patent
+claims so here's a typical application
+somebody says something into their phone
+such as hey Siri will it rain today
+now let's talk about how that works at
+least for the purposes of our example
+let's suppose that the user says
+something into their device which we'll
+call a client and it digitizes The Sound
+maybe it compresses the sound doesn't
+matter and it sends it to the network
+the internet represented by this Cloud
+here from the internet it makes its way
+to some speech to text server and the
+speech to text server basically
+uh interprets that audio sample converts
+it into the um sounds that make up
+English text converts it to text sends
+it back over the internet back to the
+user's client device which is in this
+case is the phone and finally it is
+rendered on the user's device so that's
+a use case where most of us are familiar
+with now let's think about some sample
+claim steps if we want to claim this
+okay what happens well somebody utters a
+phrase into the client which in this
+case is a phone uh the phone then sends
+an audio sample of the phrase to the
+server it gets converted to text and
+then the text gets sent back to the
+client from the
+server so let's draft a sample claim and
+again I'm using simplified claims here
+just to illustrate the point so it may
+not be exactly how you would expect to
+see it in a real patent
+application so let's call it a computer
+implemented method for voice control of
+a mobile device comprising uttering a
+phrase into a
+client sending audio data of the phrase
+from the client to a
+server converting the audio data to text
+on the server and sending the text to
+the client so at a high level that
+covers the steps we just talked about
+now let's take a look at who is doing
+what okay so this is what's happening
+remember we have the user speaking into
+their client device the phone and it's
+going to make its way to the speech to
+text server which is going to send back
+the
+text so let's do an actor analysis on
+this claim actor analysis means who is
+doing each step of the claim because for
+a claim to be most valuable you'd like a
+single actor a sing single thing a
+single user to be doing all the steps of
+our claim so let's see how that plays
+out with our first cut of our sample
+claim okay the first one uttering a
+phrase into a client well that who's
+doing that the user of the
+phone sending the audio data of the
+phrase from the client to a server well
+the phone is doing that remember
+remember the phone is our client
+here converting the audio data to text
+on the server well that's the server and
+sending the text to the client that is
+the server so here we have three
+different actors we have the human who
+is uh uttering the phrase we have the
+client itself the phone and we have the
+server so that right there is not ideal
+we know we are probably going to need to
+rewrite this claim a little
+bit we want to ask ourselves can the
+claim be written to reduce the number of
+actors ideally we'd like one actor and
+ideally we'd like the action to be
+happening in one
+place let's take a geographical example
+here where my user and their device is
+in Canada so they're probably somewhere
+over Calgary or Manitoba somewhere like
+that right there they are in Canada and
+let's say that our server is over there
+server is perhaps in Kansas or Nebraska
+or something doesn't matter exactly
+where all we know is that our server is
+in the United States and our users are
+outside of the United States so let's
+take a look at a location
+analysis uttering a phrase into a client
+where's that happen that's happening in
+Canada sending the audio data from the
+client where's that happening that's
+happening in Canada the conversion of
+the audio data is happening on the
+server that's in the United States and
+the sending of the text from the server
+happens in the United
+States so we have two locations here not
+ideal multiple actors multiple locations
+let's see if we can somehow rewrite this
+claim to cover the basic idea without
+having all these actors and
+locations so here's our original claim
+has weone it we're going to try to do a
+refactor so let's see here's our
+original claim let's go element by
+element we have four elements let's
+start with the first one so for the
+first one I'm just going to get rid of
+it uttering a phrase into a client we
+really don't need that in our claim in
+fact we can just assume that an audio
+sample exists we don't care if a human
+uttered it a parrot uttered it a gorilla
+uttered it another computer uttered it
+doesn't matter let's assume we have an
+audio sample so we're just going to
+strike that
+phrase let's go to the next phrase the
+next um phrase in the
+claim sending audio data of the phrase
+from the client to a server that is from
+the client's point of view we would like
+to flip the action to a server
+perspective so how might that look well
+instead of sending what does the server
+do the server receives audio data of the
+phrase from a client onto a server okay
+so that's what's happening from a server
+perspective servers receive that
+information
+so here's what our refactor claim looks
+like we got rid of that first step of
+uttering we're just going to have
+receiving audio data of the phrase from
+a client onto a server converting the
+audio data to text on the server and
+sending the text to the
+client so let's do our who and where
+analysis again here's our
+claim and the first step it's happening
+on the server the server is in the
+United States in our example the Second
+Step converting the audio data also on
+the server and in the United States and
+the trans submitting or sending of the
+text to somewhere else in this case the
+client that is also happening on the
+server in the United States so we've now
+reduced the claim to one actor the
+server and one location the United
+States so for software claim
+considerations we want to try to get one
+actor and one location and that
+particular bullet point that first
+bullet point applies to more than just
+software in general for claims of a
+patent you typically want to try to get
+one actor and one location so that uh
+first bullet item can apply to many
+different types of patent claims now
+software typically has not always but in
+many cases has a client server type
+architecture such as the voice assistant
+example we just covered so in that case
+when you have a client server
+architecture it's typically a good
+practice to try to draft claims for both
+the client perspective and the server
+perspective and remember when you are
+considering different types of claims
+for your software patent application
+consider method claims device claims for
+the actual device that the software runs
+on and a computer readable
+medium uh type of claim which is a claim
+to the software itself in its physical
+packaging so that might be a CD ROM USB
+stick or the like this is the typical
+way that software is
+claim today so hopefully this gave you a
+little introduction to what goes into
+thinking about software claims for a
+patent application thanks again for
+checking out this exciting episode of
+inventor quick tips and we'll hope to
+see you again next
+time

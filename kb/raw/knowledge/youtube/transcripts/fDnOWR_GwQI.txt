@@ -1,0 +1,267 @@
+this is a topic that comes up a lot in
+my law practice
+a quick and dirty patent application on
+file if you're in a real hurry now this
+can happen if you have a next day
+meeting with a manufacturer or a
+potential licensee and you want to get a
+patent application on file before you
+disclose your invention or maybe you
+have a full-time job and your evenings
+are spent working on prototypes and
+changing diapers and you just don't have
+time to write a formal patent
+application or maybe you just hate to
+write and you're not ready yet to hire a
+patent attorney to help you write up a
+formal document then this video is for
+you because today we're going to talk
+about preparing a quick and dirty
+provisional patent application
+my name is John Farrell I'm a Silicon
+Valley patent attorney welcome back to
+my channel now the provisional patent
+application is in
+you're going to prepare and file your
+application and you'll get a filing
+receipt back from the patent office but
+that's it there's no feedback from a
+patent examiner a patent examiner never
+examines your application and also it's
+important to note that there'll be no
+reminder that your 12-month period for
+expiration of the provisional
+application is coming due and aside from
+never being examined there's nothing in
+the patent code or the patent rules that
+requires formality in the preparation of
+the patent application there's no
+request environment as far as I can tell
+that prevents you from handwriting your
+patent application in crayon and
+preparing your figures in watercolors
+the only requirement for your
+provisional patent application there
+needs to be sufficient detail in your
+provisional patent application to fully
+support the teaching of your invention
+so this begs the question if there's no
+examination
+provisional patent application
+I even bother with the detailed
+description
+well there are two circumstances in
+which your provisional application will
+be reviewed now the first circumstance
+occurs after you file your
+non-provisional patent application later
+and the way this arises is that the
+examiner finds some prior art and
+rejects the the claims in your original
+patent application and to overcome the
+claims you'll make amendments to your
+patent claims adding some new elements
+to the patent claims now unfortunately
+the elements that you want to add are
+not described in sufficient detail in
+the non-provisional patent application
+so you go back to the provisional patent
+application and you import some new
+elements from the original filing in
+this case The Examiner will likely go
+back to the provisional patent
+application and verify that there was
+sufficient detail in the original
+provisional to support the new claim
+element now let's try a simple example
+let's say your invention is curved
+handlebars for a bicycle and the
+handlebars have rubber hand grips now
+this may seem like a silly example but
+handlebars are important now after
+examination The Examiner may come back
+to you and say hey bicycle handlebars
+are pretty well known and adding rubber
+hand grips to the bicycle handlebars
+seems pretty obvious since wheelbarrows
+have rubber hand grips and so do pogo
+sticks so it would be obvious to add
+rubber hand grips to Bicycle handlebars
+now after reviewing your formal patent
+application you realize you don't have
+that much more to add to the patent
+claims to differentiate those claims
+over the prior art that was discovered
+by The Examiner so you go back to your
+original provisional patent application
+and you notice a photograph with
+handlebars streamers coming out of the
+Prototype of your handlebars and even
+our streamers in the previous
+were not this described in the form
+those handlebar streamers and include
+those in the rejected patent claims and
+handlebar streamers are kind of magical
+who doesn't love handlebar streamers and
+of course the examiners convinced and
+the patent claims with the handlebar
+streamers Incorporated get allowed and
+the patent issues now the second
+circumstance in which there's a
+possibility that your provisional
+application may get examined is if and
+when litigation occurs over your issued
+formal application now the way this
+arises is that you're in litigation
+because someone's infringing your patent
+and you accuse them of infringing you
+sue them for patent infringement and
+their defense is that hey we found this
+magazine article that was published
+before you filed your patent application
+describing the invention
+now in that case you can go back to the
+provisional patent application assuming
+the provisional was filed before the
+magazine article was published you can
+rely on the provisional patent
+application to predate the magazine
+article
+however there must be sufficient detail
+and must be sufficient description in
+the provisional patent application to
+demonstrate that you had understood and
+described the invention at that prior
+date so as you can see it's pretty
+infrequent that a provisional patent
+application ever gets looked at after
+it's filed but when it does get looked
+at it's very important that the
+provisional patent application have the
+sufficient detail needed to support the
+later patent application and patent
+claims okay informality aside I still
+think there's some really important
+parts that need to be included in the
+provisional patent application to make
+sure it's complete if you're interested
+in learning more about provisional
+patent applications let me recommend my
+new book and provisional patents and
+this is the 16th Edition it contains
+lots of details about the provisional
+patent application the book is in full
+color and there are QR codes through
+throughout the book that you can scan
+with your smartphone to jump to videos
+about the section anyway the book is
+available on Amazon in hardback softback
+and in Kindle version if you haven't had
+a chance yet to check it out I urge you
+to go over to Amazon and pick up a copy
+now every provisional patent application
+should start with an interesting and
+specific title the title is so important
+it's often over
+make the title descriptive and
+interesting you never know when an
+investor may be looking at the title of
+your provisional patent application and
+deciding whether to make an investment
+or not perhaps you're licensing the
+patent of someone and they're going to
+be interested in what's in the patent
+and the way they judge what's in the
+patent is based on the title so instead
+of titling your provisional patent
+application just bicycle handlebars
+consider something like stability
+enhancing bicycle handlebars with
+ergonomic hand grips now I always like
+to start patent applications with this
+short summary or just an abstract of the
+invention this is just a short section
+of descriptive sentences that explain
+what the invention is how it's built and
+how to use it usually just one paragraph
+and I just want to be able to read the
+patent application or get a summary of
+the patent application without having to
+look through the whole document now the
+third section after the title in the
+summary three are the figures and I
+think the figure section can be so
+valuable in a provisional patent
+application because figures can be very
+informal they can be sketches
+photographs I was joking earlier that
+they could be done in watercolor really
+there's no formality requirements for
+the figures but a picture paints a
+thousand words and the more figures you
+can include even as I said photographs
+of your of a prototype can be very
+helpful later in supporting the
+invention that you'll be trying to claim
+in your non-provisional patent
+application when you get ready to write
+that possibly a year later when thinking
+about the figures I like to start with a
+high level view so if I built a
+prototype bike with my prototype
+handlebars I would have started with a
+photograph maybe of the entire bike
+containing the handlebars with the
+streamers and then since the inventive
+component was my handlebars I would have
+taken a separate photo of the handlebars
+containing the hand grips in the
+streamers and then after that focus in
+on the various pieces of the handlebars
+maybe the curves and the bends the way
+the handlebar connects the hand grips
+how the hand grips connect but just a
+series of photograph sketches drawings
+explaining in pictures explaining the
+invention and then finally the last
+section of the quick and dirty
+provisional patent application is an
+explanation of the invention and this
+may not need to be a long section you
+want to explain how the invention is
+built and how the invention is used and
+your figures will be very valuable here
+if you've done a good job of organizing
+your figures then the detailed
+description section should really
+assemble itself and in many quick and
+dirty provisional patent applications it
+may be sufficient just to attach another
+document to the back of the application
+it could be a PowerPoint deck or maybe a
+description you've previously written
+about the invention or a white paper on
+the invention if you're presenting your
+invention at a trade show you may have
+prepared a brochure that you can attach
+to the back of your patent application
+as the detailed description or possibly
+you're giving a technical paper at a
+symposium or some kind of conference
+just take the conference paper prior to
+presenting the paper and attach it to
+the back of the provisional patent
+application and file that but the point
+is there's no real formality
+requirements the only requirement is
+that you sufficiently teach the
+invention in enough detail so someone of
+ordinary skill in the art of your
+invention can look at your provisional
+patent application and understand how to
+build it and use it if you'd like to
+learn more about provisional patent
+applications I think you'll find my
+provisional patent application playlist
+super helpful I'll see you over there
+foreign

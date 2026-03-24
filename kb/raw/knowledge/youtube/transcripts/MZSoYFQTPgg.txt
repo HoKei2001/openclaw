@@ -1,0 +1,124 @@
+The way people search is very unique.
+Each of us have our own style and each type
+of search produces different types of results.
+I know some people like to create elaborate
+search strings with lots of ands, buts, not
+theses, exclusions, et cetera, and pile through
+that.
+I don’t do that, because I have a fear that
+that creates a vertical trap where you go
+through a stack of results that were screened
+out or in by your first search.
+What I like to do is many, many searches with
+relevant terms, each of which start with the
+entire database of patents and look through
+those in order to find a relevant patent,
+one or two relevant patents.
+Once you find one that’s in your space,
+you can then see what classification that
+patent has and use that as a search term.
+You can also use an early, let’s say, expired
+patent on a relevant subject matter.
+Use that patent number as a search term itself,
+because later patents in similar technologies
+may have cited it as prior art.
+What I love to do when I’m doing patent
+searching and some way to make it fun, is
+that you do a little mini-brainstorm on each
+of the key elements that you’re gonna be
+searching for and so it gives you a chance
+to be kind of creative and thoughtful about
+the terms you’re gonna be using, and then
+there’s nothing greater than, even though
+it’s sometimes it’s agonizing to find
+that perfect patent, but at least you know
+you’re doing the searching right.
+I think getting overwhelmed is the common
+mistake that we see.
+There’s over nine million patents out there
+now, so it’s a lot to cut through.
+So I think starting narrow and really focused
+on exactly what you’re looking for will
+give you kind of an initial comfort level
+with the patents you’re seeing and then
+you can broaden out from there.
+In terms of tracking, I like people to keep
+a list of all the relevant patents that they’ve
+found.
+You’re gonna use that throughout the length
+of, throughout the duration of the company,
+through financing rounds and through exit,
+but also discard patents that are not relevant.
+Don’t keep a grey zone.
+It’s either on the list or it’s gone.
+You can keep this all in one document or separate
+documents.
+I will keep a list of the search strings that
+I go through and in parenthesis after, I’ll
+actually also list the number of hits that
+that string gets me and it’ll give me a
+good sense of the breadth or the narrowness
+of each search string and then as far as keeping
+a document on hits you’re finding, just
+keep the basic information.
+Patent number, title, inventors, the company
+that owns it, maybe the abstract or something,
+but not a lot of information and not a lot
+of commentary.
+You’ll really want to keep commentary and
+verbal between group numbers.
+Neutral statements are fine.
+Claim four is relevant or this paragraph describes
+an invention like this, but even in that case,
+in the later case I mentioned, you may want
+to keep the terminology to what the application
+you’re looking at actually uses.
+Anytime you’re rephrasing, you might be
+giving more credit than what is due to that
+patent application or reading things into
+it that it may or may not disclose.
+If you come across a problematic issue, there’s
+usually, more often than not, a way to get
+around it.
+If you’re seeing something when you’re
+doing your patentability searching, think
+about designing around, thinking about taking
+a new approach that, and you may actually
+be better off for it.
+You’ll have something that’s more patentable
+and maybe more innovative.
+Also from the freedom to operate side, if
+you see a patent that’s interesting, have
+they been paying their fees?
+Is it still valid?
+Maybe if it’s a solo inventor, you can reach
+out to him or her about licensing it.
+So there’s a lot of options, so don’t
+panic.
+I think the most important thing is not to
+give up.
+Many things look like a problem at first and
+they’re never as bad as they initially,
+you initially think they might be.
+Same is true with good news.
+Things are seldom as good as you think they
+are at first.
+We see many instances where a problem patent
+arises and I think you’re talking about
+freedom to operate risks potentially where
+the product that you want to make may infringe
+somebody else’s patent.
+There’s a whole array of tools that we go
+through when we encounter that problem.
+One is look more closely.
+A patent doesn’t always cover what you think
+it does, unless you’re skilled at reading
+claims and understanding how to interpret
+the file history.
+Also there’s a question of validity.
+Even if a patent covers you, there’s a chance
+that the patent is not validly issued and
+there are systematic ways to explore that.
+I would say that the discovery of a problem
+patent is just the beginning of a process,
+it’s not the end of the effort.

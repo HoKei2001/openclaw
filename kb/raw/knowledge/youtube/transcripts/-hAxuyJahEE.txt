@@ -1,0 +1,197 @@
+[Music]
+hello and welcome to another
+edition of inventor's quick tips in this
+episode we'll be talking about software
+patents
+and in particular some things to
+consider when writing a software patent
+application
+now i've called this more software
+patent tips
+because i have talked about software
+patent issues on a few other videos in
+this channel
+and i will put links to those in the
+description but i thought it would be
+good to get everything in one video
+along with some other tips to share so
+as a quick refresher
+what are the requirements for a patent
+novel and non-obvious which are sections
+102 and 103 in the u.s patent law
+and patent eligible section 101 of the
+patent law
+now for software inventions the 101
+section has become a challenge in recent
+years
+the u.s patent office issues a lot of
+101 rejections these days
+so we'll talk more about that shortly
+let's talk a bit
+about strategy software can live in a
+lot of places
+it can live in the smartphone in your
+hand it can live in a server on the
+cloud
+we say cloud but in reality the server
+is most likely on land somewhere in a
+data center
+and not necessarily in the united states
+and remember
+a u.s patent is only enforceable in the
+united states
+we want to write our application such
+that it will be patent eligible
+now i have a video dedicated to patent
+eligibility
+and i strongly suggest you check out
+that video if you want to get a better
+understanding of the current state of
+things note that 101 rejections are
+sometimes called alice rejections
+named after the court case that made it
+easier for the patent
+office to issue these rejections okay so
+let's say we make a software invention
+it works on a smartphone and here are
+some of our
+client devices all throughout the united
+states
+and we have our patent application to
+cover what the app does
+now many apps rely on a server to
+perform some of the functions
+where is that server if it's here in
+canada
+my u.s patent doesn't enforce there
+we could have a server in mexico it's
+spilling into the gulf of mexico a
+little bit but you get the idea
+my u.s patent is not enforceable there
+either
+so what can you do let's go into the
+strategies
+we could file a patent application in
+multiple countries
+but there are many many countries that
+could host a server
+and it's probably not cost effective to
+try to file a patent application
+everywhere
+a server could possibly be so again
+this is probably the best strategy to
+write patent claims from the client side
+and another set from the server
+side now not every software invention
+uses
+a client server architecture but many do
+so in such cases
+then this may be a good strategy one set
+of claims for the client and one set of
+claims for the server
+of course not all software is client
+server architecture
+if the software is self-contained in an
+embedded processor and does not rely on
+internet data
+then the issue of where's the invention
+live gets
+simpler and this issue may not be
+applicable in those cases
+let's quickly review the patent
+eligibility strategies and again
+i strongly suggest you watch the patent
+eligibility video
+to get more details on this part and
+that video is in the description
+if possible put in your application any
+description of how your invention made
+the computer performance better
+could it sort faster render faster
+compress data faster
+if anything you did with your invention
+makes a computer process
+faster than before describe that in your
+application
+in thorough detail if possible
+put in your application any description
+of how your invention
+saved computer resources use less memory
+use less power less disk space less
+swapping
+less network bandwidth anything you did
+that saves computer resources
+described that in your application in
+thorough detail
+was there any special purpose hardware
+used beyond what is in a typical
+computer
+did you have to design a special sensor
+an array of sensors
+a new kind of accelerometer thermometer
+barometer
+a special i o interface if there's
+something like that
+be sure to describe it in thorough
+detail in your
+application de-emphasize what i call
+certain human activity in the claims
+these can act like trigger words that
+seem to encourage a one-on-one rejection
+and again the patent eligibility video
+will explain this in more detail
+but it can be topics like these things
+risk management sharing through social
+media listing items for sale tax
+applications
+some of these things the us patent
+office considers as patent ineligible in
+general
+now that doesn't mean you can't get a
+patent for something in an area like
+some of the things you see here but it
+may have to be worded in a way
+that the patent office would consider it
+to be eligible
+it is important that your claims can't
+practically be
+performed in the human mind that said if
+your invention can process 3 million
+pixels in a microsecond to perform a
+low-pass filtering operation
+in order to produce a result that is not
+something a human can do
+for practical purposes so include the
+number of records the speed of the
+processing the size of the data
+sometimes these things while they don't
+necessarily indicate
+novelty can help make a case that the
+invention cannot be performed in the
+human mind and sometimes that's
+important
+for getting past a 101 rejection so in
+summary
+try to have claims that map to a single
+location for client server systems
+remember u.s patent is only good in the
+united states
+and for the patent eligibility include
+information that promotes patent
+eligibility
+some of the topics we went over in this
+video
+now this is a gray area each patent
+examiner seems to apply the current
+patent rule slightly differently
+but by including the items that were
+discussed in this video it can improve
+the chances
+of having the ammunition to overcome a
+101 rejection if it should come up
+so hopefully this information was
+helpful if so please like share and
+subscribe
+check out the related videos in the
+description and thanks for watching
+[Music]

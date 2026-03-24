@@ -1,0 +1,425 @@
+Heat. Heat.
+[Music]
+[Applause]
+Hey, good morning. My name is Michael
+Figen, patent attorney. Um, I practice
+primarily patent and trademark
+prosecution, which is the um obtainment
+of patents and the obtainment of
+trademarks as opposed to litigation. do
+a little bit in that. But my primary
+area of practice is actually obtaining
+patents and trademarks as well as
+copyrights. And um I encourage everyone
+to first start out by opening the um
+PowerPoint slides, the presentation
+because I will be referring to it
+heavily in the very beginning of the
+presentation. You can find my contact
+information. Um phone number 212
+3160381. Website is
+patentlawny.com. Again, it's
+patentlawny.com and also
+patentlawenj.com. When we're at
+patentawpa.com
+um locations New York City, Payic, New
+Jersey, and uh
+Philadelphia and um this is what I do
+for a living. So, and you can look at my
+website patentline y.com. You can see
+some of my sample patents. Some of them
+I'm actually going to be referencing
+today and talking about this. So, going
+on to the next slide, the outline of
+today's presentation. First, we're gonna
+have a little introduction, a little
+what to look at in office action and see
+some crazy office actions. And then
+we're going to go to step two, which is
+drafting a patent with the office action
+in mind. It might seem in today's topic
+is responding to an office action, but
+the process really starts in how you
+draft the application. Then, um, third,
+we're going to talk about non-priorit
+rejections, which are 101 rejections.
+And I'm assuming to the people I'm
+talking to when I say a 101 rejection or
+102 rejection, you know what I'm talking
+about. Um, this isn't an intro to patent
+law class. This is actually once you're
+already doing it, this is actually the
+meat and potatoes when you're actually
+practicing. And then number four is
+prior art rejections. 102 103
+rejections. Those are rejections over
+previous patents, patent applications,
+anything. Um, the examiner interview
+when you talk to the examiner at the
+patent office. And finally, once we've
+done all that, you're ready to write
+your response to the to the office
+action and you put it in writing. So,
+moving on. So, we're at the introduction
+section and the next slide. Quick
+background to the process. So, just to
+give you a little road map of what we're
+talking about here today. Uh, in the
+patent process, if you look at that
+slide, first you receive your disclosure
+from the inventor. You generally conduct
+a novelty search. after the novelty
+search, then you draft your patent
+application. You file at the patent
+office. You wait, depending on how you
+file it, uh less than one year if you're
+using the pilot program uh to get them
+to respond quicker or sometimes I've had
+one office action come in 4 months after
+filing without such a thing. In other
+cases, you wait up to 5 years. So once
+you get that office action, that's what
+we're going to talk about. The office
+action is the substantive examination by
+an examiner at the patent office and
+your now preparation and response to it.
+It's a little circle there on the
+process there, the arguments and
+amendments. That's where we are right
+now. That's what we're going to talk
+about today. So, as many of you probably
+know, I'm talking to mostly lawyers in
+the audience here. There's a lot on
+there's a lot of treatises and there's a
+lot of uh uh courses and so forth on
+things like claim drafting on uh
+procedural things on memorizing the MP
+as we all had to do to pass the uh
+patent bar exam and so forth. But I
+think there's a lot of room for how to
+get to responding to an office action.
+And I also before we go into the next
+slide, I also preface by saying this is
+um it's it's a little bit of an art how
+you respond to an office action. Some of
+it is exacting, some of it is you have
+to respond, you know, basically there's
+formalities. There's the way that you
+structure your office action, but some
+of it is also an art. How do you put
+your arguments together and so forth?
+So, I make no claims to saying that this
+is that what I'm going to teach is the
+only right way to respond to an office
+action. Uh, but I'm giving a lot of my
+methods, what I've developed over years
+of doing this and how I do this. And
+having said that, I had one one person
+comment to me. He's been doing this for
+37 years, but he can he can always learn
+something. You can always learn
+something new. So, I'm going to
+hopefully give you my take on how to
+respond to an office action. Some of
+which I've developed, a lot of which
+I've learned from the people who taught
+me, which I'm very grateful to, and they
+might be watching. Um, and in any case,
+thank you. And in any case, we're going
+to go on with that. And also to say this
+is of course not necessarily legal
+advice. Please don't think this is legal
+advice. This is presentation for
+teaching. So on the next slide, response
+to crazy office action. This is a real
+case here. And this is a
+real how you respond to such a thing.
+And again, there's no one right answer,
+but here's what I did. So the claim of
+the application was claim seven was a
+device a claim one I'm guess giving you
+the part that we need to talk about
+where in said device is coupled to a
+neutral wire. Okay, so that's a claiming
+to patent application. The device is
+coupled to a neutral wire. Office action
+says see heart
+5B. That's it. He doesn't explain what
+do you mean heart 5B. So heart 5B
+presumably he means figure 5 PB of the
+heart reference. He did actually say
+what patent the heart reference was. So
+we look at figure 5B in heart. So go on
+to the next slide. And again that's
+under the heading response to a crazy
+office action. Now, figure 5B is this XY
+graph with time in the X-axis, amplitude
+in the Y ais, and a current signal. Does
+anybody out there watching this live or
+afterwards on the uh recorded video?
+Does anyone out there see a neutral wire
+in that
+figure? If you do, okay, you're on the
+examiner side, but personally, I don't.
+Um, so I have a telephone interview and
+I I try and talk to the examiner. He
+refuses to discuss this claim. Every
+time I point to this and he refuses to
+discuss the dependent claims in general,
+he wants to talk about the independent
+claim because I was willing to say,
+okay, there's some things in the
+independent claim and his supervisor is
+on the phone, too. So, there's
+examiners, there's supervisors, you can
+go up the chain of command as well. Uh
+there's different ways. I'm not really
+talking about that so much today in
+terms of appeals and petitions and so
+forth. I'm just talking about the
+response to the office action itself.
+Stay tuned. I might give a class on
+pre-appeals and pills and so forth, but
+for now talk about the office action. So
+after 20 minutes of this back and forth,
+the examiner finally says, "Look, here's
+why I didn't give you a proper response
+to that." He says, "We're so pressed for
+time right now." I mean, this goes back
+and forth, but right now, as the time
+I'm giving this video presentation, the
+examiners are under tremendous pressure
+to reduce the backlog. One examiner told
+me that they're trying to get the
+backlog down to 6 months from 5 years in
+some art units that they're trying to
+get down to six months. They're going to
+get you the first office action. That's
+their goal right now. And they have a
+each of their cases listed on their
+computer docket and it goes I think from
+green to orange means they're about to
+have a run out of time to respond to red
+and if they don't get that response out
+they're in trouble and they're given a
+ridiculous amount of work that they have
+to do in a short amount of time. So it's
+common refrain they say look we just
+don't have enough time to do it. So what
+that means for us as practitioners is
+unfortunately right now the pendulum has
+swung in a way that sometimes we're
+getting not so good office actions. The
+other hand I've also gotten a lot of
+allowances because that's the other way
+they can dispose of a case is to allow
+it and let it issue. But either way
+whatever the case is when you're
+listening to this presentation whether
+you're given more or less time you got
+to spell it out clearly. You got to make
+your arguments short, concise, spell
+them out, and uh you got to hopefully
+reach the examiner and uh talk to them,
+converse with them, get on the good
+side, you know, uh let them know, let
+them know that uh you know, it's not
+personal. There's nothing against them.
+You stick to your log legal arguments
+and uh you just make the best arguments
+you can and you go through the process
+the best you can and it's probably good
+advice for life as well. So, all right,
+we're on to the next section. Drafting
+your patent with the office action in
+mind. So, what I'm going to talk about
+in this section is there's certain
+things that you can do when drafting
+your patent application to anticipate
+common
+rejections.
+So, going on to the next slide, drafting
+your patent application's office action
+in mind. Remember that time thing I
+spoke about? Some examiners will only
+read the claims. They're not really
+going to read much more than the claims.
+Sometimes they do, sometimes they don't.
+There's some very good examiners that'll
+read your whole application and point
+out a grammatical error you had on page
+16. Does happen, but the claims are the
+key to the patent application. So, make
+sure that every one of your key terms in
+the claim is defined. You want to avoid
+a 112 rejection. Um, I've had rejections
+where I've said, for example, this could
+be X, Y, or Z, and the examiner will
+reject it and say, that's not a
+definition. that could also include Q
+which I rejected it over. So now I make
+sure to write it more clearly, spell it
+out. This this uh limitation is defined
+as define it. There's your definition
+you can refer back to. You might want to
+give other examples other definitions
+and things if you have to amend your
+claims later. So that's you know another
+thing to make sure of. And uh other
+examples are if you say substantially,
+define the word substantially. this one
+a couple years ago people use
+substantially all over patent
+applications all of a sudden rejection
+started to come in all over the place
+112 rejection I don't know what
+substantially is you didn't define
+substantially so I mean sometimes my
+definition is is as simple as uh
+substantially parallel as understood by
+one of ordinary skill in the art you
+know we're using the fussa test and that
+seems to be valid I've never gotten a
+rejection when I've substantially used a
+definition uh usually I give other
+definitions just in case because you
+never know. You can't add new matter.
+You can't add things later. So, I
+haven't tried that one by itself. I
+think it would work, but again, I would
+still recommend, you know, if you can
+put in better definitions, put in more
+exacting definitions. Hey, that's all
+the better. So, again, I spoke about
+this, have backup terminology and
+variations in case you need to amend
+later. You know, you might have your
+amendments in mind in some cases. Use
+signals you can find the variations. For
+example, you might use the term
+alternative embodiment. uh it's best not
+to use preferred embodiment or and
+language such as that because there's a
+court case that says, "Oh, you preferred
+this, that means you don't prefer this
+and we're not giving you the
+infringement benefits because on your
+your alternative embodiment because you
+said you didn't prefer it." So we now we
+make all embodiment
+equal. Um and again defined as X and Y.
+It's something I like to do is just
+plain old use the word defined. So
+there's no question what you mean. when
+they when you get a rejection that says
+because you use the word uh parallel and
+they cite something else that's
+technically parallel then you say no
+here's my definition of parallel
+parallel is not the best example that is
+a mathematical definition you know
+something more amorphous once you give
+the definition and they cite something
+else that matches in keyword but not in
+definition you can just point to that in
+your office action say here's the
+definition examiner they usually say
+here's the def here here's in response
+to the office action here's definition.
+Don't make it personal. Uh and uh then
+it's very easy then to overcome these
+things. Otherwise they say well I can
+read your claim as broadly as will allow
+and it could read on my definition too.
+It's way of avoiding that. It's good
+good step to take. All right. So moving
+on to the actual parts of the patent
+application. The background as many of
+you know or should know it's an optional
+section. Uh I'm not going to talk about
+when you should when you shouldn't put
+it in. You know there's different
+schools of thought on that. But what I
+will say is you can use the background
+section to your advantage. You can
+discuss the prior art. You can sell your
+invention to the patent office. In the
+prior art, it
+accomplishes perpetual motion. You have
+perpetual motion, but the perpetual
+motion isn't through the space-time
+continuum. So, that's a problem. And
+nobody's been able to figure that out.
+And that would really make it much
+better because then Marty wouldn't have
+had to go to 88 miles an hour. He could
+have gone to 22 and made it without the
+whole thing. But then we wouldn't have
+Back to the Future 2 and three and it
+would be, you know, I don't know. That
+would be a whole mess. But in any case,
+you can sell it to your the examiner.
+You can tell the examiner what you're
+talking about, where to search, you
+know, you can talk about this is the
+closest background. But of course, be
+careful because anything you write here
+is admitted prior art and may be used
+against you. You know, just like they
+say as regular lawyers who practice that
+normal kind of law, you know, keep your
+mouth shut because it can and will be
+used against you. So, you know, you want
+to be careful what you say. Use it to
+your advantage, but be careful. Don't
+admit what your invention is. Don't make
+it obvious what the solution is when
+your invention, what you're claiming is
+the
+solution. Um, okay. Summary again is
+actually an optional section. Track the
+claim language. Write it in plain
+English. Instead of using comprising as
+we do in
+claims, use regular English. Write as
+close to possible. And it might be what
+a judge or a jury is reading determined
+infringement because when they read your
+claims, they don't understand all the
+says and comprising and so forth. So
+they'll read it there to understand what
+your vention is. Drawings. Drawings are
+great. It makes your life easier when
+responding. It just makes it easier to
+read your application because you can
+look back, read the drawings. There's
+your method flowcharts. There's the
+pictures of it. Drawings are obviously
+required if you have device claims.
+Method claims, they're not necessarily
+in all applications. Um and uh as soon
+as I finish drawing just to answer this
+question uh and uh it's good practice to
+copy a relevant portion of the drawing
+in the response. So I actually put in my
+responses to the office action be like
+as I'm going to go into later in the
+examples examiner you cited heart figure
+5b here's figure 5b I put right in the
+office action here's what I claim here's
+a picture and in that case we put a
+picture of a neutral wire but in any
+case that's
+uh it helps a lot I mean sometimes I'll
+take here's my drawing here's a drawing
+of the prior art here's what we claim
+here's why what I claim is analogous to
+my drawing over there you can't possibly
+say it's the same thing it doesn't show
+But burden of proof is always on the
+patent office. Bur on the uh I shouldn't
+say always. Burden of proof is to show
+it. If it's not clearly shown there,
+shouldn't count. Not going to say you
+won't get a rejection, but it shouldn't
+count if it's not clearly shown.

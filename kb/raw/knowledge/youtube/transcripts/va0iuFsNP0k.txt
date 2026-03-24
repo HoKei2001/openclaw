@@ -1,0 +1,633 @@
+All right, so thank you, Spasiba, thank you
+for having me here in Saint Petersburg. It's
+actually the second time I'm in Russia
+only, the first time in Saint
+Petersburg. And it's a beautiful city as
+far as I can tell so far. So let's talk
+about my favorite topic which is
+software patents in Europe. Let me maybe
+start with telling you a little bit
+about what makes me competent to talk
+about this topic to us. So I'm a patent
+attorney, I'm not a lawyer, I'm a patent
+attorney, so half technical guy and only
+half legal guy. My technical background
+is computer science and my firm BARDEHLE PAGENBERG has been quite active in
+the software field ever since. So I don't
+know if you've heard it, in Germany there
+has been a lot of patent litigation
+lately, we had the smartphone wars for
+example where basically - my firm was
+representing Microsoft and Apple as well
+against the whole Android ecosystem
+basically. Then the smartphone wars have
+somewhat settled right now. So right now
+the next litigation wave is more on the
+telecommunications back-end, so the
+network providers, and the next
+litigation wave which is already dawning at the horizont and which has
+already started actually is about
+connected cars. Autonomous driving - and I
+mean cars are these days essentially
+smartphones on wheels, so I don't know if
+you've heard it but Broadcom just sued
+BMW and Mercedes Benz in Germany, so also
+this litigation wave is already starting.
+And all of those litigations involve to
+a great extent not hardware, not at all,
+but only software based functions and
+that's why this topic is so relevant.
+So my firm does quite a lot of
+litigation as I told you but we're also
+we're a mixed firm of attorneys-at-law
+who do primarily the litigation side, the
+infringement court proceedings, and the
+other half of the firm is patent
+attorneys like me who participate in the
+litigations but who deal with
+prosecution. So getting the patent
+applications granted before the patent
+offices. Let's see if that works, yeah, so who of
+you already has experience with the
+European patent system just raise your
+hand? Has anyone filed a European patent?
+Not many people. Then maybe it makes
+sense to tell you a little bit about the
+European patent system, maybe some
+figures to give you some context. So the
+this chart shows the number of patent
+applications filed at the European Patent Office. Steadily increasing.
+Last year we had roughly like 175,000
+patent applications filed at the
+European Patent Office which is quite a
+lot. I think the the EPO has like 4,000
+examiners, so they have quite something
+to do. The European Patent Office is also
+among the so-called IP5, the five
+biggest patent offices, and when I was
+preparing this talk I was curious about
+the extent to which Russian companies
+file European patent applications. So I
+looked up this chart from the EPO. If the
+clicker works, yep. So this chart shows
+the top 50 countries of origin where
+European patent applications come from.
+And we have the usual suspects: the
+United States, number one, Germany, Japan, France, China, and so on.
+Now, can anyone spot Russia? I was quite - sorry wrong button - I was quite impressed
+because Russia is only here: number 34.
+The Russian Federation has only filed -
+companies from the Russian Federation
+have only filed 229 patent applications
+last year out of the 175,000. And I'm
+wondering: what why is that? So
+apparently Russian companies don't really file European patents. In case it
+is because of a lack of understanding of
+the European patent system, I hope my
+presentation now helps you shed some
+light on that. One important thing to
+know is that the European Patent
+Convention, which is the legal text
+behind all that, is not about the EU, the
+European Union. That's two
+different things. The European Patent
+Convention is simply a multinational
+contract in which certain member states
+participate. and there are 38 member
+states to to the European Patent
+Convention, including most of the
+European Union countries but also
+including countries which are not part
+of the European Union, for example
+Switzerland or Turkey. Those are part of
+the European patent system although they
+are not part of the EU. So the advantage
+of the European patent system is that
+you have a single patent examination
+procedure. You have to file only a single
+application in one language, English,
+German or French, which is then dealt
+with by one patent examiner. And once you
+convince the patent examiner to grant a
+patent, you can get protection in all of
+those 38 countries with one patent
+application. Now there is no such thing
+as a single enforceable European patent
+but right now the system is like that
+when the European patent examiner grants the
+patent it kind of explodes into a bundle
+of national patents. So once the patent
+examiner allows your patent application
+you can then select in which countries
+you wanna validate that patent and
+this then results, for example, in a German
+patent, in a French patent, in a UK
+patent. And if you wanna enforce your
+patents that has to be done then on
+national level. Now in Europe the most
+popular litigation venue is Germany. Most
+of the patent litigation cases are filed
+in Germany and also the litigation
+defendant then probably will attack the
+validity of your patent. Also that has
+to be done on the national level. So a
+defendant also has to kill so to say
+each and every national part of the
+European patent. Now that will change
+probably with the unitary patent and the
+Unified Patent Court. You might have heard
+of that. Whole different story, I won't
+get into much details. It's in the
+planning for many years. It was almost
+finished, it was about to come into force.
+Then we had brexit and some other
+obstacles and basically right now no one
+really knows when the European - the
+unified patent will come. So we still
+have this system which I told you: one
+prosecution before the European Patent
+Office and then national patents in the end.
+So that's basically a brief rundown of
+of the European patent system. If you
+have any questions in the meantime, we
+can do this interactively in no problem
+so if you have any questions just raise
+your hand and interrupt me also in case
+I tell you something that is completely
+uninteresting maybe. So, European patents
+for software, that's the basic question
+are there patents for software at the
+European Patent Office. And the answer is
+- typical attorney answer - well it depends.
+Yes, there are patents for software if
+there's an inventive technical
+contribution to the prior art. That's
+really the bottom line. If you can only
+remember one thing from my presentation
+that's it. You can get a European patent
+on software if the software does
+something technical in a non-obvious
+manner, in an inventive manner. If we look
+a bit in more detail into the the legal
+framework, there are basically two
+hurdles to software patentability. the
+first hurdle is patent eligibility, so
+that's an absolute hurdle.
+No comparison with the prior art with
+existing things at that point, but it's
+an absolute hurdle. And this is
+basically a very coarse filter to filter
+out inventions that are purely abstract,
+purely conceptional. So pure business
+methods, mathematical methods, scientific
+theories, things like that. Things that
+are purely non-technical, those are
+filtered out here at the patent
+eligibility hurdle. But in practice it's
+really, it's really a non-issue because
+you overcome this patent eligibility
+hurdle if there is a single technical
+feature in your claim. And that feature
+can be trivial. So as soon as you have
+for example a computer
+your patent claim which is always the
+case because any software is executed on
+a computer you overcome this patent
+eligibility hurdle. The challenging
+test is then the second hurdle and that
+is then the the typical hurdles novelty
+and inventive step. You compare the
+invention to the prior art and here the
+decisive thing is that when
+assessing inventive step, obviousness,
+only the technical features of the
+invention are looked at. So what a patent
+examiner typically does is he will take
+your patent claim, all the features, he
+will compare it with the closest prior
+art, something which already exists, he
+will figure out which features are
+already known in the prior art and which
+are the real novel features. And
+concerning those novel features he will
+make an assessment for each novel
+feature: is it technical or not? And if
+it's not technical,
+it is simply disregarded in the
+inventive step assessment. So only the
+technical novel features can establish
+inventive step. Only those enter the
+obviousness assessment. Now maybe
+a brief comparison with another
+jurisdiction, the US jurisdiction. I think
+it's to some extent it's the other way
+around. So if you if you are familiar
+with the US approach there is lots of
+discussions about patent eligibility.
+There was a couple of years ago this
+Alice decision which opened up the
+box completely new and right now it's
+quite hard to predict whether
+something will be considered patent
+eligible or not.
+There's not a really settled approach
+here but we will have to wait about the
+case law developing. So the decisive
+hurdle at the USPTO is patent
+eligibility, and once you pass that
+hurdle which is quite difficult right
+now, inventive step is about the
+invention as a whole. So here the whole
+invention is looked at. And that's quite
+the other way around that in the EPC as
+I just told you. At the EPC patent
+eligibility is a non-issue, a single
+technical feature is enough, for example
+a computer, and then in inventive step
+that's the real hurdle, only the technical
+part of the invention - sorry - is looked at.
+So now you might ask yourself I'm
+talking about technical all the time so
+what is then - the clicker somehow doesn't
+work - what what is technical and well here it
+gets a little bit complicated because
+there is no, let's say there is no
+exhaustive definition of the term
+technical in the law. What we have in the
+law is only a short list of things that
+are considered non-technical:
+mathematical methods, scientific theories,
+the presentation of information,
+computer programs also. Those things are
+considered non-technical. But they
+are only excluded from patentability if
+they are claimed "as such". So that's quite
+difficult to understand from from the
+legal text and frankly I really cannot
+understand it alone from the legal text.
+But the Boards of Appeal of the
+European Patent Office have established
+quite a reasonable
+approach how to deal with that, and that
+was what I just told you, namely
+inventive step and there only the
+technical features are taken into
+account. So if we look at individual
+specific cases in many cases it is quite
+easy to determine whether something is
+technical or not. So if we look at the
+far end of this scale I was trying to
+draw here so if we have for example
+embedded control software that's clearly
+software that achieves a technical
+effect, that's something technical if
+it's embedded if it controls I don't
+know the manufacturing plant or
+something like that that's clearly
+technical software and that is then
+patentable. On the other right end of the
+spectrum we would have something like a
+pure business method I don't know a
+method of selling products in a certain
+way implemented on a computer. If that's
+the only technical feature that won't
+get you a patent because the majority of
+the claim will be directed to this
+business method which is non-technical
+and which doesn't count for inventive
+step so that is an example of a
+non-technical method and I mean it gets
+interesting of course right in the
+middle where there are a number of cases
+where it's really not so easy to say
+should this be patentable or not. So in
+the end as I said there is no legal
+definition of the term technical. What it
+comes down to is you have to know the
+case law. So in the European Patent
+System there's the first instance the
+patent examiners but if a patent
+examiner rejects your patent application
+you can find an appeal and the appeal is
+then dealt with by the Boards of Appeal
+which is a separate entity separate from
+the patent office those are more like
+judges they only do with appeals and
+they then
+check the first Instance decision and
+render an own decision and this then
+creates case law. They really decide on
+specific the individual aspects in the
+appeal case and those appeal cases are
+then published and that's what you need
+to know you just have to need have to
+know the the old cases and have to see
+well there is a similar case and this
+one was decided so and so technical or
+not and then you have to draw analogies
+for your case. So I think the best
+way to for you to get a feeling of how
+the Boards of Appeal deal with software
+inventions is just to go through
+examples. And I have six examples here
+which I would like to show you to give
+you a feeling of what is now technical
+or not is only tools or is it also
+something else.
+So the first example that's maybe an
+easy one so maybe let's let's do a
+little quiz here so that's the patent
+claim. It's - all of those examples are
+real cases but the patent claims are a
+little bit abstracted by me so it's a
+little yeah to make it easy to
+understand most of the time a patent
+claim is more more comprehensive and
+more complicated. So this one is about an
+anti-lock braking system configured for
+detecting lateral lateral strain on each
+wheel, monitoring if a threshold is
+exceeded, and selectively adjusting brake
+fluid pressure to each wheel. So
+implemented in some kind of control
+algorithm in software probably so it's a
+software patent. So what would you say? Is
+this - let's go through these two
+hurdles - is it patent eligible? Who says
+yes, raise your hand. Who says no?
+Okay, the rest is unsure. So this is
+clearly patent eligible because as I told
+you the patent eligibility hurdle
+requires only a single technical feature
+in your claim and it might be a trivial
+feature and I mean here we have a
+braking system which
+is a physical system so this is clearly
+patent eligible.
+Now the second hurdle is then inventive
+step. Now we don't have time to assess
+the prior art right now to see if it's
+really non-obvious and inventive but we
+can try to figure out whether the
+features of those claims the three
+features whether those contribute to to
+the technical character, whether those
+are technical features and what would
+you say here?
+I mean detecting strain on a wheel,
+monitoring a threshold and adjusting
+brake fluid pressure on a wheel. Are
+those technical features? Yes, raise your
+hand. People nodding. Yeah exactly, so in
+this case all of the features contribute
+to the technical character because they
+achieve a technical effect, they solve a
+technical problem - that's always the
+control question you might ask - so all of
+those features have to be looked at when
+comparing the invention to the prior art.
+Now here's another example: a method of
+sorting a list of numbers, comprising
+finding the smallest number, swapping the
+smallest number to the top of the list,
+and repeating steps a. and b. for the
+remainder of the list. So that's
+basically a sorting algorithm.
+I think it's called selection sort if
+you're into computer science a little
+bit. So should that be patent eligible?
+Who says yes? People shaking
+their heads. You would say yes should be
+patent eligible. Sorry, no, it's not
+because if you look at that claim it
+doesn't have any technical feature in it.
+It's just a method of sorting a list of
+numbers and operating in features a, b
+and c on those numbers. It can be done
+completely in the mind and the human
+mind.
+It doesn't require any computer or any
+technical features though so this claim
+would not be patent eligible. That's one
+of the rare cases which
+fail on the first hurdle. Now what if we
+say the same invention and we say it's a
+computer implemented method of sorting a list of numbers and the same features
+you might already guess it, that's then
+patent eligible because of only the
+presence of this word computer in the
+claim. That makes the claim patent
+eligible. Now does it provide a technical
+contribution for a mental step what
+would you say which of the features are
+technical and which are not? Well, the
+only feature in that claim is the
+computer in computer implemented. The
+rest, sorting numbers, finding the
+smallest number, swapping the number to
+the top and so on, are purely abstract
+mathematical concepts, no technology
+involved here. So what happens then is
+that the examiner just strikes out all
+of those features and assesses only the
+remaining technical features compared to
+the prior art and I mean the decision
+will then be implementing this as such
+excluded method on a computer that's the
+only technical thing that's obvious. And
+the invention will not be granted a
+patent because it's it's obvious. So
+those are kind of extreme examples, the
+break control system is clearly
+technical, sorting numbers as such is
+clearly non-technical. Let's move a bit
+into the middle of the scale. So we
+have a heart monitoring apparatus
+comprising. So that's basically a cardiac
+pacemaker. I hope no one had a heart
+attack yet, so if you had you'll probably
+have one of those pacemakers. It has a
+sensor for receiving an
+electrocardiograph signal from a patient,
+means for pre-processing the signal to
+suppress noise and, a neural network for
+identifying irregular heartbeat. So this
+is really an artificial intelligence
+invention. It uses a neural network, some
+kind of machine learning, fancy stuff
+like that.
+So should that be patent eligible?
+Yes, people nodding. Of course, because
+it's it has an apparatus of apparatus in
+it and that's a technical feature. And
+which of the features contribute to the
+technical character for the second hurdle?
+All of them, because well it's it's a
+sensor which is a physical thing it
+receives signals from a patient that
+represent the heartbeat so to say and
+yeah the neural network - that's important
+to know - the neural network, the last
+feature, a neural network would in itself
+be only an abstract data structure. That
+would not be a technical feature but
+this is a neural network for which is
+specifically designed for identifying
+irregular heartbeats. And if you limit, as
+in this claim, the neural network to this
+purpose which is a technical purpose - identifying irregular heartbeats - then
+this neural network also becomes
+technical. So here we have all features
+contributing to the technical
+character of the invention. Now it gets
+more interesting maybe. So we have spam
+classification, basically a spam filter.
+It's a method of classifying emails
+depending on their content performed by
+a computer program, and the steps are:
+applying a probabilistic classifier to
+calculate a probability that the email
+is spam, wherein the classifier has been
+trained on past classifications of email
+content. So that's also an AI example,
+machine learning, artificial intelligence.
+And what it does is it yeah
+looks at your incoming emails in your
+inbox and classifies them into spam or
+not based on this probabilistic
+classifier which has been trained on
+past emails. Patent-eligible, yes or no?
+Yes, because it's performed by a computer
+program executing on a computer. That's a
+technical feature. And now the question
+is are those algorithmic features
+applying that probabilistic classifier
+to calculate the probability that email
+spam
+and that the classifier has been trained,
+are those technical features? You're
+shaking your head. You're right, they are
+not because what this is actually a
+patent application from Microsoft. We
+also have people from Microsoft here I
+think. So sorry, didn't fly in that
+case. What the Board of Appeal said in
+that case was that classifying emails
+depending on their content and that's
+what the invention does here, depending
+on the text inside the email, to check
+whether the the text of the email, the
+content, is really valuable to the user
+or whether it is spam, that's a
+non-technical differentiation because
+the question whether an email is
+wanted by the user or not so that it is
+spam, that's that's a non-technical issue.
+Would have been different maybe if the
+emails would have been classified based
+on a technical characteristic, maybe I
+don't know - the size of an email
+attachment or something. That would have
+been maybe a technical characteristic,
+the storage size - two minutes, okay - then
+let's skip this one and come to an
+interesting case. This is then the last
+example. A computer-implemented
+method for simulating pedestrian crowd
+movement. So in this case the invention
+was about having a model of, for example
+a building,
+(((technician informing about problems with the live translation)))
+Hmm, I'm sorry. Should I proceed
+nevertheless? I hope you understand my
+English talking. Yeah okay, so this was
+about having a mathematical model of a
+building, for example, a railway station
+for example, and a model of how people
+move in such an environment. And then the
+method would simulate how a crowd of
+pedestrians would move through the
+railway station, for example, then you
+could derive insights, such as in case of
+an emergency whether people could be
+evacuated fast enough and things like
+that. So question: is it patent-eligible?
+Yes, because it's a computer-implemented
+method. And now the interesting question:
+Do those algorithmic features, do those
+contribute to the technical character? No
+one, no one really knows. And the thing is:
+no one really knows! Because this is an
+interesting case, because it was an appeal
+case and the appellant said that where
+there was an earlier decision which was
+about simulating an electronic circuit
+and the current flow in that circuit and
+this one was considered technical. Now
+the appellant said, well this invention
+is quite similar because it's about
+simulating an environment, such as a
+railroad station, which is also a
+technical thing. And he also said that
+people moving through that environment
+also follows - on a macro level - kind of
+physical constraints. People, cause for
+example,
+a human being cannot move through a wall
+and things like that. So he said that
+it's quite similar to this current
+circuit simulation case, and therefore
+this one should also be patentable and
+technical. So the Board of Appeal here
+was not so sure because they said, well
+yes, it's somewhat similar to this older
+case. But they really questioned the
+older case as such. They said that, well,
+only simulating a hypothetical system
+here, because that doesn't need to
+be a real railroad station. It can be
+just a model of a hypothetical railroad
+station. This claim also covers, for
+example simulating movement of people
+through an online game, for example, which
+is purely - it's not real - so they said, no
+we don't agree with that earlier
+approach and therefore what they did
+here, the Board of Appeal, is they
+referred some questions to the Enlarged
+Board of Appeal, which is the highest
+judicial entity of the European patent
+system, to answer that question basically.
+If simulation methods which only operate
+on a simulated model of a real word
+entity but not on a real-world entity
+itself, whether that should be technical
+or not. And we don't know, the
+Enlarged Board of Appeal will have to
+decide that. And this decision will have
+tremendous impact on a whole industry
+branch, the whole simulation methods
+branch. So bottom line: what you need to
+know. The legal framework at the
+European patent system is quite stable. Patent
+eligibility non-issue. The decisive
+question is always inventive step, where
+only the technical part of the invention
+is looked at. And the question what is
+technical or not is then always a
+question of the individual case, and
+you have to know basically old cases to
+draw analogies for your case. Now to help
+you with that, what we did - my team and I
+at my firm - is we set up a little website
+called bardehle.com/europeansoftwarepatents.
+You might
+wanna visit that website, it's some kind of a
+Wiki where our mission is to provide
+actionable summaries of virtually all
+Board of Appeal decisions that concern
+European software patents. Currently
+we're adding a new entry every Tuesday
+and Thursday, so check it out, I hope it's
+helpful. Okay, that's all for my side.
+Thank you, Spasiba!

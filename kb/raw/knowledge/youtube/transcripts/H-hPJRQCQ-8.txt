@@ -1,0 +1,1333 @@
+Hello everyone.
+My name is Rich Fernandez and I
+will be conducting today's DOCX
+training session with me.
+I have members of the E Mod team
+that's going to assist in
+answering your questions.
+So in today's agenda, what I'll
+do is I'll conduct a
+presentation and detail DOCX
+followed by a brief demo and
+lastly your Q&A session.
+So with that said, I'll go ahead
+and start today's presentation
+and feel free throughout the
+chat or throughout the
+presentation to send your
+questions and address them to
+all panelists, so that way we
+can get to your questions at the
+end of this presentation.
+What is Docx?
+So DOCX is a word processing
+file format based on XML, and
+it's supported by many popular
+word processing applications
+such as Microsoft Word 2007 or
+higher, Google Docs, Office
+Online, LibreOffice, and Pages
+for Mac.
+Why use DOCX?
+DOCX has several benefits.
+First, it has secure formatting
+where metadata is automatically
+detected and removed from your
+document.
+Examples of metadata that we
+automatically removed is author,
+company, last modified by
+comments as well as bookmarks.
+It also increases application
+quality where we generate a
+feedback document in real time
+where the system will pinpoint
+exactly where in your document
+there are warnings or errors.
+This feedback document is only
+available pre submission and you
+can also download it as well
+with docx.
+It eliminates the non embedded
+font error which is the most
+common error that you'll receive
+when filing or uploading APDF.
+Other benefits include it saves
+time where we automatically can
+split your sections.
+If you upload a single file that
+contains your specification,
+claims, abstract as well as
+drawings.
+The only requirements that you
+need to use a valid section
+header so that our system will
+be able to detect and split the
+sections accurately.
+Because you're using a valid
+section header, we also are able
+to assign the document
+descriptions for you.
+It also eliminates the ability
+for you to not have to convert
+the DOCX to PDF.
+We'll go ahead and create that
+PDF for you.
+And lastly with our real time
+content based validations,
+unlike PDF filings, it will
+hopefully result in fewer non
+compliant notices and I'll go
+over some of the validations
+later on.
+In the brief demo that I'll show
+after this slide deck, the non
+DOCX surcharge starting January
+17, 2024, a surcharge of up to
+$400.00 will apply when filing a
+new non provision utility
+application in PDF format.
+This applies to the
+specification, claims and
+abstract when filed in PDF.
+Please visit the summary of
+final patent fee rules For more
+information.
+Drawings are accepted in DOCX
+format, however they can still
+be submitted in the PDF format
+as the surcharge does not apply
+to drawings.
+The surcharge also doesn't apply
+to the following application
+types, Provisional, National
+Stage Design Plant as well as
+PCT applications.
+It only applies for new non
+provisional utility
+applications.
+The auxiliary PDF applicants
+have the option to submit APDF
+document along with their
+application when they upload a
+docx and patent center and I'll
+go briefly over how to upload
+the auxiliary PDF when I show
+the demo.
+This only is applies to utility
+non provisional applications and
+this feature will is available
+until further notice.
+This initiative will allow more
+time for applicants to acclimate
+to DOCX filings and for the
+USPTO to receive any feedback on
+conversion issues.
+Applicants can still rely on the
+DOCX version as a source of
+evidentiary copy, however they
+may also rely on the auxiliary
+PDF to support a request to
+correct any discrepancies or
+errors.
+Applicants should still contact
+the Patent Electronic Business
+Center to support a request to
+if they have any issues.
+I'm sorry, in the with their
+DOCX filings, whether it be a
+conversion issue or warnings
+errors that they don't realize
+that they're or they're not
+familiar with, they can contact
+the Patent Electronic Business
+Center.
+For troubleshooting purposes, we
+ask you to refer to the Fr
+notice published on April 28th,
+2022, December 20, 2022 as well
+as June 6, 2023 for further
+guidance filing DOCX in Patent
+Center.
+In Patent Center you can file
+docx to non provisional utility,
+provisional national stage and
+also you can file a docx in your
+amendments as well as your
+responses.
+So that's a functionality that
+exists right now in Patent
+Center.
+As I mentioned earlier, you can
+file a multi section document.
+So a multi section document is a
+single file that includes your
+specification, claims, abstract
+as well as drawings in a single
+file.
+Based on your valid section
+headers such as claims in one
+line by itself or abstract a
+line by itself, as well as the
+various subsections of the
+specifications such as
+background, invention, detail,
+description of drawings and so
+on, the system will
+automatically assign the
+document codes.
+Newer technology will also allow
+for enhancements such as the
+ability to file docx and design
+as well as plan applications in
+docx.
+You also have the ability,
+similar to PDFs, to drag and
+drop your docx files within the
+Patent Center system.
+Here is a screenshot of the
+authentication screen within
+Patent Center on the left hand
+side.
+This is a screenshot of what you
+would see if you're a registered
+user.
+So as a registered user, what
+you'll need to do is enter your
+e-mail address followed by your
+password and then what you'll
+need to do after that as a
+registered user is to enter your
+security method of your your
+authentication code and that may
+be received via e-mail, phone
+number, text message or through
+a mobile authenticator app.
+As a guest user on the right
+hand side, that's a warning
+message.
+If you aren't logged in as a
+registered user and a warning
+will appear that says that you
+don't have full access compared
+to a registered user, such as
+you can't save your submission,
+you can't view the status of
+your pending application, and
+you can't file a follow on to an
+existing application.
+So those are some of the
+examples of what you cannot do
+as a guest user.
+As a guest user, you're able to
+file an initial application.
+Here's a screenshot of the
+Patent Center dashboard.
+So what's highlighted on this
+screen is the middle MY
+Workbench, where you're able to
+view your safe submissions as
+well as your documents.
+And on to the right is the
+Manage Activity card, where
+you're able to manage your
+customer number details, update
+your correspondence address.
+And what I'll show you later on
+in my demo is Training mode.
+And that's highlighted at the
+bottom here, where Training mode
+is a simulated environment where
+you can test out our various
+validations.
+You can upload your docx and see
+what types of warnings that you
+may receive.
+You can also upload your PDFs as
+well if you'd like to.
+And this is a simulated
+environment where data is not
+stored into the USPTO systems,
+it's just there.
+It's there for you to get
+familiar with our screens as
+well as again our content based
+docx validations.
+So this dashboard, this is only
+available to register users as a
+guest user.
+You don't have that ability to
+view Workbench or manage your
+custom numbers and so on.
+So it's recommended that you
+become a registered user to take
+advantage of some of these
+features of a registered user in
+order to recognize that you're
+in training mode.
+You'll notice that there's a
+banner that's surrounding the
+page, so that's a great
+indicator that you are in
+practice mode or Training mode
+and nothing that's entered or
+submitted will be stored into
+USPTO systems or databases.
+In order to remove yourself from
+training mode, you can click on
+the top right hand corner to
+exit training mode.
+The first thing that you'll see
+when accessing patent center in
+an application is the
+Application data sheet.
+So you have three options here
+to complete the ADS.
+The first option is the web ADS
+where we generate the form for
+you based on the entries that
+you make on the web screens.
+The second option is uploading A
+fillable ADS form.
+And the third option is if you
+don't have an ADS or you want to
+upload a custom ADS form, you're
+free to do that and continue on
+with the submission.
+I have to add that the first two
+options, the web ADS and
+uploading A fillable ADS form is
+what we recommend and that's
+because data that's
+automatically entered on the
+fillable form or on the web ADS
+will be automatically loaded
+into USPTO systems.
+Compared to if you do the third
+option and upload your own
+custom ADS, that data has to be
+manually entered by someone here
+and could follow to
+typographical errors and
+corrections that need to
+corrections would have to be
+made.
+So it's much faster for the two
+options, the web EDS and the
+Fillable application data sheet
+form.
+This next screen shows you that
+you have the ability to drag and
+drop the doc X into Patent
+Center system.
+And this example the ADS was
+completed and also another PDF
+form.
+So you're able to drag and drop
+not just your PDFs but docx into
+patent center and you can drag
+and drop those files at the same
+time.
+Warnings and errors within docx.
+So with errors just like PDFs,
+when you upload them into Patent
+Center you have to make
+corrections to that error before
+you can proceed with your
+submission.
+You cannot submit if there is an
+error that's been identified.
+So in order to make this
+correction if you receive an
+error, you'd have to go back to
+the source document first you
+I'm sorry.
+First you would have to remove
+the document that resulted in
+that error, make that correction
+offline and then re upload it.
+At the bottom of this error
+example line, you can see that
+there is a warning here.
+So with warnings you are still
+able to proceed with your
+submission.
+It won't prevent you from not
+filing on this screen, it's
+highlighting the feedback
+document.
+So this feedback document is
+where you can see where the
+system has identified any
+warnings or errors.
+And this feedback document won't
+be available for you after
+submission, so it's only
+available pre submission.
+You do have the ability to, when
+you click on it, save it,
+download it if you'd like, and
+again it allows you to see where
+the warnings exist in your
+document.
+Here's an example where the word
+count is over 150 words, so it
+kind of tallies up all the
+warnings here in this section.
+To the right of it is.
+If you click on the three dots
+here right after preview, go to
+the right of preview.
+You have some options here.
+You can edit your document
+description.
+You can remove the file, say in
+the case if you have an error,
+you can remove it.
+You can also download the docx
+files and PDF files.
+So here is the validated doc X.
+So this is free from any of the
+warning messages.
+So in the feedback document, I
+think it's on the slide that's
+going to follow.
+Afterwards it'll mark up your
+document where the warnings are
+located and have it'll have
+comments from the USPTO saying
+that you have a warning here.
+Now this validated DOCX here.
+It's clean of it's free from all
+those comments from the feedback
+document and this is what you'll
+see.
+Also, after you submit your
+Patent application in Patent
+Center you also have the ability
+to download and view the
+generated PDF file from the
+docx.
+We generate the validated docx
+and we convert that to APDF for
+you and this is again available
+pre submission.
+This section here is what's
+called the section indicator.
+So because you are using a valid
+section header, the system is
+able to identify that.
+In this example, the
+specification, claims and
+abstract sections are in this
+multi section document.
+Because you've upload a multi
+section doc X, it's given the
+document description for this
+multi section doc X.
+It's called Application Body
+Structure Text document and
+that's a DAC, DAC code of app
+dot text.
+So that's automatically assigned
+and once it's this has been
+submitted, you're going to be
+able to see those split files in
+the retrieval component within
+patent center.
+So here's an example of the
+feedback document.
+What's highlighted here on the
+right is what we call the
+feedback summary.
+This is going to tally up all
+the warnings and errors that you
+may receive and this example.
+What's circle here is an
+estimation of our independent
+and dependent claim counts.
+So because we estimate it, we
+don't automatically populate the
+claims in the calculate fee
+screen.
+Again, this is just used as a
+guide and this feedback document
+I can remind you, is not
+available after submission.
+It's only available pre
+submission so it gives how many
+instances of specific errors and
+warnings that we've detected.
+And here at the bottom right is
+what we call the site location
+of the warnings.
+It's going to point to where 1 A
+warning It's going to point to
+this warning here.
+So this is just an example and
+it's pointing to this claim
+number 004.
+If you notice it should be 4
+numerals long, where in this
+case it's only three and that's
+why it's plenty to this specific
+warning.
+Within your specification
+section in the claims section,
+it's identifying an independent
+claim.
+It also will validate based on
+what you've entered here in your
+claims.
+Some examples of claim
+validations include the claim
+number appears to be missing or
+out of order.
+So as you can see here there's
+two number threes.
+So that's a probably a
+typographical error and it
+should be #4.
+But the system will identify
+that there is a problem with
+this claims.
+It's a warning so you're still
+able to proceed with submission,
+but the purpose of showing you
+this up front is that if this
+was a mistake, you can make that
+correction by updating your
+source document and then re
+uploading the document.
+So therefore you won't receive
+this warning in your claim
+section.
+Here's an example of the
+abstract feedback section.
+So in this case you're receiving
+that the word count of the
+abstract is over 150 words, the
+auxiliary PDF.
+So the auxiliary PDF option will
+be enabled once you upload a
+docx.
+So in this example the multi
+section docx was uploaded was
+given the document description,
+new application and text format.
+When this happens, when a docx
+is uploaded for a utility non
+provisional application, only
+this section here will open up.
+And this is for you to upload
+the auxiliary PDF.
+So you're not to upload the
+auxiliary PDF in the above
+section here it should be at the
+bottom of where you regularly
+upload your PDF files and docx
+files.
+In fact, in this section here
+for the auxiliary PDF, you're
+only able to upload a single PDF
+file, nothing more.
+And again, this is optional.
+It's not a requirement that you
+do this.
+You're able to also make
+corrections if you accidentally
+uploaded the wrong file because
+you can download it here.
+It's the screenshot it's showing
+you.
+If you download the file and
+notice that you've uploaded the
+incorrect file, you could remove
+it by clicking on this red X and
+that will remove the auxiliary
+PDF from your submission.
+So For more information
+regarding the auxiliary PDF, we
+do have a guide.
+A quick reference guide
+available on our docx
+information page I will show you
+that before my demo retrieval in
+patent center.
+So one does have the ability to
+view the status of your pending
+application.
+So this is similar to what
+you're able to form within
+private pair.
+So on the first page of patent
+center when you sign in as a
+registered user, you're able to
+one select the application type
+that you want to submit or you
+can search on the same page for
+your pending application.
+So on this home screen within
+patent center you could type in
+your application number.
+It has to be one of the common
+acceptable formats here listed
+on this page.
+And you'll be able to then
+retrieve your patent application
+and review its contents.
+At the bottom here is showing
+you that it also has the ability
+for you to view published
+applications and that was the
+equivalent to what you had in
+public pair.
+So if you are not signed in you
+and you are a guest, you're able
+to view published applications.
+You also have the ability as a
+registered filer or user to view
+published applications.
+So on this top screen here you
+could enter your registered
+user.
+You could then type in your
+application number that's
+published and you'll be able to
+retrieve it.
+Well actually both the examples
+here shows that I am a
+registered user.
+But yes, you are able to view
+both features of private
+information, the application
+that you file, as well as
+publish applications if you're
+registered user and center
+intuitive application viewer.
+Once I've entered an application
+number, it's grayed here, grayed
+out here, but you'll be able to
+see your bibliographic
+information such as the
+correspondence, address,
+inventors, applicants, and so
+on.
+What's highlighted here is the
+Documents and Transactions tab.
+So clicking on that will allow
+you to view all the documents
+associated with your
+application.
+So in this example what's
+highlighted here it's a
+Specification, Claims, Abstract
+and Drawings.
+So this was all included in the
+multi section docx and the
+system split it so that way you
+can view it in the following
+file format so you can view it
+in docx.
+At each of those files you can
+view them in docx, PDF as well
+as XML.
+You can toggle and select
+multiple files to download and
+choose the file type.
+Let's see also on this screen
+you're able to see the app.txt.
+So that's the multi section docx
+that you uploaded.
+So  this is the validated one
+and you can see you're only able
+to see it in docx format.
+Here is the auxiliary PDF.
+So this is the PDF that you've
+uploaded to the system in that
+auxiliary PDF section.
+Here's a side by side comparison
+of what the USPTO generated from
+the DOCX compared to the
+auxiliary PDF that the user
+uploaded on its own.
+So you'll notice from a side by
+side comparison they should be
+identical.
+Now.
+If you notice any discrepancies,
+we ask you to contact the Patent
+Electronic Business Center so
+that way we can look into this
+further.
+OK, so right now I will show you
+a demo of Patent Center and I
+believe have the home page here
+already popped up and in order
+to gain access to Pen Center
+there are a number of ways you
+can access it such as patents.
+And then selecting Patent
+Center.
+I like to go to find it fast and
+in order to go directly into the
+system you can click on this
+link here that that has a
+keyboard icon.
+Now this third option here for
+Patent Center is where you can
+click on it right now is our
+patent Center information page
+and has various user guides and
+resources.
+It also has a What's new and
+known issues and work around.
+A link to the DOCX information
+page can also be found here and
+or you can just type in
+usptp.gov/patent/docx to go
+directly through our page.
+At the top of our DOCX
+information page you'll see any
+important notices or information
+that we have that you want you
+to to review.
+It also explains DOCX and its
+benefits.
+Also has various guides such as
+the DOCX user guides.
+It has the section header.
+So these are section headers
+that the system identifies and
+is able to split your docx
+accurately.
+So if you have a drawings
+section for example, that needs
+to have a section header.
+So your specification needs to
+have subsections such as
+detailed description of
+drawings.
+The claim section needs to have
+a claims header.
+The abstract needs to have one,
+and if you have drawings that
+you want to upload in docx,
+again it's not part of the
+surcharge the drawings that is.
+But if you want to include it in
+your docx, you need to have a
+valid section header there.
+These are our valid supported
+fonts that you may use.
+So if you notice that there are
+fonts that your office or that
+you use regularly and it's not
+in this list, let us know by
+contacting the EBC and we can
+see if that's a support or font
+that we could support it.
+We also have various warnings
+and errors.
+So these are the warnings and
+errors that you might encounter
+in in DOCX filings.
+We also have the auxiliary PDF
+Quick Reference Guide.
+This is what I had described to
+you earlier.
+And lastly is our DOCX  Best
+practices where you can see our
+common issues that customers may
+encounter.
+Also on this page is our
+templates so this is not
+required but can be used as a
+guide.
+So in our templates this
+template A has a comprehensive
+specification list where it has
+all the subsections of the
+specification and then template
+B is a more simplified template
+that only has a few of the
+specification subsections.
+We also have FAQS here listed on
+this page.
+OK, with that let me go to our
+training session or our training
+mode within pan centre.
+And in order to go to training
+mode, at the bottom of the
+Patent Center landing page you
+can see a section or Patent
+Center training mode.
+So you click on this enter
+training mode button.
+You'll get a warning that this
+is simulated environment and
+nothing that's entered will be
+saved into the USPTO databases.
+So I'll notice that I'm in
+training mode because of this
+banner that's surrounding the
+page.
+And what I'll do in this case is
+I'll go to the activity card for
+new submission and select
+Utility non Provisional.
+So the first screen is the
+Application data sheet where
+I'll be able to enter the web
+ADS or I can upload a fillable
+AI14.
+For the purposes of time, I'll
+go ahead and select the third
+option and enter the minimal
+graphic information.
+Now if I don't complete all the
+required information here, I
+will receive an error.
+So there are some validations
+here present.
+So if I hit continue for
+example, it'll say fix the
+errors.
+So I'll go ahead and complete
+this.
+I'll just go ahead and enter
+some dummy text here and state
+and then I should be able to
+continue.
+So This is where I'm able to
+drag and drop my files.
+So I've already prepared the
+files here, so let me drag it
+over here and here.
+I'm going to use in this example
+a template that I've just
+downloaded from our docx
+information page.
+I believe I entered some dummy
+texts in there.
+So what happens when I've
+uploaded it?
+I'll see that the auxiliary PDF
+option window pops up, so that
+wasn't available before.
+I'll go ahead and remove it
+again so that we in case you
+miss it.
+Or you can actually go back and
+read video and see it, but I'll
+browse for my files or folder
+and I'll go ahead and not drag
+and drop but just double Click
+to.
+I can either drag and drop or
+browse for it.
+In that case I just browse for
+it and you'll see that this pops
+up here where I'm able to drag
+and drop my auxiliary PDF here.
+So this is APDF that I created
+on my own.
+I use I can use like a scanner
+or APDF writer to convert on my
+own the doc X to PDF.
+Let's see.
+So let me go over a few things
+here.
+This is the feedback document
+option where I'm able to click
+on it and view the feedback
+document.
+Again, this is only available
+pre submission to the right of
+Here I'm able to preview it or
+click on the three dots.
+I have the ability to edit,
+remove and I can download the
+validated docx so this is free
+of any comments.
+And here is also the PDF that
+the system has generated.
+So both of these files you will
+be able to retrieve after
+submitting in the retrieval
+component of Patent Center.
+So in this example it's showing
+me that my abstract count wasn't
+compliant and again this is a
+warning and figures are not
+detected in the drawing section.
+So I had a drawing section
+header there but no image or or
+figure located beneath that
+drawing section.
+So those are just some of the
+examples that you may receive
+when you upload a docx.
+As compared to PDFPDF.
+We don't do content based
+validation, so this is again a
+benefit of uploading A docx
+where we're able to do the
+various content based
+validations to help speed up the
+the filing process.
+Here is where we've detected the
+various sections.
+So because I have valid section
+headers, the system was able to
+detect that there was a
+specification, claims, abstract
+and drawings.
+Again, there was a warning that
+figures were not detected in the
+drawings.
+Let me see.
+I'll just go quickly to the PDF
+so that way you can see what
+happened.
+So this is the PDF version I
+have the these are all dummy
+texts and there's my claim
+section.
+I have the abstract here and the
+drawing.
+And you'll notice that there's
+no images from the drawing
+section, just text.
+Let's see.
+I'll go ahead and browse.
+I can also drag and drop my
+Auxiliary PDF here and there.
+I could then remove the file or
+download it if I wish pre
+submission.
+So this screen again, the
+section indicators, We ask you
+to make sure you use valid
+section headers so that way our
+system will be able to detect
+and split accurately the
+different sections and the
+Auxiliary  PDF  this is the
+proper section where you're
+supposed to upload your
+auxiliary PDF and only in this
+section and only one file is
+able are you able to upload in
+this section.
+For the auxiliary PDF, let me
+hit continue.
+This is the calculate face fee
+screen where I'm able to enter
+data on the screen that's not
+populated.
+You have to enter it yourself
+and let's see.
+I'll hit continue and then in
+this case, I'll go ahead and
+select the filing, search and
+examination fees, but hit
+continue.
+Again, a reminder, nothing that
+is entered into the screen, into
+the various screens and training
+will be saved.
+So here's my review and submit
+screen.
+So on the review and submit
+screen, I'm able to review
+everything that I've entered on
+the Bibliographic information
+section and also I'm able to
+review everything that I've
+uploaded.
+So in this example, I've
+uploaded a multi section docx,
+It's given the document
+description, application body,
+structure, text, Document will
+show me the warnings and it'll
+also show me the detected
+section, headers, headings.
+Let's see.
+So the auxiliary PDF is also the
+file that I uploaded.
+In this example I'm able to
+preview if I wish.
+And lastly, it's showing me the
+payment details.
+What I'll have to do now is
+enter my information, followed
+by my e-mail address and then
+I'll hit submit and what I'll
+receive.
+Again, not a real one because
+it's training mode, but this is
+an example of one what you would
+receive if you were submitting a
+real application.
+And this is your electronic
+acknowledgement receipt.
+So the topic gives you the
+application number.
+It's echoed back here on the
+actual acknowledge receipt.
+Patent center ID is also here as
+well and the time stamp when
+this was submitted.
+So it gives me the invention
+title, the bibliographic
+information and the documents
+that were uploaded in this
+example show me the docx as well
+as the auxiliary PDF and
+followed by the message digest,
+which are sort of like the
+electronic fingerprints of each
+document.
+So it has its own algorithm to
+detect or to calculate the hash
+for each of the documents that
+were uploaded and validated.
+Let's see.
+So let me go back to our
+training session slide deck.
+So for additional resources, we
+ask you to go to our patent
+center information page and also
+there's information how to
+become a registered filer, the
+DOCX information page.
+That's the page where I showed
+you where you can look at our
+docx user guide, the valid
+section headers as well as our
+valid fonts that you can use in
+a docx.
+We also have information about
+the E-Office Action Program.
+For updates, we ask you to
+subscribe for the Patent alerts
+and also what you can do is if
+you have any suggestions that
+you'd like to give us, feel free
+to use Idea Scale, which is a
+platform where you could enter
+your ideas.
+As a team, we review your ideas,
+especially the ones that get
+voted up or have comments.
+And we meet regularly as a team
+to review them and we look at
+them and see if we can
+incorporate them into our
+backlog to implement into Patent
+Center.
+Let's see.
+And I think that concludes that
+portion right now.
+Go ahead and jump to the Q&A
+session.
+OK, the first question, what
+documents and submission types
+are affected by the non DOCX
+surcharge?
+The surcharge pertains to new
+utility non provisional
+applications filed under 35 USC
+111 A for specifications, claims
+and abstracts that are not filed
+in DOCX.
+This includes continuations,
+divisional and continuation, and
+part applications.
+Drawings are accepted in DOCX
+format but can still be
+submitted in PDF without
+incurring A surcharge.
+Other documents and submission
+types may still be filed using
+PDF documents.
+We ask you to please visit the
+DOCX information page For more
+information.
+Next question, can I include
+figures and drawings in my docx
+document?
+Can equations or chemical
+diagrams be inserted as images
+in my docx?
+Will they be loaded correctly?
+Yes, you can insert or embed
+images in your docx document.
+You can also insert equations
+and chemical diagrams as images
+into your docx.
+Some file types, like chem draw
+math equations can be directly
+inserted into the page.
+Docx services fully supports
+equations editing software such
+as Math ML and chemical
+structure editing software such
+as Chemdraw.
+The USPTO conducted extensive
+DOCX testing with files that
+contain chemical structures and
+mathematical formula and
+determined that Patent Center is
+able to store and process DOCX
+files with high fidelity.
+Further, after through extensive
+DOCX testing with files that
+contain chemical structures and
+mathematical formula, we
+determined that they are
+rendered correctly when they use
+an approved font.
+Please see our supported font
+list and DOCX resource
+information page For more
+information.
+Next question, is DOCX
+mandatory?
+DOCX is not mandatory, All files
+will continue to be accepted in
+the PDF.
+However, since January 17th,
+2024, the non DOCX surcharge is
+due if your specification claims
+the abstract filed in a new
+utility non provisional
+application under 111A and are
+filed in a format other than
+DOCX.
+Please note utility non
+provision applications under 111
+A also includes continuations,
+divisional and continuation of
+part applications.
+Next question if I file a new
+utility non provisional
+application in a foreign
+language does it have to be in
+docx format to avoid the non
+docx surcharge?
+The non docx surcharge applies
+to the specification, claims and
+abstract filed in a new utility
+non provisional application
+filed under 35 USC 111 A if you
+need to file a US application in
+a foreign language to secure a
+filing date.
+That it is the foreign language
+application.
+For example, the specification
+claims abstract in any drawings,
+that is the original disclosure
+of the application.
+If the specification claims and
+our abstract are not filed in
+DOCX format, then the surcharge
+will be due if the application
+is the utility filed on or after
+January 17th, 2024.
+Please keep in mind that filing
+an application in a foreign
+language is intended for
+emergency situations only.
+See MPEP6O8.01, subsection 5.
+For more information, do you
+have a docx template or filing a
+patent application?
+Docx templates are available on
+the docx information page.
+Also, a list of acceptable
+headers and a list of warnings
+and errors are available in the
+DOCX resources section of the
+DOCX information page, and
+again, the URL for that is
+www.uspto.gov/patent/docx.
+Next question, what is the
+purpose of the auxiliary PDF?
+The Auxiliary PDF initiative
+provides applicants additional
+time to gain confidence in the
+reliability and accuracy of the
+USPTO system when filing in DOCX
+format.
+Refer to the Federal registered
+Notice published on April 28th,
+2022 for further guidance, which
+is also listed on our DOCX
+information page.
+Next question, how do I file the
+auxiliary PDF document?
+First, you have to upload the
+DOCX document in the Uploads
+document section.
+Once the DOCX document is
+uploaded, a new section where
+the auxiliary PDF can be
+uploaded will become available.
+The auxiliary PDF may be
+uploaded by either using the
+select file or by dragging and
+dropping the document into the
+screen.
+The auxiliary PDF will
+automatically be assigned the
+auxiliary PDF document code.
+Remember, only one auxiliary PDF
+document can be uploaded per
+submission, and the auxiliary
+PDF can only be uploaded if a
+DOCX document is uploaded in the
+submission.
+Please see the Auxiliary PDF
+Quick Reference Guide on our
+DOCX information page For more
+information.
+Yeah, so you if you upload to
+the regular section and you want
+to name it auxiliary PDF, you
+cannot do the.
+You cannot do so.
+You can assign a document code
+or a document auxiliary PDF that
+can only automatically be
+assigned by our system and
+that's why there is a specific
+section for that for you to
+upload the auxiliary PDF.
+How does a system handle any
+metadata on documents?
+Metadata is generally removed by
+applicants prior to submission.
+However, if metadata is found
+during the validation process,
+it is automatically removed
+prior to submission.
+Examples of metadata that is
+removed include author, company,
+and last modified by.
+The only information that is
+preserved is the size, page
+count, and word count.
+Next question, is filing in DOCX
+secure?
+The submission of a DOCX file
+generates a unique cache based
+on the content within the file.
+For security, the system rejects
+DOCX with macros.
+That's a DOCM and implements
+virus detection software to
+prevent malware.
+The DOCX format is an
+international standard defined
+under ECMA 376 in in ISO IEC
+29500 and approved by the
+Library of Congress when filing
+a non provisional application.
+If I use DOCX in Microsoft Word,
+can I upload an ADS and PDF?
+Yes, you may upload your ADS and
+PDF.
+You may also upload other forms
+and documents and PDF along with
+your DOCX documents.
+For example, you may upload your
+specification claims abstract in
+DOCX format and then upload your
+ADS, IDS and MPL in PDF.
+Also other various forms such as
+your author, deck, and PDF.
+That's fine too.
+When filing a DOCX application
+in patent center, is there a
+special format that it needs to
+be or does it automatically
+split the specification claims
+abstract?
+The sections are identified
+based on the use of approved
+section headers.
+The list of approved headers is
+available in our DOCX
+information page.
+We also have templates that may
+be used as a guide on our DOCX
+information page as well.
+OK.
+I think that's the end of the
+question and answer session.
+So we want to thank you for
+attending today's DOCX training.
+On behalf of our team, please
+send us your any questions to
+the patent electronic business
+center especially for
+troubleshooting questions and
+have a great day.
+Few more questions have come in
+me.
+Go ahead and address them.
+So if I want to file a
+preliminary amendment on the
+same day as my initial filing of
+a new utility application under
+35 USC 111 A, does a preliminary
+amendment need to be in docx
+format to avoid the non docx
+surcharge.
+So in accordance with 37 CFR
+1.115 A, a preliminary amendment
+that is present on the following
+date of an application is part
+of the original disclosure of
+the application.
+Thus, if a preliminary amendment
+is filed on the same day as the
+application, the amendment must
+be in DOCX format to avoid the
+surcharge.
+A preliminary amendment filed
+after the filing date of the
+application will not incur the
+surcharge because it's not part
+of the original disclosure of
+the application and thus is not
+required to be in DOCX format.
+Next question, how can I file a
+preliminary amendment in DOCX
+for a new utility application
+under 35 USC 111 A on the same
+day as my initial DOCX filing to
+avoid the non DOCX surcharge?
+A preliminary amendment to the
+specification, claims or
+abstract cannot be filed in docx
+format as part of the initial
+submission of a new application.
+If you want to submit a
+preliminary amendment that is
+considered part of the original
+disclosure of the application
+under 37 CFR 1.115 A and avoid
+the non docx surcharge, you
+should file the preliminary
+amendment in docx format on the
+same day as a follow on
+submission in the application.
+Let me check and I think that is
+it for your questions.
+So on behalf of the Emod team,
+thanks and have a great day.

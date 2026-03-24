@@ -1,0 +1,306 @@
+{
+  "video_id": "cKCoA7KmyRw",
+  "total": 30,
+  "comments": [
+    {
+      "author": "@1stPrinciples455",
+      "author_id": "UCqlVJ26T87FsKYCy8Vy2hXQ",
+      "author_url": "https://www.youtube.com/@1stPrinciples455",
+      "text": "I like to share a common problem faced by newbies drafting the descriptions.\nIt is about the Interpretation of a rule related to patent drawings :\n37 C.F.R. 1.84 :\n(4) The same part of an invention appearing in more than one view of the drawing must always be designated by the same reference character, and the same reference character must never be used to designate different parts.\n\nQuestion :\n1. Is the View and Drawing mentioned referring to one angle of looking at one particular embodiment drawing or does it mean any and every view for all drawings , views of all embodiments within the detailed description?\n\n1. Some have interpreted the rule to mean that exactly the same part of a particular embodiment must be referenced using exactly the same reference number within the description for that particular embodiment. So, different numbers can be used to reference the same part with some differences in form in different embodiments. For example, one number range per embodiment. And I can find such granted patents.\n\n2. Others , which appears to be the majority, interpreted it to mean the same part must be referred to using exactly the same reference number and by View it means views across all embodiments. There are also such granted patents .\n\nWhere the rule is creating confusion:\n1. It uses the word drawing. What is drawing ? One drawing ? If one drawing, it can mean just one embodiment. Or does it mean every drawing?\nIf the word DrawingS is used, it could mean views of all embodiments.\n\n2. What is meant by a View? A view of one embodiment or views across all embodiments?\n\n3. I see the problem originates from the fact that English allows for different interpretations no matter how clearly it is written. And the Best Practices supersede possible alternative literally valid interpretations. So it depends ultimately on the judge and then the federal judge. \n\nWhy is there no clarity?",
+      "likes": 11,
+      "timestamp": 1615507200,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@iannagle",
+      "author_id": "UCXma21kzPMZ0iNjEhoFWX5A",
+      "author_url": "https://www.youtube.com/@iannagle",
+      "text": "Excellent and straightforward explanation of the basics of a patent application drawing - thanks a lot for taking the time",
+      "likes": 4,
+      "timestamp": 1678579200,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@1stPrinciples455",
+      "author_id": "UCqlVJ26T87FsKYCy8Vy2hXQ",
+      "author_url": "https://www.youtube.com/@1stPrinciples455",
+      "text": "Can we draw a hidden side using dashed lines so that we can indicate a hidden side using one view instead of drawing an additional figure?",
+      "likes": 4,
+      "timestamp": 1615507200,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@maximpulse",
+      "author_id": "UCRWah1jxlbDs9dMXyb3MaFQ",
+      "author_url": "https://www.youtube.com/@maximpulse",
+      "text": "Thanks for quick run through. I've been doing my own patent drawings fir years and there always seems to be more to learn.",
+      "likes": 3,
+      "timestamp": 1615507200,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@JohnMarkIsaacMadison",
+      "author_id": "UCbexYjaUFXnrFiCzavHI1Jw",
+      "author_url": "https://www.youtube.com/@JohnMarkIsaacMadison",
+      "text": "This was useful but I was disappointed that I did not see your 3D popcorn stand model turned into a patent drawing.\nI specifically am wondering if that solid gray is acceptable for a flat surface, as depicted in your drawing.",
+      "likes": 2,
+      "timestamp": 1615507200,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@1stPrinciples455",
+      "author_id": "UCqlVJ26T87FsKYCy8Vy2hXQ",
+      "author_url": "https://www.youtube.com/@1stPrinciples455",
+      "text": "Is there a rule covering how reference numbers need to be narrated in the detailed description? I mean, is there a rule to follow where when describing the invention, reference numbers being mentioned must be mentioned in ascending order only? For eg. Can we describe in this way :\nCar 100 comprises an engine 120 and a carriage 110.\nOr is it that we must write it this way :\nCar 100 comprises a carriage 110 and an engine 120? \nMust the numbers be mentioned in ascending order only?",
+      "likes": 2,
+      "timestamp": 1615507200,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@1stPrinciples455",
+      "author_id": "UCqlVJ26T87FsKYCy8Vy2hXQ",
+      "author_url": "https://www.youtube.com/@1stPrinciples455",
+      "text": "My product is overmolded. How should it be drawn when parts are embedded and not visible? Is there a easier way other than cross -sectioning which does not fully depict my embedded parts?",
+      "likes": 1,
+      "timestamp": 1615507200,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@DIAMCAT",
+      "author_id": "UC5RwJTsy9y2JPcQnfYAmgdQ",
+      "author_url": "https://www.youtube.com/@DIAMCAT",
+      "text": "is this the same for design patents",
+      "likes": 0,
+      "timestamp": 1765497600,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@TheAsd123aaaa",
+      "author_id": "UCXyxEpslPncdkrznxh3KX2w",
+      "author_url": "https://www.youtube.com/@TheAsd123aaaa",
+      "text": "hi buddy! thanks sooo much!",
+      "likes": 0,
+      "timestamp": 1762905600,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@patent_monetize",
+      "author_id": "UCiS4LxOdc7Lludz3twaYFHQ",
+      "author_url": "https://www.youtube.com/@patent_monetize",
+      "text": "Thanks a lot for this clear and informative video!\r\nthanks for subscribe my channel",
+      "likes": 0,
+      "timestamp": 1762905600,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@jrry660",
+      "author_id": "UCbxeDP4cAS9_Znkb_q28Rtw",
+      "author_url": "https://www.youtube.com/@jrry660",
+      "text": "do you need to have a drawing for a mobile app invention?",
+      "likes": 0,
+      "timestamp": 1757635200,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@chi4829",
+      "author_id": "UCqDzqd9DnXR8iA6PtQI5Zyg",
+      "author_url": "https://www.youtube.com/@chi4829",
+      "text": "Thanks for the simple explanation :D",
+      "likes": 0,
+      "timestamp": 1744416000,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@keithbostwick9883",
+      "author_id": "UCwBFzSbkqH0O62xQBoA8RlQ",
+      "author_url": "https://www.youtube.com/@keithbostwick9883",
+      "text": "Great video andi definitely understand how important and powerful a patent can be, however im hesitant file a patent because i have to disclose everything and how my product works. There can be alot of knock offs from other companies trying to remake my idea especially if my product is successful. I know that's just the way it has to be and thats the requirements. What do you think?",
+      "likes": 0,
+      "timestamp": 1741737600,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@jerrysanders9101",
+      "author_id": "UChASiidEzVf8Bml9mD0jLag",
+      "author_url": "https://www.youtube.com/@jerrysanders9101",
+      "text": "Great video thank you \ud83d\ude4f",
+      "likes": 0,
+      "timestamp": 1741737600,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@Skamlostmanontheplanet",
+      "author_id": "UCZaUesMnrI4uuB-7yYq_IdA",
+      "author_url": "https://www.youtube.com/@Skamlostmanontheplanet",
+      "text": "Hi is there an\nApp to make a drawing",
+      "likes": 0,
+      "timestamp": 1741737600,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@janedoe5229",
+      "author_id": "UC7VKLCpnns1Hc5f8j4H5Zkw",
+      "author_url": "https://www.youtube.com/@janedoe5229",
+      "text": "THank you. I need to submit some illustrations to a \"patent drawer\" and this helps me understand what will be needed. :)",
+      "likes": 0,
+      "timestamp": 1710201600,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@nicholasmlynn",
+      "author_id": "UCTQ_xCx0RSzmX6t20q3zFGA",
+      "author_url": "https://www.youtube.com/@nicholasmlynn",
+      "text": "Great video! Is it a requirement for all parts to use even numbers? I noticed that's the case on most of the examples shown.",
+      "likes": 0,
+      "timestamp": 1710201600,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@RaceForGoodLife",
+      "author_id": "UC31ybZDt9oZBaecf9_fPLng",
+      "author_url": "https://www.youtube.com/@RaceForGoodLife",
+      "text": "can drawings for a  PPA  be picture of the objects?",
+      "likes": 0,
+      "timestamp": 1678579200,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@softwaredata2940",
+      "author_id": "UCGtv72Gaku_vhDhWCf2ewhA",
+      "author_url": "https://www.youtube.com/@softwaredata2940",
+      "text": "Why the drawings are only showing even numbers? Is there any reason for that?",
+      "likes": 0,
+      "timestamp": 1678579200,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@mikepaul3881",
+      "author_id": "UCXTAxXql6KOshWgl3v5RBfg",
+      "author_url": "https://www.youtube.com/@mikepaul3881",
+      "text": "Does this apply to utility or design patents?",
+      "likes": 0,
+      "timestamp": 1678579200,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@madnessintomagic",
+      "author_id": "UC9xoU5mYMZMOnwPjBGZyKLQ",
+      "author_url": "https://www.youtube.com/@madnessintomagic",
+      "text": "\u2026 I have ALL the questions others asked in the comments, but there are no answers. Kind of a bummer.",
+      "likes": 0,
+      "timestamp": 1647043200,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@hideninja1546",
+      "author_id": "UCYw8ON-rfF0REDCTciJhTdA",
+      "author_url": "https://www.youtube.com/@hideninja1546",
+      "text": "I want to learned this patent because I want to make a technology someday the wireless free energy I hope you to build some more tutorial",
+      "likes": 0,
+      "timestamp": 1647043200,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@marke.8334",
+      "author_id": "UCZxYvjXrY4bXm5JVjmsEoKg",
+      "author_url": "https://www.youtube.com/@marke.8334",
+      "text": "If you all haven't seen a documentary called... It's worse than you think... Bye revelations of Jesus Christ ministries... I suggest you do... All praise and glory to the most high Jesus Christ",
+      "likes": 0,
+      "timestamp": 1647043200,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@basicprogrammer6147",
+      "author_id": "UCZZJUH8tGzpzdWbm2CiMzkQ",
+      "author_url": "https://www.youtube.com/@basicprogrammer6147",
+      "text": "I have a US utility patent.",
+      "likes": 0,
+      "timestamp": 1647043200,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@mohitjoc25",
+      "author_id": "UCl4rCdI3ZlTKryYV4akyl-g",
+      "author_url": "https://www.youtube.com/@mohitjoc25",
+      "text": "Sir make more vedios on explaining patents",
+      "likes": 0,
+      "timestamp": 1647043200,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@ashokch9340",
+      "author_id": "UCN93gv20XHtyA2paZcpFfLA",
+      "author_url": "https://www.youtube.com/@ashokch9340",
+      "text": "I am master In the patent drawings is having any jobs here. I am staying in the Uk",
+      "likes": 0,
+      "timestamp": 1615507200,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@pastorfran777",
+      "author_id": "UC8W6cxR_hk5UVqUWl_qBKmg",
+      "author_url": "https://www.youtube.com/@pastorfran777",
+      "text": "Very explicitly presented...THANK u...blessings to u and urs",
+      "likes": 0,
+      "timestamp": 1615507200,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@mechanicengineer3296",
+      "author_id": "UC6bLbJEcT63Qy4UtBlCEi5Q",
+      "author_url": "https://www.youtube.com/@mechanicengineer3296",
+      "text": "How do we mention dimension of drawing apart from drawing sheets please reply sir",
+      "likes": 0,
+      "timestamp": 1615507200,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@1stPrinciples455",
+      "author_id": "UCqlVJ26T87FsKYCy8Vy2hXQ",
+      "author_url": "https://www.youtube.com/@1stPrinciples455",
+      "text": "Do we need to label what view, for example, top or first side view, each of the multiple views are if depicted under one figure sign? Can we retro include a view from different angle to existing figures without having to change all the figure numbers already narrated in the description?",
+      "likes": 0,
+      "timestamp": 1615507200,
+      "is_reply": false,
+      "reply_to": null
+    },
+    {
+      "author": "@ourladyofperpetualmotion79",
+      "author_id": "UCsv4R6XnTtD8enfzqFAvWYg",
+      "author_url": "https://www.youtube.com/@ourladyofperpetualmotion79",
+      "text": "Very helpful, Thank you for this",
+      "likes": 0,
+      "timestamp": 1615507200,
+      "is_reply": false,
+      "reply_to": null
+    }
+  ]
+}

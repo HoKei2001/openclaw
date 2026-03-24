@@ -1,0 +1,78 @@
+- So the claims are
+the most important part
+of the patent to get right.
+And if you don't know what the claims are,
+let me just give you a brief overview.
+The claims as I mentioned
+in a few lectures earlier,
+they delineate exactly
+what the patent covers.
+So you wanna make sure
+you get the section right.
+There are multiple types of claims.
+They're independent claims
+and dependent claims.
+So as you can see here independent claims
+kind of are the overall high-level claim,
+dependent claims always have to depend
+upon an independent claim.
+So they have to refer
+to an independent claim
+and they are essentially
+a more narrow version
+of the independent claim.
+There are different types of
+claims for software folks.
+These are the ones that matter.
+You have method claims,
+computer-readable claims
+and system claims.
+And a method is the
+process of doing something,
+a computer-readable medium is for example,
+can you imagine a hard
+drive or solid-state drive,
+some sort of medium that a
+computer reads essentially.
+So it could be memory.
+So it's where oftentimes code is stored
+and that is what a
+computer-readable medium is.
+You're actually claiming that medium
+with the code on it.
+A system is, as you can
+imagine an architecture
+with multiple components
+connect together in some way.
+So those are the kind of
+types that you'll be using
+for yourself to claim.
+So dependent claims again
+can be method, system,
+or CRM, computer-readable medium claims,
+but they have to depend on
+or refer to another independent claim
+or another dependent claim.
+A patent includes when you when
+you pay for the filing phase
+you're allowed to file
+three independent claims
+and 20 total claims.
+So usually that means
+three independent claims,
+17 dependent claims.
+You're going to want to use
+one independent for the method,
+one independent for the
+computer-readable medium
+also known as the CRM claim
+and one independent for a system claim.
+You can adjust it, for example,
+you could have multiple method claims
+or multiple system claims
+covering slightly different aspects
+but I would recommend
+just for simplicity sake
+for your first time to
+just have one of each
+so you cover all of your bases.

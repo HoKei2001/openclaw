@@ -1,0 +1,22 @@
+Recording, online seminar, 13 February 2025
+Programme
+Online Filing 2.0 for new users
+• How to set-up Online Filing 2.0
+• Demonstration of Forms EP 1001, 1038
+• Brief introduction of the import/export (API) functionality in Online Filing 2.0
+• Information on importing data from eOLF to Online Filing 2.0
+How to set up the Mailbox and start receiving EPO communications electronically
+• Introduction - why should you start to use the Mailbox?
+• How to set up the Mailbox
+• How to sign in to MyEPO Portfolio Mailbox
+• Manual download
+Useful links
+More information on Online Filing 2.0
+• Overview: https://www.epo.org/en/applying/myepo-services/file-with-us
+• FAQ: https://www.epo.org/en/service-support/faq/myepo-services/online-filing-20
+• User guide: https://link.epo.org/web/online_filing_2.0_user_guide_en-1.pdf
+More information on Mailbox
+• Overview : https://www.epo.org/en/applying/myepo-services/interact
+• FAQ : https://www.epo.org/en/service-support/faq/myepo-services/myepo-portfolio/mailbox
+• Feature guide : https://link.epo.org/web/myepo-services/interact/en-myepo-portfolio-feature-guide-handling-mailbox-communications.pdf
+MyEPO services YouTube playlist: https://www.youtube.com/playlist?list=PLgDlswd0__eIcuS986ZCO_X4MYxUH78LW

@@ -1,0 +1,128 @@
+so an important point to realize about
+novelty rejections is that when the
+examiner looks at the reference to use
+in a novelty rejection they don't look
+at the claims and this is also the case
+for obviousness rejections what they're
+looking at is the description the
+detailed description the specification
+of the patent or a published patent
+application and they're looking to that
+specification to find the technical
+language that describes something that's
+has to be the same very similar to at
+least the limitation in question of your
+claim again for a novelty rejection if
+you have a widget comprising a b and c
+then the examiner has to produce a
+reference which could be a again could
+be a patent a technical paper or a
+patent application and in that document
+The Examiner has to point to the
+sections that describe limitation a
+limitation B and limitation C
+if the examiner isn't able to do that
+adequately then the 102 rejection would
+fail and as a parent attorney I would
+argue against that or if the examiner
+points to a certain section of that
+document and says that this teaches
+limitations C of the patent claim and
+technically when I read it I disagree I
+don't agree that technically that
+section is teaching what the examiner is
+alleging it to teach then I would argue
+against that this is a typical type of
+back and forth argument that happens
+between parent applicants patent
+attorneys and the USPTO patent examiners
+now the other type of rejection is
+obviousness and that one is a little bit
+more esoteric and a little bit more
+difficult to understand with obviousness
+usually with the patent examiner will do
+is find a combination of references so
+again with the simple example of the
+widget claim having limitation a b and c
+what the examiner might do is find one
+reference that teaches limitation A and
+B The Examiner will cite reference 1 is
+teaching limitation a and limitation B
+and find the second reference reference
+two and cite that reference as teaching
+limitation C and what the obviousness
+rejection basically looks like as the
+examiner will say that a person having
+ordinary skill in the art looking at
+reference one would see limitation a
+limitation B and looking at reference
+two with C limitation C and it would be
+obvious to a person having ordinary
+skill in the art to combine reference
+one in reference two to arrive at your
+invention having limitation a limitation
+be a limitation C and there is usually a
+motivation to combine those references
+that goes along with that argument that
+the examiner makes for example The
+Examiner may make an argument of
+something like if the person having
+ordinary skill in the art combined
+reference one reference two it would
+improve reference to technology by
+adding the features and benefits of
+limit station a limitation B whatever
+they may be
+now there are different arguments that
+can be used against an obviousness
+rejection and those are again there are
+more arguments that can be made than for
+novelty and in the case of a novelty
+rejection you're either looking to see
+that the reference isn't teaching one of
+those limitations uh maybe the reference
+does actually doesn't teach any of the
+limitations if the examiner is a
+misunderstanding that reference or
+misunderstanding the claim somehow and
+then you can argue that the examiner has
+errored in making that assessment or if
+you find that the examiner is correct or
+correct in some aspect of the rejection
+the other option you have is to amend
+the claim and you amend the claim by
+either clarifying one of the limitations
+or adding another limitation
+clarification of a limitation in many
+cases can be sufficient to overcome the
+102 novelty rejection
+now for obviousness that can work also
+but there are because obviousness has
+these different aspects it's a little
+bit more difficult to overcome the
+obviousness rejection and I would say
+that probably 90 or more of the
+arguments that a patent attorney has to
+deal with from the USPTO rejecting
+patent claims are obviousness rejections
+the novelty rejections are usually easy
+to overcome by again either determining
+that the examiner has made a mistake in
+the way that they've interpreted the
+prior art that they're citing or that
+they're not interpreting the claim
+language correctly or in the worst case
+scenario if the examiner is on target
+with finding those limitations of the
+claim and the prior art then an
+amendment can usually be made to narrow
+the claim to add a limitation or to
+clarify one of the existing limitations
+to again have the claim be novel over
+that side in art with obviousness there
+are several different possibilities for
+how to argue now one of them is similar
+to the 102 and sometimes that's the most
+effective argument and I'm going to go
+into that in the next video
+foreign

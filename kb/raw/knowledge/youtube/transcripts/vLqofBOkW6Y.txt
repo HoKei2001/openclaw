@@ -1,0 +1,101 @@
+if you file for a patent on your
+invention can it pass the obviousness
+test or is it going to be rejected this
+video is going to talk all about the
+non-obviousness standard of
+patentability and how it's applied
+during the examination process so stick
+around the first thing to understand is
+that examination only occurs with
+non-provisional patent applications now
+there's two ways to start the patent
+process you can start first with the
+formal non-provisional patent
+application and that's the one that
+waits in line at the USPTO for
+examination whereas you can also start
+with a provisional patent application
+you file this provisional patent
+application of the United States patent
+and trademark office but it's only a
+placeholder it's not formally examined
+in any sort of way it only lasts for one
+year it expires the end of the year and
+then you have to file that
+non-provisional application that will
+actually be examined provisionals are
+great for startups and it's how I
+typically work with my clients to start
+the patent process but this is going to
+be relative to the examination that
+occurs on non-provisional patent
+applications you filed your
+non-provisional patent application and
+then it's just going to wait in line at
+the USPTO for one to three years before
+examination begins and that's just
+because it's the government and it's a
+long line you're just waiting for your
+application to come to the top of the
+pile to get attention from an examiner
+so when that happens The Examiner is
+going to pick up the application and is
+going to do a prior art search to
+determine whether what you have claimed
+is new and non-obvious over the prior
+art I'll talk about novelty later on but
+let's start with obviousness when it
+comes to obviousness the question is
+would it be obvious to one of ordinary
+skill in the art that being your average
+person who works in the technology field
+of your invention to come to your
+invention based on all known prior art
+that's out there now prior can really be
+any sort of Technology disclosure
+typically it's going to be cited as
+issued patent applications or
+publications of patent applications but
+it really can be anything it could be a
+blog post it could be a YouTube video a
+scientific paper an actual product or a
+product catalog any sort of Technology
+disclosures can be cited as prior art so
+before I give a specific example of how
+obviousness rejections work if you're
+getting some value in this video please
+give it a like so you can support the
+channel and help this video get out to
+more people let me give you a specific
+example of how an obviousness rejection
+would work so let's say your invention
+is claimed as having elements a b c and
+d okay so the examiner would do a prior
+art search and let's say they're not
+able to find a single piece of Prior
+that has elements a b c and d but they
+can find one piece of prior art that has
+elements A and B and it doesn't disclose
+the other elements but it only has
+elements A and B in there they keep on
+doing a priorit search then they find
+another piece of Prior the second piece
+of prior art that Helm has elements C
+and D okay so what the exam would do
+then is say well okay we're aware of
+we're aware of this first piece of Prior
+we're aware of the second piece of prior
+art it'll be obvious to combine these
+two references to come to a b c and d
+which is your invention that has
+elements a b c and d the other
+requirement of patentability is that it
+is novel or new so check out this video
+click on this and find out about novelty
+rejections as opposed to obvious
+rejections or click on this video here
+this talks about how to actually respond
+to novelty rejections or obviousness
+rejections also be sure to like the
+video so more people can see it and help
+support this channel thank you
